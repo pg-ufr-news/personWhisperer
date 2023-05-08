@@ -32,7 +32,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chez Krömer',en,Deutschland,#1818e8,#1818e8,1,0.4318
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.3754533242129692
 'Putin',en,Russland,#e81818,#e81818,3,0.3754496622565719
-'Maria Kolesnikowa',en,Belarus,#e81858,#e81858,2,0.3577874690381145
 'König Charles III',en,UK,#e838e8,#e838e8,3,0.339814490452464
 'Pope Franziskus',en,Vatikan,#58b8e8,#58b8e8,3,0.3376263775434392
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.335952659677906
@@ -42,6 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wladimir Putin',en,Russland,#e81818,#e81818,3,0.3062374098804314
 'Olaf Scholz',en,Deutschland,#1818e8,#1818e8,3,0.3060209566291014
 'Charles III',en,UK,#e838e8,#e838e8,3,0.3046119308651951
+'Maria Kolesnikowa',en,Belarus,#e81858,#e81858,1,0.3041193486823973
 'Christian Lindner',en,Deutschland,#1818e8,#1818e8,3,0.2862653424128151
 'Kevin Kühnert',en,Deutschland,#1818e8,#1818e8,3,0.2837933503516328
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,2,0.2822091025186961
@@ -258,11 +258,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Francoise Bettencourt-Meyers',en,Frankreich,#e8e808,#e8e808,1,0.0464095293347225
 'Chan Santokhi',en,Surinam,#111111,#111111,1,0.0463088452799446
 'Dimitry Peskov',en,Russland,#e81818,#e81818,1,0.0458664337320736
-'Egon Westphal',en,Deutschland,#1818e8,#1818e8,1,0.0455994483347225
-'Sergei Ignatjew',en,Russland,#e81818,#e81818,1,0.0455994483347225
-'Helge Lund',en,UK,#e838e8,#e838e8,1,0.0455994483347225
-'Choe Ryong-hae',en,NordKorea,#e85858,#e85858,1,0.0455994483347225
 'Gina Rinehart',en,Australien,#111111,#111111,1,0.0455994483347225
+'Sergei Ignatjew',en,Russland,#e81818,#e81818,1,0.0455994483347225
+'Egon Westphal',en,Deutschland,#1818e8,#1818e8,1,0.0455994483347225
+'Choe Ryong-hae',en,NordKorea,#e85858,#e85858,1,0.0455994483347225
+'Helge Lund',en,UK,#e838e8,#e838e8,1,0.0455994483347225
 'Dmitry Peskov',en,Russland,#e81818,#e81818,1,0.0454981523239863
 'Valery Gerasimov',en,Russland,#e81818,#e81818,1,0.0427318594887085
 'Michael Wirth',en,USA,#18e8e8,#18e8e8,1,0.0421394572375941
