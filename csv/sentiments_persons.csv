@@ -1,131 +1,123 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Jill Biden,Jill Biden,PERSON,0.12077185380756805,0.20876320108462965,en,78
+Jill Biden,Jill Biden,PERSON,0.12254314549175173,0.21483979290163963,en,82
 Joe Biden,Joe Biden,PERSON,0.1405103866041366,0.266120655964406,en,48
-Andrew Tate,Andrew Tate,PERSON,0.04215067340067339,0.2485269360269361,en,36
-Vladimir Putin,Vladimir Putin,PERSON,0.012160894660894669,0.19807864357864363,en,30
-Charles III,Charles III,PERSON,0.09661130536130538,0.37859355921855925,en,26
+Andrew Tate,Andrew Tate,PERSON,0.032498057498057495,0.22983682983682988,en,39
+Charles III,Charles III,PERSON,0.1783264790764791,0.34460044320758604,en,35
+Vladimir Putin,Vladimir Putin,PERSON,0.011123446446027098,0.19555997765675193,en,31
 Jeff Bezos,Jeff Bezos,PERSON,0.13389328063241107,0.3347167325428195,en,23
-King Charles III,King Charles III,PERSON,0.22703962703962705,0.23543123543123545,en,13
-Angel Reese,Angel Reese,PERSON,0.15908333333333333,0.20749999999999996,en,10
-Olaf Scholz,Olaf Scholz,PERSON,0.04099999999999999,0.26466666666666666,en,10
-Ron DeSantis,Ron DeSantis,PERSON,0.07287037037037038,0.24824074074074076,en,9
+Donald Trump,Donald Trump,PERSON,0.0956365604092877,0.39672865013774106,en,11
+Ron DeSantis,Ron DeSantis,PERSON,0.06558333333333334,0.22341666666666668,en,10
 Xi Jinping,Xi Jinping,PERSON,0.14814814814814814,0.2524691358024691,en,9
-Donald Trump,Donald Trump,PERSON,0.0615327380952381,0.35453869047619047,en,8
+Angel Reese,Angel Reese,PERSON,0.18947916666666664,0.19374999999999998,en,8
 Luiz Inacio Lula da Silva,Luiz Inacio Lula da Silva,PERSON,0.06547619047619048,0.15714285714285717,en,7
+Elon Musk,Elon Musk,PERSON,0.043650793650793655,0.2277777777777778,en,7
 Queen Camilla,Queen Camilla,PERSON,0.05054112554112554,0.42997835497835496,en,7
 Nikki Haley,Nikki Haley,PERSON,0.11766098484848486,0.4094381313131314,en,6
 Luiz Inácio Lula da Silva,Luiz Inácio Lula da Silva,PERSON,0.0,0.0,en,6
-Evan Gershkovich,Evan Gershkovich,PERSON,0.16,0.47555555555555556,en,5
+Prince Harry,Prince Harry,PERSON,0.16,0.27944444444444444,en,6
 Yevgeny Prigozhin,Yevgeny Prigozhin,PERSON,0.0,0.08,en,5
 Akshata Murty,Akshata Murty,PERSON,0.0,0.0,en,5
-Finnegan Biden,Finnegan Biden,PERSON,0.20249999999999999,0.26222222222222225,en,5
-King Charles,King Charles,PERSON,0.13333333333333333,0.37916666666666665,en,4
-Prince William,Prince William,PERSON,0.09166666666666667,0.18333333333333335,en,4
-Kai Wegner,Kai Wegner,PERSON,0.09375,0.10416666666666666,en,4
+Evan Gershkovich,Evan Gershkovich,PERSON,0.16,0.47555555555555556,en,5
 Kamala Harris,Kamala Harris,PERSON,0.23290043290043289,0.4636363636363636,en,4
-Meghan Markle,Meghan Markle,PERSON,0.1625,0.32916666666666666,en,4
+Volodymyr Zelenskiy,Volodymyr Zelenskiy,PERSON,0.1899621212121212,0.3825126262626263,en,4
+Peter Tatchell,Peter Tatchell,PERSON,0.07291666666666666,0.14583333333333331,en,4
+Olaf Scholz,Olaf Scholz,PERSON,0.03333333333333332,0.2916666666666667,en,4
+Kai Wegner,Kai Wegner,PERSON,0.09375,0.10416666666666666,en,4
+Finnegan Biden,Finnegan Biden,PERSON,0.253125,0.3277777777777778,en,4
 Kate Middleton,Kate Middleton,PERSON,0.17857142857142858,0.2857142857142857,en,4
-Charles II,Charles II,PERSON,0.2333333333333333,0.3222222222222222,en,3
-Katy Perry,Katy Perry,PERSON,0.0,0.0,en,3
-Bill Clinton,Bill Clinton,PERSON,0.0,0.0,en,3
-Prince Harry,Prince Harry,PERSON,0.23666666666666666,0.4477777777777778,en,3
-Influencer Andrew Tate,Influencer Andrew Tate,PERSON,-0.008333333333333333,0.05555555555555555,en,3
-Jair Bolsonaro,Jair Bolsonaro,PERSON,-0.03333333333333333,0.03333333333333333,en,3
+Meghan Markle,Meghan Markle,PERSON,0.1625,0.32916666666666666,en,4
 Rishi Sunak,Rishi Sunak,PERSON,0.08333333333333333,0.08333333333333333,en,3
-Tucker Carlson,Tucker Carlson,PERSON,-0.22727272727272727,0.32575757575757575,en,3
+Prince William,Prince William,PERSON,0.12222222222222223,0.4611111111111111,en,3
+Katy Perry,Katy Perry,PERSON,0.0,0.0,en,3
+Peter Thiel,Peter Thiel,PERSON,0.0013888888888888885,0.21527777777777776,en,3
+King Charles’s,King Charles’s,PERSON,0.0,0.0,en,3
+Bill Clinton,Bill Clinton,PERSON,0.0,0.0,en,3
+Geoffrey Hinton,Geoffrey Hinton,PERSON,0.0,0.0,en,3
 Mary Trump,Mary Trump,PERSON,0.05158730158730159,0.17460317460317462,en,3
 Nadya Tolokonnikova,Nadya Tolokonnikova,PERSON,0.3333333333333333,0.3333333333333333,en,3
-Peter Tatchell,Peter Tatchell,PERSON,0.06944444444444443,0.13888888888888887,en,3
-Geoffrey Hinton,Geoffrey Hinton,PERSON,0.0,0.0,en,3
-Charles III Coronated,Charles III Coronated,PERSON,0.1396780303030303,0.384375,en,2
-Hakeem Jeffries,Hakeem Jeffries,PERSON,0.075,0.225,en,2
-Volodymyr Saldo,Volodymyr Saldo,PERSON,0.13333333333333333,0.2333333333333333,en,2
+Jair Bolsonaro,Jair Bolsonaro,PERSON,-0.03333333333333333,0.03333333333333333,en,3
 Penny Mordaunt,Penny Mordaunt,PERSON,0.25,0.45,en,2
-Susan Rice,Susan Rice,PERSON,0.0,0.14166666666666666,en,2
-Lionel Richie,Lionel Richie,PERSON,0.0,0.0,en,2
-King Charles’,King Charles’,PERSON,0.50625,0.6555555555555556,en,2
-Charles IIIs,Charles IIIs,PERSON,0.2736111111111111,0.40555555555555556,en,2
-Mark Zuckerberg,Mark Zuckerberg,PERSON,0.05,0.05,en,2
-Elon Musk,Elon Musk,PERSON,0.05,0.05,en,2
 Kevin McCarthy,Kevin McCarthy,PERSON,0.075,0.225,en,2
-DeeDee Cupcake,DeeDee Cupcake,PERSON,0.5,0.5,en,2
-Peter Thiel,Peter Thiel,PERSON,-0.06041666666666667,0.26041666666666663,en,2
-Tom Perez,Tom Perez,PERSON,-0.0053571428571428615,0.793452380952381,en,2
+King Charles III,King Charles III,PERSON,-0.0731060606060606,0.25492424242424244,en,2
+King Charles,King Charles,PERSON,0.22499999999999998,0.375,en,2
+Mark Zuckerberg,Mark Zuckerberg,PERSON,0.05,0.05,en,2
+Volodymyr Saldo,Volodymyr Saldo,PERSON,0.13333333333333333,0.2333333333333333,en,2
 Queen Elizabeth II,Queen Elizabeth II,PERSON,0.13964646464646466,0.4080808080808081,en,2
-Volodymyr Zelenskiy,Volodymyr Zelenskiy,PERSON,0.13333333333333333,0.28888888888888886,en,2
-Vladimir Kara-Murza,Vladimir Kara-Murza,PERSON,0.1,0.23333333333333334,en,2
-Andrew Jassy,Andrew Jassy,PERSON,-0.0625,0.375,en,2
-Andrew Tate’s,Andrew Tate’s,PERSON,0.0,0.0,en,2
-Barack Obama,Barack Obama,PERSON,0.03125,0.041666666666666664,en,2
-Li Shangfu,Li Shangfu,PERSON,0.0,0.0,en,2
-Mariah Carey,Mariah Carey,PERSON,-0.037500000000000006,0.025,en,2
-Doug Emhoff,Doug Emhoff,PERSON,0.1476190476190476,0.19999999999999998,en,2
+Susan Rice,Susan Rice,PERSON,0.0,0.14166666666666666,en,2
 Daniel Snyder,Daniel Snyder,PERSON,-0.05,0.175,en,2
-Emma Smith,Emma Smith,PERSON,0.25,0.4666666666666667,en,1
-Simon McDonald,Simon McDonald,PERSON,-0.35,0.35,en,1
-Octav Ganea,Octav Ganea,PERSON,-0.09999999999999999,0.44999999999999996,en,1
-Charles crowning,Charles crowning,PERSON,0.25,0.3333333333333333,en,1
-McCue Jur,McCue Jur,PERSON,0.12222222222222223,0.3920634920634921,en,1
-Prince Harr,Prince Harr,PERSON,0.2,0.45,en,1
-saysVladimir Putin,saysVladimir Putin,PERSON,0.0,0.0,en,1
-PM Sunak,PM Sunak,PERSON,0.0,0.0,en,1
-Christoph Heusgen,Christoph Heusgen,PERSON,-0.125,0.375,en,1
-Lula da Silva,Lula da Silva,PERSON,0.0,0.0,en,1
-Nicki Jhabvala,Nicki Jhabvala,PERSON,0.0,0.0,en,1
-Paul Whelan,Paul Whelan,PERSON,0.0,0.0,en,1
-Mark Maske,Mark Maske,PERSON,0.0,0.0,en,1
+Barack Obama,Barack Obama,PERSON,0.03125,0.041666666666666664,en,2
+Queen Consort,Queen Consort,PERSON,0.16666666666666666,0.5333333333333333,en,2
+Neera Tanden,Neera Tanden,PERSON,-0.0053571428571428615,0.793452380952381,en,2
+Tara McGuinness,Tara McGuinness,PERSON,-0.0053571428571428615,0.793452380952381,en,2
+Tom Perez,Tom Perez,PERSON,-0.0053571428571428615,0.793452380952381,en,2
+Hakeem Jeffries,Hakeem Jeffries,PERSON,0.075,0.225,en,2
+Tucker Carlson,Tucker Carlson,PERSON,-0.19090909090909092,0.3386363636363636,en,2
+Lionel Richie,Lionel Richie,PERSON,0.0,0.0,en,2
+DeeDee Cupcake,DeeDee Cupcake,PERSON,0.5,0.5,en,2
+Mariah Carey,Mariah Carey,PERSON,-0.037500000000000006,0.025,en,2
+Charles III Coronation,Charles III Coronation,PERSON,0.1396780303030303,0.384375,en,2
+Vladimir Kara-Murza,Vladimir Kara-Murza,PERSON,0.1,0.23333333333333334,en,2
+Li Shangfu,Li Shangfu,PERSON,0.0,0.0,en,2
+Doug Emhoff,Doug Emhoff,PERSON,0.1476190476190476,0.19999999999999998,en,2
+Tristan Tate,Tristan Tate,PERSON,0.05833333333333332,0.3055555555555556,en,2
 Dan Snyder,Dan Snyder,PERSON,0.0,0.0,en,1
-Jeff Bezos Blue Origin,Jeff Bezos Blue Origin,PERSON,0.0,0.1,en,1
+Nicki Jhabvala,Nicki Jhabvala,PERSON,0.0,0.0,en,1
+Mark Maske,Mark Maske,PERSON,0.0,0.0,en,1
+Lula da Silva,Lula da Silva,PERSON,0.0,0.0,en,1
+Octav Ganea,Octav Ganea,PERSON,-0.09999999999999999,0.44999999999999996,en,1
 Donald Trum,Donald Trum,PERSON,0.1333333333333333,0.44999999999999996,en,1
-Lady Tigers,Lady Tigers,PERSON,0.07499999999999998,0.525,en,1
-Prince William kisses,Prince William kisses,PERSON,0.0,0.65,en,1
-Peter Tatchell Conde,Peter Tatchell Conde,PERSON,0.08333333333333333,0.16666666666666666,en,1
-Komsomolskaya Pravda,Komsomolskaya Pravda,PERSON,0.049999999999999996,0.25,en,1
-Charles Coronation,Charles Coronation,PERSON,0.04545454545454545,0.19999999999999998,en,1
-Jill Biden’s,Jill Biden’s,PERSON,0.0,0.0,en,1
-symbolicWhen Vladimir Putin,symbolicWhen Vladimir Putin,PERSON,-0.02,0.12000000000000002,en,1
-Finnegan repre,Finnegan repre,PERSON,0.0,0.0,en,1
-Donald Trump’s,Donald Trump’s,PERSON,0.21428571428571427,0.5761904761904761,en,1
-Angel Reese Plans,Angel Reese Plans,PERSON,0.0,0.0,en,1
-Hamish de Bretton-Gordon,Hamish de Bretton-Gordon,PERSON,0.0,0.0,en,1
-Princes William,Princes William,PERSON,-0.5,1.0,en,1
-Michelle Obama,Michelle Obama,PERSON,0.0625,0.08333333333333333,en,1
+Paul Whelan,Paul Whelan,PERSON,0.0,0.0,en,1
+Mariah Careys,Mariah Careys,PERSON,-0.025,0.05,en,1
 Andrew Tate Videos,Andrew Tate Videos,PERSON,-0.010101010101010102,0.17373737373737375,en,1
-Mikheil Saakashvili,Mikheil Saakashvili,PERSON,0.0,0.0,en,1
+Charles III’s,Charles III’s,PERSON,0.0,0.0,en,1
 Donald Trumps,Donald Trumps,PERSON,0.21428571428571427,0.5761904761904761,en,1
-megadonor Peter Thiel,megadonor Peter Thiel,PERSON,0.125,0.125,en,1
-Sergey Lavrov,Sergey Lavrov,PERSON,-0.125,0.125,en,1
-Tucker Car,Tucker Car,PERSON,0.625,0.5,en,1
-Jane Barlow,Jane Barlow,PERSON,0.25,0.3333333333333333,en,1
-Buckingham Chaz,Buckingham Chaz,PERSON,0.0,0.0,en,1
-Scranton Joe,Scranton Joe,PERSON,0.0,0.0,en,1
-Vladimir Putins,Vladimir Putins,PERSON,0.26666666666666666,0.4666666666666666,en,1
-Mark Galeotti,Mark Galeotti,PERSON,0.2380952380952381,0.5095238095238096,en,1
-LaTosha Brown,LaTosha Brown,PERSON,0.2,0.55,en,1
-Tolokonnikova sha,Tolokonnikova sha,PERSON,0.0,0.0,en,1
-Bob Seely,Bob Seely,PERSON,-0.05,0.05,en,1
-Yoon Suk,Yoon Suk,PERSON,0.0,0.0,en,1
+Mikheil Saakashvili,Mikheil Saakashvili,PERSON,0.0,0.0,en,1
+Nikki Haleys,Nikki Haleys,PERSON,0.15636363636363637,0.38,en,1
+Michelle Obama,Michelle Obama,PERSON,0.0625,0.08333333333333333,en,1
+Princes William,Princes William,PERSON,-0.5,1.0,en,1
+Hamish de Bretton-Gordon,Hamish de Bretton-Gordon,PERSON,0.0,0.0,en,1
+metaphoricallyWhen King Charles III,metaphoricallyWhen King Charles III,PERSON,-0.050555555555555555,0.2831746031746032,en,1
+Granddaughter Finnegan Biden,Granddaughter Finnegan Biden,PERSON,0.0,0.0,en,1
+Finnegan - REUTERS,Finnegan - REUTERS,PERSON,0.5,0.8125,en,1
+Finnegan Biden Stay,Finnegan Biden Stay,PERSON,0.325,0.5666666666666667,en,1
+Charles Coronation,Charles Coronation,PERSON,0.04545454545454545,0.19999999999999998,en,1
+Queen Camilla Celebrate Coronation,Queen Camilla Celebrate Coronation,PERSON,0.0,0.0,en,1
+Angel Reese Plans,Angel Reese Plans,PERSON,0.0,0.0,en,1
+Queen Mary Stay,Queen Mary Stay,PERSON,0.21111111111111114,0.5888888888888889,en,1
+Antony Blinken,Antony Blinken,PERSON,0.2833333333333334,0.6444444444444445,en,1
+Samantha de Bendern,Samantha de Bendern,PERSON,0.5,0.5,en,1
+Charles IIIs coronation,Charles IIIs coronation,PERSON,0.5,0.5,en,1
 Yoon Suk Yeol,Yoon Suk Yeol,PERSON,0.0,0.0,en,1
-Carmel Martin,Carmel Martin,PERSON,0.0,0.1,en,1
 Emmy Ruiz,Emmy Ruiz,PERSON,0.0,0.1,en,1
 Ann O’Leary,Ann O’Leary,PERSON,0.0,0.1,en,1
 Sarah Bianchi,Sarah Bianchi,PERSON,0.0,0.1,en,1
-Tristan Tate r,Tristan Tate r,PERSON,-0.07500000000000001,0.2,en,1
-Robert Galbraith,Robert Galbraith,PERSON,0.0,0.0,en,1
+Ukraines Donbas,Ukraines Donbas,PERSON,0.016666666666666653,0.4666666666666666,en,1
 Kateryna Klochko,Kateryna Klochko,PERSON,0.016666666666666653,0.4666666666666666,en,1
-Mariah Careys,Mariah Careys,PERSON,-0.025,0.05,en,1
-Antony Blinken,Antony Blinken,PERSON,0.2833333333333334,0.6444444444444445,en,1
-Donald Trump saysthats,Donald Trump saysthats,PERSON,-0.05454545454545454,0.4515151515151515,en,1
-Nikki Haleys,Nikki Haleys,PERSON,0.15636363636363637,0.38,en,1
-Charles III’s,Charles III’s,PERSON,0.5,0.5,en,1
+Jeff Bezos Blue Origin,Jeff Bezos Blue Origin,PERSON,0.0,0.1,en,1
+Yoon Suk Yeol,Yoon Suk Yeol,PERSON,0.0,0.0,en,1
+Putin Criminalized,Putin Criminalized,PERSON,0.0,0.0,en,1
+LaTosha Brown,LaTosha Brown,PERSON,0.2,0.55,en,1
+Mark Galeotti,Mark Galeotti,PERSON,0.2380952380952381,0.5095238095238096,en,1
 George Santos,George Santos,PERSON,0.3,0.4,en,1
-Donald Tr,Donald Tr,PERSON,0.2,0.25,en,1
-Samantha de Bendern,Samantha de Bendern,PERSON,0.5,0.5,en,1
+Andrew Tate’s,Andrew Tate’s,PERSON,0.0,0.0,en,1
+Bob Seely,Bob Seely,PERSON,-0.05,0.05,en,1
 Bill Gates,Bill Gates,PERSON,0.25,0.55,en,1
-Rupert Murdoch,Rupert Murdoch,PERSON,-0.09722222222222221,0.41111111111111115,en,1
-Pope Francis,Pope Francis,PERSON,0.25,0.55,en,1
-Fox NewsAge,Fox NewsAge,PERSON,0.2833333333333333,0.44166666666666665,en,1
-Don Lemon,Don Lemon,PERSON,0.2833333333333333,0.44166666666666665,en,1
+Carmel Martin,Carmel Martin,PERSON,0.0,0.1,en,1
+Sergey Lavrov,Sergey Lavrov,PERSON,-0.125,0.125,en,1
+Emma Smith,Emma Smith,PERSON,0.25,0.4666666666666667,en,1
 Winston Churchill,Winston Churchill,PERSON,0.26904761904761904,0.5571428571428572,en,1
+Donald Tr,Donald Tr,PERSON,0.2,0.25,en,1
+Simon McDonald,Simon McDonald,PERSON,-0.35,0.35,en,1
+Pope Francis,Pope Francis,PERSON,0.25,0.55,en,1
+Rupert Murdoch,Rupert Murdoch,PERSON,-0.09722222222222221,0.41111111111111115,en,1
+Tucker Carlson Said,Tucker Carlson Said,PERSON,-0.3,0.3,en,1
+Don Lemon,Don Lemon,PERSON,0.2833333333333333,0.44166666666666665,en,1
 Robert GalbraithThe,Robert GalbraithThe,PERSON,0.1,0.1,en,1
+Vladimir Putins,Vladimir Putins,PERSON,0.26666666666666666,0.4666666666666666,en,1
+Robert Galbraith,Robert Galbraith,PERSON,0.0,0.0,en,1
+Andrew Tate Looks,Andrew Tate Looks,PERSON,0.0,0.25,en,1
+Charles IIIs,Charles IIIs,PERSON,0.04722222222222221,0.3111111111111111,en,1
+Jane Barlow,Jane Barlow,PERSON,0.25,0.3333333333333333,en,1
+Buckingham Chaz,Buckingham Chaz,PERSON,0.0,0.0,en,1
+Scranton Joe,Scranton Joe,PERSON,0.0,0.0,en,1
 Christopher Dummitt,Christopher Dummitt,PERSON,0.06818181818181818,0.5272727272727272,en,1
