@@ -1,37 +1,37 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Markus Lanz',en,Deutschland,#1818e8,#1818e8,3,0.5568930090909091
+'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.5777522280488636
+'Andrew Tate',en,USA,#18e8e8,#18e8e8,3,0.534462960909091
 'Prince Harry',en,UK,#e838e8,#e838e8,2,0.524
 'Kanye West',en,USA,#18e8e8,#18e8e8,2,0.523
 'Christine Lambrecht',en,Deutschland,#1818e8,#1818e8,2,0.522
-'Joseph Ratzinger',en,Vatikan,#58b8e8,#58b8e8,2,0.52
 'Wolodimir Selenski',en,Ukraine,#e818e8,#e818e8,2,0.519
 'Chris Hipkins',en,Neuseeland,#1818e8,#1818e8,2,0.518
 'Frank Plasberg',en,Deutschland,#1818e8,#1818e8,2,0.517
-'Andrew Tate',en,USA,#18e8e8,#18e8e8,2,0.516
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,2,0.515
 'Georg Gänswein',en,Deutschland,#1818e8,#1818e8,2,0.514
 'Anne Will',en,Deutschland,#1818e8,#1818e8,2,0.513
-'Nikki Haley',en,USA,#18e8e8,#18e8e8,2,0.512
+'Kai Wegner',en,Deutschland,#1818e8,#1818e8,2,0.51262524
 'Prince William',en,UK,#e838e8,#e838e8,2,0.511
 'Queen Camilla',en,UK,#e838e8,#e838e8,2,0.51
-'Faisal Kawusi',en,Deutschland,#1818e8,#1818e8,2,0.509
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,2,0.507
 'Prince Andrew',en,UK,#e838e8,#e838e8,2,0.506
-'Lula da Silva',en,Brasilien,#58e838,#58e848,2,0.505
-'Nina Gummich',en,Deutschland,#1818e8,#1818e8,2,0.504
 'Ulrich Reitz',en,Deutschland,#1818e8,#1818e8,2,0.503
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,2,0.502
-'Kai Wegner',en,Deutschland,#1818e8,#1818e8,2,0.501
-'Jill Biden',en,USA,#18e8e8,#18e8e8,2,0.499
+'Nikki Haley',en,USA,#18e8e8,#18e8e8,3,0.4992652390909091
 'Wolfgang Kubicki',en,Deutschland,#1818e8,#1818e8,2,0.498
 'Jens Spahn',en,Deutschland,#1818e8,#1818e8,2,0.496
 'Herbert Diess',en,Deutschland,#1818e8,#1818e8,2,0.495
 'Lionel Messi',en,Argentinien,#111111,#111111,1,0.493
+'Lula da Silva',en,Brasilien,#58e838,#58e848,2,0.4842154199999999
 'King Charles III',en,UK,#e838e8,#e838e8,2,0.474937705
+'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.4733590577272727
 'Lars Klingbeil',en,Deutschland,#1818e8,#1818e8,2,0.4501291477272727
-'Chez Krömer',en,Deutschland,#1818e8,#1818e8,1,0.4318
+'Joseph Ratzinger',en,Vatikan,#58b8e8,#58b8e8,1,0.44200027
+'Faisal Kawusi',en,Deutschland,#1818e8,#1818e8,1,0.43265
+'Nina Gummich',en,Deutschland,#1818e8,#1818e8,1,0.4284
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.3754533242129692
 'Putin',en,Russland,#e81818,#e81818,3,0.3754496622565719
+'Chez Krömer',en,Deutschland,#1818e8,#1818e8,1,0.36703
 'König Charles III',en,UK,#e838e8,#e838e8,3,0.339814490452464
 'Pope Franziskus',en,Vatikan,#58b8e8,#58b8e8,3,0.3376263775434392
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.335952659677906
@@ -69,6 +69,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mateusz Morawiecki',en,Polen,#111111,#111111,3,0.2245577423883679
 'Gerhard Schröder',en,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Warren Buffett',en,USA,#18e8e8,#18e8e8,2,0.2195180810644239
+'Jeff Bezos',en,USA,#18e8e8,#18e8e8,3,0.2182748552054456
 'Friedrich Merz',en,Deutschland,#1818e8,#1818e8,3,0.2178046447884062
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,2,0.216266069377041
 'Narendra Modi',en,Indien,#111111,#111111,2,0.2158185291315234
@@ -153,7 +154,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benjamin Netanjahu',en,Israel,#111111,#111111,3,0.1765678329065039
 'Subrahmanyam Jaishankar',en,Indien,#111111,#111111,2,0.1763561850258266
 'Chelsea Manning',en,USA,#18e8e8,#18e8e8,1,0.1759215031451378
-'Karl Nehammer',en,Oesterreich,#111111,#111111,3,0.1757031641629227
 'Andrzej Duda',en,Polen,#111111,#111111,3,0.1754131686451492
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,2,0.1747205822230828
 'Sahra Wagenknecht',en,Deutschland,#1818e8,#1818e8,3,0.173142414839009
@@ -164,7 +164,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry Ellison',en,USA,#18e8e8,#18e8e8,1,0.1715499880435491
 'Michelle Obama',en,USA,#18e8e8,#18e8e8,2,0.1714530519312574
 'Kardinal Woelki',en,Deutschland,#1818e8,#1818e8,3,0.1709113113050359
-'Jeff Bezos',en,USA,#18e8e8,#18e8e8,2,0.1707462259101499
 'Thierry Breton',en,EU,#111111,#111111,2,0.1707289014687776
 'Andrés Manuel López Obrador',en,Mexiko,#111111,#111111,2,0.1699002089665916
 'Patriarch Kyrill',en,Ukraine,#e818e8,#e818e8,3,0.1693208263747925
@@ -206,6 +205,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Otmar Issing',en,EU,#111111,#111111,2,0.1503360076649887
 'Volker Wissing',en,Deutschland,#1818e8,#1818e8,3,0.1503320227641828
 'Sergej Lavrov',en,Russland,#e81818,#e81818,1,0.1498178032333499
+'Karl Nehammer',en,Oesterreich,#111111,#111111,1,0.1493479895384843
 'Veronika Grimm',en,Deutschland,#1818e8,#1818e8,1,0.1492485262795565
 'Fidel Castro',en,Kuba,#111111,#111111,1,0.1482441221394831
 'Julia Koch',en,USA,#18e8e8,#18e8e8,2,0.1474606893609312
@@ -258,11 +258,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Francoise Bettencourt-Meyers',en,Frankreich,#e8e808,#e8e808,1,0.0464095293347225
 'Chan Santokhi',en,Surinam,#111111,#111111,1,0.0463088452799446
 'Dimitry Peskov',en,Russland,#e81818,#e81818,1,0.0458664337320736
-'Gina Rinehart',en,Australien,#111111,#111111,1,0.0455994483347225
-'Sergei Ignatjew',en,Russland,#e81818,#e81818,1,0.0455994483347225
 'Egon Westphal',en,Deutschland,#1818e8,#1818e8,1,0.0455994483347225
-'Choe Ryong-hae',en,NordKorea,#e85858,#e85858,1,0.0455994483347225
+'Sergei Ignatjew',en,Russland,#e81818,#e81818,1,0.0455994483347225
 'Helge Lund',en,UK,#e838e8,#e838e8,1,0.0455994483347225
+'Choe Ryong-hae',en,NordKorea,#e85858,#e85858,1,0.0455994483347225
+'Gina Rinehart',en,Australien,#111111,#111111,1,0.0455994483347225
 'Dmitry Peskov',en,Russland,#e81818,#e81818,1,0.0454981523239863
 'Valery Gerasimov',en,Russland,#e81818,#e81818,1,0.0427318594887085
 'Michael Wirth',en,USA,#18e8e8,#18e8e8,1,0.0421394572375941
