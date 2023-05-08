@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.5777522280488636
 'Andrew Tate',en,USA,#18e8e8,#18e8e8,3,0.534462960909091
 'Prince Harry',en,UK,#e838e8,#e838e8,2,0.524
 'Kanye West',en,USA,#18e8e8,#18e8e8,2,0.523
@@ -19,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,2,0.502
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,3,0.4992652390909091
 'Wolfgang Kubicki',en,Deutschland,#1818e8,#1818e8,2,0.498
+'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.49606217884153403
 'Jens Spahn',en,Deutschland,#1818e8,#1818e8,2,0.496
 'Herbert Diess',en,Deutschland,#1818e8,#1818e8,2,0.495
 'Lionel Messi',en,Argentinien,#111111,#111111,1,0.493
@@ -258,11 +258,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Francoise Bettencourt-Meyers',en,Frankreich,#e8e808,#e8e808,1,0.0464095293347225
 'Chan Santokhi',en,Surinam,#111111,#111111,1,0.0463088452799446
 'Dimitry Peskov',en,Russland,#e81818,#e81818,1,0.0458664337320736
-'Egon Westphal',en,Deutschland,#1818e8,#1818e8,1,0.0455994483347225
-'Sergei Ignatjew',en,Russland,#e81818,#e81818,1,0.0455994483347225
-'Helge Lund',en,UK,#e838e8,#e838e8,1,0.0455994483347225
-'Choe Ryong-hae',en,NordKorea,#e85858,#e85858,1,0.0455994483347225
 'Gina Rinehart',en,Australien,#111111,#111111,1,0.0455994483347225
+'Sergei Ignatjew',en,Russland,#e81818,#e81818,1,0.0455994483347225
+'Egon Westphal',en,Deutschland,#1818e8,#1818e8,1,0.0455994483347225
+'Choe Ryong-hae',en,NordKorea,#e85858,#e85858,1,0.0455994483347225
+'Helge Lund',en,UK,#e838e8,#e838e8,1,0.0455994483347225
 'Dmitry Peskov',en,Russland,#e81818,#e81818,1,0.0454981523239863
 'Valery Gerasimov',en,Russland,#e81818,#e81818,1,0.0427318594887085
 'Michael Wirth',en,USA,#18e8e8,#18e8e8,1,0.0421394572375941
