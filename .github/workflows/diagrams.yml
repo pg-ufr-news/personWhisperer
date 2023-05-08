@@ -1,7 +1,7 @@
 
 # This is a basic workflow to help you get started with Actions
 
-name: bayes:0.0
+name: diagrams:0.0
 
 on:
   push:
@@ -12,8 +12,8 @@ on:
     # * is a special character in YAML so you have to quote this string : 
 #    weekly #m h d/m m d/w 
 #    - cron:  '30 1 * * 1'
-#    every month 3.rd day
-    - cron:  '10 9 3 * *' 
+#    daily #m h d/m m d/w 
+    - cron:  '30 1 * * *'
    
 jobs:
   docker-run-action:
@@ -32,13 +32,13 @@ jobs:
 #          ref: main
       - name: cd /cre/python/
         run: (cd /cre/python/)
-      - name: Install HanTa 
+      - name: Install nltk
         run: (pip3 install nltk==3.8 scikit-learn==1.0.2)
-      - name: Run bayes
-        run: (python3 bayes.py)
+      - name: Run diagrams
+        run: (python3 diagrams.py)
       - name: Submit changes       
         uses: EndBug/add-and-commit@v9
         with:
 #          pull: '--rebase --autostash ...'
-          add: 'img/words_bayes_*.png  csv/words_bayes_*.csv'
+          add: 'img/*.png csv/topics_date.csv'
           tag_push: '--force'

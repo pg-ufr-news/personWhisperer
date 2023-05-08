@@ -61,6 +61,7 @@ print(newsDf)
 language = 'ger'
 nltk.download('punkt')
 nltk.download('stopwords')
+nltk.download('wordnet')
 #tagger = ht.HanoverTagger('morphmodel_'+language+'.pgz')
 lemmatizer = WordNetLemmatizer()
 english_stop_words = set(stopwords.words('english'))
