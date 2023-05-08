@@ -99,7 +99,8 @@ searchWords = dict(zip(keywordsDF.keyword.values, keywordsDF.language.values))
 stopDomains = ["www.mydealz.de", "www.techstage.de", "www.nachdenkseiten.de", "www.amazon.de", "www.4players.de", "www.netzwelt.de", "www.nextpit.de",
                "www.mein-deal.com", "www.sparbote.de", "www.xda-developers.com" "www.pcgames.de", "blog.google", "www.ingame.de", "playstation.com",
                "www.pcgameshardware.de", "9to5mac.com", "roanoke.com", "billingsgazette.com", "richmond.com", "www.rawstory.com", "slate.com",
-               "www.computerbild.de", "www.giga.de", "www.heise.de", "www.chip.de"
+               "www.computerbild.de", "www.giga.de", "www.heise.de", "www.chip.de", 
+               "consent.google.com"
                 ]
 
 
