@@ -1,0 +1,264 @@
+,phrase,label,sentiment,subjectivity,language,count
+Russian,Russian,NORP,,,en,43
+first,first,ORDINAL,,,en,26
+Biden,Biden,NORP,,,en,18
++1131 chars,+1131 chars,WORK_OF_ART,,,en,17
+Brazilian,Brazilian,NORP,,,en,13
+2024,2024,DATE,,,en,12
+Wednesday,Wednesday,DATE,,,en,11
+"579,514","579,514",MONEY,,,en,11
+one,one,CARDINAL,,,en,11
+Thursday,Thursday,DATE,,,en,11
+Westminster Abbey,Westminster Abbey,FAC,0.7649877602556174,1.748782338693053,en,10
+Republican,Republican,NORP,,,en,10
+Friday,Friday,DATE,,,en,10
+British,British,NORP,,,en,10
+Ukrainian,Ukrainian,NORP,,,en,9
+Saturday,Saturday,DATE,,,en,9
+First,First,ORDINAL,,,en,9
+2022,2022,DATE,,,en,9
+two,two,CARDINAL,,,en,8
+Chinese,Chinese,NORP,,,en,8
+last year,last year,DATE,,,en,8
+Tuesday,Tuesday,DATE,,,en,8
+Monday,Monday,DATE,,,en,7
+Three,Three,CARDINAL,,,en,6
+more than two decades,more than two decades,DATE,,,en,6
+Downing Street,Downing Street,FAC,,,en,6
+today,today,DATE,,,en,5
+second,second,ORDINAL,,,en,5
+weekly,weekly,DATE,,,en,5
+12,12,CARDINAL,,,en,5
+Romanian,Romanian,NORP,,,en,5
+American,American,NORP,,,en,4
+Windsor Castle,Windsor Castle,FAC,,,en,4
+annual,annual,DATE,,,en,4
+Australian,Australian,NORP,,,en,4
+this week,this week,DATE,,,en,4
+Sunday,Sunday,DATE,,,en,4
+week,week,DATE,,,en,4
+Red Square,Red Square,FAC,,,en,3
+the White House,the White House,FAC,,,en,3
+Christian Democrats,Christian Democrats,NORP,,,en,3
+10,10,MONEY,,,en,3
+$36 billion,$36 billion,MONEY,,,en,3
+hundreds of thousands,hundreds of thousands,CARDINAL,,,en,3
+2020,2020,DATE,,,en,3
+Russias,Russias,NORP,,,en,3
+Americans,Americans,NORP,,,en,3
+Kremlin,Kremlin,FAC,0.0009469696969696961,0.04829545454545455,en,3
+5,5,CARDINAL,,,en,3
+century,century,DATE,,,en,3
+three,three,CARDINAL,,,en,3
+Muslim,Muslim,NORP,,,en,2
+Kubyshev Square,Kubyshev Square,FAC,,,en,2
+South Korean,South Korean,NORP,,,en,2
+this weekend,this weekend,DATE,,,en,2
+February,February,DATE,,,en,2
+months,months,DATE,,,en,2
+Neera Tanden,Neera Tanden,FAC,,,en,2
+One,One,CARDINAL,,,en,2
+Victory Day,Victory Day,EVENT,,,en,2
+22,22,CARDINAL,,,en,2
+winter,winter,DATE,,,en,2
+Object No 2,Object No 2,PRODUCT,,,en,2
+$264 billion,$264 billion,MONEY,,,en,2
+Fox News',Fox News',WORK_OF_ART,,,en,2
+the big day,the big day,DATE,,,en,2
+|,|,DATE,,,en,2
+Nazi,Nazi,NORP,,,en,2
+Soviet,Soviet,NORP,,,en,2
+two-hour,two-hour,TIME,,,en,2
+14,14,CARDINAL,,,en,2
+TODAY,TODAY,DATE,,,en,2
+night,night,TIME,,,en,2
+King Charles',King Charles',FAC,,,en,2
+127 meter,127 meter,QUANTITY,,,en,2
+2014,2014,DATE,,,en,2
+three years,three years,DATE,,,en,2
+more than 100,more than 100,CARDINAL,,,en,2
+$787 million,$787 million,MONEY,,,en,2
+Primary,Primary,PRODUCT,,,en,2
+16%,16%,PERCENT,,,en,2
+ESV Teen Study Bible,ESV Teen Study Bible,PRODUCT,,,en,2
+Labour Day,Labour Day,DATE,,,en,2
+2021,2021,DATE,,,en,2
+six,six,CARDINAL,,,en,2
+German,German,NORP,,,en,2
+2001,2001,DATE,,,en,2
+Social Democrats,Social Democrats,NORP,,,en,2
+Last month,Last month,DATE,,,en,2
+50,50,DATE,,,en,2
+1 May for,1 May for,DATE,,,en,2
+another four years,another four years,DATE,,,en,2
+Canadian,Canadian,NORP,,,en,2
+16,16,CARDINAL,,,en,2
+Easter Egg Roll,Easter Egg Roll,EVENT,,,en,2
+Twitter,Twitter,PRODUCT,,,en,2
+Musk,Musk,PRODUCT,,,en,2
+Ukrainians,Ukrainians,NORP,,,en,2
+24 February 2022,24 February 2022,DATE,,,en,2
+25 years,25 years,DATE,,,en,2
+the prior year,the prior year,DATE,,,en,2
+$212 million,$212 million,MONEY,,,en,2
+$1.3 million,$1.3 million,MONEY,,,en,2
+50%,50%,PERCENT,,,en,2
+$212 million to $1.3 million,$212 million to $1.3 million,MONEY,,,en,2
+days,days,DATE,,,en,2
+44bn,44bn,MONEY,,,en,2
+"456,918","456,918",MONEY,,,en,2
+less than the previous year,less than the previous year,DATE,,,en,2
+May 6,May 6,DATE,,,en,2
+the weekend,the weekend,DATE,,,en,2
+last quarter,last quarter,DATE,,,en,2
+6 a.m. GMT/ 2 p.m. SGT,6 a.m. GMT/ 2 p.m. SGT,TIME,,,en,1
+years,years,DATE,,,en,1
+Fox News,Fox News,WORK_OF_ART,,,en,1
+more than a year,more than a year,DATE,,,en,1
+Conservatives,Conservatives,NORP,,,en,1
+the Life of Elon Musk Reagan,the Life of Elon Musk Reagan,WORK_OF_ART,,,en,1
+Wednesday night,Wednesday night,TIME,,,en,1
+Christians,Christians,NORP,,,en,1
+"Reuters
+","Reuters
+",PRODUCT,,,en,1
+10 Downing Street,10 Downing Street,FAC,,,en,1
+their late 20s,their late 20s,DATE,,,en,1
+just 2 years old,just 2 years old,DATE,,,en,1
+4,4,CARDINAL,,,en,1
+April 24-27,April 24-27,DATE,,,en,1
+just 16%,just 16%,PERCENT,,,en,1
+9:32:59 AM PDT,9:32:59 AM PDT,TIME,,,en,1
+8:42:43 AM PDT,8:42:43 AM PDT,TIME,,,en,1
+436,436,CARDINAL,,,en,1
+Morning,Morning,TIME,,,en,1
+weeks,weeks,DATE,,,en,1
+56 percent,56 percent,PERCENT,,,en,1
+May 2023,May 2023,DATE,,,en,1
+June 1953,June 1953,DATE,,,en,1
+Two,Two,CARDINAL,,,en,1
+3,3,CARDINAL,,,en,1
+the Grand Kremlin Palace,the Grand Kremlin Palace,FAC,,,en,1
+April 6,April 6,DATE,,,en,1
+2023.Getty,2023.Getty,CARDINAL,,,en,1
+Anglophiles,Anglophiles,NORP,,,en,1
+between 2013 and 2016,between 2013 and 2016,DATE,,,en,1
+Rus,Rus,WORK_OF_ART,,,en,1
+Easter Egg,Easter Egg,FAC,,,en,1
+18,18,CARDINAL,,,en,1
+2011,2011,DATE,,,en,1
+Almost 30,Almost 30,CARDINAL,,,en,1
+Hate America' - Newsweek,Hate America' - Newsweek,WORK_OF_ART,,,en,1
+Big Day,Big Day,DATE,,,en,1
+afternoon,afternoon,TIME,,,en,1
+66-63,66-63,PRODUCT,,,en,1
+24,24,CARDINAL,,,en,1
+Hurt,Hurt,WORK_OF_ART,,,en,1
+The Fine Print,The Fine Print,WORK_OF_ART,,,en,1
+no fewer than two dozen,no fewer than two dozen,CARDINAL,,,en,1
+morning,morning,TIME,,,en,1
+Coronation,Coronation,PRODUCT,,,en,1
+a few days,a few days,DATE,,,en,1
++3937 chars],+3937 chars],WORK_OF_ART,,,en,1
+2023-05,2023-05,DATE,,,en,1
+Crimea,Crimea,PRODUCT,0.0,0.0,en,1
+this weeks,this weeks,DATE,,,en,1
+nine,nine,CARDINAL,,,en,1
+Napoleonic,Napoleonic,EVENT,0.5,0.9,en,1
+Shoigu,Shoigu,NORP,,,en,1
+Less Than 2 Hours,Less Than 2 Hours,TIME,,,en,1
+Popularity With Women Revealed,Popularity With Women Revealed,WORK_OF_ART,,,en,1
+May 3,May 3,DATE,,,en,1
+Thirteen percent,Thirteen percent,PERCENT,,,en,1
+countrys,countrys,NORP,,,en,1
+$101m,$101m,MONEY,,,en,1
+more than $101m,more than $101m,MONEY,,,en,1
+80 million pounds,80 million pounds,QUANTITY,,,en,1
+Democratic,Democratic,NORP,,,en,1
++15 chars,+15 chars,WORK_OF_ART,,,en,1
++3260 chars,+3260 chars,WORK_OF_ART,,,en,1
+70,70,CARDINAL,,,en,1
+April 5,April 5,DATE,,,en,1
+Coro,Coro,NORP,,,en,1
+November 29,November 29,DATE,,,en,1
+Buckingham Palace,Buckingham Palace,FAC,,,en,1
+The past few years,The past few years,DATE,,,en,1
+38,38,DATE,,,en,1
++3691,+3691,NORP,,,en,1
+their first year,their first year,DATE,,,en,1
+Today,Today,DATE,,,en,1
+Presidential Campaign Announcements,Presidential Campaign Announcements,WORK_OF_ART,,,en,1
+January,January,DATE,,,en,1
+"137,658","137,658",MONEY,,,en,1
+66.2 million,66.2 million,CARDINAL,,,en,1
+23.8%,23.8%,PERCENT,,,en,1
++2340 chars,+2340 chars,WORK_OF_ART,,,en,1
++2434 chars,+2434 chars,WORK_OF_ART,,,en,1
+"Feb. 12, 2023","Feb. 12, 2023",DATE,,,en,1
+April 16,April 16,DATE,,,en,1
+2018,2018,DATE,,,en,1
+Democrats,Democrats,NORP,,,en,1
+202,202,CARDINAL,,,en,1
+March,March,DATE,,,en,1
+four further years,four further years,DATE,,,en,1
+early Tuesday,early Tuesday,DATE,,,en,1
+March 21,March 21,DATE,,,en,1
+20 years,20 years,DATE,,,en,1
+European,European,NORP,,,en,1
+daily,daily,DATE,,,en,1
+Islamic,Islamic,NORP,,,en,1
++3544 chars,+3544 chars,WORK_OF_ART,,,en,1
+"nearly $580,000","nearly $580,000",MONEY,,,en,1
+"April 19, 2023","April 19, 2023",DATE,,,en,1
+"April 19, 2023 (GLOBE NEWSWIRE)","April 19, 2023 (GLOBE NEWSWIRE)",DATE,,,en,1
+the New Jersey Hall of Fame,the New Jersey Hall of Fame,FAC,,,en,1
+one day,one day,DATE,,,en,1
+We Belong Together,We Belong Together,WORK_OF_ART,,,en,1
+Twitter Blue,Twitter Blue,PRODUCT,,,en,1
+WWII,WWII,EVENT,,,en,1
+useLess than two years ago,useLess than two years ago,DATE,,,en,1
+457K.,457K.,MONEY,,,en,1
+nearly $580,nearly $580,MONEY,,,en,1
+Less than two years ago,Less than two years ago,DATE,,,en,1
++2780 chars,+2780 chars,WORK_OF_ART,,,en,1
+PhD,PhD,WORK_OF_ART,,,en,1
+April 19,April 19,DATE,,,en,1
++1280,+1280,NORP,,,en,1
+May 9,May 9,DATE,,,en,1
+the White House State Dinner,the White House State Dinner,FAC,,,en,1
+this year,this year,DATE,,,en,1
+$15.8 billion,$15.8 billion,MONEY,,,en,1
+Indigenous,Indigenous,NORP,,,en,1
++2707 chars,+2707 chars,WORK_OF_ART,,,en,1
+the next few months,the next few months,DATE,,,en,1
++4930,+4930,NORP,,,en,1
+up to 90%,up to 90%,PERCENT,,,en,1
+monthly,monthly,DATE,,,en,1
+80,80,CARDINAL,,,en,1
+four years ago,four years ago,DATE,,,en,1
+While Organizing an Interview with Andrew Tate,While Organizing an Interview with Andrew Tate,WORK_OF_ART,,,en,1
+Bidens,Bidens,NORP,,,en,1
+last week,last week,DATE,,,en,1
+$15 billion,$15 billion,MONEY,,,en,1
+9 May for Victory Day,9 May for Victory Day,DATE,,,en,1
+Half,Half,CARDINAL,,,en,1
+decades,decades,DATE,,,en,1
+$29 billion,$29 billion,MONEY,,,en,1
+Biggest Weekend Of Pop And Politics,Biggest Weekend Of Pop And Politics,EVENT,,,en,1
+a day,a day,DATE,,,en,1
+Nearly six months later,Nearly six months later,DATE,,,en,1
+28 October 2022,28 October 2022,DATE,,,en,1
+Nearly six months late,Nearly six months late,DATE,,,en,1
+October 2022,October 2022,DATE,,,en,1
++7295 chars,+7295 chars,WORK_OF_ART,,,en,1
+half a year,half a year,DATE,,,en,1
+six months,six months,DATE,,,en,1
+Fox News House of Cards Collapses,Fox News House of Cards Collapses,WORK_OF_ART,,,en,1
+day 428,day 428,DATE,,,en,1
+Italian,Italian,NORP,,,en,1
+"May 6, 2023","May 6, 2023",DATE,,,en,1
+Spandau,Spandau,NORP,,,en,1
++6424 chars,+6424 chars,WORK_OF_ART,,,en,1
+22 years,22 years,DATE,,,en,1
+over $15 billion,over $15 billion,MONEY,,,en,1
+August 2022,August 2022,DATE,,,en,1
