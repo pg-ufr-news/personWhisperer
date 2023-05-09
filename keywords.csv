@@ -1,16 +1,16 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Helmut Kohl',en,Deutschland,#1818e8,#1818e8,3,0.554859705909091
-'Werner von Braun',en,Deutschland,#1818e8,#1818e8,2,0.54
+'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,2,0.54
 'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,2,0.54
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,2,0.54
 'Christopher Nolan',en,USA,#18e8e8,#18e8e8,2,0.54
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,2,0.54
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,2,0.54
-'George Clooney',en,USA,#18e8e8,#18e8e8,2,0.54
+'Peter Urban',en,Deutschland,#1818e8,#1818e8,2,0.54
 'Isaac Newton',en,UK,#e838e8,#e838e8,2,0.54
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,2,0.54
 'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,2,0.54
-'Rupert Murdoch',en,USA,#18e8e8,#18e8e8,2,0.54
+'George Clooney',en,USA,#18e8e8,#18e8e8,2,0.54
 'Leonardo DiCaprio',en,USA,#18e8e8,#18e8e8,2,0.54
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.54
 'Billy Graham',en,USA,#18e8e8,#18e8e8,2,0.54
@@ -18,22 +18,22 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,2,0.54
 'Jimmy Carter',en,USA,#18e8e8,#18e8e8,2,0.54
 'Vladimir Putin',en,Russland,#e81818,#e81818,2,0.54
-'Erich Honecker',en,Deutschland,#1818e8,#1818e8,2,0.54
-'Geoffrey Hinton',en,UK,#e838e8,#e838e8,2,0.54
-'Peter Urban',en,Deutschland,#1818e8,#1818e8,2,0.54
-'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,2,0.54
 'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,2,0.54
-'George Washington',en,USA,#18e8e8,#18e8e8,2,0.54
+'Geoffrey Hinton',en,UK,#e838e8,#e838e8,2,0.54
+'Rupert Murdoch',en,USA,#18e8e8,#18e8e8,2,0.54
+'Erich Honecker',en,Deutschland,#1818e8,#1818e8,2,0.54
+'Tim Cook',en,USA,#18e8e8,#18e8e8,2,0.54
+'Napoleon Bonaparte',en,Frankreich,#e8e808,#e8e808,2,0.54
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,2,0.54
 'Albert Einstein',en,Deutschland,#1818e8,#1818e8,3,0.54
 'Stephen Hawking',en,UK,#e838e8,#e838e8,2,0.54
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,2,0.54
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,2,0.54
-'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,2,0.54
+'George Washington',en,USA,#18e8e8,#18e8e8,2,0.54
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,2,0.54
 'Dieter Bohlen',en,Deutschland,#1818e8,#1818e8,2,0.54
 'Rudolf Steiner',en,Oesterreich,#111111,#111111,2,0.54
-'Napoleon Bonaparte',en,Frankreich,#e8e808,#e8e808,2,0.54
+'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,2,0.54
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,2,0.54
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.54
 'George Bush',en,USA,#18e8e8,#18e8e8,2,0.54
@@ -41,7 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,2,0.54
 'Adolf Hitler',en,Deutschland,#1818e8,#1818e8,2,0.54
 'Alfred Nobel',en,Schweden,#111111,#111111,2,0.54
-'Tim Cook',en,USA,#18e8e8,#18e8e8,2,0.54
+'Werner von Braun',en,Deutschland,#1818e8,#1818e8,2,0.54
 'Scott Morrison',en,Australien,#111111,#111111,2,0.54
 'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.5382616987954545
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.5321455237901636
@@ -241,7 +241,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Kerry',en,USA,#18e8e8,#18e8e8,1,0.1648160755039041
 'Wolodymyr Selenski',en,Ukraine,#e818e8,#e818e8,1,0.163572193295483
 'Christian Drosten',en,Deutschland,#1818e8,#1818e8,2,0.1631904485788493
-'Steffi Lemke',en,Deutschland,#1818e8,#1818e8,3,0.1629047618873548
 'Martin Sonneborn',en,Deutschland,#1818e8,#1818e8,1,0.1626472021141365
 'Christoph Heusgen',en,Deutschland,#1818e8,#1818e8,1,0.1624327942537363
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.1619899913519324
@@ -272,6 +271,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paul Kagame',en,Ruanda,#111111,#111111,1,0.1444730031001166
 'Nikos Androulakis',en,Griechenland,#1858e8,#1858e8,1,0.1436341310989589
 'Jitzchak Herzog',en,Israel,#111111,#111111,1,0.1432453703487191
+'Steffi Lemke',en,Deutschland,#1818e8,#1818e8,3,0.14296999260425158
 'Rainer Maria Woelki',en,Deutschland,#1818e8,#1818e8,2,0.1426343310110069
 'Jair Lapid',en,Israel,#111111,#111111,2,0.140834487165512
 'Joana Cotar',en,Deutschland,#1818e8,#1818e8,1,0.1383847895568137
