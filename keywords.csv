@@ -81,6 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jeff Bezos',en,USA,#18e8e8,#18e8e8,3,0.2182748552054456
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,2,0.216266069377041
 'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.2144756430385868
+'Michelle Obama',en,USA,#18e8e8,#18e8e8,3,0.21433032277793243
 'Chelsea Manning',en,USA,#18e8e8,#18e8e8,2,0.2135770067642762
 'Holger Münch',en,Deutschland,#1818e8,#1818e8,2,0.212436037922703
 'Charles Michel',en,EU,#111111,#111111,3,0.2103896112766485
@@ -172,7 +173,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lael Brainard',en,USA,#18e8e8,#18e8e8,1,0.172151045311643
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,2,0.1719083361302063
 'Larry Ellison',en,USA,#18e8e8,#18e8e8,1,0.1715499880435491
-'Michelle Obama',en,USA,#18e8e8,#18e8e8,2,0.1714530519312574
 'Kardinal Woelki',en,Deutschland,#1818e8,#1818e8,3,0.1709113113050359
 'Thierry Breton',en,EU,#111111,#111111,2,0.1707289014687776
 'Andrés Manuel López Obrador',en,Mexiko,#111111,#111111,2,0.1699002089665916
@@ -246,7 +246,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergey Brin',en,USA,#18e8e8,#18e8e8,1,0.1204010720496926
 'Alberto Ángel Fernández',en,Argentinien,#111111,#111111,1,0.1155569800506883
 'Lee Hsien Loong',en,Singapur,#111111,#111111,1,0.1155152699447566
-'Tamim bin Hamad Al-Thani',en,Katar,#111111,#111111,2,0.10721608107812333
+'Tamim bin Hamad Al-Thani',en,Katar,#111111,#111111,2,0.1072160810781233
 'Carola Rackete',en,Deutschland,#1818e8,#1818e8,1,0.1034839041945892
 'Yanis Varoufakis',en,Griechenland,#1858e8,#1858e8,1,0.1021052404744678
 'Ayatollah Ali Chamenei',en,Iran,#111111,#111111,1,0.1003985244609884
@@ -271,11 +271,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Francoise Bettencourt-Meyers',en,Frankreich,#e8e808,#e8e808,1,0.0464095293347225
 'Chan Santokhi',en,Surinam,#111111,#111111,1,0.0463088452799446
 'Dimitry Peskov',en,Russland,#e81818,#e81818,1,0.0458664337320736
-'Gina Rinehart',en,Australien,#111111,#111111,1,0.0455994483347225
-'Helge Lund',en,UK,#e838e8,#e838e8,1,0.0455994483347225
 'Sergei Ignatjew',en,Russland,#e81818,#e81818,1,0.0455994483347225
-'Choe Ryong-hae',en,NordKorea,#e85858,#e85858,1,0.0455994483347225
+'Gina Rinehart',en,Australien,#111111,#111111,1,0.0455994483347225
 'Egon Westphal',en,Deutschland,#1818e8,#1818e8,1,0.0455994483347225
+'Helge Lund',en,UK,#e838e8,#e838e8,1,0.0455994483347225
+'Choe Ryong-hae',en,NordKorea,#e85858,#e85858,1,0.0455994483347225
 'Valery Gerasimov',en,Russland,#e81818,#e81818,1,0.0427318594887085
 'Michael Wirth',en,USA,#18e8e8,#18e8e8,1,0.0421394572375941
 'Thomas Dörflinger',en,Deutschland,#1818e8,#1818e8,1,0.0417098326447802
