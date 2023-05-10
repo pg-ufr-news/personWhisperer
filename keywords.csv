@@ -1,6 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,2,0.54
-'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,2,0.54
+'Margeret Thatcher',en,UK,#e838e8,#e838e8,2,0.54
+'Erich Honecker',en,Deutschland,#1818e8,#1818e8,2,0.54
 'Peter Urban',en,Deutschland,#1818e8,#1818e8,2,0.54
 'Leonardo DiCaprio',en,USA,#18e8e8,#18e8e8,2,0.54
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.54
@@ -17,21 +18,20 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,2,0.54
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,2,0.54
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,2,0.54
-'Christopher Nolan',en,USA,#18e8e8,#18e8e8,2,0.54
-'Erich Honecker',en,Deutschland,#1818e8,#1818e8,2,0.54
 'Napoleon Bonaparte',en,Frankreich,#e8e808,#e8e808,2,0.54
-'Margeret Thatcher',en,UK,#e838e8,#e838e8,2,0.54
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,2,0.54
+'George Clooney',en,USA,#18e8e8,#18e8e8,2,0.54
+'Steve Jobs',en,USA,#18e8e8,#18e8e8,2,0.54
 'Adolf Hitler',en,Deutschland,#1818e8,#1818e8,2,0.54
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,2,0.54
 'George Washington',en,USA,#18e8e8,#18e8e8,2,0.54
-'Alfred Nobel',en,Schweden,#111111,#111111,2,0.54
+'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,2,0.54
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,2,0.54
 'Scott Morrison',en,Australien,#111111,#111111,2,0.54
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,2,0.54
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.54
-'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,2,0.54
-'George Clooney',en,USA,#18e8e8,#18e8e8,2,0.54
+'Christopher Nolan',en,USA,#18e8e8,#18e8e8,2,0.54
+'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,2,0.54
 'Vladimir Putin',en,Russland,#e81818,#e81818,2,0.54
 'Tim Cook',en,USA,#18e8e8,#18e8e8,2,0.54
 'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,2,0.54
@@ -39,7 +39,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,2,0.54
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,2,0.54
 'Stephen Hawking',en,UK,#e838e8,#e838e8,2,0.54
-'Steve Jobs',en,USA,#18e8e8,#18e8e8,2,0.54
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.5321455237901636
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.5308912527272727
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.5291167813636364
@@ -51,6 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Queen Camilla',en,UK,#e838e8,#e838e8,2,0.51
 'Winston Churchill',en,UK,#e838e8,#e838e8,3,0.5094106504545455
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.5077958325352272
+'Alfred Nobel',en,Schweden,#111111,#111111,2,0.5074948494444445
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.5072562588181818
 'Prince Andrew',en,UK,#e838e8,#e838e8,2,0.506
 'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,2,0.5042875318181819
