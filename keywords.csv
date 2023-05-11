@@ -1,38 +1,38 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Prince Louis',en,UK,#e838e8,#e838e8,2,0.55
-'Prince Archie',en,UK,#e838e8,#e838e8,2,0.55
-'Katy Perry',en,USA,#18e8e8,#18e8e8,2,0.55
-'Lionel Richie',en,USA,#18e8e8,#18e8e8,2,0.55
-'Recep Tayyip Erdoan',en,Türkei,#111111,#111111,2,0.55
-'Recep Tayyip Erdogan',en,Türkei,#111111,#111111,2,0.55
-'Harry Belafonte',en,USA,#18e8e8,#18e8e8,2,0.55
-'Milo Yiannopoulos',en,UK,#e838e8,#e838e8,2,0.55
-'Tucker Carlson',en,USA,#18e8e8,#18e8e8,2,0.55
-'Finnegan Biden',en,USA,#18e8e8,#18e8e8,2,0.55
-'Pippa Middleton',en,UK,#e838e8,#e838e8,2,0.55
-'Yoon Suk Yeol',en,SüdKorea,#111111,#111111,2,0.55
-'Ed McVey',en,UK,#e838e8,#e838e8,2,0.55
-'Meg Bellamy',en,UK,#e838e8,#e838e8,2,0.55
+'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.5621265763506249
+'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,2,0.55
 'Jack Teixeira',en,USA,#18e8e8,#18e8e8,2,0.55
+'Meg Bellamy',en,UK,#e838e8,#e838e8,2,0.55
+'Ed McVey',en,UK,#e838e8,#e838e8,2,0.55
+'Yoon Suk Yeol',en,SüdKorea,#111111,#111111,2,0.55
+'Pippa Middleton',en,UK,#e838e8,#e838e8,2,0.55
+'Finnegan Biden',en,USA,#18e8e8,#18e8e8,2,0.55
+'Milo Yiannopoulos',en,UK,#e838e8,#e838e8,2,0.55
+'Harry Belafonte',en,USA,#18e8e8,#18e8e8,2,0.55
+'Recep Tayyip Erdoan',en,Türkei,#111111,#111111,2,0.55
+'Lionel Richie',en,USA,#18e8e8,#18e8e8,2,0.55
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,2,0.55
+'Katy Perry',en,USA,#18e8e8,#18e8e8,2,0.55
+'Tucker Carlson',en,USA,#18e8e8,#18e8e8,2,0.55
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,2,0.55
-'Barbara Sturm',en,Deutschland,#1818e8,#1818e8,2,0.55
+'Recep Tayyip Erdogan',en,Türkei,#111111,#111111,2,0.55
 'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,2,0.55
+'Jordan Bardella',en,Frankreich,#e8e808,#e8e808,2,0.55
+'Prince Archie',en,UK,#e838e8,#e838e8,2,0.55
+'Katja Krasavice',en,Deutschland,#1818e8,#1818e8,2,0.55
 'Leonardo da Vinci',en,Italien,#111111,#111111,2,0.55
 'Olli Schulz',en,Deutschland,#1818e8,#1818e8,2,0.55
-'Bruce Springsteen',en,USA,#18e8e8,#18e8e8,2,0.55
 'Alvin Bragg',en,USA,#18e8e8,#18e8e8,2,0.55
 'Mathias Döpfner',en,Deutschland,#1818e8,#1818e8,2,0.55
-'Jordan Bardella',en,Frankreich,#e8e808,#e8e808,2,0.55
-'Katja Krasavice',en,Deutschland,#1818e8,#1818e8,2,0.55
-'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,2,0.55
+'Bruce Springsteen',en,USA,#18e8e8,#18e8e8,2,0.55
 'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,2,0.55
-'Gérard Biard',en,Frankreich,#e8e808,#e8e808,2,0.55
+'Barbara Sturm',en,Deutschland,#1818e8,#1818e8,2,0.55
+'Prince Louis',en,UK,#e838e8,#e838e8,2,0.55
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,2,0.55
 'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,2,0.55
 'Herschel Walker',en,USA,#18e8e8,#18e8e8,2,0.55
-'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.5621265763506249
-'William Shakespeare',en,UK,#e838e8,#e838e8,2,0.54
+'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.54
+'Isaac Newton',en,UK,#e838e8,#e838e8,2,0.54
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,2,0.54
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,2,0.54
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,2,0.54
@@ -40,36 +40,35 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,2,0.54
 'Peter Urban',en,Deutschland,#1818e8,#1818e8,2,0.54
 'Leonardo DiCaprio',en,USA,#18e8e8,#18e8e8,2,0.54
-'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.54
-'Isaac Newton',en,UK,#e838e8,#e838e8,2,0.54
+'George Bush',en,USA,#18e8e8,#18e8e8,2,0.54
+'Albert Einstein',en,Deutschland,#1818e8,#1818e8,3,0.54
 'Scott Morrison',en,Australien,#111111,#111111,2,0.54
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,2,0.54
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,2,0.54
-'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.54
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,2,0.54
 'Dieter Bohlen',en,Deutschland,#1818e8,#1818e8,2,0.54
 'Rudolf Steiner',en,Oesterreich,#111111,#111111,2,0.54
-'George Bush',en,USA,#18e8e8,#18e8e8,2,0.54
-'Albert Einstein',en,Deutschland,#1818e8,#1818e8,3,0.54
+'William Shakespeare',en,UK,#e838e8,#e838e8,2,0.54
+'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.54
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,2,0.54
-'George Clooney',en,USA,#18e8e8,#18e8e8,2,0.54
+'Rupert Murdoch',en,USA,#18e8e8,#18e8e8,2,0.54
 'Christopher Nolan',en,USA,#18e8e8,#18e8e8,2,0.54
-'Helge Schneider',en,Deutschland,#1818e8,#1818e8,2,0.54
+'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,2,0.54
+'George Clooney',en,USA,#18e8e8,#18e8e8,2,0.54
+'Bill Clinton',en,USA,#18e8e8,#18e8e8,2,0.54
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,2,0.54
 'Stephen Hawking',en,UK,#e838e8,#e838e8,2,0.54
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,2,0.54
 'Adolf Hitler',en,Deutschland,#1818e8,#1818e8,2,0.54
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,2,0.54
 'George Washington',en,USA,#18e8e8,#18e8e8,2,0.54
-'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,2,0.54
-'Bill Clinton',en,USA,#18e8e8,#18e8e8,2,0.54
-'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,2,0.54
+'Helge Schneider',en,Deutschland,#1818e8,#1818e8,2,0.54
+'Tim Cook',en,USA,#18e8e8,#18e8e8,2,0.54
 'Jimmy Carter',en,USA,#18e8e8,#18e8e8,2,0.54
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,2,0.54
-'Rupert Murdoch',en,USA,#18e8e8,#18e8e8,2,0.54
+'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,2,0.54
 'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,2,0.54
 'Vladimir Putin',en,Russland,#e81818,#e81818,2,0.54
-'Tim Cook',en,USA,#18e8e8,#18e8e8,2,0.54
 'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,2,0.54
 'Geoffrey Hinton',en,UK,#e838e8,#e838e8,2,0.54
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.5321455237901636
@@ -101,6 +100,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wang Wentao',en,China,#e88818,#e88818,1,0.4714530827499999
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.4686741498181817
 'Billy Graham',en,USA,#18e8e8,#18e8e8,3,0.4684984095454546
+'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.4675
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,3,0.4657134795909091
 'Andrew Tate',en,USA,#18e8e8,#18e8e8,3,0.4592473867727273
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,1,0.459
