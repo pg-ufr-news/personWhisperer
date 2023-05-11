@@ -1,6 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.5621265763506249
-'Willy Brandt',en,Deutschland,#1818e8,#1818e8,2,0.54
+'Jimmy Carter',en,USA,#18e8e8,#18e8e8,2,0.54
+'Richard Feynman',en,USA,#18e8e8,#18e8e8,2,0.54
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,2,0.54
 'Napoleon Bonaparte',en,Frankreich,#e8e808,#e8e808,2,0.54
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,2,0.54
@@ -8,8 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leonardo DiCaprio',en,USA,#18e8e8,#18e8e8,2,0.54
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.54
 'William Shakespeare',en,UK,#e838e8,#e838e8,2,0.54
-'Jimmy Carter',en,USA,#18e8e8,#18e8e8,2,0.54
 'Isaac Newton',en,UK,#e838e8,#e838e8,2,0.54
+'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,2,0.54
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,2,0.54
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.54
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,2,0.54
@@ -18,10 +19,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Bush',en,USA,#18e8e8,#18e8e8,2,0.54
 'Albert Einstein',en,Deutschland,#1818e8,#1818e8,3,0.54
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,2,0.54
-'Richard Feynman',en,USA,#18e8e8,#18e8e8,2,0.54
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,2,0.54
 'George Clooney',en,USA,#18e8e8,#18e8e8,2,0.54
 'Christopher Nolan',en,USA,#18e8e8,#18e8e8,2,0.54
+'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,2,0.54
 'Stephen Hawking',en,UK,#e838e8,#e838e8,2,0.54
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,2,0.54
 'Adolf Hitler',en,Deutschland,#1818e8,#1818e8,2,0.54
@@ -30,8 +31,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,2,0.54
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,2,0.54
 'Scott Morrison',en,Australien,#111111,#111111,2,0.54
-'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,2,0.54
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,2,0.54
+'Willy Brandt',en,Deutschland,#1818e8,#1818e8,2,0.54
 'Rupert Murdoch',en,USA,#18e8e8,#18e8e8,2,0.54
 'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,2,0.54
 'Vladimir Putin',en,Russland,#e81818,#e81818,2,0.54
@@ -39,7 +40,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,2,0.54
 'Geoffrey Hinton',en,UK,#e838e8,#e838e8,2,0.54
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,2,0.54
-'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,2,0.54
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.5321455237901636
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.5308912527272727
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.5291167813636364
@@ -168,7 +168,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chez Krömer',en,Deutschland,#1818e8,#1818e8,1,0.1915919539374999
 'Ali Chamenei',en,Iran,#111111,#111111,3,0.1915300192224583
 'Jair Bolsonaro',en,Brasilien,#58e838,#58e848,3,0.191220077650967
-'Markus Söder',en,Deutschland,#1818e8,#1818e8,2,0.1911864288510572
 'Wolodymyr Selenskyj',en,Ukraine,#e818e8,#e818e8,3,0.190339776168724
 'Sergej Lawrow',en,Russland,#e81818,#e81818,3,0.1901162263136014
 'Edward Snowden',en,USA,#18e8e8,#18e8e8,1,0.189299821846266
@@ -242,6 +241,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolodymyr Selenski',en,Ukraine,#e818e8,#e818e8,1,0.163572193295483
 'Christian Drosten',en,Deutschland,#1818e8,#1818e8,2,0.1631904485788493
 'Martin Sonneborn',en,Deutschland,#1818e8,#1818e8,1,0.1626472021141365
+'Markus Söder',en,Deutschland,#1818e8,#1818e8,1,0.1625088395233986
 'Christoph Heusgen',en,Deutschland,#1818e8,#1818e8,1,0.1624327942537363
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.1619899913519324
 'Melinda Gates',en,USA,#18e8e8,#18e8e8,1,0.1608978664171119
@@ -253,7 +253,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thomas Haldenwang',en,Deutschland,#1818e8,#1818e8,1,0.1572592183303716
 'Stefan Rahmstorf',en,Deutschland,#1818e8,#1818e8,2,0.1562787274652232
 'Schellnhuber',en,Deutschland,#1818e8,#1818e8,2,0.1561445892631967
-'Igor Setschin',en,Russland,#e81818,#e81818,1,0.15580639940839638
+'Igor Setschin',en,Russland,#e81818,#e81818,1,0.1558063994083963
 'Alexander Lukaschenko',en,Belarus,#e81858,#e81858,3,0.1555284624071802
 'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.1549586520953789
 'Mojib Latif',en,Deutschland,#1818e8,#1818e8,1,0.1542132362785454
