@@ -1,17 +1,16 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.5451881477272728
 'Milo Yiannopoulos',en,UK,#e838e8,#e838e8,3,0.5451786377272727
-'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.5412268072727273
 'Herschel Walker',en,USA,#18e8e8,#18e8e8,2,0.5406334381818182
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,3,0.5404011141136363
+'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.54
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,2,0.54
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,2,0.54
-'Rupert Murdoch',en,USA,#18e8e8,#18e8e8,2,0.54
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,2,0.54
-'Geoffrey Hinton',en,UK,#e838e8,#e838e8,2,0.54
+'Rupert Murdoch',en,USA,#18e8e8,#18e8e8,2,0.54
 'George Bush',en,USA,#18e8e8,#18e8e8,2,0.54
-'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.54
 'Stephen Hawking',en,UK,#e838e8,#e838e8,2,0.54
+'Geoffrey Hinton',en,UK,#e838e8,#e838e8,2,0.54
 'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.5390354992499999
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.5385834830166432
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.5367661027272728
@@ -55,6 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,2,0.5
 'Kanye West',en,USA,#18e8e8,#18e8e8,3,0.4988835999204545
 'Recep Tayyip Erdogan',en,Türkei,#111111,#111111,3,0.4974657611590909
+'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.496814823
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.496062178841534
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4956662220840908
 'William Shakespeare',en,UK,#e838e8,#e838e8,2,0.4912269572727273
@@ -81,10 +81,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,2,0.46840009
 'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,1,0.46750009
 'Katja Krasavice',en,Deutschland,#1818e8,#1818e8,1,0.46750003
-'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,1,0.4675
-'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.4675
 'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.4675
 'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.4675
+'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,1,0.4675
+'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.4675
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,3,0.4657134795909091
 'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.46395444
 'Andrew Tate',en,USA,#18e8e8,#18e8e8,3,0.4592473867727273
