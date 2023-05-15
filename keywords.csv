@@ -3,14 +3,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Milo Yiannopoulos',en,UK,#e838e8,#e838e8,3,0.5451786377272727
 'Herschel Walker',en,USA,#18e8e8,#18e8e8,2,0.5406334381818182
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,3,0.5404011141136363
-'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.54
+'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,2,0.54
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,2,0.54
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,2,0.54
-'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,2,0.54
-'Rupert Murdoch',en,USA,#18e8e8,#18e8e8,2,0.54
+'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.54
+'Geoffrey Hinton',en,UK,#e838e8,#e838e8,2,0.54
 'George Bush',en,USA,#18e8e8,#18e8e8,2,0.54
 'Stephen Hawking',en,UK,#e838e8,#e838e8,2,0.54
-'Geoffrey Hinton',en,UK,#e838e8,#e838e8,2,0.54
+'Rupert Murdoch',en,USA,#18e8e8,#18e8e8,2,0.54
 'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.5390354992499999
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.5385834830166432
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.5367661027272728
@@ -236,7 +236,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aleksandar Vucic',en,Serbien,#111111,#111111,3,0.1760835580301185
 'Andrzej Duda',en,Polen,#111111,#111111,3,0.1754131686451492
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,2,0.1747205822230828
-'Kevin Kühnert',en,Deutschland,#1818e8,#1818e8,2,0.1745205048721964
 'Sahra Wagenknecht',en,Deutschland,#1818e8,#1818e8,3,0.173142414839009
 'Alice Weidel',en,Deutschland,#1818e8,#1818e8,1,0.1730025649328061
 'Robin Li',en,China,#e88818,#e88818,2,0.1723977670136602
@@ -292,6 +291,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karl Nehammer',en,Oesterreich,#111111,#111111,1,0.1493479895384843
 'Julian Assange',en,Australien,#111111,#111111,2,0.149083180581724
 'Sundar Pichai',en,USA,#18e8e8,#18e8e8,2,0.1487998280479419
+'Kevin Kühnert',en,Deutschland,#1818e8,#1818e8,2,0.14849244414136692
 'Fidel Castro',en,Kuba,#111111,#111111,1,0.1482441221394831
 'Julia Koch',en,USA,#18e8e8,#18e8e8,2,0.1474606893609312
 'Badri Hosseini Chamenei',en,Iran,#111111,#111111,1,0.1464430820964225
