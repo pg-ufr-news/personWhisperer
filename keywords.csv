@@ -22,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winston Churchill',en,UK,#e838e8,#e838e8,3,0.5094106504545455
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.5077958325352272
 'Alfred Nobel',en,Schweden,#111111,#111111,2,0.5074948494444445
-'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.5072562588181818
 'Prince Andrew',en,UK,#e838e8,#e838e8,2,0.506
 'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.5057510339
 'Geoffrey Hinton',en,UK,#e838e8,#e838e8,2,0.504869815909091
@@ -46,6 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,2,0.4957749318181818
 'Stephen Hawking',en,UK,#e838e8,#e838e8,2,0.4957698318181818
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4956662220840908
+'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.49521037908636356
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.4925899361818181
 'William Shakespeare',en,UK,#e838e8,#e838e8,2,0.4912269572727273
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.4912251122727273
@@ -85,14 +85,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.45900015
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.45900006
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,1,0.459000045
-'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.459
 'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.459
-'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.459
-'Hillary Clinton',en,USA,#18e8e8,#18e8e8,1,0.459
+'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.459
+'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.459
+'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.459
-'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459
+'Hillary Clinton',en,USA,#18e8e8,#18e8e8,1,0.459
 'Lula da Silva',en,Brasilien,#58e838,#58e848,3,0.455622271790909
 'Akshata Murty',en,Indien,#111111,#111111,3,0.447983289141534
 'Adolf Hitler',en,Deutschland,#1818e8,#1818e8,3,0.4479545068863637
