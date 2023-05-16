@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.529314811
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.5291167813636364
 'Finnegan Biden',en,USA,#18e8e8,#18e8e8,3,0.5285838375454546
 'Recep Tayyip Erdoan',en,Türkei,#111111,#111111,3,0.5279019668636363
@@ -72,6 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.4686741498181817
 'Billy Graham',en,USA,#18e8e8,#18e8e8,3,0.4684984095454546
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,3,0.4657134795909091
+'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.46396245844090905
 'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.4631318393624999
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4627760355641466
 'Harry Belafonte',en,USA,#18e8e8,#18e8e8,2,0.4606394913409091
