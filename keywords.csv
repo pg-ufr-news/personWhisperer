@@ -3,14 +3,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Milo Yiannopoulos',en,UK,#e838e8,#e838e8,3,0.5451786377272727
 'Herschel Walker',en,USA,#18e8e8,#18e8e8,2,0.5406334381818182
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,3,0.5404011141136363
-'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,2,0.54
+'Steven Spielberg',en,USA,#18e8e8,#18e8e8,2,0.54
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.54
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,2,0.54
-'Steven Spielberg',en,USA,#18e8e8,#18e8e8,2,0.54
-'Geoffrey Hinton',en,UK,#e838e8,#e838e8,2,0.54
+'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,2,0.54
+'Rupert Murdoch',en,USA,#18e8e8,#18e8e8,2,0.54
 'George Bush',en,USA,#18e8e8,#18e8e8,2,0.54
 'Stephen Hawking',en,UK,#e838e8,#e838e8,2,0.54
-'Rupert Murdoch',en,USA,#18e8e8,#18e8e8,2,0.54
+'Geoffrey Hinton',en,UK,#e838e8,#e838e8,2,0.54
 'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.5390354992499999
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.5367661027272728
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.5366812327272728
@@ -78,10 +78,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,2,0.46840009
 'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,1,0.46750009
 'Katja Krasavice',en,Deutschland,#1818e8,#1818e8,1,0.46750003
-'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.4675
 'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.4675
-'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.4675
+'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.4675
 'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,1,0.4675
+'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.4675
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,3,0.4657134795909091
 'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.46395444
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4627760355641466
@@ -236,6 +236,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aleksandar Vucic',en,Serbien,#111111,#111111,3,0.1760835580301185
 'Andrzej Duda',en,Polen,#111111,#111111,3,0.1754131686451492
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,2,0.1747205822230828
+'Christine Lagarde',en,EU,#111111,#111111,3,0.17447872646602744
 'Sahra Wagenknecht',en,Deutschland,#1818e8,#1818e8,3,0.173142414839009
 'Alice Weidel',en,Deutschland,#1818e8,#1818e8,1,0.1730025649328061
 'Robin Li',en,China,#e88818,#e88818,2,0.1723977670136602
@@ -258,7 +259,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrea Lindholz',en,Deutschland,#1818e8,#1818e8,1,0.1682330934331513
 'Heinrich XIII. Prinz Reuß',en,Deutschland,#1818e8,#1818e8,2,0.1676748213520621
 'Nicola Beer',en,EU,#111111,#111111,1,0.167632495792913
-'Christine Lagarde',en,EU,#111111,#111111,3,0.1673524284627061
 'Kim Jong-un',en,NordKorea,#e85858,#e85858,3,0.1669946821293978
 'Justin Trudeau',en,Kanada,#111111,#111111,3,0.1666488751065485
 'Andrew Forrest',en,Australien,#111111,#111111,1,0.1662290245973235
