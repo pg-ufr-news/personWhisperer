@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Finnegan Biden',en,USA,#18e8e8,#18e8e8,3,0.5285838375454546
 'Recep Tayyip Erdoan',en,Türkei,#111111,#111111,3,0.5279019668636363
 'Ed McVey',en,UK,#e838e8,#e838e8,2,0.5269965045454545
-'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.5249997521818182
 'Herschel Walker',en,USA,#18e8e8,#18e8e8,3,0.5235809215454545
 'Margaret Thatcher',en,UK,#e838e8,#e838e8,3,0.5230441790909091
 'Jack Teixeira',en,USA,#18e8e8,#18e8e8,3,0.522469155
@@ -25,6 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alfred Nobel',en,Schweden,#111111,#111111,2,0.5074948494444445
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.5072562588181818
 'Prince Andrew',en,UK,#e838e8,#e838e8,2,0.506
+'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.5057510339
 'Geoffrey Hinton',en,UK,#e838e8,#e838e8,2,0.504869815909091
 'Leonardo DiCaprio',en,USA,#18e8e8,#18e8e8,2,0.5048680759090909
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.5048602909090909
@@ -85,14 +85,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.45900015
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.45900006
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,1,0.459000045
-'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.459
+'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.459
 'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.459
-'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.459
-'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459
+'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.459
+'Hillary Clinton',en,USA,#18e8e8,#18e8e8,1,0.459
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.459
-'Hillary Clinton',en,USA,#18e8e8,#18e8e8,1,0.459
+'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Lula da Silva',en,Brasilien,#58e838,#58e848,3,0.455622271790909
 'Akshata Murty',en,Indien,#111111,#111111,3,0.447983289141534
 'Adolf Hitler',en,Deutschland,#1818e8,#1818e8,3,0.4479545068863637
@@ -326,7 +326,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jochen Thewes',en,Deutschland,#1818e8,#1818e8,1,0.1212283256646623
 'Klaus Hasselmann',en,Deutschland,#1818e8,#1818e8,1,0.1212159076514837
 'Sergey Brin',en,USA,#18e8e8,#18e8e8,1,0.1204010720496926
-'Martin Sonneborn',en,Deutschland,#1818e8,#1818e8,1,0.11751260352746361
+'Martin Sonneborn',en,Deutschland,#1818e8,#1818e8,1,0.1175126035274636
 'Alberto Ángel Fernández',en,Argentinien,#111111,#111111,1,0.1155569800506883
 'Lee Hsien Loong',en,Singapur,#111111,#111111,1,0.1155152699447566
 'Tamim bin Hamad Al-Thani',en,Katar,#111111,#111111,2,0.1072160810781233
