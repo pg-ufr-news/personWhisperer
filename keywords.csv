@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Yoon Suk Yeol',en,SüdKorea,#111111,#111111,3,0.5497529604318181
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.5291167813636364
 'Finnegan Biden',en,USA,#18e8e8,#18e8e8,3,0.5285838375454546
 'Recep Tayyip Erdoan',en,Türkei,#111111,#111111,3,0.5279019668636363
@@ -9,7 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bruce Springsteen',en,USA,#18e8e8,#18e8e8,2,0.5224567800000001
 'Chris Hipkins',en,Neuseeland,#1818e8,#1818e8,3,0.5179820727272727
 'Katy Perry',en,USA,#18e8e8,#18e8e8,2,0.5179335854545455
-'Yoon Suk Yeol',en,SüdKorea,#111111,#111111,3,0.5179258304545454
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.5167936331806818
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,2,0.513969545
 'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,2,0.513950975
@@ -44,7 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stephen Hawking',en,UK,#e838e8,#e838e8,2,0.4957698318181818
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4956662220840908
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4952103790863635
-'Geoffrey Hinton',en,UK,#e838e8,#e838e8,3,0.49319103761363636
+'Geoffrey Hinton',en,UK,#e838e8,#e838e8,3,0.4931910376136363
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.4925899361818181
 'William Shakespeare',en,UK,#e838e8,#e838e8,2,0.4912269572727273
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.4912251122727273
