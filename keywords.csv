@@ -40,7 +40,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rupert Murdoch',en,USA,#18e8e8,#18e8e8,3,0.4982153143636363
 'Recep Tayyip Erdogan',en,Türkei,#111111,#111111,3,0.4974657611590909
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.496814823
-'Steven Spielberg',en,USA,#18e8e8,#18e8e8,2,0.4957749318181818
 'Stephen Hawking',en,UK,#e838e8,#e838e8,2,0.4957698318181818
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4956662220840908
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4952103790863635
@@ -83,14 +82,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.45900015
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.45900006
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,1,0.459000045
-'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.459
-'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.459
-'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.459
-'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459
-'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.459
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,1,0.459
+'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.459
+'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.459
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.459
+'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.459
+'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.459
+'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Lula da Silva',en,Brasilien,#58e838,#58e848,3,0.455622271790909
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.4554887075727272
 'Akshata Murty',en,Indien,#111111,#111111,3,0.447983289141534
@@ -99,6 +98,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jordan Bardella',en,Frankreich,#e8e808,#e8e808,1,0.4406401665
 'George Bush',en,USA,#18e8e8,#18e8e8,3,0.4382153743636364
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,2,0.4381316939999999
+'Steven Spielberg',en,USA,#18e8e8,#18e8e8,2,0.43091110659090903
 'Albert Einstein',en,Deutschland,#1818e8,#1818e8,3,0.4290901302727272
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.4289157651264783
 'Anne Will',en,Deutschland,#1818e8,#1818e8,2,0.4278387052045453
