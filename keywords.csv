@@ -53,7 +53,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.4831210524016282
 'Lionel Richie',en,USA,#18e8e8,#18e8e8,3,0.4825071609431818
 'Prince Harry',en,UK,#e838e8,#e838e8,2,0.4822318418181818
-'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.4821501181818182
 'Henry Ford',en,USA,#18e8e8,#18e8e8,2,0.4821373081818182
 'Helmut Kohl',en,Deutschland,#1818e8,#1818e8,3,0.4811268195681819
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,3,0.4779302656329545
@@ -80,8 +79,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.45900015
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.45900006
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,1,0.459000045
-'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459
+'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.459
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.459
@@ -90,6 +89,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Lula da Silva',en,Brasilien,#58e838,#58e848,3,0.455622271790909
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.4554887075727272
+'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.45115962681818184
 'Akshata Murty',en,Indien,#111111,#111111,3,0.447983289141534
 'Adolf Hitler',en,Deutschland,#1818e8,#1818e8,3,0.4479545068863637
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4440623204052272
