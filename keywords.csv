@@ -80,14 +80,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.45900015
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.45900006
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,1,0.459000045
-'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.459
+'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.459
-'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.459
-'Hillary Clinton',en,USA,#18e8e8,#18e8e8,1,0.459
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.459
+'Hillary Clinton',en,USA,#18e8e8,#18e8e8,1,0.459
 'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.459
+'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Lula da Silva',en,Brasilien,#58e838,#58e848,3,0.455622271790909
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.4554887075727272
 'Akshata Murty',en,Indien,#111111,#111111,3,0.447983289141534
@@ -168,6 +168,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.219827957022201
 'Warren Buffett',en,USA,#18e8e8,#18e8e8,2,0.2195180810644239
 'Jeff Bezos',en,USA,#18e8e8,#18e8e8,3,0.2182748552054456
+'Mark Rutte',en,Niederlande,#111111,#111111,3,0.2155660343016591
 'Michelle Obama',en,USA,#18e8e8,#18e8e8,3,0.2143303227779324
 'Charles Michel',en,EU,#111111,#111111,3,0.2103896112766485
 'König Charles III',en,UK,#e838e8,#e838e8,1,0.2086885739491194
@@ -187,7 +188,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klaus-Michael Kühne',en,Deutschland,#1818e8,#1818e8,1,0.1981075156789941
 'Tamim Hamad Thani',en,Katar,#111111,#111111,1,0.1953225600778274
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,1,0.1950739991294
-'Mark Rutte',en,Niederlande,#111111,#111111,3,0.1943050045260161
 'Rafael Grossi',en,UN,#e888e8,#e888e8,3,0.1940986615712149
 'Frank-Walter Steinmeier',en,Deutschland,#1818e8,#1818e8,3,0.1937903750239842
 'Tino Chrupalla',en,Deutschland,#1818e8,#1818e8,2,0.1937899845784159
