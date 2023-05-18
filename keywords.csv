@@ -50,7 +50,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leonardo da Vinci',en,Italien,#111111,#111111,2,0.4860879536363636
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.4841271665386363
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.4831210524016282
-'Lionel Richie',en,USA,#18e8e8,#18e8e8,3,0.4825071609431818
 'Prince Harry',en,UK,#e838e8,#e838e8,2,0.4822318418181818
 'Henry Ford',en,USA,#18e8e8,#18e8e8,2,0.4821373081818182
 'Helmut Kohl',en,Deutschland,#1818e8,#1818e8,3,0.4811268195681819
@@ -62,6 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alvin Bragg',en,USA,#18e8e8,#18e8e8,3,0.4741346288205113
 'Wang Wentao',en,China,#e88818,#e88818,1,0.4714530827499999
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.4703773714090909
+'Lionel Richie',en,USA,#18e8e8,#18e8e8,3,0.46965057134715904
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.4686741498181817
 'Billy Graham',en,USA,#18e8e8,#18e8e8,3,0.4684984095454546
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,3,0.4657134795909091
@@ -78,14 +78,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.45900015
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.45900006
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,1,0.459000045
+'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.459
-'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.459
-'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.459
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,1,0.459
 'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.459
+'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.459
 'Lula da Silva',en,Brasilien,#58e838,#58e848,3,0.455622271790909
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.4554887075727272
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.4511596268181818
@@ -165,7 +165,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dalai Lama',en,Tibet,#111111,#111111,3,0.229547663263707
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,3,0.2238027784379481
 'Wladimir Putin',en,Russland,#e81818,#e81818,1,0.2212565286386117
-'Gerhard Schröder',en,Deutschland,#1818e8,#1818e8,1,0.21991755341931968
+'Gerhard Schröder',en,Deutschland,#1818e8,#1818e8,1,0.2199175534193196
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.219827957022201
 'Warren Buffett',en,USA,#18e8e8,#18e8e8,2,0.2195180810644239
 'Jeff Bezos',en,USA,#18e8e8,#18e8e8,3,0.2182748552054456
