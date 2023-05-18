@@ -224,7 +224,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gregor Gysi',en,Deutschland,#1818e8,#1818e8,2,0.1793542177960141
 'Bodo Ramelow',en,Deutschland,#1818e8,#1818e8,2,0.179319631146918
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,3,0.1791814186330721
-'Michael Ballweg',en,Deutschland,#1818e8,#1818e8,1,0.1791192817129013
 'Alexei Nawalny',en,Russland,#e81818,#e81818,1,0.17902709058091
 'Benjamin Netanyahu',en,Israel,#111111,#111111,2,0.1788300694522177
 'Generalbundesanwalt Peter Frank',en,Deutschland,#1818e8,#1818e8,2,0.1786992641249632
@@ -286,6 +285,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mojib Latif',en,Deutschland,#1818e8,#1818e8,1,0.1542132362785454
 'Tamim bin Hamad Al Thani',en,Katar,#111111,#111111,2,0.1538850659788552
 'Paul Ronzheimer',en,Deutschland,#1818e8,#1818e8,1,0.153673138569364
+'Michael Ballweg',en,Deutschland,#1818e8,#1818e8,1,0.1522513894559661
 'Wolfgang Schäuble',en,Deutschland,#1818e8,#1818e8,2,0.1520164994242472
 'Anthony Fauci',en,USA,#18e8e8,#18e8e8,1,0.1519419979108522
 'Sergej Lavrov',en,Russland,#e81818,#e81818,1,0.1498178032333499
