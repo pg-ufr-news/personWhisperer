@@ -210,7 +210,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Freund',en,EU,#111111,#111111,3,0.1888132190045975
 'Marco Buschmann',en,Deutschland,#1818e8,#1818e8,3,0.1886627991579304
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,2,0.1857048246347956
-'Mahmud Abbas',en,Palistina,#111111,#111111,2,0.1855698821979333
 'Katarina Barley',en,EU,#111111,#111111,1,0.1851917272145462
 'Markus Krebber',en,Deutschland,#1818e8,#1818e8,1,0.1851339386817144
 'Lukaschenko',en,Belarus,#e81858,#e81858,3,0.1837074882022694
@@ -276,6 +275,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cyril Ramaphosa',en,Südafrika,#111111,#111111,2,0.1594663509329859
 'Ulf Poschardt',en,Deutschland,#1818e8,#1818e8,2,0.1585813326059911
 'Joko Widodo',en,Indonesien,#111111,#111111,1,0.1579323517396349
+'Mahmud Abbas',en,Palistina,#111111,#111111,1,0.1577346848682433
 'Alice Schwarzer',en,Deutschland,#1818e8,#1818e8,2,0.1576527794525236
 'Thomas Haldenwang',en,Deutschland,#1818e8,#1818e8,1,0.1572592183303716
 'Stefan Rahmstorf',en,Deutschland,#1818e8,#1818e8,2,0.1562787274652232
