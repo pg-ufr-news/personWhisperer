@@ -13,7 +13,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Meg Bellamy',en,UK,#e838e8,#e838e8,2,0.51340119325
 'Prince Archie',en,UK,#e838e8,#e838e8,2,0.5133792209090909
 'Queen Camilla',en,UK,#e838e8,#e838e8,2,0.51
-'Winston Churchill',en,UK,#e838e8,#e838e8,3,0.5094106504545455
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.5077958325352272
 'Alfred Nobel',en,Schweden,#111111,#111111,2,0.5074948494444445
 'Prince Andrew',en,UK,#e838e8,#e838e8,2,0.506
@@ -47,11 +46,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Napoleon Bonaparte',en,Frankreich,#e8e808,#e8e808,2,0.4866782627272727
 'Leonardo da Vinci',en,Italien,#111111,#111111,2,0.4860879536363636
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.4841271665386363
+'Winston Churchill',en,UK,#e838e8,#e838e8,3,0.4834105133409091
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.4831210524016282
 'Prince Harry',en,UK,#e838e8,#e838e8,2,0.4822318418181818
 'Henry Ford',en,USA,#18e8e8,#18e8e8,2,0.4821373081818182
 'Helmut Kohl',en,Deutschland,#1818e8,#1818e8,3,0.4811268195681819
-'Finnegan Biden',en,USA,#18e8e8,#18e8e8,3,0.48038319319477274
+'Finnegan Biden',en,USA,#18e8e8,#18e8e8,3,0.4803831931947727
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,3,0.4779302656329545
 'George Washington',en,USA,#18e8e8,#18e8e8,3,0.4776384736363636
 'Scott Morrison',en,Australien,#111111,#111111,3,0.4775890786363636
@@ -77,10 +77,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.45900015
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.45900006
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,1,0.459000045
+'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.459
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459
-'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,1,0.459
 'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.459
