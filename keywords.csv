@@ -255,7 +255,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boris Palmer',en,Deutschland,#1818e8,#1818e8,1,0.1685351983509038
 'Andreas Baum',en,Deutschland,#1818e8,#1818e8,1,0.168427951669922
 'Andrea Lindholz',en,Deutschland,#1818e8,#1818e8,1,0.1682330934331513
-'Heinrich XIII. Prinz Reuß',en,Deutschland,#1818e8,#1818e8,2,0.1676748213520621
 'Nicola Beer',en,EU,#111111,#111111,1,0.167632495792913
 'Kim Jong-un',en,NordKorea,#e85858,#e85858,3,0.1669946821293978
 'Justin Trudeau',en,Kanada,#111111,#111111,3,0.1666488751065485
@@ -302,6 +301,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jitzchak Herzog',en,Israel,#111111,#111111,1,0.1432453703487191
 'Steffi Lemke',en,Deutschland,#1818e8,#1818e8,3,0.1429699926042515
 'Rainer Maria Woelki',en,Deutschland,#1818e8,#1818e8,2,0.1426343310110069
+'Heinrich XIII. Prinz Reuß',en,Deutschland,#1818e8,#1818e8,1,0.14252359814925278
 'Jair Lapid',en,Israel,#111111,#111111,2,0.140834487165512
 'Christian Drosten',en,Deutschland,#1818e8,#1818e8,2,0.1388618962920219
 'Joana Cotar',en,Deutschland,#1818e8,#1818e8,1,0.1383847895568137
