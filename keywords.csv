@@ -208,7 +208,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.189021618034757
 'Vitali Klitschko',en,Ukraine,#e818e8,#e818e8,3,0.1889048929591594
 'Daniel Freund',en,EU,#111111,#111111,3,0.1888132190045975
-'Marco Buschmann',en,Deutschland,#1818e8,#1818e8,3,0.1886627991579304
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,2,0.1857048246347956
 'Katarina Barley',en,EU,#111111,#111111,1,0.1851917272145462
 'Markus Krebber',en,Deutschland,#1818e8,#1818e8,1,0.1851339386817144
@@ -270,6 +269,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Söder',en,Deutschland,#1818e8,#1818e8,1,0.1625088395233986
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.1619899913519324
 'Melinda Gates',en,USA,#18e8e8,#18e8e8,1,0.1608978664171119
+'Marco Buschmann',en,Deutschland,#1818e8,#1818e8,2,0.16036358928424085
 'Cyril Ramaphosa',en,Südafrika,#111111,#111111,2,0.1594663509329859
 'Ulf Poschardt',en,Deutschland,#1818e8,#1818e8,2,0.1585813326059911
 'Joko Widodo',en,Indonesien,#111111,#111111,1,0.1579323517396349
@@ -301,7 +301,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jitzchak Herzog',en,Israel,#111111,#111111,1,0.1432453703487191
 'Steffi Lemke',en,Deutschland,#1818e8,#1818e8,3,0.1429699926042515
 'Rainer Maria Woelki',en,Deutschland,#1818e8,#1818e8,2,0.1426343310110069
-'Heinrich XIII. Prinz Reuß',en,Deutschland,#1818e8,#1818e8,1,0.14252359814925278
+'Heinrich XIII. Prinz Reuß',en,Deutschland,#1818e8,#1818e8,1,0.1425235981492527
 'Jair Lapid',en,Israel,#111111,#111111,2,0.140834487165512
 'Christian Drosten',en,Deutschland,#1818e8,#1818e8,2,0.1388618962920219
 'Joana Cotar',en,Deutschland,#1818e8,#1818e8,1,0.1383847895568137
