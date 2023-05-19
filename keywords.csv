@@ -37,7 +37,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.496814823
 'Stephen Hawking',en,UK,#e838e8,#e838e8,2,0.4957698318181818
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4956662220840908
-'Finnegan Biden',en,USA,#18e8e8,#18e8e8,3,0.4951584278227273
 'Yoon Suk Yeol',en,SüdKorea,#111111,#111111,3,0.4949881090943181
 'Geoffrey Hinton',en,UK,#e838e8,#e838e8,3,0.4931910376136363
 'William Shakespeare',en,UK,#e838e8,#e838e8,2,0.4912269572727273
@@ -52,6 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Harry',en,UK,#e838e8,#e838e8,2,0.4822318418181818
 'Henry Ford',en,USA,#18e8e8,#18e8e8,2,0.4821373081818182
 'Helmut Kohl',en,Deutschland,#1818e8,#1818e8,3,0.4811268195681819
+'Finnegan Biden',en,USA,#18e8e8,#18e8e8,3,0.48038319319477274
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,3,0.4779302656329545
 'George Washington',en,USA,#18e8e8,#18e8e8,3,0.4776384736363636
 'Scott Morrison',en,Australien,#111111,#111111,3,0.4775890786363636
@@ -77,10 +77,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.45900015
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.45900006
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,1,0.459000045
+'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.459
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.459
-'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.459
 'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,1,0.459
 'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.459
