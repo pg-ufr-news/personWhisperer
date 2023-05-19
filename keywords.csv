@@ -9,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.5167936331806818
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,2,0.513969545
 'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,2,0.513950975
-'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.5138525521590908
 'Meg Bellamy',en,UK,#e838e8,#e838e8,2,0.51340119325
 'Prince Archie',en,UK,#e838e8,#e838e8,2,0.5133792209090909
 'Queen Camilla',en,UK,#e838e8,#e838e8,2,0.51
@@ -17,6 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alfred Nobel',en,Schweden,#111111,#111111,2,0.5074948494444445
 'Prince Andrew',en,UK,#e838e8,#e838e8,2,0.506
 'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.5057510339
+'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.5053649779715907
 'Leonardo DiCaprio',en,USA,#18e8e8,#18e8e8,2,0.5048680759090909
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.5048602909090909
 'Prince Louis',en,UK,#e838e8,#e838e8,3,0.5042911468181819
