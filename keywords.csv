@@ -72,18 +72,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.4593413235
 'Andrew Tate',en,USA,#18e8e8,#18e8e8,3,0.4592473867727273
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,1,0.459000405
-'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,1,0.45900018
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.45900015
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.45900006
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,1,0.459000045
+'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.459
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.459
-'Hillary Clinton',en,USA,#18e8e8,#18e8e8,1,0.459
-'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.459
 'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.459
+'Hillary Clinton',en,USA,#18e8e8,#18e8e8,1,0.459
 'Lula da Silva',en,Brasilien,#58e838,#58e848,3,0.455622271790909
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.4554887075727272
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.4511596268181818
@@ -102,6 +101,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anne Will',en,Deutschland,#1818e8,#1818e8,2,0.4278387052045453
 'Prince William',en,UK,#e838e8,#e838e8,3,0.4086241997965908
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,2,0.4068144164166666
+'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,1,0.40543668163636365
 'Rudolf Steiner',en,Oesterreich,#111111,#111111,1,0.4036388095384615
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,2,0.3990401665
 'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,1,0.3979751365
