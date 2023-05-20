@@ -33,7 +33,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rupert Murdoch',en,USA,#18e8e8,#18e8e8,3,0.4982153143636363
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.496814823
 'Stephen Hawking',en,UK,#e838e8,#e838e8,2,0.4957698318181818
-'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4956662220840908
 'Yoon Suk Yeol',en,SüdKorea,#111111,#111111,3,0.4949881090943181
 'Geoffrey Hinton',en,UK,#e838e8,#e838e8,3,0.4931910376136363
 'William Shakespeare',en,UK,#e838e8,#e838e8,2,0.4912269572727273
@@ -56,6 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mathias Döpfner',en,Deutschland,#1818e8,#1818e8,1,0.4751502775
 'Alvin Bragg',en,USA,#18e8e8,#18e8e8,3,0.4741346288205113
 'Recep Tayyip Erdogan',en,Türkei,#111111,#111111,3,0.4732703774397727
+'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.47172842422602257
 'Wang Wentao',en,China,#e88818,#e88818,1,0.4714530827499999
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.4703773714090909
 'Lionel Richie',en,USA,#18e8e8,#18e8e8,3,0.469650571347159
@@ -103,10 +103,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,2,0.3990401665
 'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,1,0.3979751365
 'Katja Krasavice',en,Deutschland,#1818e8,#1818e8,1,0.3975250405
-'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.397375
-'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,1,0.397375
+'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.397375
+'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.390600096
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,1,0.39060008325
 'Dieter Bohlen',en,Deutschland,#1818e8,#1818e8,2,0.39042752775
