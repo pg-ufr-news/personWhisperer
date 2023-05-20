@@ -103,10 +103,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,2,0.3990401665
 'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,1,0.3979751365
 'Katja Krasavice',en,Deutschland,#1818e8,#1818e8,1,0.3975250405
-'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.397375
-'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,1,0.397375
+'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.397375
+'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.390600096
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,1,0.39060008325
 'Dieter Bohlen',en,Deutschland,#1818e8,#1818e8,2,0.39042752775
@@ -136,7 +136,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Lindner',en,Deutschland,#1818e8,#1818e8,3,0.277578331234168
 'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.2710823461358623
 'Frank Plasberg',en,Deutschland,#1818e8,#1818e8,1,0.2698772312499999
-'Jan Böhmermann',en,Deutschland,#1818e8,#1818e8,3,0.2696707451532107
 'Faisal Kawusi',en,Deutschland,#1818e8,#1818e8,1,0.26570118125
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.2613627868007684
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.2603064424831197
@@ -163,6 +162,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Friedrich Merz',en,Deutschland,#1818e8,#1818e8,3,0.2331342480701452
 'Joschka Fischer',en,Deutschland,#1818e8,#1818e8,1,0.2324487513776068
 'Dalai Lama',en,Tibet,#111111,#111111,3,0.229547663263707
+'Jan Böhmermann',en,Deutschland,#1818e8,#1818e8,3,0.2293701483802291
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,3,0.2238027784379481
 'Wladimir Putin',en,Russland,#e81818,#e81818,1,0.2212565286386117
 'Gerhard Schröder',en,Deutschland,#1818e8,#1818e8,1,0.2199175534193196
