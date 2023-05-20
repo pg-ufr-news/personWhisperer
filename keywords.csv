@@ -82,7 +82,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.459
 'Lula da Silva',en,Brasilien,#58e838,#58e848,3,0.455622271790909
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.4554887075727272
-'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.4511596268181818
 'Akshata Murty',en,Indien,#111111,#111111,3,0.447983289141534
 'Adolf Hitler',en,Deutschland,#1818e8,#1818e8,3,0.4479545068863637
 'Milo Yiannopoulos',en,UK,#e838e8,#e838e8,3,0.4475198738113942
@@ -97,6 +96,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barbara Sturm',en,Deutschland,#1818e8,#1818e8,1,0.4280254995543478
 'Anne Will',en,Deutschland,#1818e8,#1818e8,2,0.4278387052045453
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.4272171996818181
+'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.4248182491590909
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.4216502775
 'Prince William',en,UK,#e838e8,#e838e8,3,0.4086241997965908
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,2,0.4068144164166666
