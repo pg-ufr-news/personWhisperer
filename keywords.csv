@@ -103,10 +103,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,2,0.3990401665
 'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,1,0.3979751365
 'Katja Krasavice',en,Deutschland,#1818e8,#1818e8,1,0.3975250405
-'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.397375
-'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.397375
+'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,1,0.397375
+'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.397375
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.390600096
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,1,0.39060008325
 'Dieter Bohlen',en,Deutschland,#1818e8,#1818e8,2,0.39042752775
@@ -334,7 +334,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yanis Varoufakis',en,Griechenland,#1858e8,#1858e8,1,0.1021052404744678
 'Ayatollah Ali Chamenei',en,Iran,#111111,#111111,1,0.1003985244609884
 'Amin Nasser',en,SaudiArabien,#111111,#111111,1,0.0972738007140503
-'Miriam Adelson',en,USA,#18e8e8,#18e8e8,2,0.09457591838356136
+'Miriam Adelson',en,USA,#18e8e8,#18e8e8,2,0.0945759183835613
+'Dimitry Peskov',en,Russland,#e81818,#e81818,1,0.08943651367226256
 'Kurt Krömer',en,Deutschland,#1818e8,#1818e8,1,0.0853305961455214
 'Katalin Novak',en,Ungarn,#111111,#111111,1,0.0846712303252764
 'Larry Page',en,USA,#18e8e8,#18e8e8,1,0.0830624268893745
@@ -354,7 +355,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Amin H. Nasser',en,SaudiArabien,#111111,#111111,1,0.0470558451511601
 'Francoise Bettencourt-Meyers',en,Frankreich,#e8e808,#e8e808,1,0.0464095293347225
 'Chan Santokhi',en,Surinam,#111111,#111111,1,0.0463088452799446
-'Dimitry Peskov',en,Russland,#e81818,#e81818,1,0.0458664337320736
 'Choe Ryong-hae',en,NordKorea,#e85858,#e85858,1,0.0455994483347225
 'Gina Rinehart',en,Australien,#111111,#111111,1,0.0455994483347225
 'Helge Lund',en,UK,#e838e8,#e838e8,1,0.0455994483347225
