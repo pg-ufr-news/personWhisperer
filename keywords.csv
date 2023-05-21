@@ -13,7 +13,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.5077958325352272
 'Prince Andrew',en,UK,#e838e8,#e838e8,2,0.506
 'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.5057510339
-'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.5053649779715907
 'Leonardo DiCaprio',en,USA,#18e8e8,#18e8e8,2,0.5048680759090909
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.5048602909090909
 'Prince Louis',en,UK,#e838e8,#e838e8,3,0.5042911468181819
@@ -57,6 +56,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Recep Tayyip Erdogan',en,Türkei,#111111,#111111,3,0.4732703774397727
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4717284242260225
 'Wang Wentao',en,China,#e88818,#e88818,1,0.4714530827499999
+'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.4708771226394885
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.4703773714090909
 'Lionel Richie',en,USA,#18e8e8,#18e8e8,3,0.469650571347159
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.4686741498181817
@@ -103,10 +103,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,2,0.3990401665
 'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,1,0.3979751365
 'Katja Krasavice',en,Deutschland,#1818e8,#1818e8,1,0.3975250405
-'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.397375
-'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.397375
+'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,1,0.397375
+'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.397375
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.390600096
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,1,0.39060008325
 'Dieter Bohlen',en,Deutschland,#1818e8,#1818e8,2,0.39042752775
