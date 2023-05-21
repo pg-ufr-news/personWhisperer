@@ -48,7 +48,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Helmut Kohl',en,Deutschland,#1818e8,#1818e8,3,0.4811268195681819
 'Finnegan Biden',en,USA,#18e8e8,#18e8e8,3,0.4803831931947727
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,3,0.4779302656329545
-'George Washington',en,USA,#18e8e8,#18e8e8,3,0.4776384736363636
 'Scott Morrison',en,Australien,#111111,#111111,3,0.4775890786363636
 'Isaac Newton',en,UK,#e838e8,#e838e8,3,0.4775881036363636
 'Mathias Döpfner',en,Deutschland,#1818e8,#1818e8,1,0.4751502775
@@ -68,9 +67,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harry Belafonte',en,USA,#18e8e8,#18e8e8,2,0.4606394913409091
 'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.4593413235
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,1,0.459000405
-'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.459
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459
+'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,1,0.459
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.459
@@ -82,6 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Adolf Hitler',en,Deutschland,#1818e8,#1818e8,3,0.4479545068863637
 'Milo Yiannopoulos',en,UK,#e838e8,#e838e8,3,0.4475198738113942
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4440623204052272
+'George Washington',en,USA,#18e8e8,#18e8e8,3,0.44281462940909083
 'Lionel Messi',en,Argentinien,#111111,#111111,2,0.4422021881818181
 'Jordan Bardella',en,Frankreich,#e8e808,#e8e808,1,0.4406401665
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.4396888387090908
@@ -188,7 +188,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klaus-Michael Kühne',en,Deutschland,#1818e8,#1818e8,1,0.1981075156789941
 'Tamim Hamad Thani',en,Katar,#111111,#111111,1,0.1953225600778274
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,1,0.1950739991294
-'Jan Böhmermann',en,Deutschland,#1818e8,#1818e8,2,0.19496464112319473
+'Jan Böhmermann',en,Deutschland,#1818e8,#1818e8,2,0.1949646411231947
 'Rafael Grossi',en,UN,#e888e8,#e888e8,3,0.1940986615712149
 'Frank-Walter Steinmeier',en,Deutschland,#1818e8,#1818e8,3,0.1937903750239842
 'Tino Chrupalla',en,Deutschland,#1818e8,#1818e8,2,0.1937899845784159
