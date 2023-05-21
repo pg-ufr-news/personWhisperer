@@ -69,10 +69,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.4593413235
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,1,0.459000405
 'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.459
-'Hillary Clinton',en,USA,#18e8e8,#18e8e8,1,0.459
-'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.459
+'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.459
+'Hillary Clinton',en,USA,#18e8e8,#18e8e8,1,0.459
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Lula da Silva',en,Brasilien,#58e838,#58e848,3,0.455622271790909
@@ -162,7 +162,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Friedrich Merz',en,Deutschland,#1818e8,#1818e8,3,0.2331342480701452
 'Joschka Fischer',en,Deutschland,#1818e8,#1818e8,1,0.2324487513776068
 'Dalai Lama',en,Tibet,#111111,#111111,3,0.229547663263707
-'Jan Böhmermann',en,Deutschland,#1818e8,#1818e8,3,0.2293701483802291
 'Jack Ma',en,China,#e88818,#e88818,3,0.2254251807485522
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,3,0.2238027784379481
 'Wladimir Putin',en,Russland,#e81818,#e81818,1,0.2212565286386117
@@ -189,6 +188,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klaus-Michael Kühne',en,Deutschland,#1818e8,#1818e8,1,0.1981075156789941
 'Tamim Hamad Thani',en,Katar,#111111,#111111,1,0.1953225600778274
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,1,0.1950739991294
+'Jan Böhmermann',en,Deutschland,#1818e8,#1818e8,2,0.19496464112319473
 'Rafael Grossi',en,UN,#e888e8,#e888e8,3,0.1940986615712149
 'Frank-Walter Steinmeier',en,Deutschland,#1818e8,#1818e8,3,0.1937903750239842
 'Tino Chrupalla',en,Deutschland,#1818e8,#1818e8,2,0.1937899845784159
@@ -245,8 +245,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thierry Breton',en,EU,#111111,#111111,2,0.1707289014687776
 'Andrés Manuel López Obrador',en,Mexiko,#111111,#111111,2,0.1699002089665916
 'Lula sa Silva',en,Brasilien,#58e838,#58e838,2,0.1696511668266801
-'Kyrill',en,Ukraine,#e818e8,#e818e8,3,0.1693208263747925
 'Patriarch Kyrill',en,Ukraine,#e818e8,#e818e8,3,0.1693208263747925
+'Kyrill',en,Ukraine,#e818e8,#e818e8,3,0.1693208263747925
 'Steffen Große',en,Deutschland,#1818e8,#1818e8,3,0.1691721884226711
 'Antonio Guterres',en,UN,#e888e8,#e888e8,3,0.1690560933567332
 'Bill Gates',en,USA,#18e8e8,#18e8e8,3,0.1690003963534724
