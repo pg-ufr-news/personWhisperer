@@ -103,10 +103,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,2,0.3990401665
 'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,1,0.3979751365
 'Katja Krasavice',en,Deutschland,#1818e8,#1818e8,1,0.3975250405
-'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.397375
-'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,1,0.397375
+'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.397375
+'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.390600096
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,1,0.39060008325
 'Dieter Bohlen',en,Deutschland,#1818e8,#1818e8,2,0.39042752775
@@ -334,6 +334,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yanis Varoufakis',en,Griechenland,#1858e8,#1858e8,1,0.1021052404744678
 'Ayatollah Ali Chamenei',en,Iran,#111111,#111111,1,0.1003985244609884
 'Amin Nasser',en,SaudiArabien,#111111,#111111,1,0.0972738007140503
+'Miriam Adelson',en,USA,#18e8e8,#18e8e8,2,0.09457591838356136
 'Kurt Krömer',en,Deutschland,#1818e8,#1818e8,1,0.0853305961455214
 'Katalin Novak',en,Ungarn,#111111,#111111,1,0.0846712303252764
 'Larry Page',en,USA,#18e8e8,#18e8e8,1,0.0830624268893745
@@ -369,7 +370,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Egon Westphal',en,Deutschland,#1818e8,#1818e8,1,0.0387595310845141
 'Thomas Dörflinger',en,Deutschland,#1818e8,#1818e8,1,0.0354533577480631
 'Guillaume Pousaz',en,Schweiz,#111111,#111111,1,0.033989923248466
-'Miriam Adelson',en,USA,#18e8e8,#18e8e8,1,0.0335006569218369
 'Iris Fontbona',en,Chile,#111111,#111111,1,0.0329456014218369
 'Darren Woods',en,USA,#18e8e8,#18e8e8,1,0.0305796892309298
 'Bodo Schiffmann',en,Deutschland,#1818e8,#1818e8,1,0.0191348343959136
