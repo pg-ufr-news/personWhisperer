@@ -67,13 +67,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harry Belafonte',en,USA,#18e8e8,#18e8e8,2,0.4606394913409091
 'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.4593413235
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,1,0.459000405
+'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,1,0.459
-'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.459
-'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459
-'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.459
+'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.459
+'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Lula da Silva',en,Brasilien,#58e838,#58e848,3,0.455622271790909
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.4554887075727272
 'Andrew Tate',en,USA,#18e8e8,#18e8e8,3,0.4544045028477273
@@ -101,10 +101,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rudolf Steiner',en,Oesterreich,#111111,#111111,1,0.4036388095384615
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,2,0.3990401665
 'Katja Krasavice',en,Deutschland,#1818e8,#1818e8,1,0.3975250405
-'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.397375
 'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.397375
-'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.397375
+'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.397375
 'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,1,0.397375
+'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.390600096
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,1,0.39060008325
 'Dieter Bohlen',en,Deutschland,#1818e8,#1818e8,2,0.39042752775
@@ -157,7 +157,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barack Obama',en,USA,#18e8e8,#18e8e8,3,0.2360623095886743
 'Selenskyj',en,Ukraine,#e818e8,#e818e8,2,0.2360439356602177
 'Gabor Steingart',en,Deutschland,#1818e8,#1818e8,2,0.2354302087174241
-'Lars Klingbeil',en,Deutschland,#1818e8,#1818e8,1,0.2353561512201846
 'Christine Lambrecht',en,Deutschland,#1818e8,#1818e8,1,0.2333927906252812
 'Friedrich Merz',en,Deutschland,#1818e8,#1818e8,3,0.2331342480701452
 'Joschka Fischer',en,Deutschland,#1818e8,#1818e8,1,0.2324487513776068
@@ -181,6 +180,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Zuckerberg',en,USA,#18e8e8,#18e8e8,3,0.2029919317936823
 'Annalena Baerbock',en,Deutschland,#1818e8,#1818e8,3,0.2025103015309864
 'Roland Busch',en,Deutschland,#1818e8,#1818e8,1,0.2019087652568931
+'Lars Klingbeil',en,Deutschland,#1818e8,#1818e8,1,0.20020274353715692
 'Xi Jinping',en,China,#e88818,#e88818,3,0.1996088260611851
 'Karine Jean-Pierre',en,USA,#18e8e8,#18e8e8,3,0.1995271709756393
 'Antony Blinken',en,USA,#18e8e8,#18e8e8,3,0.1990681918825269
@@ -214,7 +214,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lukaschenko',en,Belarus,#e81858,#e81858,3,0.1837074882022694
 'Hun Sen',en,Kambodscha,#111111,#111111,1,0.1836343328764497
 'Alexej Kudrin',en,Russland,#e81818,#e81818,1,0.182192287739607
-'Andrés Manuel López Obrador',en,Mexiko,#111111,#111111,3,0.18118755943978468
+'Andrés Manuel López Obrador',en,Mexiko,#111111,#111111,3,0.1811875594397846
 'Sergej Schoigu',en,Russland,#e81818,#e81818,3,0.1807792522332517
 'Holger Münch',en,Deutschland,#1818e8,#1818e8,1,0.1805706772342975
 'Mohammed bin Salman',en,SaudiArabien,#111111,#111111,2,0.1805142416712676
