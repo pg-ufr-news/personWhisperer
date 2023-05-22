@@ -56,7 +56,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wang Wentao',en,China,#e88818,#e88818,1,0.4714530827499999
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.4708771226394885
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.4703773714090909
-'Prince Louis',en,UK,#e838e8,#e838e8,3,0.46998407615909094
+'Prince Louis',en,UK,#e838e8,#e838e8,3,0.4699840761590909
 'Lionel Richie',en,USA,#18e8e8,#18e8e8,3,0.469650571347159
 'Billy Graham',en,USA,#18e8e8,#18e8e8,3,0.4684984095454546
 'Chris Hipkins',en,Neuseeland,#1818e8,#1818e8,3,0.4679683345454545
@@ -67,12 +67,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harry Belafonte',en,USA,#18e8e8,#18e8e8,2,0.4606394913409091
 'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.4593413235
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,1,0.459000405
+'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.459
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.459
-'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.459
-'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,1,0.459
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.459
+'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Lula da Silva',en,Brasilien,#58e838,#58e848,3,0.455622271790909
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.4554887075727272
 'Andrew Tate',en,USA,#18e8e8,#18e8e8,3,0.4544045028477273
@@ -348,7 +348,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Kahle',en,Deutschland,#1818e8,#1818e8,1,0.0515684231508561
 'Doris König',en,Deutschland,#1818e8,#1818e8,1,0.0514723384068954
 'Herman Gref',en,Russland,#e81818,#e81818,1,0.0511784294393492
-'Barbara Frenkel',en,Deutschland,#1818e8,#1818e8,1,0.050900893255
 'Ethan Bradley',en,USA,#18e8e8,#18e8e8,2,0.0508912293418002
 'Erica Chenoweth',en,USA,#18e8e8,#18e8e8,1,0.0504065604288481
 'Alexei Miller',en,Russland,#e81818,#e81818,1,0.0471211057235347
@@ -359,6 +358,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gina Rinehart',en,Australien,#111111,#111111,1,0.0455994483347225
 'Helge Lund',en,UK,#e838e8,#e838e8,1,0.0455994483347225
 'Sergei Ignatjew',en,Russland,#e81818,#e81818,1,0.0455994483347225
+'Barbara Frenkel',en,Deutschland,#1818e8,#1818e8,1,0.04371580426675
 'Valery Gerasimov',en,Russland,#e81818,#e81818,1,0.0427318594887085
 'Michael Wirth',en,USA,#18e8e8,#18e8e8,1,0.0421394572375941
 'Ilham Aliyev',en,Aserbaidschan,#111111,#111111,1,0.0411372379772158
