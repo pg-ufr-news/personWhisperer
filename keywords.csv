@@ -63,7 +63,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harry Belafonte',en,USA,#18e8e8,#18e8e8,2,0.4606394913409091
 'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.4593413235
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,1,0.459000405
-'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Lula da Silva',en,Brasilien,#58e838,#58e848,3,0.455622271790909
@@ -105,10 +104,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.390600096
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,1,0.39060008325
 'Dieter Bohlen',en,Deutschland,#1818e8,#1818e8,2,0.39042752775
-'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.39015
-'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.39015
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.39015
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.39015
+'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.39015
+'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.39015
+'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Herbert Diess',en,Deutschland,#1818e8,#1818e8,2,0.3816646526742424
 'Putin',en,Russland,#e81818,#e81818,3,0.3754496622565719
 'Nina Gummich',en,Deutschland,#1818e8,#1818e8,1,0.36414
@@ -314,7 +314,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patrick Pouyanné',en,Frankreich,#e8e808,#e8e808,1,0.1339929372058043
 'Silvio Berlusconi',en,Italien,#111111,#111111,3,0.1337948566427067
 'Andreas Jödecke',en,Deutschland,#1818e8,#1818e8,1,0.131776885743496
-'Paul Ronzheimer',en,Deutschland,#1818e8,#1818e8,1,0.13062216778395938
+'Paul Ronzheimer',en,Deutschland,#1818e8,#1818e8,1,0.1306221677839593
 'Susanne Klatten',en,Deutschland,#1818e8,#1818e8,1,0.1295442907165742
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.1294581807787991
 'Otmar Issing',en,EU,#111111,#111111,1,0.1277856065152404
