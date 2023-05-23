@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'King Charles III',en,UK,#e838e8,#e838e8,3,0.5167936331806818
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,2,0.513969545
 'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,2,0.513950975
 'Meg Bellamy',en,UK,#e838e8,#e838e8,2,0.51340119325
@@ -56,6 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lionel Richie',en,USA,#18e8e8,#18e8e8,3,0.469650571347159
 'Billy Graham',en,USA,#18e8e8,#18e8e8,3,0.4684984095454546
 'Chris Hipkins',en,Neuseeland,#1818e8,#1818e8,3,0.4679683345454545
+'King Charles III',en,UK,#e838e8,#e838e8,3,0.4670507709308523
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,3,0.4657134795909091
 'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.4631318393624999
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4627760355641466
@@ -136,7 +136,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Lindner',en,Deutschland,#1818e8,#1818e8,3,0.277578331234168
 'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.2710823461358623
 'Frank Plasberg',en,Deutschland,#1818e8,#1818e8,1,0.2698772312499999
-'Jens Stoltenberg',en,Norwegen,#e818e8,#e818e8,3,0.26733906891689685
+'Jens Stoltenberg',en,Norwegen,#e818e8,#e818e8,3,0.2673390689168968
 'Faisal Kawusi',en,Deutschland,#1818e8,#1818e8,1,0.26570118125
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.2613627868007684
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.2603064424831197
