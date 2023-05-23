@@ -282,7 +282,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.1549586520953789
 'Mojib Latif',en,Deutschland,#1818e8,#1818e8,1,0.1542132362785454
 'Tamim bin Hamad Al Thani',en,Katar,#111111,#111111,2,0.1538850659788552
-'Paul Ronzheimer',en,Deutschland,#1818e8,#1818e8,1,0.153673138569364
 'Michael Ballweg',en,Deutschland,#1818e8,#1818e8,1,0.1522513894559661
 'Wolfgang Schäuble',en,Deutschland,#1818e8,#1818e8,2,0.1520164994242472
 'Anthony Fauci',en,USA,#18e8e8,#18e8e8,1,0.1519419979108522
@@ -315,6 +314,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patrick Pouyanné',en,Frankreich,#e8e808,#e8e808,1,0.1339929372058043
 'Silvio Berlusconi',en,Italien,#111111,#111111,3,0.1337948566427067
 'Andreas Jödecke',en,Deutschland,#1818e8,#1818e8,1,0.131776885743496
+'Paul Ronzheimer',en,Deutschland,#1818e8,#1818e8,1,0.13062216778395938
 'Susanne Klatten',en,Deutschland,#1818e8,#1818e8,1,0.1295442907165742
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.1294581807787991
 'Otmar Issing',en,EU,#111111,#111111,1,0.1277856065152404
