@@ -104,7 +104,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.390600096
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,1,0.39060008325
 'Dieter Bohlen',en,Deutschland,#1818e8,#1818e8,2,0.39042752775
-'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.39015
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.39015
@@ -119,6 +118,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,1,0.346271344390909
 'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,1,0.3388789260249999
 'Charles III',en,UK,#e838e8,#e838e8,3,0.3367055939626885
+'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.33162749999999996
 'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.3234161993634266
 'Wolodimir Selenski',en,Ukraine,#e818e8,#e818e8,1,0.3187308749999999
 'Georg Gänswein',en,Deutschland,#1818e8,#1818e8,1,0.3159377885874999
