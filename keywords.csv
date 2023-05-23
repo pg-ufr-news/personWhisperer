@@ -200,7 +200,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ali Chamenei',en,Iran,#111111,#111111,3,0.1915300192224583
 'Jair Bolsonaro',en,Brasilien,#58e838,#58e848,3,0.191220077650967
 'Wolodymyr Selenskyj',en,Ukraine,#e818e8,#e818e8,3,0.190339776168724
-'Sergej Lawrow',en,Russland,#e81818,#e81818,3,0.1901162263136014
 'Edward Snowden',en,USA,#18e8e8,#18e8e8,1,0.189299821846266
 'Daniel Zhang',en,China,#e88818,#e88818,2,0.1891786548864231
 'Rishi Sunak',en,UK,#e838e8,#e838e8,3,0.1890834447602599
@@ -245,8 +244,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kardinal Woelki',en,Deutschland,#1818e8,#1818e8,3,0.1709113113050359
 'Thierry Breton',en,EU,#111111,#111111,2,0.1707289014687776
 'Lula sa Silva',en,Brasilien,#58e838,#58e838,2,0.1696511668266801
-'Kyrill',en,Ukraine,#e818e8,#e818e8,3,0.1693208263747925
 'Patriarch Kyrill',en,Ukraine,#e818e8,#e818e8,3,0.1693208263747925
+'Kyrill',en,Ukraine,#e818e8,#e818e8,3,0.1693208263747925
 'Steffen Große',en,Deutschland,#1818e8,#1818e8,3,0.1691721884226711
 'Antonio Guterres',en,UN,#e888e8,#e888e8,3,0.1690560933567332
 'Bill Gates',en,USA,#18e8e8,#18e8e8,3,0.1690003963534724
@@ -268,6 +267,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stephan Harbarth',en,Deutschland,#1818e8,#1818e8,1,0.1631758778611338
 'Markus Söder',en,Deutschland,#1818e8,#1818e8,1,0.1625088395233986
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.1619899913519324
+'Sergej Lawrow',en,Russland,#e81818,#e81818,1,0.1615987923665612
 'Melinda Gates',en,USA,#18e8e8,#18e8e8,1,0.1608978664171119
 'Marco Buschmann',en,Deutschland,#1818e8,#1818e8,2,0.1603635892842408
 'Cyril Ramaphosa',en,Südafrika,#111111,#111111,2,0.1594663509329859
