@@ -34,7 +34,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.4902612206516675
 'Ed McVey',en,UK,#e838e8,#e838e8,2,0.4892616402272727
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,3,0.4885377965217391
-'Napoleon Bonaparte',en,Frankreich,#e8e808,#e8e808,2,0.4866782627272727
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.4841271665386363
 'Winston Churchill',en,UK,#e838e8,#e838e8,3,0.4834105133409091
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.4831210524016282
@@ -66,8 +65,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.4593413235
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,1,0.459000405
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.459
-'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459
+'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Lula da Silva',en,Brasilien,#58e838,#58e848,3,0.455622271790909
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.4554887075727272
 'Bruce Springsteen',en,USA,#18e8e8,#18e8e8,2,0.4535907375454546
@@ -92,6 +91,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.4272171996818181
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.4248182491590909
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.4216502775
+'Napoleon Bonaparte',en,Frankreich,#e8e808,#e8e808,2,0.4186274083181818
 'Andrew Tate',en,USA,#18e8e8,#18e8e8,3,0.4184697496932955
 'Prince William',en,UK,#e838e8,#e838e8,3,0.4086241997965908
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,2,0.4068144164166666
