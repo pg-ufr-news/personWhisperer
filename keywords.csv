@@ -344,7 +344,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dmitry Peskov',en,Russland,#e81818,#e81818,2,0.066365762202661
 'Philipp Wolff',en,Deutschland,#1818e8,#1818e8,1,0.0654199081845615
 'Bartholomäus',en,Türkei,#111111,#111111,1,0.0609461657967015
-'Katharina König-Press',en,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
 'Michael Kahle',en,Deutschland,#1818e8,#1818e8,1,0.0515684231508561
 'Doris König',en,Deutschland,#1818e8,#1818e8,1,0.0514723384068954
 'Herman Gref',en,Russland,#e81818,#e81818,1,0.0511784294393492
@@ -354,6 +353,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Amin H. Nasser',en,SaudiArabien,#111111,#111111,1,0.0470558451511601
 'Francoise Bettencourt-Meyers',en,Frankreich,#e8e808,#e8e808,1,0.0464095293347225
 'Chan Santokhi',en,Surinam,#111111,#111111,1,0.0463088452799446
+'Katharina König-Press',en,Deutschland,#1818e8,#1818e8,1,0.045599448334722514
 'Choe Ryong-hae',en,NordKorea,#e85858,#e85858,1,0.0455994483347225
 'Gina Rinehart',en,Australien,#111111,#111111,1,0.0455994483347225
 'Helge Lund',en,UK,#e838e8,#e838e8,1,0.0455994483347225
