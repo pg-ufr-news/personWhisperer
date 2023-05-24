@@ -18,7 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.5003171013636364
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.5002063696136363
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,2,0.5
-'Kanye West',en,USA,#18e8e8,#18e8e8,3,0.4988835999204545
 'Rupert Murdoch',en,USA,#18e8e8,#18e8e8,3,0.4982153143636363
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.496814823
 'Stephen Hawking',en,UK,#e838e8,#e838e8,2,0.4957698318181818
@@ -38,6 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Henry Ford',en,USA,#18e8e8,#18e8e8,2,0.4821373081818182
 'Helmut Kohl',en,Deutschland,#1818e8,#1818e8,3,0.4811268195681819
 'Finnegan Biden',en,USA,#18e8e8,#18e8e8,3,0.4803831931947727
+'Kanye West',en,USA,#18e8e8,#18e8e8,3,0.4790201249323863
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,3,0.4779302656329545
 'Oprah Winfrey',en,USA,#18e8e8,#18e8e8,3,0.4777577088454313
 'Scott Morrison',en,Australien,#111111,#111111,3,0.4775890786363636
