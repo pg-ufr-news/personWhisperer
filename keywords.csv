@@ -8,7 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.5077958325352272
 'Prince Andrew',en,UK,#e838e8,#e838e8,2,0.506
 'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.5057510339
-'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.5048602909090909
 'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,2,0.5042875318181819
 'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.5034140098852272
 'Oprah Winfrey',en,USA,#18e8e8,#18e8e8,3,0.5027549628128068
@@ -81,6 +80,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,2,0.4381316939999999
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.4314815463636363
 'Alfred Nobel',en,Schweden,#111111,#111111,1,0.4313710570277778
+'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.4312324472727273
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,2,0.430911106590909
 'Albert Einstein',en,Deutschland,#1818e8,#1818e8,3,0.4290901302727272
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.4289157651264783
