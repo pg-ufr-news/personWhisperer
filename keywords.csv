@@ -61,7 +61,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harry Belafonte',en,USA,#18e8e8,#18e8e8,2,0.4606394913409091
 'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.4593413235
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,1,0.459000405
-'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.459
 'Lula da Silva',en,Brasilien,#58e838,#58e848,3,0.455622271790909
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.4554887075727272
@@ -106,8 +105,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dieter Bohlen',en,Deutschland,#1818e8,#1818e8,2,0.39042752775
 'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.39015
-'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.39015
+'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.39015
+'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Herbert Diess',en,Deutschland,#1818e8,#1818e8,2,0.3816646526742424
 'Putin',en,Russland,#e81818,#e81818,3,0.3754496622565719
 'Nina Gummich',en,Deutschland,#1818e8,#1818e8,1,0.36414
