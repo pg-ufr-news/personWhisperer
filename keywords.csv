@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bill Clinton',en,USA,#18e8e8,#18e8e8,2,0.513969545
 'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,2,0.513950975
 'Meg Bellamy',en,UK,#e838e8,#e838e8,2,0.51340119325
 'Prince Archie',en,UK,#e838e8,#e838e8,2,0.5133792209090909
@@ -35,6 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.4841271665386363
 'Winston Churchill',en,UK,#e838e8,#e838e8,3,0.4834105133409091
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.4831210524016282
+'Bill Clinton',en,USA,#18e8e8,#18e8e8,2,0.4827531541590909
 'Henry Ford',en,USA,#18e8e8,#18e8e8,2,0.4821373081818182
 'Helmut Kohl',en,Deutschland,#1818e8,#1818e8,3,0.4811268195681819
 'Finnegan Biden',en,USA,#18e8e8,#18e8e8,3,0.4803831931947727
