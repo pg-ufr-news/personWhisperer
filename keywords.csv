@@ -72,7 +72,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4440623204052272
 'George Washington',en,USA,#18e8e8,#18e8e8,3,0.4428146294090908
 'Lionel Messi',en,Argentinien,#111111,#111111,2,0.4422021881818181
-'Jordan Bardella',en,Frankreich,#e8e808,#e8e808,1,0.4406401665
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.4396888387090908
 'George Bush',en,USA,#18e8e8,#18e8e8,3,0.4382153743636364
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,2,0.4381316939999999
@@ -103,13 +102,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.390600096
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,1,0.39060008325
 'Dieter Bohlen',en,Deutschland,#1818e8,#1818e8,2,0.39042752775
-'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.39015
+'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Herbert Diess',en,Deutschland,#1818e8,#1818e8,2,0.3816646526742424
 'Putin',en,Russland,#e81818,#e81818,3,0.3754496622565719
+'Jordan Bardella',en,Frankreich,#e8e808,#e8e808,1,0.375144201525
 'Nina Gummich',en,Deutschland,#1818e8,#1818e8,1,0.36414
 'Ulrich Reitz',en,Deutschland,#1818e8,#1818e8,1,0.3634175
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.3633494584534928
