@@ -27,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.4912251122727273
 'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.4908038967102273
 'Margaret Thatcher',en,UK,#e838e8,#e838e8,3,0.4904505731363636
-'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.4902612206516675
 'Ed McVey',en,UK,#e838e8,#e838e8,2,0.4892616402272727
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,3,0.4885377965217391
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.4841271665386363
@@ -68,6 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katy Perry',en,USA,#18e8e8,#18e8e8,2,0.4497660471818182
 'Akshata Murty',en,Indien,#111111,#111111,3,0.447983289141534
 'Milo Yiannopoulos',en,UK,#e838e8,#e838e8,3,0.4475198738113942
+'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.4444218402811901
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4440623204052272
 'George Washington',en,USA,#18e8e8,#18e8e8,3,0.4428146294090908
 'Lionel Messi',en,Argentinien,#111111,#111111,2,0.4422021881818181
@@ -211,7 +211,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Krebber',en,Deutschland,#1818e8,#1818e8,1,0.1851339386817144
 'Lukaschenko',en,Belarus,#e81858,#e81858,3,0.1837074882022694
 'Hun Sen',en,Kambodscha,#111111,#111111,1,0.1836343328764497
-'Gautam Adani',en,Indien,#111111,#111111,2,0.18278656470451937
+'Gautam Adani',en,Indien,#111111,#111111,2,0.1827865647045193
 'Alexej Kudrin',en,Russland,#e81818,#e81818,1,0.182192287739607
 'Andrés Manuel López Obrador',en,Mexiko,#111111,#111111,3,0.1811875594397846
 'Sergej Schoigu',en,Russland,#e81818,#e81818,3,0.1807792522332517
