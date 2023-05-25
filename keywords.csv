@@ -144,7 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Giorgia Meloni',en,Italien,#111111,#111111,3,0.2570684921006442
 'Eva Kaili',en,EU,#111111,#111111,3,0.2537088871801947
 'Mateusz Morawiecki',en,Polen,#111111,#111111,3,0.2503720105755672
-'Christine Lambrecht',en,Deutschland,#1818e8,#1818e8,1,0.24928396203148903
+'Christine Lambrecht',en,Deutschland,#1818e8,#1818e8,1,0.249283962031489
 'Julian Reichelt',en,Deutschland,#1818e8,#1818e8,3,0.2457992288283137
 'David Malpass',en,USA,#18e8e8,#18e8e8,3,0.2432576681222887
 'Ursula von der Leyen',en,EU,#111111,#111111,3,0.2412793076076889
@@ -211,6 +211,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Krebber',en,Deutschland,#1818e8,#1818e8,1,0.1851339386817144
 'Lukaschenko',en,Belarus,#e81858,#e81858,3,0.1837074882022694
 'Hun Sen',en,Kambodscha,#111111,#111111,1,0.1836343328764497
+'Gautam Adani',en,Indien,#111111,#111111,2,0.18278656470451937
 'Alexej Kudrin',en,Russland,#e81818,#e81818,1,0.182192287739607
 'Andrés Manuel López Obrador',en,Mexiko,#111111,#111111,3,0.1811875594397846
 'Sergej Schoigu',en,Russland,#e81818,#e81818,3,0.1807792522332517
@@ -238,14 +239,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alice Weidel',en,Deutschland,#1818e8,#1818e8,1,0.1730025649328061
 'Robin Li',en,China,#e88818,#e88818,2,0.1723977670136602
 'Lael Brainard',en,USA,#18e8e8,#18e8e8,1,0.172151045311643
-'Gautam Adani',en,Indien,#111111,#111111,2,0.171780526925103
 'Larry Ellison',en,USA,#18e8e8,#18e8e8,1,0.1715499880435491
 'Franziska Giffey',en,Deutschland,#1818e8,#1818e8,3,0.1711904025892503
 'Kardinal Woelki',en,Deutschland,#1818e8,#1818e8,3,0.1709113113050359
 'Thierry Breton',en,EU,#111111,#111111,2,0.1707289014687776
 'Lula sa Silva',en,Brasilien,#58e838,#58e838,2,0.1696511668266801
-'Patriarch Kyrill',en,Ukraine,#e818e8,#e818e8,3,0.1693208263747925
 'Kyrill',en,Ukraine,#e818e8,#e818e8,3,0.1693208263747925
+'Patriarch Kyrill',en,Ukraine,#e818e8,#e818e8,3,0.1693208263747925
 'Steffen Große',en,Deutschland,#1818e8,#1818e8,3,0.1691721884226711
 'Antonio Guterres',en,UN,#e888e8,#e888e8,3,0.1690560933567332
 'Bill Gates',en,USA,#18e8e8,#18e8e8,3,0.1690003963534724
