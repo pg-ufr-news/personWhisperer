@@ -159,7 +159,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Selenskyj',en,Ukraine,#e818e8,#e818e8,2,0.2360439356602177
 'Gabor Steingart',en,Deutschland,#1818e8,#1818e8,2,0.2354302087174241
 'Friedrich Merz',en,Deutschland,#1818e8,#1818e8,3,0.2331342480701452
-'Joschka Fischer',en,Deutschland,#1818e8,#1818e8,1,0.2324487513776068
 'Dalai Lama',en,Tibet,#111111,#111111,3,0.229547663263707
 'Jack Ma',en,China,#e88818,#e88818,3,0.2254251807485522
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,3,0.2238027784379481
@@ -184,6 +183,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karine Jean-Pierre',en,USA,#18e8e8,#18e8e8,3,0.1995271709756393
 'Antony Blinken',en,USA,#18e8e8,#18e8e8,3,0.1990681918825269
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.1982590658752394
+'Joschka Fischer',en,Deutschland,#1818e8,#1818e8,1,0.19818149867096577
 'Klaus-Michael Kühne',en,Deutschland,#1818e8,#1818e8,1,0.1981075156789941
 'Tamim Hamad Thani',en,Katar,#111111,#111111,1,0.1953225600778274
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,1,0.1950739991294
