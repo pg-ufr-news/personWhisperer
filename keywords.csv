@@ -61,7 +61,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lula da Silva',en,Brasilien,#58e838,#58e848,3,0.455622271790909
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.4554887075727272
 'Bruce Springsteen',en,USA,#18e8e8,#18e8e8,2,0.4535907375454546
-'Prince Harry',en,UK,#e838e8,#e838e8,2,0.4512806469090908
 'Katy Perry',en,USA,#18e8e8,#18e8e8,2,0.4497660471818182
 'Akshata Murty',en,Indien,#111111,#111111,3,0.447983289141534
 'Milo Yiannopoulos',en,UK,#e838e8,#e838e8,3,0.4475198738113942
@@ -98,12 +97,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.397375
 'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.397375
+'Prince Harry',en,UK,#e838e8,#e838e8,2,0.3931558244181817
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.390600096
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,1,0.39060008325
 'Dieter Bohlen',en,Deutschland,#1818e8,#1818e8,2,0.39042752775
+'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.39015
-'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.39015
 'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.39015
@@ -126,7 +126,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz',en,Deutschland,#1818e8,#1818e8,3,0.3141369795281621
 'Wolfgang Kubicki',en,Deutschland,#1818e8,#1818e8,2,0.3104652130499999
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,2,0.3072837153197579
-'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,3,0.30245422083811124
+'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,3,0.3024542208381112
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.2933229335159393
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.2907016313267613
 'Liz Truss',en,UK,#e838e8,#e838e8,3,0.2884530858114328
