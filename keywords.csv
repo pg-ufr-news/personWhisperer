@@ -94,16 +94,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,2,0.3990401665
 'Katja Krasavice',en,Deutschland,#1818e8,#1818e8,1,0.3975250405
 'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.397375
+'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.397375
 'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,1,0.397375
-'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Prince Harry',en,UK,#e838e8,#e838e8,2,0.3931558244181817
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.390600096
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,1,0.39060008325
 'Dieter Bohlen',en,Deutschland,#1818e8,#1818e8,2,0.39042752775
-'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.39015
-'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.39015
+'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.39015
+'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.39015
 'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.39015
@@ -121,6 +121,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.3316274999999999
 'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.3234161993634266
 'Wolodimir Selenski',en,Ukraine,#e818e8,#e818e8,1,0.3187308749999999
+'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.3171220270197426
 'Georg Gänswein',en,Deutschland,#1818e8,#1818e8,1,0.3159377885874999
 'Jens Spahn',en,Deutschland,#1818e8,#1818e8,1,0.3153697038124999
 'Olaf Scholz',en,Deutschland,#1818e8,#1818e8,3,0.3141369795281621
@@ -140,7 +141,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jens Stoltenberg',en,Norwegen,#e818e8,#e818e8,3,0.2673390689168968
 'Faisal Kawusi',en,Deutschland,#1818e8,#1818e8,1,0.26570118125
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.2613627868007684
-'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.2603064424831197
 'Maria Kolesnikowa',en,Belarus,#e81858,#e81858,1,0.2585014463800377
 'Giorgia Meloni',en,Italien,#111111,#111111,3,0.2570684921006442
 'Eva Kaili',en,EU,#111111,#111111,3,0.2537088871801947
