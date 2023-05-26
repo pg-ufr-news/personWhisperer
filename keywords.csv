@@ -92,7 +92,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Adolf Hitler',en,Deutschland,#1818e8,#1818e8,3,0.4038998990352273
 'Rudolf Steiner',en,Oesterreich,#111111,#111111,1,0.4036388095384615
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,2,0.3990401665
-'Katja Krasavice',en,Deutschland,#1818e8,#1818e8,1,0.3975250405
 'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.397375
@@ -101,11 +100,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.390600096
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,1,0.39060008325
 'Dieter Bohlen',en,Deutschland,#1818e8,#1818e8,2,0.39042752775
+'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.39015
-'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.39015
-'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.39015
 'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.39015
+'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.39015
 'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Herbert Diess',en,Deutschland,#1818e8,#1818e8,2,0.3816646526742424
 'Putin',en,Russland,#e81818,#e81818,3,0.3754496622565719
@@ -117,6 +116,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.3504942599805861
 'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,1,0.346271344390909
 'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,1,0.3388789260249999
+'Katja Krasavice',en,Deutschland,#1818e8,#1818e8,1,0.33789628442499997
 'Charles III',en,UK,#e838e8,#e838e8,3,0.3367055939626885
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.3316274999999999
 'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.3234161993634266
@@ -270,7 +270,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Melinda Gates',en,USA,#18e8e8,#18e8e8,1,0.1608978664171119
 'Marco Buschmann',en,Deutschland,#1818e8,#1818e8,2,0.1603635892842408
 'Cyril Ramaphosa',en,Südafrika,#111111,#111111,2,0.1594663509329859
-'Markus Krebber',en,Deutschland,#1818e8,#1818e8,1,0.15796390787945724
+'Markus Krebber',en,Deutschland,#1818e8,#1818e8,1,0.1579639078794572
 'Joko Widodo',en,Indonesien,#111111,#111111,1,0.1579323517396349
 'Mahmud Abbas',en,Palistina,#111111,#111111,1,0.1577346848682433
 'Alice Schwarzer',en,Deutschland,#1818e8,#1818e8,2,0.1576527794525236
