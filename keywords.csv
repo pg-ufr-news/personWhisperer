@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Evan Gershkovich',en,USA,#18e8e8,#18e8e8,3,0.5021571935510653
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.5013806060466646
 'Martin Luther King',en,USA,#18e8e8,#18e8e8,3,0.5003270613636364
-'Jimmy Carter',en,USA,#18e8e8,#18e8e8,2,0.5003215113636363
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.5003171013636364
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.5002063696136363
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,2,0.5
@@ -68,6 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4440623204052272
 'Lionel Messi',en,Argentinien,#111111,#111111,2,0.4422021881818181
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.4396888387090908
+'Jimmy Carter',en,USA,#18e8e8,#18e8e8,3,0.43932196374999993
 'George Bush',en,USA,#18e8e8,#18e8e8,3,0.4382153743636364
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,2,0.4381316939999999
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,3,0.433921058515284
