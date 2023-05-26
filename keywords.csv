@@ -67,7 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4440623204052272
 'Lionel Messi',en,Argentinien,#111111,#111111,2,0.4422021881818181
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.4396888387090908
-'Jimmy Carter',en,USA,#18e8e8,#18e8e8,3,0.43932196374999993
+'Jimmy Carter',en,USA,#18e8e8,#18e8e8,3,0.4393219637499999
 'George Bush',en,USA,#18e8e8,#18e8e8,3,0.4382153743636364
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,2,0.4381316939999999
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,3,0.433921058515284
@@ -299,7 +299,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jitzchak Herzog',en,Israel,#111111,#111111,1,0.1432453703487191
 'Steffi Lemke',en,Deutschland,#1818e8,#1818e8,3,0.1429699926042515
 'Rainer Maria Woelki',en,Deutschland,#1818e8,#1818e8,2,0.1426343310110069
-'Heinrich XIII. Prinz Reuß',en,Deutschland,#1818e8,#1818e8,1,0.1425235981492527
 'Jair Lapid',en,Israel,#111111,#111111,2,0.140834487165512
 'Christian Drosten',en,Deutschland,#1818e8,#1818e8,2,0.1388618962920219
 'Joana Cotar',en,Deutschland,#1818e8,#1818e8,1,0.1383847895568137
@@ -324,6 +323,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hans Joachim Schellnhuber',en,Deutschland,#1818e8,#1818e8,2,0.1236925730610332
 'Macky Sall',en,Senegal,#111111,#111111,1,0.1234266710588938
 'Klaus Hasselmann',en,Deutschland,#1818e8,#1818e8,1,0.1212159076514837
+'Heinrich XIII. Prinz Reuß',en,Deutschland,#1818e8,#1818e8,1,0.1211450584268648
 'Sergey Brin',en,USA,#18e8e8,#18e8e8,1,0.1204010720496926
 'Martin Sonneborn',en,Deutschland,#1818e8,#1818e8,1,0.1175126035274636
 'Alberto Ángel Fernández',en,Argentinien,#111111,#111111,1,0.1155569800506883
