@@ -7,7 +7,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.5057510339
 'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,2,0.5042875318181819
 'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.5034140098852272
-'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.5027487606761845
 'Recep Tayyip Erdoan',en,Türkei,#111111,#111111,3,0.5025468776649034
 'Evan Gershkovich',en,USA,#18e8e8,#18e8e8,3,0.5021571935510653
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.5013806060466646
@@ -41,6 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mathias Döpfner',en,Deutschland,#1818e8,#1818e8,1,0.4751502775
 'Alvin Bragg',en,USA,#18e8e8,#18e8e8,3,0.4741346288205113
 'Recep Tayyip Erdogan',en,Türkei,#111111,#111111,3,0.4732703774397727
+'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.4732160574838477
 'Herschel Walker',en,USA,#18e8e8,#18e8e8,3,0.4727226010409091
 'Wang Wentao',en,China,#e88818,#e88818,1,0.4714530827499999
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.4708771226394885
