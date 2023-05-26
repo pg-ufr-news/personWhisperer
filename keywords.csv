@@ -33,7 +33,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,2,0.4827531541590909
 'Henry Ford',en,USA,#18e8e8,#18e8e8,2,0.4821373081818182
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.4820336731094886
-'Helmut Kohl',en,Deutschland,#1818e8,#1818e8,3,0.4811268195681819
 'Finnegan Biden',en,USA,#18e8e8,#18e8e8,3,0.4803831931947727
 'Kanye West',en,USA,#18e8e8,#18e8e8,3,0.4790201249323863
 'Oprah Winfrey',en,USA,#18e8e8,#18e8e8,3,0.4777577088454313
@@ -86,6 +85,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Napoleon Bonaparte',en,Frankreich,#e8e808,#e8e808,2,0.4186274083181818
 'Andrew Tate',en,USA,#18e8e8,#18e8e8,3,0.4184697496932955
 'George Washington',en,USA,#18e8e8,#18e8e8,3,0.413214871815909
+'Helmut Kohl',en,Deutschland,#1818e8,#1818e8,2,0.4089579316329546
 'Prince William',en,UK,#e838e8,#e838e8,3,0.4086241997965908
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,2,0.4068144164166666
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.404902885875
