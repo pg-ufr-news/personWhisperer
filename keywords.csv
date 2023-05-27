@@ -17,7 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.496814823
 'Geoffrey Hinton',en,UK,#e838e8,#e838e8,3,0.4931910376136363
 'William Shakespeare',en,UK,#e838e8,#e838e8,2,0.4912269572727273
-'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.4908038967102273
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.4906767036136363
 'Margaret Thatcher',en,UK,#e838e8,#e838e8,3,0.4904505731363636
 'Ed McVey',en,UK,#e838e8,#e838e8,2,0.4892616402272727
@@ -58,7 +57,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bruce Springsteen',en,USA,#18e8e8,#18e8e8,2,0.4535907375454546
 'Scott Morrison',en,Australien,#111111,#111111,3,0.4518127027499999
 'Katy Perry',en,USA,#18e8e8,#18e8e8,2,0.4497660471818182
-'Stephen Hawking',en,UK,#e838e8,#e838e8,3,0.44908333977272724
+'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.4494231094764205
+'Stephen Hawking',en,UK,#e838e8,#e838e8,3,0.4490833397727272
 'Akshata Murty',en,Indien,#111111,#111111,3,0.447983289141534
 'Milo Yiannopoulos',en,UK,#e838e8,#e838e8,3,0.4475198738113942
 'Meg Bellamy',en,UK,#e838e8,#e838e8,2,0.4458871588079545
