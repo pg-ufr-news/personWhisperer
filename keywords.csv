@@ -86,26 +86,25 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Washington',en,USA,#18e8e8,#18e8e8,3,0.413214871815909
 'Helmut Kohl',en,Deutschland,#1818e8,#1818e8,2,0.4089579316329546
 'Prince William',en,UK,#e838e8,#e838e8,3,0.4086241997965908
-'Richard David Precht',en,Deutschland,#1818e8,#1818e8,2,0.4068144164166666
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.404902885875
 'Adolf Hitler',en,Deutschland,#1818e8,#1818e8,3,0.4038998990352273
 'Rudolf Steiner',en,Oesterreich,#111111,#111111,1,0.4036388095384615
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.4014151406299999
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,2,0.3990401665
-'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.397375
+'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.397375
 'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Prince Harry',en,UK,#e838e8,#e838e8,2,0.3931558244181817
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.390600096
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,1,0.39060008325
 'Dieter Bohlen',en,Deutschland,#1818e8,#1818e8,2,0.39042752775
-'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.39015
-'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.39015
 'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.39015
-'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.39015
+'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.39015
+'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.39015
+'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Herbert Diess',en,Deutschland,#1818e8,#1818e8,2,0.3816646526742424
 'Putin',en,Russland,#e81818,#e81818,3,0.3754496622565719
 'Jordan Bardella',en,Frankreich,#e8e808,#e8e808,1,0.375144201525
@@ -115,6 +114,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.3527818368090908
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.3504942599805861
 'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,1,0.346271344390909
+'Richard David Precht',en,Deutschland,#1818e8,#1818e8,1,0.34579229895416663
 'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,1,0.3388789260249999
 'Charles III',en,UK,#e838e8,#e838e8,3,0.3367055939626885
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.3316274999999999
