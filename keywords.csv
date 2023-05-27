@@ -152,7 +152,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fumio Kishida',en,Japan,#111111,#111111,3,0.2412189870421819
 'Nancy Faeser',en,Deutschland,#1818e8,#1818e8,3,0.2383423883632433
 'Pope Benedikt XVI',en,Vatikan,#58b8e8,#58b8e8,1,0.2382719046826404
-'Selenski',en,Ukraine,#e818e8,#e818e8,1,0.2375355279681524
 'Angela Merkel',en,Deutschland,#1818e8,#1818e8,3,0.2371797024987847
 'Chelsea Manning',en,USA,#18e8e8,#18e8e8,3,0.2364932607496347
 'Ricarda Lang',en,Deutschland,#1818e8,#1818e8,3,0.2363265143606869
@@ -179,6 +178,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pedro Sánchez',en,Spanien,#111111,#111111,3,0.2025653979526381
 'Annalena Baerbock',en,Deutschland,#1818e8,#1818e8,3,0.2025103015309864
 'Roland Busch',en,Deutschland,#1818e8,#1818e8,1,0.2019087652568931
+'Selenski',en,Ukraine,#e818e8,#e818e8,1,0.20190519877292953
 'Lars Klingbeil',en,Deutschland,#1818e8,#1818e8,1,0.2002027435371569
 'Xi Jinping',en,China,#e88818,#e88818,3,0.1996088260611851
 'Karine Jean-Pierre',en,USA,#18e8e8,#18e8e8,3,0.1995271709756393
