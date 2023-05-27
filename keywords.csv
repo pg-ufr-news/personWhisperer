@@ -90,7 +90,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rudolf Steiner',en,Oesterreich,#111111,#111111,1,0.4036388095384615
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.4014151406299999
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,2,0.3990401665
-'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.39850733787499987
+'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.3985073378749998
 'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.397375
@@ -229,7 +229,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benjamin Netanjahu',en,Israel,#111111,#111111,3,0.1765678329065039
 'Subrahmanyam Jaishankar',en,Indien,#111111,#111111,2,0.1763561850258266
 'Aleksandar Vucic',en,Serbien,#111111,#111111,3,0.1760835580301185
-'Luisa Neubauer',en,Deutschland,#1818e8,#1818e8,2,0.1757616208651629
 'Andrzej Duda',en,Polen,#111111,#111111,3,0.1754131686451492
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,2,0.1747205822230828
 'Christine Lagarde',en,EU,#111111,#111111,3,0.1744787264660274
@@ -242,8 +241,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kardinal Woelki',en,Deutschland,#1818e8,#1818e8,3,0.1709113113050359
 'Thierry Breton',en,EU,#111111,#111111,2,0.1707289014687776
 'Lula sa Silva',en,Brasilien,#58e838,#58e838,2,0.1696511668266801
-'Kyrill',en,Ukraine,#e818e8,#e818e8,3,0.1693208263747925
 'Patriarch Kyrill',en,Ukraine,#e818e8,#e818e8,3,0.1693208263747925
+'Kyrill',en,Ukraine,#e818e8,#e818e8,3,0.1693208263747925
 'Antonio Guterres',en,UN,#e888e8,#e888e8,3,0.1690560933567332
 'Bill Gates',en,USA,#18e8e8,#18e8e8,3,0.1690003963534724
 'Martin Schirdewan',en,Deutschland,#1818e8,#1818e8,2,0.1686980148325159
@@ -284,6 +283,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Ballweg',en,Deutschland,#1818e8,#1818e8,1,0.1522513894559661
 'Wolfgang Schäuble',en,Deutschland,#1818e8,#1818e8,2,0.1520164994242472
 'Anthony Fauci',en,USA,#18e8e8,#18e8e8,1,0.1519419979108522
+'Luisa Neubauer',en,Deutschland,#1818e8,#1818e8,2,0.14999743773538846
 'Sergej Lavrov',en,Russland,#e81818,#e81818,1,0.1498178032333499
 'Karl Nehammer',en,Oesterreich,#111111,#111111,1,0.1493479895384843
 'Julian Assange',en,Australien,#111111,#111111,2,0.149083180581724
