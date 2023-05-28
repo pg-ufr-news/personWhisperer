@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Evan Gershkovich',en,USA,#18e8e8,#18e8e8,3,0.5636114713365873
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.530943970251449
 'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,2,0.513950975
 'Jack Teixeira',en,USA,#18e8e8,#18e8e8,3,0.5125665821465909
@@ -7,7 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,2,0.5042875318181819
 'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.5034140098852272
 'Recep Tayyip Erdoan',en,Türkei,#111111,#111111,3,0.5025468776649034
-'Evan Gershkovich',en,USA,#18e8e8,#18e8e8,3,0.5021571935510653
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.5013806060466646
 'Martin Luther King',en,USA,#18e8e8,#18e8e8,3,0.5003270613636364
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.5003171013636364
@@ -98,12 +98,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.390600096
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,1,0.39060008325
 'Dieter Bohlen',en,Deutschland,#1818e8,#1818e8,2,0.39042752775
-'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.39015
-'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.39015
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.39015
-'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.39015
-'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.39015
+'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.39015
+'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.39015
+'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.39015
+'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Herbert Diess',en,Deutschland,#1818e8,#1818e8,2,0.3816646526742424
 'Putin',en,Russland,#e81818,#e81818,3,0.3754496622565719
 'Jordan Bardella',en,Frankreich,#e8e808,#e8e808,1,0.375144201525
@@ -328,7 +328,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martin Sonneborn',en,Deutschland,#1818e8,#1818e8,1,0.1175126035274636
 'Alberto Ángel Fernández',en,Argentinien,#111111,#111111,1,0.1155569800506883
 'Lee Hsien Loong',en,Singapur,#111111,#111111,1,0.1155152699447566
-'Frank Bainimarama',en,Fidschi,#111111,#111111,1,0.11334678258510889
+'Frank Bainimarama',en,Fidschi,#111111,#111111,1,0.1133467825851088
 'Tamim bin Hamad Al-Thani',en,Katar,#111111,#111111,2,0.1072160810781233
 'Carola Rackete',en,Deutschland,#1818e8,#1818e8,1,0.1034839041945892
 'Jochen Thewes',en,Deutschland,#1818e8,#1818e8,1,0.1030440768149629
