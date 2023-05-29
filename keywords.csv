@@ -243,7 +243,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thierry Breton',en,EU,#111111,#111111,2,0.1707289014687776
 'Lula sa Silva',en,Brasilien,#58e838,#58e838,2,0.1696511668266801
 'Patriarch Kyrill',en,Ukraine,#e818e8,#e818e8,3,0.1693208263747925
-'Kyrill',en,Ukraine,#e818e8,#e818e8,3,0.1693208263747925
 'Karl Nehammer',en,Oesterreich,#111111,#111111,1,0.1691960161077116
 'Antonio Guterres',en,UN,#e888e8,#e888e8,3,0.1690560933567332
 'Bill Gates',en,USA,#18e8e8,#18e8e8,3,0.1690003963534724
@@ -295,6 +294,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Badri Hosseini Chamenei',en,Iran,#111111,#111111,1,0.1464430820964225
 'Yoon Suk-yeol',en,SüdKorea,#111111,#111111,3,0.1454810189442506
 'Paul Kagame',en,Ruanda,#111111,#111111,1,0.1444730031001166
+'Kyrill',en,Ukraine,#e818e8,#e818e8,2,0.14392270241857363
 'Nikos Androulakis',en,Griechenland,#1858e8,#1858e8,1,0.1436341310989589
 'Jitzchak Herzog',en,Israel,#111111,#111111,1,0.1432453703487191
 'Steffi Lemke',en,Deutschland,#1818e8,#1818e8,3,0.1429699926042515
