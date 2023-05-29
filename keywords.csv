@@ -72,7 +72,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.4312324472727273
 'Albert Einstein',en,Deutschland,#1818e8,#1818e8,3,0.4290901302727272
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.4289157651264783
-'Jimmy Carter',en,USA,#18e8e8,#18e8e8,3,0.42838032918749985
+'Jimmy Carter',en,USA,#18e8e8,#18e8e8,3,0.4283803291874998
 'Anne Will',en,Deutschland,#1818e8,#1818e8,2,0.4278387052045453
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.4272171996818181
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.4248182491590909
@@ -81,27 +81,26 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Napoleon Bonaparte',en,Frankreich,#e8e808,#e8e808,2,0.4186274083181818
 'Andrew Tate',en,USA,#18e8e8,#18e8e8,3,0.4184697496932955
 'George Washington',en,USA,#18e8e8,#18e8e8,3,0.413214871815909
-'Helmut Kohl',en,Deutschland,#1818e8,#1818e8,2,0.4089579316329546
 'Prince William',en,UK,#e838e8,#e838e8,3,0.4086241997965908
 'Adolf Hitler',en,Deutschland,#1818e8,#1818e8,3,0.4038998990352273
 'Rudolf Steiner',en,Oesterreich,#111111,#111111,1,0.4036388095384615
 'Scott Morrison',en,Australien,#111111,#111111,3,0.4026300859738635
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.4014151406299999
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.3985073378749998
+'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.397375
 'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.397375
-'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Prince Harry',en,UK,#e838e8,#e838e8,2,0.3931558244181817
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.390600096
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,1,0.39060008325
 'Dieter Bohlen',en,Deutschland,#1818e8,#1818e8,2,0.39042752775
+'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.39015
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.39015
-'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Barbara Sturm',en,Deutschland,#1818e8,#1818e8,2,0.3845387462878623
 'Herbert Diess',en,Deutschland,#1818e8,#1818e8,2,0.3816646526742424
 'Putin',en,Russland,#e81818,#e81818,3,0.3754496622565719
@@ -111,6 +110,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.3633494584534928
 'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.3527818368090908
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.3504942599805861
+'Helmut Kohl',en,Deutschland,#1818e8,#1818e8,1,0.3476143768880114
 'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,1,0.346271344390909
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,1,0.3457922989541666
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.34551758799375
