@@ -65,7 +65,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Bush',en,USA,#18e8e8,#18e8e8,3,0.4382153743636364
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,2,0.4381316939999999
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,3,0.433921058515284
-'Evan Gershkovich',en,USA,#18e8e8,#18e8e8,3,0.43183889999522973
+'Evan Gershkovich',en,USA,#18e8e8,#18e8e8,3,0.4318388999952297
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.4314815463636363
 'Alfred Nobel',en,Schweden,#111111,#111111,1,0.4313710570277778
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.4312324472727273
@@ -208,6 +208,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Freund',en,EU,#111111,#111111,3,0.1888132190045975
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,2,0.1857048246347956
 'Katarina Barley',en,EU,#111111,#111111,1,0.1851917272145462
+'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.1849577212712249
 'Lukaschenko',en,Belarus,#e81858,#e81858,3,0.1837074882022694
 'Hun Sen',en,Kambodscha,#111111,#111111,1,0.1836343328764497
 'Gautam Adani',en,Indien,#111111,#111111,2,0.1827865647045193
@@ -327,7 +328,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergey Brin',en,USA,#18e8e8,#18e8e8,1,0.1204010720496926
 'Martin Sonneborn',en,Deutschland,#1818e8,#1818e8,1,0.1175126035274636
 'Alberto Ángel Fernández',en,Argentinien,#111111,#111111,1,0.1155569800506883
-'Lee Hsien Loong',en,Singapur,#111111,#111111,1,0.1155152699447566
 'Frank Bainimarama',en,Fidschi,#111111,#111111,1,0.1133467825851088
 'Tamim bin Hamad Al-Thani',en,Katar,#111111,#111111,2,0.1072160810781233
 'Carola Rackete',en,Deutschland,#1818e8,#1818e8,1,0.1034839041945892
