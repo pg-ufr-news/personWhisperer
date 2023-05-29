@@ -5,7 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,2,0.5042875318181819
 'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.5034140098852272
 'Recep Tayyip Erdoan',en,Türkei,#111111,#111111,3,0.5025468776649034
-'Evan Gershkovich',en,USA,#18e8e8,#18e8e8,3,0.5022112588179174
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.5013806060466646
 'Martin Luther King',en,USA,#18e8e8,#18e8e8,3,0.5003270613636364
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.5003171013636364
@@ -37,7 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.4703773714090909
 'Prince Louis',en,UK,#e838e8,#e838e8,3,0.4699840761590909
 'Lionel Richie',en,USA,#18e8e8,#18e8e8,3,0.469650571347159
-'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,2,0.46908227102272726
+'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,2,0.4690822710227272
 'Billy Graham',en,USA,#18e8e8,#18e8e8,3,0.4684984095454546
 'Chris Hipkins',en,Neuseeland,#1818e8,#1818e8,3,0.4679683345454545
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.4670507709308523
@@ -66,6 +65,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Bush',en,USA,#18e8e8,#18e8e8,3,0.4382153743636364
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,2,0.4381316939999999
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,3,0.433921058515284
+'Evan Gershkovich',en,USA,#18e8e8,#18e8e8,3,0.43183889999522973
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.4314815463636363
 'Alfred Nobel',en,Schweden,#111111,#111111,1,0.4313710570277778
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.4312324472727273
