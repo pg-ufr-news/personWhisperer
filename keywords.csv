@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,2,0.513950975
 'Jack Teixeira',en,USA,#18e8e8,#18e8e8,3,0.5125665821465909
 'Queen Camilla',en,UK,#e838e8,#e838e8,2,0.51
 'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.5057510339
@@ -38,6 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.4703773714090909
 'Prince Louis',en,UK,#e838e8,#e838e8,3,0.4699840761590909
 'Lionel Richie',en,USA,#18e8e8,#18e8e8,3,0.469650571347159
+'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,2,0.46908227102272726
 'Billy Graham',en,USA,#18e8e8,#18e8e8,3,0.4684984095454546
 'Chris Hipkins',en,Neuseeland,#1818e8,#1818e8,3,0.4679683345454545
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.4670507709308523
@@ -321,7 +321,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Muhammad bin Zayid Al Nahyan',en,VAE,#111111,#111111,1,0.1253944713530956
 'Hans Joachim Schellnhuber',en,Deutschland,#1818e8,#1818e8,2,0.1236925730610332
 'Macky Sall',en,Senegal,#111111,#111111,1,0.1234266710588938
-'Steffen Große',en,Deutschland,#1818e8,#1818e8,1,0.12222690613537983
+'Steffen Große',en,Deutschland,#1818e8,#1818e8,1,0.1222269061353798
 'Klaus Hasselmann',en,Deutschland,#1818e8,#1818e8,1,0.1212159076514837
 'Heinrich XIII. Prinz Reuß',en,Deutschland,#1818e8,#1818e8,1,0.1211450584268648
 'Sergey Brin',en,USA,#18e8e8,#18e8e8,1,0.1204010720496926
