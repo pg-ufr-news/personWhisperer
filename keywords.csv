@@ -144,6 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maria Kolesnikowa',en,Belarus,#e81858,#e81858,1,0.2585014463800377
 'Giorgia Meloni',en,Italien,#111111,#111111,3,0.2570684921006442
 'Eva Kaili',en,EU,#111111,#111111,3,0.2537088871801947
+'Frank-Walter Steinmeier',en,Deutschland,#1818e8,#1818e8,3,0.25149246058856833
 'Mateusz Morawiecki',en,Polen,#111111,#111111,3,0.2503720105755672
 'Christine Lambrecht',en,Deutschland,#1818e8,#1818e8,1,0.249283962031489
 'Julian Reichelt',en,Deutschland,#1818e8,#1818e8,3,0.2457992288283137
@@ -190,7 +191,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,1,0.1950739991294
 'Jan Böhmermann',en,Deutschland,#1818e8,#1818e8,2,0.1949646411231947
 'Rafael Grossi',en,UN,#e888e8,#e888e8,3,0.1940986615712149
-'Frank-Walter Steinmeier',en,Deutschland,#1818e8,#1818e8,3,0.1937903750239842
 'Tino Chrupalla',en,Deutschland,#1818e8,#1818e8,2,0.1937899845784159
 'Jacinda Ardern',en,Neuseeland,#1818e8,#1818e8,1,0.1936528852271206
 'Greta Thunberg',en,Schweden,#111111,#111111,3,0.1933463404142239
