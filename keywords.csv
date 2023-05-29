@@ -10,8 +10,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.5003171013636364
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.5002063696136363
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,2,0.5
-'Rupert Murdoch',en,USA,#18e8e8,#18e8e8,3,0.4982153143636363
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.496814823
+'Rupert Murdoch',en,USA,#18e8e8,#18e8e8,3,0.4966240303909091
 'Geoffrey Hinton',en,UK,#e838e8,#e838e8,3,0.4931910376136363
 'William Shakespeare',en,UK,#e838e8,#e838e8,2,0.4912269572727273
 'Margaret Thatcher',en,UK,#e838e8,#e838e8,3,0.4904505731363636
@@ -144,7 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maria Kolesnikowa',en,Belarus,#e81858,#e81858,1,0.2585014463800377
 'Giorgia Meloni',en,Italien,#111111,#111111,3,0.2570684921006442
 'Eva Kaili',en,EU,#111111,#111111,3,0.2537088871801947
-'Frank-Walter Steinmeier',en,Deutschland,#1818e8,#1818e8,3,0.25149246058856833
+'Frank-Walter Steinmeier',en,Deutschland,#1818e8,#1818e8,3,0.2514924605885683
 'Mateusz Morawiecki',en,Polen,#111111,#111111,3,0.2503720105755672
 'Christine Lambrecht',en,Deutschland,#1818e8,#1818e8,1,0.249283962031489
 'Julian Reichelt',en,Deutschland,#1818e8,#1818e8,3,0.2457992288283137
