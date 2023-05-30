@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Queen Camilla',en,UK,#e838e8,#e838e8,2,0.51
 'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.5057510339
 'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,2,0.5042875318181819
 'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.5034140098852272
@@ -45,6 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.4631318393624999
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4627760355641466
 'Leonardo DiCaprio',en,USA,#18e8e8,#18e8e8,2,0.4613729217954545
+'Queen Camilla',en,UK,#e838e8,#e838e8,2,0.46123983772727273
 'Harry Belafonte',en,USA,#18e8e8,#18e8e8,2,0.4606394913409091
 'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.4593413235
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,1,0.459000405
@@ -90,7 +90,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.397375
-'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.39422621790909096
+'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.3942262179090909
 'Prince Harry',en,UK,#e838e8,#e838e8,2,0.3931558244181817
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.390600096
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,1,0.39060008325
