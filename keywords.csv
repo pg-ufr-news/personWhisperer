@@ -68,7 +68,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Evan Gershkovich',en,USA,#18e8e8,#18e8e8,3,0.4318388999952297
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.4314815463636363
 'Alfred Nobel',en,Schweden,#111111,#111111,1,0.4313710570277778
-'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.4312324472727273
 'Albert Einstein',en,Deutschland,#1818e8,#1818e8,3,0.4290901302727272
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.4289157651264783
 'Jimmy Carter',en,USA,#18e8e8,#18e8e8,3,0.4283803291874998
@@ -87,10 +86,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Scott Morrison',en,Australien,#111111,#111111,3,0.4026300859738635
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.4014151406299999
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.3985073378749998
+'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.397375
-'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.397375
+'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.39422621790909096
 'Prince Harry',en,UK,#e838e8,#e838e8,2,0.3931558244181817
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.390600096
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,1,0.39060008325
@@ -138,7 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Lindner',en,Deutschland,#1818e8,#1818e8,3,0.277578331234168
 'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.2710823461358623
 'Frank Plasberg',en,Deutschland,#1818e8,#1818e8,1,0.2698772312499999
-'Giorgia Meloni',en,Italien,#111111,#111111,3,0.26892395374009304
+'Giorgia Meloni',en,Italien,#111111,#111111,3,0.268923953740093
 'Jens Stoltenberg',en,Norwegen,#e818e8,#e818e8,3,0.2673390689168968
 'Faisal Kawusi',en,Deutschland,#1818e8,#1818e8,1,0.26570118125
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.2613627868007684
