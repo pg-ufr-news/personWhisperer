@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jack Teixeira',en,USA,#18e8e8,#18e8e8,3,0.5125665821465909
 'Queen Camilla',en,UK,#e838e8,#e838e8,2,0.51
 'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.5057510339
 'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,2,0.5042875318181819
@@ -10,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.5003171013636364
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.5002063696136363
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,2,0.5
+'Jack Teixeira',en,USA,#18e8e8,#18e8e8,3,0.49972674891551133
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.496814823
 'Rupert Murdoch',en,USA,#18e8e8,#18e8e8,3,0.4966240303909091
 'Geoffrey Hinton',en,UK,#e838e8,#e838e8,3,0.4931910376136363
@@ -294,7 +294,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Badri Hosseini Chamenei',en,Iran,#111111,#111111,1,0.1464430820964225
 'Yoon Suk-yeol',en,SüdKorea,#111111,#111111,3,0.1454810189442506
 'Paul Kagame',en,Ruanda,#111111,#111111,1,0.1444730031001166
-'Kyrill',en,Ukraine,#e818e8,#e818e8,2,0.14392270241857363
+'Kyrill',en,Ukraine,#e818e8,#e818e8,2,0.1439227024185736
 'Nikos Androulakis',en,Griechenland,#1858e8,#1858e8,1,0.1436341310989589
 'Jitzchak Herzog',en,Israel,#111111,#111111,1,0.1432453703487191
 'Steffi Lemke',en,Deutschland,#1818e8,#1818e8,3,0.1429699926042515
