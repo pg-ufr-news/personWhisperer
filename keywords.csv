@@ -22,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.4820336731094886
 'Finnegan Biden',en,USA,#18e8e8,#18e8e8,3,0.4803831931947727
 'Kanye West',en,USA,#18e8e8,#18e8e8,3,0.4790201249323863
-'Oprah Winfrey',en,USA,#18e8e8,#18e8e8,3,0.4777577088454313
 'Isaac Newton',en,UK,#e838e8,#e838e8,3,0.4775881036363636
 'Mathias Döpfner',en,Deutschland,#1818e8,#1818e8,1,0.4751502775
 'Alvin Bragg',en,USA,#18e8e8,#18e8e8,3,0.4741346288205113
@@ -60,6 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Meg Bellamy',en,UK,#e838e8,#e838e8,2,0.4458871588079545
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.4447570457988635
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.4444218402811901
+'Oprah Winfrey',en,USA,#18e8e8,#18e8e8,3,0.4428745193367984
 'Lionel Messi',en,Argentinien,#111111,#111111,2,0.4422021881818181
 'Yoon Suk Yeol',en,SüdKorea,#111111,#111111,3,0.439346431366534
 'George Bush',en,USA,#18e8e8,#18e8e8,3,0.4382153743636364
