@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.5057510339
 'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,2,0.5042875318181819
 'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.5034140098852272
 'Recep Tayyip Erdoan',en,Türkei,#111111,#111111,3,0.5025468776649034
@@ -31,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.4732160574838477
 'Herschel Walker',en,USA,#18e8e8,#18e8e8,3,0.4727226010409091
 'Wang Wentao',en,China,#e88818,#e88818,1,0.4714530827499999
+'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.47120780517863636
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.4708771226394885
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.4703773714090909
 'Prince Louis',en,UK,#e838e8,#e838e8,3,0.4699840761590909
@@ -44,7 +44,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.4631318393624999
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4627760355641466
 'Leonardo DiCaprio',en,USA,#18e8e8,#18e8e8,2,0.4613729217954545
-'Queen Camilla',en,UK,#e838e8,#e838e8,2,0.46123983772727273
+'Queen Camilla',en,UK,#e838e8,#e838e8,2,0.4612398377272727
 'Harry Belafonte',en,USA,#18e8e8,#18e8e8,2,0.4606394913409091
 'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.4593413235
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,1,0.459000405
