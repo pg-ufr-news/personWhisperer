@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ed McVey',en,UK,#e838e8,#e838e8,2,0.4892616402272727
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,3,0.4885377965217391
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.4841271665386363
-'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.48362672704545456
+'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.4836267270454545
 'Winston Churchill',en,UK,#e838e8,#e838e8,3,0.4834105133409091
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.4831210524016282
 'Henry Ford',en,USA,#18e8e8,#18e8e8,2,0.4821373081818182
@@ -86,7 +86,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Scott Morrison',en,Australien,#111111,#111111,3,0.4026300859738635
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.4014151406299999
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.3985073378749998
-'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.397375
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.3942262179090909
@@ -116,6 +115,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.339184201525
 'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,1,0.3388789260249999
 'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.3379187649999999
+'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.33776874999999995
 'Charles III',en,UK,#e838e8,#e838e8,3,0.3367055939626885
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.3316274999999999
 'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.3234161993634266
