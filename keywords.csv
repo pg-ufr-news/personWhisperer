@@ -86,7 +86,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Scott Morrison',en,Australien,#111111,#111111,3,0.4026300859738635
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.4014151406299999
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.3985073378749998
-'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,1,0.397375
 'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.397375
@@ -116,6 +115,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.34551758799375
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.339184201525
 'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,1,0.3388789260249999
+'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.33791876499999995
 'Charles III',en,UK,#e838e8,#e838e8,3,0.3367055939626885
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.3316274999999999
 'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.3234161993634266
