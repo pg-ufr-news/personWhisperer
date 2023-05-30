@@ -37,7 +37,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,2,0.4690822710227272
 'Billy Graham',en,USA,#18e8e8,#18e8e8,3,0.4684984095454546
 'Chris Hipkins',en,Neuseeland,#1818e8,#1818e8,3,0.4679683345454545
-'King Charles III',en,UK,#e838e8,#e838e8,3,0.4670507709308523
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.4668932768181818
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,3,0.4657134795909091
 'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.4631318393624999
@@ -59,6 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Meg Bellamy',en,UK,#e838e8,#e838e8,2,0.4458871588079545
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.4447570457988635
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.4444218402811901
+'King Charles III',en,UK,#e838e8,#e838e8,3,0.44294337120031535
 'Oprah Winfrey',en,USA,#18e8e8,#18e8e8,3,0.4428745193367984
 'Lionel Messi',en,Argentinien,#111111,#111111,2,0.4422021881818181
 'Yoon Suk Yeol',en,SüdKorea,#111111,#111111,3,0.439346431366534
@@ -115,7 +115,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.34551758799375
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.339184201525
 'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,1,0.3388789260249999
-'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.33791876499999995
+'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.3379187649999999
 'Charles III',en,UK,#e838e8,#e838e8,3,0.3367055939626885
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.3316274999999999
 'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.3234161993634266
