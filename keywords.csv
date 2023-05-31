@@ -208,7 +208,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Freund',en,EU,#111111,#111111,3,0.1888132190045975
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,2,0.1857048246347956
 'Katarina Barley',en,EU,#111111,#111111,1,0.1851917272145462
-'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.1849577212712249
 'Lukaschenko',en,Belarus,#e81858,#e81858,3,0.1837074882022694
 'Hun Sen',en,Kambodscha,#111111,#111111,1,0.1836343328764497
 'Gautam Adani',en,Indien,#111111,#111111,2,0.1827865647045193
@@ -264,6 +263,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stephan Harbarth',en,Deutschland,#1818e8,#1818e8,1,0.1631758778611338
 'Chez Krömer',en,Deutschland,#1818e8,#1818e8,1,0.1628531608468749
 'Markus Söder',en,Deutschland,#1818e8,#1818e8,1,0.1625088395233986
+'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.16216563808054113
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.1619899913519324
 'Sergej Lawrow',en,Russland,#e81818,#e81818,1,0.1615987923665612
 'Melinda Gates',en,USA,#18e8e8,#18e8e8,1,0.1608978664171119
