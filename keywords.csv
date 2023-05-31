@@ -13,7 +13,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'William Shakespeare',en,UK,#e838e8,#e838e8,2,0.4912269572727273
 'Margaret Thatcher',en,UK,#e838e8,#e838e8,3,0.4904505731363636
 'Ed McVey',en,UK,#e838e8,#e838e8,2,0.4892616402272727
-'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,3,0.4885377965217391
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.4841271665386363
 'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.4836267270454545
 'Winston Churchill',en,UK,#e838e8,#e838e8,3,0.4834105133409091
@@ -65,6 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Bush',en,USA,#18e8e8,#18e8e8,3,0.4382153743636364
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,2,0.4381316939999999
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,3,0.433921058515284
+'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,3,0.43389688572768875
 'Evan Gershkovich',en,USA,#18e8e8,#18e8e8,3,0.4318388999952297
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.4314815463636363
 'Alfred Nobel',en,Schweden,#111111,#111111,1,0.4313710570277778
@@ -263,7 +263,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stephan Harbarth',en,Deutschland,#1818e8,#1818e8,1,0.1631758778611338
 'Chez Krömer',en,Deutschland,#1818e8,#1818e8,1,0.1628531608468749
 'Markus Söder',en,Deutschland,#1818e8,#1818e8,1,0.1625088395233986
-'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.16216563808054113
+'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.1621656380805411
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.1619899913519324
 'Sergej Lawrow',en,Russland,#e81818,#e81818,1,0.1615987923665612
 'Melinda Gates',en,USA,#18e8e8,#18e8e8,1,0.1608978664171119
