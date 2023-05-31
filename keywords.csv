@@ -110,7 +110,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Harry',en,UK,#e838e8,#e838e8,2,0.3931558244181817
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.390600096
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,1,0.39060008325
-'Dieter Bohlen',en,Deutschland,#1818e8,#1818e8,2,0.39042752775
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.39015
@@ -134,6 +133,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,1,0.3388789260249999
 'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.3377687499999999
 'Charles III',en,UK,#e838e8,#e838e8,3,0.3367055939626885
+'Dieter Bohlen',en,Deutschland,#1818e8,#1818e8,1,0.3318634135875
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.3316274999999999
 'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.3234161993634266
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.3171220270197426
