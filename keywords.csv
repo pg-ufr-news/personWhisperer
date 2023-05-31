@@ -54,7 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Egon Westphal',en,Deutschland,#1818e8,#1818e8,1,0.0387595310845141
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.390600096
-'Faisal Kawusi',en,Deutschland,#1818e8,#1818e8,1,0.26570118125
+'Faisal Kawusi',en,Deutschland,#1818e8,#1818e8,1,0.22584600406249997
 'Frank Plasberg',en,Deutschland,#1818e8,#1818e8,1,0.2698772312499999
 'Frank-Walter Steinmeier',en,Deutschland,#1818e8,#1818e8,3,0.2514924605885683
 'Franziska Giffey',en,Deutschland,#1818e8,#1818e8,3,0.1711904025892503
@@ -364,7 +364,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergey Brin',en,USA,#18e8e8,#18e8e8,1,0.1204010720496926
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.4248182491590909
 'Steve Milloy',en,USA,#18e8e8,#18e8e8,1,0.425000225
-'Steven Milloy',en,USA,#18e8e8,#18e8e8,2,0.36152752774999997
+'Steven Milloy',en,USA,#18e8e8,#18e8e8,2,0.3615275277499999
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.3985073378749998
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4856762746851194
 'Sundar Pichai',en,USA,#18e8e8,#18e8e8,2,0.1487998280479419
