@@ -587,8 +587,8 @@ if(age>60*60*5*0):
 '''
 inqRandomNews()
 
-keywordsDF = keywordsDF.sort_values(by=['topic','keyword'])
-#keywordsDF = keywordsDF.sort_values(by=['ratioNew'], ascending=False)
+#keywordsDF = keywordsDF.sort_values(by=['topic','keyword'])
+keywordsDF = keywordsDF.sort_values(by=['ratioNew'], ascending=False)
 keywordsDF.to_csv(DATA_PATH / 'keywords.csv', columns=keywordsFields,index=False)  
 
 '''
