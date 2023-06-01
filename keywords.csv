@@ -36,7 +36,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Queen Camilla',en,UK,#e838e8,#e838e8,2,0.4612398377272727
 'Harry Belafonte',en,USA,#18e8e8,#18e8e8,2,0.4606394913409091
 'Michelle O\'Neill',en,Irland,#111111,#111111,3,0.4603854127586206
-'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.4593413235
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,1,0.459000405
 'Margaret Thatcher',en,UK,#e838e8,#e838e8,3,0.4582007485295454
 'Prince Charles',en,UK,#e838e8,#e838e8,2,0.4573035922727272
@@ -71,6 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,3,0.433921058515284
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,3,0.4338968857276887
 'Evan Gershkovich',en,USA,#18e8e8,#18e8e8,3,0.4318388999952297
+'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.4317681763386364
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.4314815463636363
 'Alfred Nobel',en,Schweden,#111111,#111111,1,0.4313710570277778
 'Camilla',en,UK,#e838e8,#e838e8,3,0.4298469722749999
@@ -223,7 +223,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wladimir Putin',en,Russland,#e81818,#e81818,1,0.1880680493428199
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,2,0.1857048246347956
 'Katarina Barley',en,EU,#111111,#111111,1,0.1851917272145462
-'Vitali Klitschko',en,Ukraine,#e818e8,#e818e8,3,0.18370655719710366
+'Vitali Klitschko',en,Ukraine,#e818e8,#e818e8,3,0.1837065571971036
 'Hun Sen',en,Kambodscha,#111111,#111111,1,0.1836343328764497
 'Gautam Adani',en,Indien,#111111,#111111,2,0.1827865647045193
 'Andrés Manuel López Obrador',en,Mexiko,#111111,#111111,3,0.1811875594397846
