@@ -233,7 +233,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.4554887075727272
 'Amin H. Nasser',en,SaudiArabien,#111111,#111111,1,0.0470558451511601
 'Amin Nasser',en,SaudiArabien,#111111,#111111,1,0.0972738007140503
-'Mohammed bin Salman',en,SaudiArabien,#111111,#111111,2,0.1805142416712676
+'Mohammed bin Salman',en,SaudiArabien,#111111,#111111,2,0.19930230132966836
 'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.39015
 'Alfred Nobel',en,Schweden,#111111,#111111,1,0.4313710570277778
 'Greta Thunberg',en,Schweden,#111111,#111111,3,0.1933463404142239
@@ -253,7 +253,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Recep Tayyip Erdogan',en,Türkei,#111111,#111111,3,0.4732703774397727
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.2933229335159393
 'Boris Johnson',en,UK,#e838e8,#e838e8,3,0.2809272792699669
-'Camilla',en,UK,#e838e8,#e838e8,3,0.42984697227499996
+'Camilla',en,UK,#e838e8,#e838e8,3,0.4298469722749999
 'Charles III',en,UK,#e838e8,#e838e8,3,0.3367055939626885
 'Ed McVey',en,UK,#e838e8,#e838e8,2,0.4276476341931818
 'Geoffrey Hinton',en,UK,#e838e8,#e838e8,3,0.424831125994034
