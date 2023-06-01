@@ -19,7 +19,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Teixeira',en,USA,#18e8e8,#18e8e8,3,0.4715815379550932
 'Wang Wentao',en,China,#e88818,#e88818,1,0.4714530827499999
 'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.4712078051786363
-'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.4708771226394885
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.4703773714090909
 'Lionel Richie',en,USA,#18e8e8,#18e8e8,3,0.469650571347159
 'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,2,0.4690822710227272
@@ -77,6 +76,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Albert Einstein',en,Deutschland,#1818e8,#1818e8,3,0.4290901302727272
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.4289157651264783
 'Jimmy Carter',en,USA,#18e8e8,#18e8e8,3,0.4283803291874998
+'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.42792483697083794
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4278591377989885
 'Anne Will',en,Deutschland,#1818e8,#1818e8,2,0.4278387052045453
 'Ed McVey',en,UK,#e838e8,#e838e8,2,0.4276476341931818
@@ -103,7 +103,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.3985073378749998
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.3942262179090909
 'Prince Harry',en,UK,#e838e8,#e838e8,2,0.3931558244181817
-'Steve Milloy',en,USA,#18e8e8,#18e8e8,1,0.39177543125000003
+'Steve Milloy',en,USA,#18e8e8,#18e8e8,1,0.39177543125
 'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.39015
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.39015
 'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.39015
