@@ -76,7 +76,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Albert Einstein',en,Deutschland,#1818e8,#1818e8,3,0.4290901302727272
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.4289157651264783
 'Jimmy Carter',en,USA,#18e8e8,#18e8e8,3,0.4283803291874998
-'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.42792483697083794
+'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.4279248369708379
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4278591377989885
 'Anne Will',en,Deutschland,#1818e8,#1818e8,2,0.4278387052045453
 'Ed McVey',en,UK,#e838e8,#e838e8,2,0.4276476341931818
@@ -262,7 +262,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karl Lauterbach',en,Deutschland,#1818e8,#1818e8,2,0.1660299331007256
 'Jan Böhmermann',en,Deutschland,#1818e8,#1818e8,2,0.1658699599547154
 'Louis Klamroth',en,Deutschland,#1818e8,#1818e8,2,0.165560566557772
-'Winfried Kretschmann',en,Deutschland,#1818e8,#1818e8,1,0.1651134855123221
 'Roberta Metsola',en,EU,#111111,#111111,1,0.164994776793156
 'Björn Höcke',en,Deutschland,#1818e8,#1818e8,1,0.1648239401008427
 'John Kerry',en,USA,#18e8e8,#18e8e8,1,0.1648160755039041
@@ -317,6 +316,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steffi Lemke',en,Deutschland,#1818e8,#1818e8,3,0.1429699926042515
 'Rainer Maria Woelki',en,Deutschland,#1818e8,#1818e8,2,0.1426343310110069
 'Jair Lapid',en,Israel,#111111,#111111,2,0.140834487165512
+'Winfried Kretschmann',en,Deutschland,#1818e8,#1818e8,1,0.1406464926854738
 'Christian Drosten',en,Deutschland,#1818e8,#1818e8,2,0.1388618962920219
 'Joana Cotar',en,Deutschland,#1818e8,#1818e8,1,0.1383847895568137
 'Christoph Heusgen',en,Deutschland,#1818e8,#1818e8,1,0.1383679051156758
