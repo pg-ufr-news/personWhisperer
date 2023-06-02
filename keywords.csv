@@ -17,10 +17,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.4732160574838477
 'Herschel Walker',en,USA,#18e8e8,#18e8e8,3,0.4727226010409091
 'Jack Teixeira',en,USA,#18e8e8,#18e8e8,3,0.4715815379550932
-'Wang Wentao',en,China,#e88818,#e88818,1,0.4714530827499999
 'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.4712078051786363
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.4703773714090909
 'Lionel Richie',en,USA,#18e8e8,#18e8e8,3,0.469650571347159
+'Wang Wentao',en,China,#e88818,#e88818,2,0.46932506897386356
 'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,2,0.4690822710227272
 'Cillian Murphy',en,Irland,#111111,#111111,2,0.4685753321590909
 'Billy Graham',en,USA,#18e8e8,#18e8e8,3,0.4684984095454546
@@ -84,7 +84,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geoffrey Hinton',en,UK,#e838e8,#e838e8,3,0.424831125994034
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.4248182491590909
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,2,0.4244000651261363
-'Jimmy Carter',en,USA,#18e8e8,#18e8e8,3,0.42362633935482935
+'Jimmy Carter',en,USA,#18e8e8,#18e8e8,3,0.4236263393548293
 'Recep Tayyip Erdoan',en,Türkei,#111111,#111111,3,0.4224862415901653
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.4220498174020454
 'Chris Hipkins',en,Neuseeland,#1818e8,#1818e8,3,0.4209125525454545
