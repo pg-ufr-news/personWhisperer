@@ -75,7 +75,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Camilla',en,UK,#e838e8,#e838e8,3,0.4298469722749999
 'Albert Einstein',en,Deutschland,#1818e8,#1818e8,3,0.4290901302727272
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.4289157651264783
-'Jimmy Carter',en,USA,#18e8e8,#18e8e8,3,0.4283803291874998
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.4279248369708379
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4278591377989885
 'Anne Will',en,Deutschland,#1818e8,#1818e8,2,0.4278387052045453
@@ -85,6 +84,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geoffrey Hinton',en,UK,#e838e8,#e838e8,3,0.424831125994034
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.4248182491590909
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,2,0.4244000651261363
+'Jimmy Carter',en,USA,#18e8e8,#18e8e8,3,0.42362633935482935
 'Recep Tayyip Erdoan',en,Türkei,#111111,#111111,3,0.4224862415901653
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.4220498174020454
 'Chris Hipkins',en,Neuseeland,#1818e8,#1818e8,3,0.4209125525454545
@@ -228,7 +228,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gautam Adani',en,Indien,#111111,#111111,2,0.1827865647045193
 'Andrés Manuel López Obrador',en,Mexiko,#111111,#111111,3,0.1811875594397846
 'Sergej Schoigu',en,Russland,#e81818,#e81818,3,0.1807792522332517
-'Karl Lauterbach',en,Deutschland,#1818e8,#1818e8,2,0.18062589313561675
+'Karl Lauterbach',en,Deutschland,#1818e8,#1818e8,2,0.1806258931356167
 'Holger Münch',en,Deutschland,#1818e8,#1818e8,1,0.1805706772342975
 'Anthony Albanese',en,Australien,#111111,#111111,2,0.1799324508776843
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,2,0.1795522340493467
