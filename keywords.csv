@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,2,0.4845159595454545
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.4841271665386363
 'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.4836267270454545
-'Winston Churchill',en,UK,#e838e8,#e838e8,3,0.4834105133409091
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.4831210524016282
 'Henry Ford',en,USA,#18e8e8,#18e8e8,2,0.4821373081818182
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.4820336731094886
@@ -57,6 +56,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Meg Bellamy',en,UK,#e838e8,#e838e8,2,0.4458871588079545
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.4447570457988635
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.4444218402811901
+'Winston Churchill',en,UK,#e838e8,#e838e8,3,0.4431281736125
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.4429433712003153
 'Oprah Winfrey',en,USA,#18e8e8,#18e8e8,3,0.4428745193367984
 'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.4424673854375312
