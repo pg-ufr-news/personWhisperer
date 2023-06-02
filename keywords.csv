@@ -35,7 +35,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Queen Camilla',en,UK,#e838e8,#e838e8,2,0.4612398377272727
 'Harry Belafonte',en,USA,#18e8e8,#18e8e8,2,0.4606394913409091
 'Michelle O\'Neill',en,Irland,#111111,#111111,3,0.4603854127586206
-'Richard Feynman',en,USA,#18e8e8,#18e8e8,1,0.459000405
 'Margaret Thatcher',en,UK,#e838e8,#e838e8,3,0.4582007485295454
 'Prince Charles',en,UK,#e838e8,#e838e8,2,0.4573035922727272
 'Lady Di',en,UK,#e838e8,#e838e8,2,0.4572242272727272
@@ -75,6 +74,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Camilla',en,UK,#e838e8,#e838e8,3,0.4298469722749999
 'Albert Einstein',en,Deutschland,#1818e8,#1818e8,3,0.4290901302727272
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.4289157651264783
+'Richard Feynman',en,USA,#18e8e8,#18e8e8,2,0.4286717769919355
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.4279248369708379
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4278591377989885
 'Ed McVey',en,UK,#e838e8,#e838e8,2,0.4276476341931818
