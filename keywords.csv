@@ -1,34 +1,34 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Kardashian',en,USA,#18e8e8,#18e8e8,3,0.5248384163636364
-'Pietro Lombardi',en,Deutschland,#1818e8,#1818e8,2,0.51
-'Millie Mackintosh',en,UK,#e838e8,#e838e8,2,0.51
-'Lady Gaga',en,USA,#18e8e8,#18e8e8,2,0.51
-'Don Lemon',en,USA,#18e8e8,#18e8e8,2,0.51
-'Daniel Penny',en,USA,#18e8e8,#18e8e8,2,0.51
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,2,0.51
 'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,2,0.51
+'Millie Mackintosh',en,UK,#e838e8,#e838e8,2,0.51
+'Don Lemon',en,USA,#18e8e8,#18e8e8,2,0.51
+'Daniel Penny',en,USA,#18e8e8,#18e8e8,2,0.51
+'Lady Gaga',en,USA,#18e8e8,#18e8e8,2,0.51
+'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,2,0.51
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.51
 'Karl Jenkins',en,UK,#e838e8,#e838e8,2,0.51
-'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,2,0.51
 'Michael Cohen',en,USA,#18e8e8,#18e8e8,2,0.51
+'Pietro Lombardi',en,Deutschland,#1818e8,#1818e8,2,0.51
+'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,2,0.5
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,2,0.5
 'Matt Damon',en,USA,#18e8e8,#18e8e8,2,0.5
 'Kamala Harris',en,USA,#18e8e8,#18e8e8,2,0.5
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,2,0.5
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,2,0.5
 'Chip Somodevilla',en,USA,#18e8e8,#18e8e8,2,0.5
 'Johnny Depp',en,USA,#18e8e8,#18e8e8,2,0.5
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,2,0.5
-'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,2,0.5
-'Barbara Walters',en,USA,#18e8e8,#18e8e8,2,0.5
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,2,0.5
+'Greg Abbott',en,USA,#18e8e8,#18e8e8,2,0.5
 'Lindsey Graham',en,USA,#18e8e8,#18e8e8,2,0.5
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,2,0.5
 'Kim Jong Un',en,NordKorea,#e85858,#e85858,2,0.5
 'Martin Scorsese',en,USA,#18e8e8,#18e8e8,2,0.5
-'Greg Abbott',en,USA,#18e8e8,#18e8e8,2,0.5
 'Raphael Warnock',en,USA,#18e8e8,#18e8e8,2,0.5
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,2,0.5
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,2,0.5
+'Barbara Walters',en,USA,#18e8e8,#18e8e8,2,0.5
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,3,0.4962826631068182
 'James Cleverly',en,UK,#e838e8,#e838e8,3,0.4930020095454545
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4856762746851194
@@ -79,7 +79,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jeffrey Donaldson',en,Irland,#111111,#111111,2,0.4526792227272727
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.4509858190533983
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.4499733222772727
-'Rupert Murdoch',en,USA,#18e8e8,#18e8e8,3,0.4498169085595455
 'Katy Perry',en,USA,#18e8e8,#18e8e8,2,0.4497660471818182
 'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.4494231094764205
 'Stephen Hawking',en,UK,#e838e8,#e838e8,3,0.4490833397727272
@@ -112,6 +111,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Albert Einstein',en,Deutschland,#1818e8,#1818e8,3,0.4290901302727272
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.4289157651264783
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,2,0.4286717769919355
+'Rupert Murdoch',en,USA,#18e8e8,#18e8e8,3,0.4282125381847045
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.4279248369708379
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4278591377989885
 'Ed McVey',en,UK,#e838e8,#e838e8,2,0.4276476341931818
@@ -220,7 +220,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Rutte',en,Niederlande,#111111,#111111,3,0.2155660343016591
 'Michelle Obama',en,USA,#18e8e8,#18e8e8,3,0.2143303227779324
 'Charles Michel',en,EU,#111111,#111111,3,0.2103896112766485
-'Julian Reichelt',en,Deutschland,#1818e8,#1818e8,1,0.20892934450406664
+'Julian Reichelt',en,Deutschland,#1818e8,#1818e8,1,0.2089293445040666
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.2087350411115406
 'Mukesh Ambani',en,Indien,#111111,#111111,2,0.207879378084222
 'Narendra Modi',en,Indien,#111111,#111111,3,0.2066274129436131
