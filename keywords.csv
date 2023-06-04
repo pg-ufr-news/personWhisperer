@@ -1,33 +1,33 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Kardashian',en,USA,#18e8e8,#18e8e8,3,0.53862054855
 'Lachlan Murdoch',en,UK,#e838e8,#e838e8,3,0.5122320035681818
+'Michael Cohen',en,USA,#18e8e8,#18e8e8,2,0.51
 'Millie Mackintosh',en,UK,#e838e8,#e838e8,2,0.51
-'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,2,0.51
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,2,0.51
 'Daniel Penny',en,USA,#18e8e8,#18e8e8,2,0.51
-'Michael Cohen',en,USA,#18e8e8,#18e8e8,2,0.51
-'Paul Gosar',en,USA,#18e8e8,#18e8e8,2,0.51
+'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,2,0.51
+'Lady Gaga',en,USA,#18e8e8,#18e8e8,2,0.51
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.51
 'Karl Jenkins',en,UK,#e838e8,#e838e8,2,0.51
-'Lady Gaga',en,USA,#18e8e8,#18e8e8,2,0.51
 'Pietro Lombardi',en,Deutschland,#1818e8,#1818e8,2,0.51
+'Paul Gosar',en,USA,#18e8e8,#18e8e8,2,0.51
+'Lindsey Graham',en,USA,#18e8e8,#18e8e8,2,0.5
 'Greg Abbott',en,USA,#18e8e8,#18e8e8,2,0.5
 'Kamala Harris',en,USA,#18e8e8,#18e8e8,2,0.5
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,2,0.5
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,2,0.5
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,2,0.5
 'Chip Somodevilla',en,USA,#18e8e8,#18e8e8,2,0.5
 'Johnny Depp',en,USA,#18e8e8,#18e8e8,2,0.5
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,2,0.5
-'Megyn Kell',en,USA,#18e8e8,#18e8e8,2,0.5
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,2,0.5
 'Raphael Warnock',en,USA,#18e8e8,#18e8e8,2,0.5
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,2,0.5
 'Martin Scorsese',en,USA,#18e8e8,#18e8e8,2,0.5
 'Matt Damon',en,USA,#18e8e8,#18e8e8,2,0.5
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,2,0.5
-'Lindsey Graham',en,USA,#18e8e8,#18e8e8,2,0.5
 'Barbara Walters',en,USA,#18e8e8,#18e8e8,2,0.5
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,2,0.5
+'Megyn Kell',en,USA,#18e8e8,#18e8e8,2,0.5
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,3,0.4962826631068182
 'Don Lemon',en,USA,#18e8e8,#18e8e8,2,0.48845333
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4856762746851194
@@ -171,10 +171,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,2,0.3072837153197579
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,3,0.3024542208381112
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.2933229335159393
-'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,1,0.2884971321212499
 'Liz Truss',en,UK,#e838e8,#e838e8,3,0.2884530858114328
 'Katja Krasavice',en,Deutschland,#1818e8,#1818e8,1,0.2872118417612499
 'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.2871034374999999
+'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,1,0.2833226223030624
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.28331868036
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,1,0.282763615648125
 'Katalin Novák',en,Ungarn,#111111,#111111,2,0.2825372219835637
