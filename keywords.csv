@@ -1,33 +1,33 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Kardashian',en,USA,#18e8e8,#18e8e8,3,0.53862054855
 'Lachlan Murdoch',en,UK,#e838e8,#e838e8,3,0.5122320035681818
+'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,2,0.51
 'Michael Cohen',en,USA,#18e8e8,#18e8e8,2,0.51
-'Millie Mackintosh',en,UK,#e838e8,#e838e8,2,0.51
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,2,0.51
 'Daniel Penny',en,USA,#18e8e8,#18e8e8,2,0.51
-'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,2,0.51
-'Lady Gaga',en,USA,#18e8e8,#18e8e8,2,0.51
+'Millie Mackintosh',en,UK,#e838e8,#e838e8,2,0.51
+'Pietro Lombardi',en,Deutschland,#1818e8,#1818e8,2,0.51
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.51
 'Karl Jenkins',en,UK,#e838e8,#e838e8,2,0.51
-'Pietro Lombardi',en,Deutschland,#1818e8,#1818e8,2,0.51
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,2,0.51
+'Lady Gaga',en,USA,#18e8e8,#18e8e8,2,0.51
+'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,2,0.5
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,2,0.5
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,2,0.5
-'Barbara Walters',en,USA,#18e8e8,#18e8e8,2,0.5
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,2,0.5
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,2,0.5
 'Chip Somodevilla',en,USA,#18e8e8,#18e8e8,2,0.5
 'Johnny Depp',en,USA,#18e8e8,#18e8e8,2,0.5
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,2,0.5
-'Lindsey Graham',en,USA,#18e8e8,#18e8e8,2,0.5
+'Barbara Walters',en,USA,#18e8e8,#18e8e8,2,0.5
 'Raphael Warnock',en,USA,#18e8e8,#18e8e8,2,0.5
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,2,0.5
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,2,0.5
 'Kamala Harris',en,USA,#18e8e8,#18e8e8,2,0.5
 'Greg Abbott',en,USA,#18e8e8,#18e8e8,2,0.5
-'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,2,0.5
 'Matt Damon',en,USA,#18e8e8,#18e8e8,2,0.5
 'Martin Scorsese',en,USA,#18e8e8,#18e8e8,2,0.5
+'Lindsey Graham',en,USA,#18e8e8,#18e8e8,2,0.5
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,3,0.4962826631068182
 'Don Lemon',en,USA,#18e8e8,#18e8e8,2,0.48845333
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4856762746851194
@@ -74,7 +74,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.4554887075727272
 'Bruce Springsteen',en,USA,#18e8e8,#18e8e8,2,0.4535907375454546
 'Alvin Bragg',en,USA,#18e8e8,#18e8e8,3,0.45343063495198
-'Cristiano Ronaldo',en,Portugal,#111111,#111111,2,0.4526901277272727
 'Jeffrey Donaldson',en,Irland,#111111,#111111,2,0.4526792227272727
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.4509858190533983
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.4499733222772727
@@ -140,8 +139,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.3942262179090909
 'Prince Harry',en,UK,#e838e8,#e838e8,2,0.3931558244181817
 'Steve Milloy',en,USA,#18e8e8,#18e8e8,1,0.39177543125
-'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.39015
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.39015
+'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.39015
+'Cristiano Ronaldo',en,Portugal,#111111,#111111,2,0.3897498235681818
 'Barbara Sturm',en,Deutschland,#1818e8,#1818e8,2,0.3845387462878623
 'Isaac Newton',en,UK,#e838e8,#e838e8,3,0.3826260920363635
 'Herbert Diess',en,Deutschland,#1818e8,#1818e8,2,0.3816646526742424
