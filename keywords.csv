@@ -24,7 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Johnny Depp',en,USA,#18e8e8,#18e8e8,3,0.4754232054545454
 'Ted Cruz',en,USA,#18e8e8,#18e8e8,2,0.4754212854545454
 'Kim Jong Un',en,NordKorea,#e85858,#e85858,2,0.4754126154545454
-'Mathias Döpfner',en,Deutschland,#1818e8,#1818e8,1,0.4751502775
 'James Cleverly',en,UK,#e838e8,#e838e8,3,0.4740072431136363
 'Recep Tayyip Erdogan',en,Türkei,#111111,#111111,3,0.4732703774397727
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.4732160574838477
@@ -130,6 +129,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'William Shakespeare',en,UK,#e838e8,#e838e8,2,0.4065756471295453
 'Linda Yaccarino',en,USA,#18e8e8,#18e8e8,3,0.405806780336
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.4045151515
+'Mathias Döpfner',en,Deutschland,#1818e8,#1818e8,1,0.404327780875
 'Adolf Hitler',en,Deutschland,#1818e8,#1818e8,3,0.4038998990352273
 'Rudolf Steiner',en,Oesterreich,#111111,#111111,1,0.4036388095384615
 'Scott Morrison',en,Australien,#111111,#111111,3,0.4026300859738635
