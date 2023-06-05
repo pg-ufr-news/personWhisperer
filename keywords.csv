@@ -56,7 +56,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lady Di',en,UK,#e838e8,#e838e8,2,0.4572242272727272
 'Lula da Silva',en,Brasilien,#58e838,#58e848,3,0.455622271790909
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.4554887075727272
-'Bruce Springsteen',en,USA,#18e8e8,#18e8e8,2,0.4535907375454546
 'Alvin Bragg',en,USA,#18e8e8,#18e8e8,3,0.45343063495198
 'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.4531590780035794
 'Jeffrey Donaldson',en,Irland,#111111,#111111,2,0.4526792227272727
@@ -80,6 +79,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.4429433712003153
 'Oprah Winfrey',en,USA,#18e8e8,#18e8e8,3,0.4428745193367984
 'Prince Louis',en,UK,#e838e8,#e838e8,3,0.4408215660988636
+'Bruce Springsteen',en,USA,#18e8e8,#18e8e8,2,0.44050886191363636
 'Yoon Suk Yeol',en,SüdKorea,#111111,#111111,3,0.439346431366534
 'King Charles',en,UK,#e838e8,#e838e8,2,0.439209929090909
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,2,0.43822569375
@@ -102,12 +102,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4278591377989885
 'Ed McVey',en,UK,#e838e8,#e838e8,2,0.4276476341931818
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.4272171996818181
-'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.425
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.425
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,1,0.425
-'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.425
+'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.425
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.425
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.425
+'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.425
 'Geoffrey Hinton',en,UK,#e838e8,#e838e8,3,0.424831125994034
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.4248182491590909
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,2,0.4244000651261363
@@ -157,9 +157,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,1,0.3457922989541666
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.34551758799375
 'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.3377687499999999
+'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.3316274999999999
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.3316274999999999
 'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.3316274999999999
-'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.3316274999999999
 'Charles III',en,UK,#e838e8,#e838e8,3,0.3276011712319216
 'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.3234161993634266
 'Jordan Bardella',en,Frankreich,#e8e808,#e8e808,1,0.31932261629625
@@ -365,7 +365,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patrick Pouyanné',en,Frankreich,#e8e808,#e8e808,1,0.1339929372058043
 'Silvio Berlusconi',en,Italien,#111111,#111111,3,0.1337948566427067
 'Lukaschenko',en,Belarus,#e81858,#e81858,2,0.1328561879761396
-'Igor Setschin',en,Russland,#e81818,#e81818,1,0.13243543949713685
+'Igor Setschin',en,Russland,#e81818,#e81818,1,0.1324354394971368
 'Andreas Jödecke',en,Deutschland,#1818e8,#1818e8,1,0.131776885743496
 'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.131714854281072
 'Susanne Klatten',en,Deutschland,#1818e8,#1818e8,1,0.1295442907165742
