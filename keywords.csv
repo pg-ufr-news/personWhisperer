@@ -89,7 +89,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,2,0.4381316939999999
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,3,0.433921058515284
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,3,0.4338968857276887
-'Pietro Lombardi',en,Deutschland,#1818e8,#1818e8,1,0.433500165
 'Mario Czaja',en,Deutschland,#1818e8,#1818e8,1,0.433500075
 'Dmitri Medwedew',en,Russland,#e81818,#e81818,1,0.4335
 'Evan Gershkovich',en,USA,#18e8e8,#18e8e8,3,0.4318388999952297
@@ -106,9 +105,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4278591377989885
 'Ed McVey',en,UK,#e838e8,#e838e8,2,0.4276476341931818
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.4272171996818181
+'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.425
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.425
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,1,0.425
-'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.425
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.425
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.425
 'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.425
@@ -147,6 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anne Will',en,Deutschland,#1818e8,#1818e8,2,0.3777504285147726
 'Putin',en,Russland,#e81818,#e81818,3,0.3754496622565719
 'Jordan Bardella',en,Frankreich,#e8e808,#e8e808,1,0.375144201525
+'Pietro Lombardi',en,Deutschland,#1818e8,#1818e8,1,0.37012530525
 'Nina Gummich',en,Deutschland,#1818e8,#1818e8,1,0.36414
 'Ulrich Reitz',en,Deutschland,#1818e8,#1818e8,1,0.3634175
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.3633494584534928
@@ -160,9 +160,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,1,0.3457922989541666
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.34551758799375
 'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.3377687499999999
+'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.3316274999999999
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.3316274999999999
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.3316274999999999
-'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.3316274999999999
 'Charles III',en,UK,#e838e8,#e838e8,3,0.3276011712319216
 'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.3234161993634266
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.3171220270197426
