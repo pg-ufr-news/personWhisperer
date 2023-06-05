@@ -1,17 +1,17 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Kardashian',en,USA,#18e8e8,#18e8e8,3,0.53862054855
 'Lachlan Murdoch',en,UK,#e838e8,#e838e8,3,0.5122320035681818
-'Michael Cohen',en,USA,#18e8e8,#18e8e8,2,0.51
+'Lady Gaga',en,USA,#18e8e8,#18e8e8,2,0.51
+'Daniel Penny',en,USA,#18e8e8,#18e8e8,2,0.51
+'Paul Gosar',en,USA,#18e8e8,#18e8e8,2,0.51
 'Millie Mackintosh',en,UK,#e838e8,#e838e8,2,0.51
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,2,0.51
-'Daniel Penny',en,USA,#18e8e8,#18e8e8,2,0.51
+'Michael Cohen',en,USA,#18e8e8,#18e8e8,2,0.51
 'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,2,0.51
-'Lady Gaga',en,USA,#18e8e8,#18e8e8,2,0.51
+'Pietro Lombardi',en,Deutschland,#1818e8,#1818e8,2,0.51
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.51
 'Karl Jenkins',en,UK,#e838e8,#e838e8,2,0.51
-'Pietro Lombardi',en,Deutschland,#1818e8,#1818e8,2,0.51
-'Paul Gosar',en,USA,#18e8e8,#18e8e8,2,0.51
-'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,2,0.5
+'Matt Damon',en,USA,#18e8e8,#18e8e8,2,0.5
 'Barbara Walters',en,USA,#18e8e8,#18e8e8,2,0.5
 'Lindsey Graham',en,USA,#18e8e8,#18e8e8,2,0.5
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,2,0.5
@@ -19,15 +19,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chip Somodevilla',en,USA,#18e8e8,#18e8e8,2,0.5
 'Johnny Depp',en,USA,#18e8e8,#18e8e8,2,0.5
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,2,0.5
-'Martin Scorsese',en,USA,#18e8e8,#18e8e8,2,0.5
+'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,2,0.5
 'Raphael Warnock',en,USA,#18e8e8,#18e8e8,2,0.5
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,2,0.5
 'Kamala Harris',en,USA,#18e8e8,#18e8e8,2,0.5
 'Greg Abbott',en,USA,#18e8e8,#18e8e8,2,0.5
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,2,0.5
-'Matt Damon',en,USA,#18e8e8,#18e8e8,2,0.5
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,2,0.5
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,2,0.5
+'Martin Scorsese',en,USA,#18e8e8,#18e8e8,2,0.5
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,3,0.4962826631068182
 'Don Lemon',en,USA,#18e8e8,#18e8e8,2,0.48845333
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4856762746851194
@@ -86,7 +86,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Meg Bellamy',en,UK,#e838e8,#e838e8,2,0.4458871588079545
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.4447570457988635
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.4444218402811901
-'Herschel Walker',en,USA,#18e8e8,#18e8e8,3,0.44312925724840907
+'Herschel Walker',en,USA,#18e8e8,#18e8e8,3,0.443129257248409
 'Winston Churchill',en,UK,#e838e8,#e838e8,3,0.4431281736125
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.4429433712003153
 'Oprah Winfrey',en,USA,#18e8e8,#18e8e8,3,0.4428745193367984
@@ -161,8 +161,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,1,0.3457922989541666
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.34551758799375
 'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.3377687499999999
-'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.3316274999999999
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.3316274999999999
+'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.3316274999999999
 'Charles III',en,UK,#e838e8,#e838e8,3,0.3276011712319216
 'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.3234161993634266
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.3171220270197426
@@ -200,6 +200,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hun Sen',en,Kambodscha,#111111,#111111,3,0.242859494763164
 'Ursula von der Leyen',en,EU,#111111,#111111,3,0.2412793076076889
 'Fumio Kishida',en,Japan,#111111,#111111,3,0.2412189870421819
+'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.2400756982123035
 'Nancy Faeser',en,Deutschland,#1818e8,#1818e8,3,0.2383423883632433
 'Joseph Ratzinger',en,Vatikan,#58b8e8,#58b8e8,1,0.2379535197810624
 'Angela Merkel',en,Deutschland,#1818e8,#1818e8,3,0.2371797024987847
@@ -258,7 +259,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Zhang',en,China,#e88818,#e88818,2,0.1891786548864231
 'Rishi Sunak',en,UK,#e838e8,#e838e8,3,0.1890834447602599
 'Daniel Freund',en,EU,#111111,#111111,3,0.1888132190045975
-'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,2,0.1857048246347956
 'Katarina Barley',en,EU,#111111,#111111,1,0.1851917272145462
 'Vitali Klitschko',en,Ukraine,#e818e8,#e818e8,3,0.1838349863448108
 'Gautam Adani',en,Indien,#111111,#111111,2,0.1827865647045193
