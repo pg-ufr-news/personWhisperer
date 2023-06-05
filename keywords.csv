@@ -20,7 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.4779143830685795
 'Kim Kardashian',en,USA,#18e8e8,#18e8e8,3,0.4764313799038636
 'Johnny Depp',en,USA,#18e8e8,#18e8e8,3,0.4754232054545454
-'Ted Cruz',en,USA,#18e8e8,#18e8e8,2,0.4754212854545454
 'Kim Jong Un',en,NordKorea,#e85858,#e85858,2,0.4754126154545454
 'James Cleverly',en,UK,#e838e8,#e838e8,3,0.4740072431136363
 'Recep Tayyip Erdogan',en,Türkei,#111111,#111111,3,0.4732703774397727
@@ -34,6 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,2,0.4690822710227272
 'Cillian Murphy',en,Irland,#111111,#111111,2,0.4685753321590909
 'Billy Graham',en,USA,#18e8e8,#18e8e8,3,0.4684984095454546
+'Ted Cruz',en,USA,#18e8e8,#18e8e8,2,0.4681645417272726
 'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.46795061075
 'Lachlan Murdoch',en,UK,#e838e8,#e838e8,3,0.4676228553056817
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.4668932768181818
@@ -102,12 +102,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4278591377989885
 'Ed McVey',en,UK,#e838e8,#e838e8,2,0.4276476341931818
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.4272171996818181
-'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.425
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,1,0.425
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.425
-'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.425
+'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.425
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.425
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.425
+'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.425
 'Geoffrey Hinton',en,UK,#e838e8,#e838e8,3,0.424831125994034
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.4248182491590909
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,2,0.4244000651261363
@@ -157,9 +157,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,1,0.3457922989541666
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.34551758799375
 'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.3377687499999999
+'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.3316274999999999
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.3316274999999999
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.3316274999999999
-'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.3316274999999999
 'Charles III',en,UK,#e838e8,#e838e8,3,0.3276011712319216
 'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.3234161993634266
 'Jordan Bardella',en,Frankreich,#e8e808,#e8e808,1,0.31932261629625
