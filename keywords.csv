@@ -1,31 +1,31 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Kardashian',en,USA,#18e8e8,#18e8e8,3,0.53862054855
 'Lachlan Murdoch',en,UK,#e838e8,#e838e8,3,0.5122320035681818
+'Michael Cohen',en,USA,#18e8e8,#18e8e8,2,0.51
 'Millie Mackintosh',en,UK,#e838e8,#e838e8,2,0.51
-'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,2,0.51
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,2,0.51
 'Daniel Penny',en,USA,#18e8e8,#18e8e8,2,0.51
-'Michael Cohen',en,USA,#18e8e8,#18e8e8,2,0.51
-'Paul Gosar',en,USA,#18e8e8,#18e8e8,2,0.51
+'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,2,0.51
+'Lady Gaga',en,USA,#18e8e8,#18e8e8,2,0.51
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.51
 'Karl Jenkins',en,UK,#e838e8,#e838e8,2,0.51
-'Lady Gaga',en,USA,#18e8e8,#18e8e8,2,0.51
 'Pietro Lombardi',en,Deutschland,#1818e8,#1818e8,2,0.51
+'Paul Gosar',en,USA,#18e8e8,#18e8e8,2,0.51
+'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,2,0.5
 'Barbara Walters',en,USA,#18e8e8,#18e8e8,2,0.5
 'Lindsey Graham',en,USA,#18e8e8,#18e8e8,2,0.5
-'Martin Scorsese',en,USA,#18e8e8,#18e8e8,2,0.5
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,2,0.5
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,2,0.5
 'Chip Somodevilla',en,USA,#18e8e8,#18e8e8,2,0.5
 'Johnny Depp',en,USA,#18e8e8,#18e8e8,2,0.5
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,2,0.5
-'Matt Damon',en,USA,#18e8e8,#18e8e8,2,0.5
+'Martin Scorsese',en,USA,#18e8e8,#18e8e8,2,0.5
 'Raphael Warnock',en,USA,#18e8e8,#18e8e8,2,0.5
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,2,0.5
 'Kamala Harris',en,USA,#18e8e8,#18e8e8,2,0.5
 'Greg Abbott',en,USA,#18e8e8,#18e8e8,2,0.5
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,2,0.5
-'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,2,0.5
+'Matt Damon',en,USA,#18e8e8,#18e8e8,2,0.5
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,2,0.5
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,2,0.5
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,3,0.4962826631068182
@@ -46,7 +46,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Cleverly',en,UK,#e838e8,#e838e8,3,0.4740072431136363
 'Recep Tayyip Erdogan',en,Türkei,#111111,#111111,3,0.4732703774397727
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.4732160574838477
-'Herschel Walker',en,USA,#18e8e8,#18e8e8,3,0.4727226010409091
 'Jack Teixeira',en,USA,#18e8e8,#18e8e8,3,0.4715815379550932
 'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.4712078051786363
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.4703773714090909
@@ -87,6 +86,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Meg Bellamy',en,UK,#e838e8,#e838e8,2,0.4458871588079545
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.4447570457988635
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.4444218402811901
+'Herschel Walker',en,USA,#18e8e8,#18e8e8,3,0.44312925724840907
 'Winston Churchill',en,UK,#e838e8,#e838e8,3,0.4431281736125
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.4429433712003153
 'Oprah Winfrey',en,USA,#18e8e8,#18e8e8,3,0.4428745193367984
