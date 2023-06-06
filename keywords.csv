@@ -55,7 +55,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.4531590780035794
 'Jeffrey Donaldson',en,Irland,#111111,#111111,2,0.4526792227272727
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.4509858190533983
-'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.4499733222772727
 'Katy Perry',en,USA,#18e8e8,#18e8e8,2,0.4497660471818182
 'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.4494231094764205
 'Lady Gaga',en,USA,#18e8e8,#18e8e8,2,0.4492333158409091
@@ -117,6 +116,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mary Lou McDonald',en,Irland,#111111,#111111,3,0.4079100469999999
 'William Shakespeare',en,UK,#e838e8,#e838e8,2,0.4065756471295453
 'Linda Yaccarino',en,USA,#18e8e8,#18e8e8,3,0.405806780336
+'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.4056129521175
 'Mathias Döpfner',en,Deutschland,#1818e8,#1818e8,1,0.404327780875
 'Adolf Hitler',en,Deutschland,#1818e8,#1818e8,3,0.4038998990352273
 'Rudolf Steiner',en,Oesterreich,#111111,#111111,1,0.4036388095384615
@@ -140,13 +140,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nina Gummich',en,Deutschland,#1818e8,#1818e8,1,0.36414
 'Ulrich Reitz',en,Deutschland,#1818e8,#1818e8,1,0.3634175
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.3633494584534928
-'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.3612499999999999
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.3612499999999999
+'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.3527818368090908
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.3504942599805861
 'Helmut Kohl',en,Deutschland,#1818e8,#1818e8,1,0.3476143768880114
