@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Daniel Penny',en,USA,#18e8e8,#18e8e8,3,0.4894491059284089
 'Barbara Walters',en,USA,#18e8e8,#18e8e8,2,0.4890420490909091
 'Don Lemon',en,USA,#18e8e8,#18e8e8,2,0.48845333
 'Karl Jenkins',en,UK,#e838e8,#e838e8,2,0.48845105
@@ -107,6 +106,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jimmy Carter',en,USA,#18e8e8,#18e8e8,3,0.4236263393548293
 'Recep Tayyip Erdoan',en,Türkei,#111111,#111111,3,0.4224862415901653
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.4220498174020454
+'Daniel Penny',en,USA,#18e8e8,#18e8e8,3,0.42099933503914755
 'Chris Hipkins',en,Neuseeland,#1818e8,#1818e8,3,0.4209125525454545
 'Prince George',en,UK,#e838e8,#e838e8,3,0.4204252222272727
 'Leonardo DiCaprio',en,USA,#18e8e8,#18e8e8,2,0.419859496253409
