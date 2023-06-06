@@ -195,7 +195,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christine Lambrecht',en,Deutschland,#1818e8,#1818e8,1,0.249283962031489
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.2470963866277471
 'David Malpass',en,USA,#18e8e8,#18e8e8,3,0.2432576681222887
-'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,1,0.24142428895760304
+'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,1,0.241424288957603
 'Ursula von der Leyen',en,EU,#111111,#111111,3,0.2412793076076889
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.241270923306
 'Fumio Kishida',en,Japan,#111111,#111111,3,0.2412189870421819
@@ -375,7 +375,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Muhammad bin Zayid Al Nahyan',en,VAE,#111111,#111111,1,0.1253944713530956
 'Hans Joachim Schellnhuber',en,Deutschland,#1818e8,#1818e8,2,0.1236925730610332
 'Macky Sall',en,Senegal,#111111,#111111,1,0.1234266710588938
-'Herman Gref',en,Russland,#e81818,#e81818,1,0.1227415817699297
 'Kyrill',en,Ukraine,#e818e8,#e818e8,1,0.1223342970557875
 'Steffen Große',en,Deutschland,#1818e8,#1818e8,1,0.1222269061353798
 'Klaus Hasselmann',en,Deutschland,#1818e8,#1818e8,1,0.1212159076514837
@@ -385,6 +384,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frank Bainimarama',en,Fidschi,#111111,#111111,1,0.1133467825851088
 'Paul Ronzheimer',en,Deutschland,#1818e8,#1818e8,1,0.1110288426163654
 'Tamim bin Hamad Al-Thani',en,Katar,#111111,#111111,2,0.1072160810781233
+'Herman Gref',en,Russland,#e81818,#e81818,1,0.10523043450444025
 'Jochen Thewes',en,Deutschland,#1818e8,#1818e8,1,0.1030440768149629
 'Heinrich XIII. Prinz Reuß',en,Deutschland,#1818e8,#1818e8,1,0.102973299662835
 'Yanis Varoufakis',en,Griechenland,#1858e8,#1858e8,1,0.1021052404744678
