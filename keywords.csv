@@ -93,7 +93,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Albert Einstein',en,Deutschland,#1818e8,#1818e8,3,0.4290901302727272
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.4289157651264783
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,2,0.4286717769919355
-'King Charles',en,UK,#e838e8,#e838e8,3,0.42841255472727263
+'King Charles',en,UK,#e838e8,#e838e8,3,0.4284125547272726
 'Rupert Murdoch',en,USA,#18e8e8,#18e8e8,3,0.4282125381847045
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.4279248369708379
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4278591377989885
@@ -171,7 +171,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katja Krasavice',en,Deutschland,#1818e8,#1818e8,1,0.2872118417612499
 'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.2871034374999999
 'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.2871034374999999
-'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,1,0.2833226223030624
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,1,0.282763615648125
 'Katalin Novák',en,Ungarn,#111111,#111111,2,0.2825372219835637
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.2824384304999999
@@ -196,6 +195,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christine Lambrecht',en,Deutschland,#1818e8,#1818e8,1,0.249283962031489
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.2470963866277471
 'David Malpass',en,USA,#18e8e8,#18e8e8,3,0.2432576681222887
+'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,1,0.24142428895760304
 'Ursula von der Leyen',en,EU,#111111,#111111,3,0.2412793076076889
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.241270923306
 'Fumio Kishida',en,Japan,#111111,#111111,3,0.2412189870421819
