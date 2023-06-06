@@ -75,7 +75,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Oprah Winfrey',en,USA,#18e8e8,#18e8e8,3,0.4428745193367984
 'Prince Louis',en,UK,#e838e8,#e838e8,3,0.4408215660988636
 'Bruce Springsteen',en,USA,#18e8e8,#18e8e8,2,0.4405088619136363
-'Yoon Suk Yeol',en,SüdKorea,#111111,#111111,3,0.439346431366534
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,2,0.43822569375
 'George Bush',en,USA,#18e8e8,#18e8e8,3,0.4382153743636364
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,2,0.4381316939999999
@@ -98,7 +97,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4278591377989885
 'Ed McVey',en,UK,#e838e8,#e838e8,2,0.4276476341931818
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.4272171996818181
-'Barbara Walters',en,USA,#18e8e8,#18e8e8,2,0.42518232127272726
+'Barbara Walters',en,USA,#18e8e8,#18e8e8,2,0.4251823212727272
 'Geoffrey Hinton',en,UK,#e838e8,#e838e8,3,0.424831125994034
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.4248182491590909
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.4247107292477271
@@ -124,6 +123,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Scott Morrison',en,Australien,#111111,#111111,3,0.4026300859738635
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.4014151406299999
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.3985073378749998
+'Yoon Suk Yeol',en,SüdKorea,#111111,#111111,3,0.3965872348433721
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.3942262179090909
 'Prince Harry',en,UK,#e838e8,#e838e8,2,0.3931558244181817
 'Steve Milloy',en,USA,#18e8e8,#18e8e8,1,0.39177543125
@@ -140,13 +140,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nina Gummich',en,Deutschland,#1818e8,#1818e8,1,0.36414
 'Ulrich Reitz',en,Deutschland,#1818e8,#1818e8,1,0.3634175
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.3633494584534928
-'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.3612499999999999
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.3612499999999999
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.3527818368090908
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.3504942599805861
 'Helmut Kohl',en,Deutschland,#1818e8,#1818e8,1,0.3476143768880114
