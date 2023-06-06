@@ -102,12 +102,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4278591377989885
 'Ed McVey',en,UK,#e838e8,#e838e8,2,0.4276476341931818
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.4272171996818181
-'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.425
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.425
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,1,0.425
-'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.425
+'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.425
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.425
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.425
+'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.425
 'Geoffrey Hinton',en,UK,#e838e8,#e838e8,3,0.424831125994034
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.4248182491590909
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,2,0.4244000651261363
@@ -157,9 +157,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,1,0.3457922989541666
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.34551758799375
 'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.3377687499999999
+'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.3316274999999999
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.3316274999999999
 'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.3316274999999999
-'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.3316274999999999
 'Charles III',en,UK,#e838e8,#e838e8,3,0.3276011712319216
 'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.3234161993634266
 'Jordan Bardella',en,Frankreich,#e8e808,#e8e808,1,0.31932261629625
@@ -343,7 +343,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kardinal Woelki',en,Deutschland,#1818e8,#1818e8,1,0.1452746146092805
 'Paul Kagame',en,Ruanda,#111111,#111111,1,0.1444730031001166
 'Lula sa Silva',en,Brasilien,#58e838,#58e838,1,0.144203701802678
-'Kyrill',en,Ukraine,#e818e8,#e818e8,2,0.1439227024185736
 'Martin Schirdewan',en,Deutschland,#1818e8,#1818e8,2,0.1436933426076385
 'Nikos Androulakis',en,Griechenland,#1858e8,#1858e8,1,0.1436341310989589
 'Jitzchak Herzog',en,Israel,#111111,#111111,1,0.1432453703487191
@@ -377,6 +376,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hans Joachim Schellnhuber',en,Deutschland,#1818e8,#1818e8,2,0.1236925730610332
 'Macky Sall',en,Senegal,#111111,#111111,1,0.1234266710588938
 'Herman Gref',en,Russland,#e81818,#e81818,1,0.1227415817699297
+'Kyrill',en,Ukraine,#e818e8,#e818e8,1,0.12233429705578756
 'Steffen Große',en,Deutschland,#1818e8,#1818e8,1,0.1222269061353798
 'Klaus Hasselmann',en,Deutschland,#1818e8,#1818e8,1,0.1212159076514837
 'Sergey Brin',en,USA,#18e8e8,#18e8e8,1,0.1204010720496926
