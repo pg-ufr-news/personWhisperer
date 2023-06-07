@@ -210,6 +210,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Friedrich Merz',en,Deutschland,#1818e8,#1818e8,3,0.2331342480701452
 'Dalai Lama',en,Tibet,#111111,#111111,3,0.229547663263707
 'Frank Plasberg',en,Deutschland,#1818e8,#1818e8,1,0.2293956465624999
+'Melinda Gates',en,USA,#18e8e8,#18e8e8,3,0.2280815328181815
 'Jack Ma',en,China,#e88818,#e88818,3,0.2254251807485522
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,3,0.2238027784379481
 'Gerhard Schröder',en,Deutschland,#1818e8,#1818e8,1,0.2199175534193196
@@ -297,7 +298,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.1619899913519324
 'Wolodymyr Selenskyj',en,Ukraine,#e818e8,#e818e8,1,0.1617888097434154
 'Sergej Lawrow',en,Russland,#e81818,#e81818,1,0.1615987923665612
-'Melinda Gates',en,USA,#18e8e8,#18e8e8,1,0.1608978664171119
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1608193803295434
 'Daniel Freund',en,EU,#111111,#111111,2,0.1604914461539078
 'Marco Buschmann',en,Deutschland,#1818e8,#1818e8,2,0.1603635892842408
