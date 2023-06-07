@@ -34,7 +34,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4662441053874999
 'Michael Cohen',en,USA,#18e8e8,#18e8e8,2,0.4657315772727273
 'Millie Mackintosh',en,UK,#e838e8,#e838e8,2,0.4657234472727273
-'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4627760355641466
 'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.461889370014292
 'Lindsey Graham',en,USA,#18e8e8,#18e8e8,2,0.4617792368181818
 'Chip Somodevilla',en,USA,#18e8e8,#18e8e8,2,0.4617716468181818
@@ -56,6 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lady Gaga',en,USA,#18e8e8,#18e8e8,2,0.4492333158409091
 'Stephen Hawking',en,UK,#e838e8,#e838e8,3,0.4490833397727272
 'Lionel Messi',en,Argentinien,#111111,#111111,3,0.4486959997113635
+'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4483361802295246
 'George Floyd',en,USA,#18e8e8,#18e8e8,2,0.4481558481818182
 'Akshata Murty',en,Indien,#111111,#111111,3,0.447983289141534
 'Milo Yiannopoulos',en,UK,#e838e8,#e838e8,3,0.4475198738113942
@@ -98,7 +98,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jimmy Carter',en,USA,#18e8e8,#18e8e8,3,0.4236263393548293
 'Recep Tayyip Erdoan',en,Türkei,#111111,#111111,3,0.4224862415901653
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.4220498174020454
-'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,3,0.42197418541477266
+'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,3,0.4219741854147726
 'Daniel Penny',en,USA,#18e8e8,#18e8e8,3,0.4209993350391475
 'Chris Hipkins',en,Neuseeland,#1818e8,#1818e8,3,0.4209125525454545
 'Prince George',en,UK,#e838e8,#e838e8,3,0.4204252222272727
