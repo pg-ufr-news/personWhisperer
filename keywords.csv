@@ -53,7 +53,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katy Perry',en,USA,#18e8e8,#18e8e8,2,0.4497660471818182
 'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.4494231094764205
 'Lady Gaga',en,USA,#18e8e8,#18e8e8,2,0.4492333158409091
-'Stephen Hawking',en,UK,#e838e8,#e838e8,3,0.4490833397727272
 'Lionel Messi',en,Argentinien,#111111,#111111,3,0.4486959997113635
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4483361802295246
 'George Floyd',en,USA,#18e8e8,#18e8e8,2,0.4481558481818182
@@ -71,6 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bruce Springsteen',en,USA,#18e8e8,#18e8e8,2,0.4405088619136363
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,2,0.43822569375
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,2,0.4381316939999999
+'Stephen Hawking',en,UK,#e838e8,#e838e8,3,0.4366725038068181
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,3,0.433921058515284
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,3,0.4338968857276887
 'Don Lemon',en,USA,#18e8e8,#18e8e8,2,0.4337750991363636
