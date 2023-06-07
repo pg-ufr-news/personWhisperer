@@ -365,7 +365,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lukaschenko',en,Belarus,#e81858,#e81858,2,0.1328561879761396
 'Igor Setschin',en,Russland,#e81818,#e81818,1,0.1324354394971368
 'Andreas Jödecke',en,Deutschland,#1818e8,#1818e8,1,0.131776885743496
-'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.131714854281072
 'Susanne Klatten',en,Deutschland,#1818e8,#1818e8,1,0.1295442907165742
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.1294581807787991
 'Otmar Issing',en,EU,#111111,#111111,1,0.1277856065152404
@@ -382,6 +381,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martin Sonneborn',en,Deutschland,#1818e8,#1818e8,1,0.1175126035274636
 'Alberto Ángel Fernández',en,Argentinien,#111111,#111111,1,0.1155569800506883
 'Frank Bainimarama',en,Fidschi,#111111,#111111,1,0.1133467825851088
+'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.11195762613891119
 'Paul Ronzheimer',en,Deutschland,#1818e8,#1818e8,1,0.1110288426163654
 'Tamim bin Hamad Al-Thani',en,Katar,#111111,#111111,2,0.1072160810781233
 'Herman Gref',en,Russland,#e81818,#e81818,1,0.1052304345044402
