@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.513236293936897
+'Princess Diana',en,UK,#e838e8,#e838e8,3,0.5013580396590909
 'Martin Luther King',en,USA,#18e8e8,#18e8e8,3,0.4847821717045454
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.4841271665386363
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,3,0.4839060904545454
@@ -30,7 +31,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lachlan Murdoch',en,UK,#e838e8,#e838e8,3,0.4676228553056817
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.4668932768181818
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.4665866525227273
-'Princess Diana',en,UK,#e838e8,#e838e8,2,0.4663383113636363
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4662441053874999
 'Michael Cohen',en,USA,#18e8e8,#18e8e8,2,0.4657315772727273
 'Millie Mackintosh',en,UK,#e838e8,#e838e8,2,0.4657234472727273
@@ -397,7 +397,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katalin Novak',en,Ungarn,#111111,#111111,1,0.0846712303252764
 'Larry Page',en,USA,#18e8e8,#18e8e8,1,0.0830624268893745
 'Sergei Surovikin',en,Russland,#e81818,#e81818,1,0.0805438104846147
-'Alexei Miller',en,Russland,#e81818,#e81818,1,0.07473640819833782
+'Alexei Miller',en,Russland,#e81818,#e81818,1,0.0747364081983378
 'Dmitry Peskov',en,Russland,#e81818,#e81818,2,0.066365762202661
 'Bartholomäus',en,Türkei,#111111,#111111,1,0.0609461657967015
 'Philipp Wolff',en,Deutschland,#1818e8,#1818e8,1,0.0557569369568772
