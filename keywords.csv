@@ -77,7 +77,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Henry Ford',en,USA,#18e8e8,#18e8e8,3,0.4329551901363637
 'Evan Gershkovich',en,USA,#18e8e8,#18e8e8,3,0.4318388999952297
 'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.4317681763386364
-'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,3,0.431766282840909
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.4314815463636363
 'Alfred Nobel',en,Schweden,#111111,#111111,1,0.4313710570277778
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.4303908954079545
@@ -99,6 +98,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jimmy Carter',en,USA,#18e8e8,#18e8e8,3,0.4236263393548293
 'Recep Tayyip Erdoan',en,Türkei,#111111,#111111,3,0.4224862415901653
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.4220498174020454
+'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,3,0.42197418541477266
 'Daniel Penny',en,USA,#18e8e8,#18e8e8,3,0.4209993350391475
 'Chris Hipkins',en,Neuseeland,#1818e8,#1818e8,3,0.4209125525454545
 'Prince George',en,UK,#e838e8,#e838e8,3,0.4204252222272727
