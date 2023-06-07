@@ -130,7 +130,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cristiano Ronaldo',en,Portugal,#111111,#111111,2,0.3897498235681818
 'Putin',en,Russland,#e81818,#e81818,3,0.3878451015544497
 'Barbara Sturm',en,Deutschland,#1818e8,#1818e8,2,0.3845387462878623
-'Isaac Newton',en,UK,#e838e8,#e838e8,3,0.3826260920363635
 'Herbert Diess',en,Deutschland,#1818e8,#1818e8,2,0.3816646526742424
 'Anne Will',en,Deutschland,#1818e8,#1818e8,2,0.3777504285147726
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.374587953775
@@ -150,6 +149,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Helmut Kohl',en,Deutschland,#1818e8,#1818e8,1,0.3476143768880114
 'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,1,0.346271344390909
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.34551758799375
+'Isaac Newton',en,UK,#e838e8,#e838e8,3,0.34381954686727256
 'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.3316274999999999
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.3316274999999999
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.3316274999999999
@@ -381,7 +381,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martin Sonneborn',en,Deutschland,#1818e8,#1818e8,1,0.1175126035274636
 'Alberto Ángel Fernández',en,Argentinien,#111111,#111111,1,0.1155569800506883
 'Frank Bainimarama',en,Fidschi,#111111,#111111,1,0.1133467825851088
-'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.11195762613891119
+'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.1119576261389111
 'Paul Ronzheimer',en,Deutschland,#1818e8,#1818e8,1,0.1110288426163654
 'Tamim bin Hamad Al-Thani',en,Katar,#111111,#111111,2,0.1072160810781233
 'Herman Gref',en,Russland,#e81818,#e81818,1,0.1052304345044402
