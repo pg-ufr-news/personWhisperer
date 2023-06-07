@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Don Lemon',en,USA,#18e8e8,#18e8e8,2,0.48845333
-'Karl Jenkins',en,UK,#e838e8,#e838e8,2,0.48845105
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4856762746851194
 'Martin Luther King',en,USA,#18e8e8,#18e8e8,3,0.4847821717045454
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.4841271665386363
@@ -107,6 +106,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Penny',en,USA,#18e8e8,#18e8e8,3,0.4209993350391475
 'Chris Hipkins',en,Neuseeland,#1818e8,#1818e8,3,0.4209125525454545
 'Prince George',en,UK,#e838e8,#e838e8,3,0.4204252222272727
+'Karl Jenkins',en,UK,#e838e8,#e838e8,2,0.4201344425
 'Leonardo DiCaprio',en,USA,#18e8e8,#18e8e8,2,0.419859496253409
 'Napoleon Bonaparte',en,Frankreich,#e8e808,#e8e808,2,0.4186274083181818
 'Andrew Tate',en,USA,#18e8e8,#18e8e8,3,0.4184697496932955
@@ -140,13 +140,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nina Gummich',en,Deutschland,#1818e8,#1818e8,1,0.36414
 'Ulrich Reitz',en,Deutschland,#1818e8,#1818e8,1,0.3634175
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.3633494584534928
-'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.3612499999999999
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.3612499999999999
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.3527818368090908
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.3504942599805861
 'Helmut Kohl',en,Deutschland,#1818e8,#1818e8,1,0.3476143768880114
