@@ -33,7 +33,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4662441053874999
 'Michael Cohen',en,USA,#18e8e8,#18e8e8,2,0.4657315772727273
 'Millie Mackintosh',en,UK,#e838e8,#e838e8,2,0.4657234472727273
-'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.461889370014292
 'Lindsey Graham',en,USA,#18e8e8,#18e8e8,2,0.4617792368181818
 'Chip Somodevilla',en,USA,#18e8e8,#18e8e8,2,0.4617716468181818
 'Queen Camilla',en,UK,#e838e8,#e838e8,2,0.4612398377272727
@@ -71,6 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,2,0.43822569375
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,2,0.4381316939999999
 'Stephen Hawking',en,UK,#e838e8,#e838e8,3,0.4366725038068181
+'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.43392615587578454
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,3,0.433921058515284
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,3,0.4338968857276887
 'Don Lemon',en,USA,#18e8e8,#18e8e8,2,0.4337750991363636
