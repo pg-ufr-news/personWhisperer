@@ -36,7 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Queen Camilla',en,UK,#e838e8,#e838e8,2,0.4612398377272727
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.4610943849959294
 'Harry Belafonte',en,USA,#18e8e8,#18e8e8,2,0.4606394913409091
-'Princess Diana',en,UK,#e838e8,#e838e8,3,0.46051812324460223
+'Princess Diana',en,UK,#e838e8,#e838e8,3,0.4605181232446022
 'Michelle O\'Neill',en,Irland,#111111,#111111,3,0.4603854127586206
 'Margaret Thatcher',en,UK,#e838e8,#e838e8,3,0.4582007485295454
 'Martin Luther King',en,USA,#18e8e8,#18e8e8,3,0.4579332668579545
@@ -308,7 +308,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mahmud Abbas',en,Palistina,#111111,#111111,1,0.1577346848682433
 'Alice Schwarzer',en,Deutschland,#1818e8,#1818e8,2,0.1576527794525236
 'Thomas Haldenwang',en,Deutschland,#1818e8,#1818e8,1,0.1572592183303716
-'Stefan Rahmstorf',en,Deutschland,#1818e8,#1818e8,2,0.1562787274652232
 'Schellnhuber',en,Deutschland,#1818e8,#1818e8,2,0.1561445892631967
 'Kim Jong-un',en,NordKorea,#e85858,#e85858,3,0.1559934989008972
 'Alexander Lukaschenko',en,Belarus,#e81858,#e81858,3,0.1555284624071802
@@ -363,6 +362,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patrick Pouyanné',en,Frankreich,#e8e808,#e8e808,1,0.1339929372058043
 'Silvio Berlusconi',en,Italien,#111111,#111111,3,0.1337948566427067
 'Lukaschenko',en,Belarus,#e81858,#e81858,2,0.1328561879761396
+'Stefan Rahmstorf',en,Deutschland,#1818e8,#1818e8,1,0.1328369333454397
 'Igor Setschin',en,Russland,#e81818,#e81818,1,0.1324354394971368
 'Andreas Jödecke',en,Deutschland,#1818e8,#1818e8,1,0.131776885743496
 'Susanne Klatten',en,Deutschland,#1818e8,#1818e8,1,0.1295442907165742
