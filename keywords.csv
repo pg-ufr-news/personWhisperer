@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,3,0.4689894354573238
 'Cillian Murphy',en,Irland,#111111,#111111,2,0.4685753321590909
 'Billy Graham',en,USA,#18e8e8,#18e8e8,3,0.4684984095454546
-'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.46848067211908967
+'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4684806721190896
 'Ted Cruz',en,USA,#18e8e8,#18e8e8,2,0.4681645417272726
 'Lachlan Murdoch',en,UK,#e838e8,#e838e8,3,0.4676228553056817
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.4668932768181818
@@ -296,7 +296,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Söder',en,Deutschland,#1818e8,#1818e8,1,0.1625088395233986
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.1621656380805411
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.1619899913519324
-'Wolodymyr Selenskyj',en,Ukraine,#e818e8,#e818e8,1,0.1617888097434154
 'Sergej Lawrow',en,Russland,#e81818,#e81818,1,0.1615987923665612
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1608193803295434
 'Daniel Freund',en,EU,#111111,#111111,2,0.1604914461539078
@@ -354,6 +353,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ali Chamenei',en,Iran,#111111,#111111,1,0.138380438888226
 'Christoph Heusgen',en,Deutschland,#1818e8,#1818e8,1,0.1383679051156758
 'Jewgenij Roisman',en,Russland,#e81818,#e81818,1,0.1378615462471255
+'Wolodymyr Selenskyj',en,Ukraine,#e818e8,#e818e8,1,0.13752048828190308
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.13731957679405
 'Michael Kretschmer',en,Deutschland,#1818e8,#1818e8,2,0.137088145886305
 'Erik Marquardt',en,EU,#111111,#111111,1,0.1360172935621231
