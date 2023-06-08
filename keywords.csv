@@ -70,7 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,2,0.43822569375
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,2,0.4381316939999999
 'Stephen Hawking',en,UK,#e838e8,#e838e8,3,0.4366725038068181
-'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.43392615587578454
+'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.4339261558757845
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,3,0.433921058515284
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,3,0.4338968857276887
 'Don Lemon',en,USA,#18e8e8,#18e8e8,2,0.4337750991363636
@@ -221,6 +221,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Rutte',en,Niederlande,#111111,#111111,3,0.2155660343016591
 'Björn Höcke',en,Deutschland,#1818e8,#1818e8,2,0.2154003790857163
 'Michelle Obama',en,USA,#18e8e8,#18e8e8,3,0.2143303227779324
+'Benjamin Netanyahu',en,Israel,#111111,#111111,3,0.21151889357983958
 'Charles Michel',en,EU,#111111,#111111,3,0.2103896112766485
 'Julian Reichelt',en,Deutschland,#1818e8,#1818e8,1,0.2089293445040666
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.2087350411115406
@@ -266,7 +267,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holger Münch',en,Deutschland,#1818e8,#1818e8,1,0.1805706772342975
 'Anthony Albanese',en,Australien,#111111,#111111,2,0.1799324508776843
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,2,0.1795522340493467
-'Benjamin Netanyahu',en,Israel,#111111,#111111,2,0.1788300694522177
 'König Charles III',en,UK,#e838e8,#e838e8,1,0.1773852878567515
 'Jürgen Grässlin',en,Deutschland,#1818e8,#1818e8,1,0.176924977767875
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.1766839169347018
