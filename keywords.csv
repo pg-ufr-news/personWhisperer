@@ -6,7 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Kardashian',en,USA,#18e8e8,#18e8e8,3,0.4826612106455568
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.4820336731094886
 'Finnegan Biden',en,USA,#18e8e8,#18e8e8,3,0.4803831931947727
-'Greg Abbott',en,USA,#18e8e8,#18e8e8,3,0.4799750499999999
 'Martin Scorsese',en,USA,#18e8e8,#18e8e8,2,0.47996329
 'Kanye West',en,USA,#18e8e8,#18e8e8,3,0.4790201249323863
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.4779143830685795
@@ -70,6 +69,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,2,0.43822569375
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,2,0.4381316939999999
 'Stephen Hawking',en,UK,#e838e8,#e838e8,3,0.4366725038068181
+'Greg Abbott',en,USA,#18e8e8,#18e8e8,3,0.4356799152272726
 'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.4339261558757845
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,3,0.433921058515284
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,3,0.4338968857276887
