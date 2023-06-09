@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Queen Camilla',en,UK,#e838e8,#e838e8,3,0.5152091852499999
 'Kim Jong Un',en,NordKorea,#e85858,#e85858,3,0.4954240494999999
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.4841271665386363
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,3,0.4839060904545454
@@ -32,7 +33,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Millie Mackintosh',en,UK,#e838e8,#e838e8,2,0.4657234472727273
 'Lindsey Graham',en,USA,#18e8e8,#18e8e8,2,0.4617792368181818
 'Chip Somodevilla',en,USA,#18e8e8,#18e8e8,2,0.4617716468181818
-'Queen Camilla',en,UK,#e838e8,#e838e8,2,0.4612398377272727
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.4610943849959294
 'Harry Belafonte',en,USA,#18e8e8,#18e8e8,2,0.4606394913409091
 'Princess Diana',en,UK,#e838e8,#e838e8,3,0.4605181232446022
@@ -260,7 +260,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,2,0.1844172928963536
 'Vitali Klitschko',en,Ukraine,#e818e8,#e818e8,3,0.1838349863448108
 'Gautam Adani',en,Indien,#111111,#111111,2,0.1827865647045193
-'Subrahmanyam Jaishankar',en,Indien,#111111,#111111,2,0.18212654954467988
+'Subrahmanyam Jaishankar',en,Indien,#111111,#111111,2,0.1821265495446798
 'Andrés Manuel López Obrador',en,Mexiko,#111111,#111111,3,0.1811875594397846
 'Sergej Schoigu',en,Russland,#e81818,#e81818,3,0.1807792522332517
 'Karl Lauterbach',en,Deutschland,#1818e8,#1818e8,2,0.1806258931356167
