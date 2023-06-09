@@ -138,7 +138,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anne Will',en,Deutschland,#1818e8,#1818e8,2,0.3777504285147726
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.374587953775
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.3633494584534928
-'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.3612499999999999
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.3527818368090908
@@ -147,9 +146,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,1,0.346271344390909
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.34551758799375
 'Isaac Newton',en,UK,#e838e8,#e838e8,3,0.3438195468672725
+'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.3316274999999999
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.3316274999999999
 'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.3316274999999999
-'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.3316274999999999
 'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.3298812794589126
 'Charles III',en,UK,#e838e8,#e838e8,3,0.3276011712319216
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.3171220270197426
@@ -162,9 +161,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.3090181534804579
 'Ulrich Reitz',en,Deutschland,#1818e8,#1818e8,1,0.308904875
 'Andreas Jung',en,Deutschland,#1818e8,#1818e8,1,0.3081726543499999
-'Edir Macedo',en,Brasilien,#58e838,#58e848,1,0.3078951157624999
 'Michael Sandel',en,USA,#18e8e8,#18e8e8,1,0.3078951157624999
+'Edir Macedo',en,Brasilien,#58e838,#58e848,1,0.3078951157624999
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,2,0.3072837153197579
+'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.3070624999999999
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
