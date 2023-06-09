@@ -78,6 +78,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alfred Nobel',en,Schweden,#111111,#111111,1,0.4313710570277778
 'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.43106410897875
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.4303908954079545
+'Leonardo DiCaprio',en,USA,#18e8e8,#18e8e8,3,0.43002815499721586
 'Camilla',en,UK,#e838e8,#e838e8,3,0.4298469722749999
 'Albert Einstein',en,Deutschland,#1818e8,#1818e8,3,0.4290901302727272
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.4289157651264783
@@ -104,7 +105,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Hipkins',en,Neuseeland,#1818e8,#1818e8,3,0.4209125525454545
 'Prince George',en,UK,#e838e8,#e838e8,3,0.4204252222272727
 'Karl Jenkins',en,UK,#e838e8,#e838e8,2,0.4201344425
-'Leonardo DiCaprio',en,USA,#18e8e8,#18e8e8,2,0.419859496253409
 'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.4187002219999999
 'Napoleon Bonaparte',en,Frankreich,#e8e808,#e8e808,2,0.4186274083181818
 'Andrew Tate',en,USA,#18e8e8,#18e8e8,3,0.4184697496932955
@@ -147,9 +147,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,1,0.346271344390909
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.34551758799375
 'Isaac Newton',en,UK,#e838e8,#e838e8,3,0.3438195468672725
+'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.3316274999999999
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.3316274999999999
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.3316274999999999
-'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.3316274999999999
 'Charles III',en,UK,#e838e8,#e838e8,3,0.3276011712319216
 'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.3234161993634266
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.3171220270197426
@@ -212,7 +212,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barack Obama',en,USA,#18e8e8,#18e8e8,3,0.2360623095886743
 'Selenskyj',en,Ukraine,#e818e8,#e818e8,2,0.2360439356602177
 'Friedrich Merz',en,Deutschland,#1818e8,#1818e8,3,0.2331342480701452
-'Pietro Lombardi',en,Deutschland,#1818e8,#1818e8,1,0.23116233896165614
+'Pietro Lombardi',en,Deutschland,#1818e8,#1818e8,1,0.2311623389616561
 'Dalai Lama',en,Tibet,#111111,#111111,3,0.229547663263707
 'Melinda Gates',en,USA,#18e8e8,#18e8e8,3,0.2280815328181815
 'Jack Ma',en,China,#e88818,#e88818,3,0.2254251807485522
