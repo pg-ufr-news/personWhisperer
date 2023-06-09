@@ -13,7 +13,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cillian Murphy',en,Irland,#111111,#111111,2,0.4685753321590909
 'Billy Graham',en,USA,#18e8e8,#18e8e8,3,0.4684984095454546
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4684806721190896
-'Ted Cruz',en,USA,#18e8e8,#18e8e8,2,0.4681645417272726
 'Lachlan Murdoch',en,UK,#e838e8,#e838e8,3,0.4676228553056817
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.4668932768181818
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,3,0.4667740223636363
@@ -110,6 +109,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Tate',en,USA,#18e8e8,#18e8e8,3,0.4184697496932955
 'George Washington',en,USA,#18e8e8,#18e8e8,3,0.413214871815909
 'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,2,0.4130687799999999
+'Ted Cruz',en,USA,#18e8e8,#18e8e8,2,0.4119955745590908
 'Lady Di',en,UK,#e838e8,#e838e8,2,0.4117737913636363
 'Prince William',en,UK,#e838e8,#e838e8,3,0.4086241997965908
 'Finnegan Biden',en,USA,#18e8e8,#18e8e8,2,0.4083265842155567
@@ -147,9 +147,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,1,0.346271344390909
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.34551758799375
 'Isaac Newton',en,UK,#e838e8,#e838e8,3,0.3438195468672725
+'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.3316274999999999
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.3316274999999999
 'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.3316274999999999
-'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.3316274999999999
 'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.3298812794589126
 'Charles III',en,UK,#e838e8,#e838e8,3,0.3276011712319216
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.3171220270197426
