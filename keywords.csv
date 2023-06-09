@@ -78,7 +78,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alfred Nobel',en,Schweden,#111111,#111111,1,0.4313710570277778
 'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.43106410897875
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.4303908954079545
-'Leonardo DiCaprio',en,USA,#18e8e8,#18e8e8,3,0.43002815499721586
+'Leonardo DiCaprio',en,USA,#18e8e8,#18e8e8,3,0.4300281549972158
 'Camilla',en,UK,#e838e8,#e838e8,3,0.4298469722749999
 'Albert Einstein',en,Deutschland,#1818e8,#1818e8,3,0.4290901302727272
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.4289157651264783
@@ -147,11 +147,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,1,0.346271344390909
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.34551758799375
 'Isaac Newton',en,UK,#e838e8,#e838e8,3,0.3438195468672725
+'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.3316274999999999
 'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.3316274999999999
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.3316274999999999
-'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.3316274999999999
+'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.3298812794589126
 'Charles III',en,UK,#e838e8,#e838e8,3,0.3276011712319216
-'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.3234161993634266
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.3171220270197426
 'Mario Czaja',en,Deutschland,#1818e8,#1818e8,1,0.3143139151875
 'Olaf Scholz',en,Deutschland,#1818e8,#1818e8,3,0.3141369795281621
