@@ -260,6 +260,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,2,0.1844172928963536
 'Vitali Klitschko',en,Ukraine,#e818e8,#e818e8,3,0.1838349863448108
 'Gautam Adani',en,Indien,#111111,#111111,2,0.1827865647045193
+'Subrahmanyam Jaishankar',en,Indien,#111111,#111111,2,0.18212654954467988
 'Andrés Manuel López Obrador',en,Mexiko,#111111,#111111,3,0.1811875594397846
 'Sergej Schoigu',en,Russland,#e81818,#e81818,3,0.1807792522332517
 'Karl Lauterbach',en,Deutschland,#1818e8,#1818e8,2,0.1806258931356167
@@ -270,7 +271,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'König Charles III',en,UK,#e838e8,#e838e8,1,0.1773852878567515
 'Jürgen Grässlin',en,Deutschland,#1818e8,#1818e8,1,0.176924977767875
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.1766839169347018
-'Subrahmanyam Jaishankar',en,Indien,#111111,#111111,2,0.1763561850258266
 'Aleksandar Vucic',en,Serbien,#111111,#111111,3,0.1760835580301185
 'Christine Lagarde',en,EU,#111111,#111111,3,0.1744787264660274
 'Alice Weidel',en,Deutschland,#1818e8,#1818e8,1,0.1730025649328061
