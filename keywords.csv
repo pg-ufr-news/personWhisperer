@@ -79,7 +79,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Albert Einstein',en,Deutschland,#1818e8,#1818e8,3,0.4290901302727272
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.4289157651264783
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,2,0.4286717769919355
-'King Charles',en,UK,#e838e8,#e838e8,3,0.4284125547272726
 'Kim Jong Un',en,NordKorea,#e85858,#e85858,3,0.4280282266728408
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.4279248369708379
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4278591377989885
@@ -93,7 +92,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,2,0.4244000651261363
 'Jimmy Carter',en,USA,#18e8e8,#18e8e8,3,0.4236263393548293
 'Recep Tayyip Erdoan',en,Türkei,#111111,#111111,3,0.4224862415901653
-'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.42242191955873226
+'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4224219195587322
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.4220498174020454
 'Martin Scorsese',en,USA,#18e8e8,#18e8e8,2,0.422023835590909
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,3,0.4219741854147726
@@ -123,6 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Scott Morrison',en,Australien,#111111,#111111,3,0.4026300859738635
 'Bruce Springsteen',en,USA,#18e8e8,#18e8e8,3,0.4021161653538636
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.4014151406299999
+'King Charles',en,UK,#e838e8,#e838e8,3,0.4009828733363635
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.3985073378749998
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.3966355375653976
 'Yoon Suk Yeol',en,SüdKorea,#111111,#111111,3,0.3965872348433721
@@ -163,12 +163,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edir Macedo',en,Brasilien,#58e838,#58e848,1,0.3078951157624999
 'Michael Sandel',en,USA,#18e8e8,#18e8e8,1,0.3078951157624999
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,2,0.3072837153197579
-'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.3070624999999999
-'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.3070624999999999
-'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.3070624999999999
+'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.3070624999999999
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,3,0.3024542208381112
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,1,0.2942234841110416
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.2933229335159393
