@@ -138,7 +138,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anne Will',en,Deutschland,#1818e8,#1818e8,2,0.3777504285147726
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.374587953775
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.3633494584534928
-'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.3527818368090908
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.3504942599805861
 'Helmut Kohl',en,Deutschland,#1818e8,#1818e8,1,0.3476143768880114
@@ -169,6 +168,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,3,0.3024542208381112
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,1,0.2942234841110416
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.2933229335159393
