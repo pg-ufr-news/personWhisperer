@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kanye West',en,USA,#18e8e8,#18e8e8,3,0.4848642689198011
+'Kanye West',en,USA,#18e8e8,#18e8e8,3,0.48983132630910364
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.4779143830685795
 'James Cleverly',en,UK,#e838e8,#e838e8,3,0.4740072431136363
 'Recep Tayyip Erdogan',en,Türkei,#111111,#111111,3,0.4732703774397727
@@ -163,9 +163,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,2,0.3072837153197579
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.3070624999999999
+'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.2950400847946874
@@ -261,7 +261,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edward Snowden',en,USA,#18e8e8,#18e8e8,1,0.189299821846266
 'Daniel Zhang',en,China,#e88818,#e88818,2,0.1891786548864231
 'Rishi Sunak',en,UK,#e838e8,#e838e8,3,0.1890834447602599
-'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.18790260450571172
+'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.1879026045057117
 'Maria Kolesnikowa',en,Belarus,#e81858,#e81858,1,0.1867672950095772
 'Katarina Barley',en,EU,#111111,#111111,1,0.1851917272145462
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,2,0.1844172928963536
