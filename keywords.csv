@@ -61,6 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.4429433712003153
 'Oprah Winfrey',en,USA,#18e8e8,#18e8e8,3,0.4428745193367984
 'Prince Louis',en,UK,#e838e8,#e838e8,3,0.4408215660988636
+'Evan Gershkovich',en,USA,#18e8e8,#18e8e8,3,0.4401997431777634
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,2,0.43822569375
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,2,0.4381316939999999
 'Stephen Hawking',en,UK,#e838e8,#e838e8,3,0.4366725038068181
@@ -69,7 +70,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,3,0.4338968857276887
 'Don Lemon',en,USA,#18e8e8,#18e8e8,2,0.4337750991363636
 'Henry Ford',en,USA,#18e8e8,#18e8e8,3,0.4329551901363637
-'Evan Gershkovich',en,USA,#18e8e8,#18e8e8,3,0.4318388999952297
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.4314815463636363
 'Alfred Nobel',en,Schweden,#111111,#111111,1,0.4313710570277778
 'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.43106410897875
@@ -163,13 +163,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,2,0.3072837153197579
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.3070624999999999
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.3070624999999999
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,3,0.3024542208381112
-'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.29504008479468746
+'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.2950400847946874
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,1,0.2942234841110416
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.2933229335159393
 'Liz Truss',en,UK,#e838e8,#e838e8,3,0.2884530858114328
