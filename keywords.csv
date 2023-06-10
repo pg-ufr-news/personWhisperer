@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kanye West',en,USA,#18e8e8,#18e8e8,3,0.48983132630910364
+'Kanye West',en,USA,#18e8e8,#18e8e8,3,0.4898313263091036
+'Johnny Depp',en,USA,#18e8e8,#18e8e8,3,0.47905043155454535
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.4779143830685795
 'James Cleverly',en,UK,#e838e8,#e838e8,3,0.4740072431136363
 'Recep Tayyip Erdogan',en,Türkei,#111111,#111111,3,0.4732703774397727
@@ -53,7 +54,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cem Özdemir',en,Deutschland,#1818e8,#1818e8,2,0.4474786764285714
 'Meg Bellamy',en,UK,#e838e8,#e838e8,2,0.4458871588079545
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.4457765916068182
-'Johnny Depp',en,USA,#18e8e8,#18e8e8,3,0.4454426659999999
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.4444218402811901
 'Raphael Warnock',en,USA,#18e8e8,#18e8e8,2,0.4435880886363636
 'Herschel Walker',en,USA,#18e8e8,#18e8e8,3,0.443129257248409
@@ -163,9 +163,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,2,0.3072837153197579
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.3070624999999999
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.2950400847946874
