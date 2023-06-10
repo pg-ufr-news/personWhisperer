@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kanye West',en,USA,#18e8e8,#18e8e8,3,0.4898313263091036
-'Johnny Depp',en,USA,#18e8e8,#18e8e8,3,0.47905043155454535
+'Johnny Depp',en,USA,#18e8e8,#18e8e8,3,0.4790504315545453
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.4779143830685795
 'James Cleverly',en,UK,#e838e8,#e838e8,3,0.4740072431136363
 'Recep Tayyip Erdogan',en,Türkei,#111111,#111111,3,0.4732703774397727
@@ -57,7 +57,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.4444218402811901
 'Raphael Warnock',en,USA,#18e8e8,#18e8e8,2,0.4435880886363636
 'Herschel Walker',en,USA,#18e8e8,#18e8e8,3,0.443129257248409
-'Winston Churchill',en,UK,#e838e8,#e838e8,3,0.4431281736125
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.4429433712003153
 'Oprah Winfrey',en,USA,#18e8e8,#18e8e8,3,0.4428745193367984
 'Prince Louis',en,UK,#e838e8,#e838e8,3,0.4408215660988636
@@ -123,6 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bruce Springsteen',en,USA,#18e8e8,#18e8e8,3,0.4021161653538636
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.4014151406299999
 'King Charles',en,UK,#e838e8,#e838e8,3,0.4009828733363635
+'Winston Churchill',en,UK,#e838e8,#e838e8,3,0.3997970207524432
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.3985073378749998
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.3966355375653976
 'Yoon Suk Yeol',en,SüdKorea,#111111,#111111,3,0.3965872348433721
@@ -162,11 +162,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Sandel',en,USA,#18e8e8,#18e8e8,1,0.3078951157624999
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,2,0.3072837153197579
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.3070624999999999
-'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.3070624999999999
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.3070624999999999
+'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.2950400847946874
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,1,0.2942234841110416
