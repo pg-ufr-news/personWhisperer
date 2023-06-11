@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.5071942988612705
 'Johnny Depp',en,USA,#18e8e8,#18e8e8,3,0.4790504315545453
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.4779143830685795
 'James Cleverly',en,UK,#e838e8,#e838e8,3,0.4740072431136363
 'Recep Tayyip Erdogan',en,Türkei,#111111,#111111,3,0.4732703774397727
-'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.4732160574838477
 'Jack Teixeira',en,USA,#18e8e8,#18e8e8,3,0.4715815379550932
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.4698702538306818
 'Lionel Richie',en,USA,#18e8e8,#18e8e8,3,0.469650571347159
@@ -163,9 +163,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,2,0.3072837153197579
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.3070624999999999
+'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.2950400847946874
