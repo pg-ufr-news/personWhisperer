@@ -138,13 +138,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anne Will',en,Deutschland,#1818e8,#1818e8,2,0.3777504285147726
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.374587953775
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.3633494584534928
-'Olaf Scholz',en,Deutschland,#1818e8,#1818e8,3,0.35380124941711955
+'Olaf Scholz',en,Deutschland,#1818e8,#1818e8,3,0.3538012494171195
 'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.3527818368090908
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.3504942599805861
 'Helmut Kohl',en,Deutschland,#1818e8,#1818e8,1,0.3476143768880114
 'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,1,0.346271344390909
 'Isaac Newton',en,UK,#e838e8,#e838e8,3,0.3438195468672725
-'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.3316274999999999
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.3316274999999999
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.3316274999999999
 'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.3298812794589126
@@ -163,8 +162,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,2,0.3072837153197579
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.3070624999999999
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.3070624999999999
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
@@ -176,6 +175,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.2871034374999999
 'Katalin Novák',en,Ungarn,#111111,#111111,2,0.2825372219835637
 'Dieter Bohlen',en,Deutschland,#1818e8,#1818e8,1,0.2822339165493749
+'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.28188337499999994
 'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.2818833749999999
 'Aleksandar Vučić',en,Serbien,#111111,#111111,2,0.2815412454684675
 'Boris Johnson',en,UK,#e838e8,#e838e8,3,0.2809272792699669
