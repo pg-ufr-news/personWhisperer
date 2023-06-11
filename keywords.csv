@@ -89,7 +89,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.4247107292477271
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,2,0.4244000651261363
 'Jimmy Carter',en,USA,#18e8e8,#18e8e8,3,0.4236263393548293
-'Queen Camilla',en,UK,#e838e8,#e838e8,3,0.42340232560756524
+'Queen Camilla',en,UK,#e838e8,#e838e8,3,0.4234023256075652
 'Recep Tayyip Erdoan',en,Türkei,#111111,#111111,3,0.4224862415901653
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4224219195587322
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.4220498174020454
@@ -162,11 +162,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Sandel',en,USA,#18e8e8,#18e8e8,1,0.3078951157624999
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,2,0.3072837153197579
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.3070624999999999
-'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.3070624999999999
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.3070624999999999
+'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.2950400847946874
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,1,0.2942234841110416
@@ -195,7 +195,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mateusz Morawiecki',en,Polen,#111111,#111111,3,0.2503720105755672
 'Christine Lambrecht',en,Deutschland,#1818e8,#1818e8,1,0.249283962031489
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.2470963866277471
-'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.2440379218749999
 'Tamim Hamad Thani',en,Katar,#111111,#111111,3,0.243702483793426
 'David Malpass',en,USA,#18e8e8,#18e8e8,3,0.2432576681222887
 'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,1,0.241424288957603
@@ -232,6 +231,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.2087350411115406
 'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.2079102751431249
 'Mukesh Ambani',en,Indien,#111111,#111111,2,0.207879378084222
+'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.2074322335937499
 'Narendra Modi',en,Indien,#111111,#111111,3,0.2066274129436131
 'Ola Källenius',en,Deutschland,#1818e8,#1818e8,1,0.2044985057301973
 'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.2036607384374999
