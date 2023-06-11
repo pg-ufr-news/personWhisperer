@@ -108,7 +108,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mary Lou McDonald',en,Irland,#111111,#111111,3,0.4079100469999999
 'Greg Abbott',en,USA,#18e8e8,#18e8e8,3,0.4071179047613635
 'William Shakespeare',en,UK,#e838e8,#e838e8,2,0.4065756471295453
-'Lula da Silva',en,Brasilien,#58e838,#58e848,3,0.40587600465863627
+'Lula da Silva',en,Brasilien,#58e838,#58e848,3,0.4058760046586362
 'Linda Yaccarino',en,USA,#18e8e8,#18e8e8,3,0.405806780336
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.4056129521175
 'Katy Perry',en,USA,#18e8e8,#18e8e8,3,0.4054396782863635
@@ -165,8 +165,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.3070624999999999
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.2950400847946874
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,1,0.2942234841110416
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.2933229335159393
@@ -186,6 +186,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Georg Gänswein',en,Deutschland,#1818e8,#1818e8,1,0.2685471202993749
 'Jens Spahn',en,Deutschland,#1818e8,#1818e8,1,0.2685142932406249
 'Jens Stoltenberg',en,Norwegen,#e818e8,#e818e8,3,0.2673390689168968
+'David Malpass',en,USA,#18e8e8,#18e8e8,3,0.26626532744939996
 'Hun Sen',en,Kambodscha,#111111,#111111,3,0.2659280650941439
 'Steven Milloy',en,USA,#18e8e8,#18e8e8,1,0.2615036942993749
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.2613627868007684
@@ -196,7 +197,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christine Lambrecht',en,Deutschland,#1818e8,#1818e8,1,0.249283962031489
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.2470963866277471
 'Tamim Hamad Thani',en,Katar,#111111,#111111,3,0.243702483793426
-'David Malpass',en,USA,#18e8e8,#18e8e8,3,0.2432576681222887
 'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,1,0.241424288957603
 'Ursula von der Leyen',en,EU,#111111,#111111,3,0.2412793076076889
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.241270923306
