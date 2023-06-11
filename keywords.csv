@@ -31,7 +31,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martin Luther King',en,USA,#18e8e8,#18e8e8,3,0.4579332668579545
 'Prince Charles',en,UK,#e838e8,#e838e8,2,0.4573035922727272
 'Matt Damon',en,USA,#18e8e8,#18e8e8,3,0.4572296272727272
-'Lula da Silva',en,Brasilien,#58e838,#58e848,3,0.455622271790909
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.4554887075727272
 'Alvin Bragg',en,USA,#18e8e8,#18e8e8,3,0.45343063495198
 'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.4531590780035794
@@ -109,6 +108,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mary Lou McDonald',en,Irland,#111111,#111111,3,0.4079100469999999
 'Greg Abbott',en,USA,#18e8e8,#18e8e8,3,0.4071179047613635
 'William Shakespeare',en,UK,#e838e8,#e838e8,2,0.4065756471295453
+'Lula da Silva',en,Brasilien,#58e838,#58e848,3,0.40587600465863627
 'Linda Yaccarino',en,USA,#18e8e8,#18e8e8,3,0.405806780336
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.4056129521175
 'Katy Perry',en,USA,#18e8e8,#18e8e8,3,0.4054396782863635
@@ -135,7 +135,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Herbert Diess',en,Deutschland,#1818e8,#1818e8,2,0.3816646526742424
 'Anne Will',en,Deutschland,#1818e8,#1818e8,2,0.3777504285147726
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.374587953775
-'Kai Wegner',en,Deutschland,#1818e8,#1818e8,1,0.37241198489999994
+'Kai Wegner',en,Deutschland,#1818e8,#1818e8,1,0.3724119848999999
 'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.364788804766875
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.3633494584534928
 'Olaf Scholz',en,Deutschland,#1818e8,#1818e8,3,0.3538012494171195
@@ -163,8 +163,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.3070624999999999
-'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.3070624999999999
+'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.2950400847946874
