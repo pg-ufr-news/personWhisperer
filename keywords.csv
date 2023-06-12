@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.4698702538306818
 'Lionel Richie',en,USA,#18e8e8,#18e8e8,3,0.469650571347159
 'Wang Wentao',en,China,#e88818,#e88818,2,0.4693250689738635
 'Johnny Depp',en,USA,#18e8e8,#18e8e8,3,0.4691708024117953
@@ -60,6 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,2,0.43822569375
 'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.4374287411307804
 'Stephen Hawking',en,UK,#e838e8,#e838e8,3,0.4366725038068181
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.4361727325742613
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,3,0.433921058515284
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,3,0.4338968857276887
 'Don Lemon',en,USA,#18e8e8,#18e8e8,2,0.4337750991363636
@@ -164,9 +164,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Sandel',en,USA,#18e8e8,#18e8e8,1,0.3078951157624999
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,2,0.3072837153197579
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.2950400847946874
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,1,0.2942234841110416
