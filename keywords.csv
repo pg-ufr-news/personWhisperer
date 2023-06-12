@@ -241,7 +241,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ricarda Lang',en,Deutschland,#1818e8,#1818e8,2,0.2008775972065838
 'Lars Klingbeil',en,Deutschland,#1818e8,#1818e8,1,0.2002027435371569
 'Gabor Steingart',en,Deutschland,#1818e8,#1818e8,1,0.2001156774098104
-'Annalena Baerbock',en,Deutschland,#1818e8,#1818e8,3,0.19981333902861115
+'Annalena Baerbock',en,Deutschland,#1818e8,#1818e8,3,0.1998133390286111
 'Xi Jinping',en,China,#e88818,#e88818,3,0.1996088260611851
 'Karine Jean-Pierre',en,USA,#18e8e8,#18e8e8,3,0.1995271709756393
 'Mohammed bin Salman',en,SaudiArabien,#111111,#111111,2,0.1993023013296683
@@ -361,7 +361,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jewgenij Roisman',en,Russland,#e81818,#e81818,1,0.1378615462471255
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.1378415076491425
 'Wolodymyr Selenskyj',en,Ukraine,#e818e8,#e818e8,1,0.137520488281903
-'Michael Kretschmer',en,Deutschland,#1818e8,#1818e8,2,0.137088145886305
 'Erik Marquardt',en,EU,#111111,#111111,1,0.1360172935621231
 'Ulf Poschardt',en,Deutschland,#1818e8,#1818e8,1,0.1347941327150924
 'John Roberts',en,USA,#18e8e8,#18e8e8,1,0.1347869056153244
@@ -387,6 +386,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klaus Hasselmann',en,Deutschland,#1818e8,#1818e8,1,0.1212159076514837
 'Sergey Brin',en,USA,#18e8e8,#18e8e8,1,0.1204010720496926
 'Martin Sonneborn',en,Deutschland,#1818e8,#1818e8,1,0.1175126035274636
+'Michael Kretschmer',en,Deutschland,#1818e8,#1818e8,1,0.11652499900335925
 'Alberto Ángel Fernández',en,Argentinien,#111111,#111111,1,0.1155569800506883
 'Frank Bainimarama',en,Fidschi,#111111,#111111,1,0.1133467825851088
 'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.1119576261389111
