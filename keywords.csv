@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Lionel Richie',en,USA,#18e8e8,#18e8e8,3,0.469650571347159
 'Wang Wentao',en,China,#e88818,#e88818,2,0.4693250689738635
 'Johnny Depp',en,USA,#18e8e8,#18e8e8,3,0.4691708024117953
 'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,2,0.4690822710227272
@@ -48,6 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cem Özdemir',en,Deutschland,#1818e8,#1818e8,2,0.4474786764285714
 'Meg Bellamy',en,UK,#e838e8,#e838e8,2,0.4458871588079545
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.4457765916068182
+'Lionel Richie',en,USA,#18e8e8,#18e8e8,3,0.445066096554176
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.4444218402811901
 'Raphael Warnock',en,USA,#18e8e8,#18e8e8,2,0.4435880886363636
 'Herschel Walker',en,USA,#18e8e8,#18e8e8,3,0.443129257248409
@@ -164,9 +164,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Sandel',en,USA,#18e8e8,#18e8e8,1,0.3078951157624999
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,2,0.3072837153197579
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.2950400847946874
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,1,0.2942234841110416
