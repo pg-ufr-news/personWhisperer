@@ -9,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wang Wentao',en,China,#e88818,#e88818,2,0.4693250689738635
 'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,2,0.4690822710227272
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,3,0.4689894354573238
-'Billy Graham',en,USA,#18e8e8,#18e8e8,3,0.4684984095454546
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4684806721190896
 'Lachlan Murdoch',en,UK,#e838e8,#e838e8,3,0.4676228553056817
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.4668932768181818
@@ -42,6 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.4494231094764205
 'Lady Gaga',en,USA,#18e8e8,#18e8e8,2,0.4492333158409091
 'Lionel Messi',en,Argentinien,#111111,#111111,3,0.4486959997113635
+'Billy Graham',en,USA,#18e8e8,#18e8e8,3,0.4486319435681818
 'John Rawls',en,USA,#18e8e8,#18e8e8,2,0.4485287814285714
 'George Floyd',en,USA,#18e8e8,#18e8e8,2,0.4481558481818182
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,3,0.4480898437045454
@@ -177,7 +177,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.2818833749999999
 'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.2818833749999999
 'Aleksandar Vučić',en,Serbien,#111111,#111111,2,0.2815412454684675
-'Jordan Bardella',en,Frankreich,#e8e808,#e8e808,1,0.28141566077404057
+'Jordan Bardella',en,Frankreich,#e8e808,#e8e808,1,0.2814156607740405
 'Boris Johnson',en,UK,#e838e8,#e838e8,3,0.2809272792699669
 'Christian Lindner',en,Deutschland,#1818e8,#1818e8,3,0.277578331234168
 'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.2710823461358623
