@@ -65,7 +65,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,3,0.433896885727689
 'Don Lemon',en,USA,#18e8e8,#18e8e8,2,0.433775099136364
 'Henry Ford',en,USA,#18e8e8,#18e8e8,3,0.432955190136364
-'Michael Cohen',en,USA,#18e8e8,#18e8e8,3,0.43264915749999977
+'Michael Cohen',en,USA,#18e8e8,#18e8e8,3,0.4326491574999997
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.431481546363636
 'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.43106410897875
 'Leonardo DiCaprio',en,USA,#18e8e8,#18e8e8,3,0.430028154997216
@@ -105,7 +105,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Napoleon Bonaparte',en,Frankreich,#e8e808,#e8e808,2,0.418627408318182
 'Jack Teixeira',en,USA,#18e8e8,#18e8e8,3,0.414888936352738
 'Silvio Berlusconi',en,Italien,#111111,#111111,3,0.41400144
-'George Washington',en,USA,#18e8e8,#18e8e8,3,0.413214871815909
 'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,2,0.41306878
 'Ted Cruz',en,USA,#18e8e8,#18e8e8,2,0.411995574559091
 'Lady Di',en,UK,#e838e8,#e838e8,2,0.411773791363636
@@ -137,6 +136,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Bush',en,USA,#18e8e8,#18e8e8,3,0.391088631845454
 'Alfred Nobel',en,Schweden,#111111,#111111,2,0.389797756655429
 'Cristiano Ronaldo',en,Portugal,#111111,#111111,2,0.389749823568182
+'George Washington',en,USA,#18e8e8,#18e8e8,3,0.38805066786170445
 'Putin',en,Russland,#e81818,#e81818,3,0.38784510155445
 'Barbara Sturm',en,Deutschland,#1818e8,#1818e8,2,0.384538746287862
 'Prince Louis',en,UK,#e838e8,#e838e8,3,0.384201885729489
