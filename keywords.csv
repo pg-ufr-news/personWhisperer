@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,3,0.5172576237750891
+'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.4844405847331254
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.468777654491401
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.46848067211909
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.468089648636364
@@ -60,7 +61,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Henry Ford',en,USA,#18e8e8,#18e8e8,3,0.432955190136364
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.431481546363636
 'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.43106410897875
-'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.430390895407955
 'Leonardo DiCaprio',en,USA,#18e8e8,#18e8e8,3,0.430028154997216
 'Camilla',en,UK,#e838e8,#e838e8,3,0.429846972275
 'Albert Einstein',en,Deutschland,#1818e8,#1818e8,3,0.429090130272727
@@ -331,7 +331,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Franziska Giffey',en,Deutschland,#1818e8,#1818e8,3,0.145661857200863
 'Yoon Suk-yeol',en,SüdKorea,#111111,#111111,3,0.145481018944251
 'Kardinal Woelki',en,Deutschland,#1818e8,#1818e8,1,0.14527461460928
-'Gabor Steingart',en,Deutschland,#1818e8,#1818e8,1,0.14458357692858814
+'Gabor Steingart',en,Deutschland,#1818e8,#1818e8,1,0.1445835769285881
 'Paul Kagame',en,Ruanda,#111111,#111111,1,0.144473003100117
 'Lula sa Silva',en,Brasilien,#58e838,#58e838,1,0.144203701802678
 'Martin Schirdewan',en,Deutschland,#1818e8,#1818e8,2,0.143693342607638
