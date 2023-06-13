@@ -86,7 +86,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jimmy Carter',en,USA,#18e8e8,#18e8e8,3,0.423626339354829
 'Queen Camilla',en,UK,#e838e8,#e838e8,3,0.423402325607565
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.4227859538826473
-'Recep Tayyip Erdoan',en,Türkei,#111111,#111111,3,0.422486241590165
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.422421919558732
 'Martin Scorsese',en,USA,#18e8e8,#18e8e8,2,0.422023835590909
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,3,0.421974185414773
@@ -117,6 +116,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Linda Yaccarino',en,USA,#18e8e8,#18e8e8,3,0.405806780336
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.4056129521175
 'Katy Perry',en,USA,#18e8e8,#18e8e8,3,0.405439678286364
+'Recep Tayyip Erdoan',en,Türkei,#111111,#111111,3,0.40497854626073115
 'Mathias Döpfner',en,Deutschland,#1818e8,#1818e8,1,0.404327780875
 'Adolf Hitler',en,Deutschland,#1818e8,#1818e8,3,0.403899899035227
 'Rudolf Steiner',en,Oesterreich,#111111,#111111,1,0.403638809538461
