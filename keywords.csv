@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Élisabeth Borne',en,Frankreich,#e8e808,#e8e808,2,0.5
 'Laurent Berger',en,Frankreich,#e8e808,#e8e808,2,0.5
 'Bruno Le Maire',en,Frankreich,#e8e808,#e8e808,2,0.5
-'Nikki Haley',en,USA,#18e8e8,#18e8e8,3,0.49464931020882574
+'Nikki Haley',en,USA,#18e8e8,#18e8e8,3,0.4946493102088257
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.4844405847331254
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.468777654491401
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.46848067211909
@@ -16,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,3,0.466774022363636
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.466586652522727
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4662441053875
-'Michael Cohen',en,USA,#18e8e8,#18e8e8,2,0.465731577272727
 'Millie Mackintosh',en,UK,#e838e8,#e838e8,2,0.465723447272727
 'Kim Kardashian',en,USA,#18e8e8,#18e8e8,3,0.465230254048723
 'Lindsey Graham',en,USA,#18e8e8,#18e8e8,2,0.461779236818182
@@ -66,6 +65,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,3,0.433896885727689
 'Don Lemon',en,USA,#18e8e8,#18e8e8,2,0.433775099136364
 'Henry Ford',en,USA,#18e8e8,#18e8e8,3,0.432955190136364
+'Michael Cohen',en,USA,#18e8e8,#18e8e8,3,0.43264915749999977
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.431481546363636
 'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.43106410897875
 'Leonardo DiCaprio',en,USA,#18e8e8,#18e8e8,3,0.430028154997216
