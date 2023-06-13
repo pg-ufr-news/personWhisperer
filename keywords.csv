@@ -282,7 +282,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robin Li',en,China,#e88818,#e88818,2,0.17239776701366
 'Selenski',en,Ukraine,#e818e8,#e818e8,1,0.17161941895699
 'Larry Ellison',en,USA,#18e8e8,#18e8e8,1,0.171549988043549
-'Gabor Steingart',en,Deutschland,#1818e8,#1818e8,1,0.170098325798339
 'Patriarch Kyrill',en,Ukraine,#e818e8,#e818e8,3,0.169320826374793
 'Pietro Lombardi',en,Deutschland,#1818e8,#1818e8,1,0.169235011899797
 'Karl Nehammer',en,Oesterreich,#111111,#111111,1,0.169196016107712
@@ -332,6 +331,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Franziska Giffey',en,Deutschland,#1818e8,#1818e8,3,0.145661857200863
 'Yoon Suk-yeol',en,SüdKorea,#111111,#111111,3,0.145481018944251
 'Kardinal Woelki',en,Deutschland,#1818e8,#1818e8,1,0.14527461460928
+'Gabor Steingart',en,Deutschland,#1818e8,#1818e8,1,0.14458357692858814
 'Paul Kagame',en,Ruanda,#111111,#111111,1,0.144473003100117
 'Lula sa Silva',en,Brasilien,#58e838,#58e838,1,0.144203701802678
 'Martin Schirdewan',en,Deutschland,#1818e8,#1818e8,2,0.143693342607638
