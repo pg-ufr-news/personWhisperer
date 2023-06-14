@@ -169,9 +169,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
 'Michael Sandel',en,USA,#18e8e8,#18e8e8,1,0.3078951157625
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,2,0.307283715319758
-'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
+'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,1,0.294223484111042
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.293322933515939
@@ -339,7 +339,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fidel Castro',en,Kuba,#111111,#111111,1,0.148244122139483
 'Sahra Wagenknecht',en,Deutschland,#1818e8,#1818e8,1,0.147171112613158
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.147144883521094
-'Badri Hosseini Chamenei',en,Iran,#111111,#111111,1,0.146443082096422
 'Pope Benedikt XVI',en,Vatikan,#58b8e8,#58b8e8,1,0.146328733463226
 'Franziska Giffey',en,Deutschland,#1818e8,#1818e8,3,0.145661857200863
 'Yoon Suk-yeol',en,SüdKorea,#111111,#111111,3,0.145481018944251
@@ -394,6 +393,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.1264321327009491
 'Muhammad bin Zayid Al Nahyan',en,VAE,#111111,#111111,1,0.125394471353096
 'Julia Koch',en,USA,#18e8e8,#18e8e8,1,0.1253417359567913
+'Badri Hosseini Chamenei',en,Iran,#111111,#111111,1,0.1244766197819587
 'Hans Joachim Schellnhuber',en,Deutschland,#1818e8,#1818e8,2,0.123692573061033
 'Macky Sall',en,Senegal,#111111,#111111,1,0.123426671058894
 'Kyrill',en,Ukraine,#e818e8,#e818e8,1,0.122334297055787
