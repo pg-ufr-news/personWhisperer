@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,2,0.5
 'Éric Ciotti',en,Frankreich,#e8e808,#e8e808,2,0.5
 'Élisabeth Borne',en,Frankreich,#e8e808,#e8e808,2,0.5
 'Laurent Berger',en,Frankreich,#e8e808,#e8e808,2,0.5
@@ -7,6 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sam Altman',en,USA,#18e8e8,#18e8e8,2,0.5
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,3,0.4946493102088257
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.4844405847331254
+'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,2,0.47150015
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.468777654491401
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.46848067211909
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.468089648636364
@@ -34,7 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.453159078003579
 'Recep Tayyip Erdogan',en,Türkei,#111111,#111111,3,0.452713196278352
 'Jeffrey Donaldson',en,Irland,#111111,#111111,2,0.452679222727273
-'Camille Etienne',en,Frankreich,#e8e808,#e8e808,2,0.45153449552631575
+'Camille Etienne',en,Frankreich,#e8e808,#e8e808,2,0.4515344955263157
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.451045318506702
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.450985819053398
 'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,3,0.4501180033593748
