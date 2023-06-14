@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Éric Ciotti',en,Frankreich,#e8e808,#e8e808,2,0.5
-'Élisabeth Borne',en,Frankreich,#e8e808,#e8e808,2,0.5
-'Laurent Berger',en,Frankreich,#e8e808,#e8e808,2,0.5
 'Bruno Le Maire',en,Frankreich,#e8e808,#e8e808,2,0.5
 'Sam Altman',en,USA,#18e8e8,#18e8e8,2,0.5
+'Élisabeth Borne',en,Frankreich,#e8e808,#e8e808,2,0.5
+'Laurent Berger',en,Frankreich,#e8e808,#e8e808,2,0.5
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,3,0.4946493102088257
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.4844405847331254
 'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,2,0.47150015
@@ -30,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Charles',en,UK,#e838e8,#e838e8,2,0.457303592272727
 'Matt Damon',en,USA,#18e8e8,#18e8e8,3,0.457229627272727
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.455488707572727
+'Kim Jong Un',en,NordKorea,#e85858,#e85858,3,0.4550183088620367
 'Alvin Bragg',en,USA,#18e8e8,#18e8e8,3,0.45343063495198
 'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.453159078003579
 'Recep Tayyip Erdogan',en,Türkei,#111111,#111111,3,0.452713196278352
@@ -74,7 +75,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.428915765126478
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,2,0.428671776991935
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.427924836970838
-'Kim Jong Un',en,NordKorea,#e85858,#e85858,3,0.4278751617628239
 'Ed McVey',en,UK,#e838e8,#e838e8,2,0.427647634193182
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.427217199681818
 'Michael Walzer',en,USA,#18e8e8,#18e8e8,1,0.4252550555
