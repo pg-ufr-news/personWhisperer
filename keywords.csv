@@ -65,7 +65,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.442943371200315
 'Oprah Winfrey',en,USA,#18e8e8,#18e8e8,3,0.442874519336798
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.440621003577534
-'Evan Gershkovich',en,USA,#18e8e8,#18e8e8,3,0.440199743177763
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,2,0.43822569375
 'Stephen Hawking',en,UK,#e838e8,#e838e8,3,0.436672503806818
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,3,0.433921058515284
@@ -128,6 +127,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rudolf Steiner',en,Oesterreich,#111111,#111111,1,0.403638809538461
 'Scott Morrison',en,Australien,#111111,#111111,3,0.402630085973864
 'Bruce Springsteen',en,USA,#18e8e8,#18e8e8,3,0.402116165353864
+'Evan Gershkovich',en,USA,#18e8e8,#18e8e8,3,0.4018516894283713
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.40141514063
 'King Charles',en,UK,#e838e8,#e838e8,3,0.400982873336363
 'Winston Churchill',en,UK,#e838e8,#e838e8,3,0.399797020752443
@@ -169,8 +169,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Sandel',en,USA,#18e8e8,#18e8e8,1,0.3078951157625
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,2,0.307283715319758
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070625
-'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3070625
+'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,1,0.294223484111042
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.293322933515939
@@ -242,7 +242,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Narendra Modi',en,Indien,#111111,#111111,3,0.206627412943613
 'Rafael Grossi',en,UN,#e888e8,#e888e8,3,0.206302208699169
 'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,1,0.2056606906139625
-'Jack Ma',en,China,#e88818,#e88818,3,0.20565462272717827
+'Jack Ma',en,China,#e88818,#e88818,3,0.2056546227271782
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.2052302998101
 'Ola Källenius',en,Deutschland,#1818e8,#1818e8,1,0.204498505730197
 'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.2036607384375
