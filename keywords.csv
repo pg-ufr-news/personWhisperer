@@ -288,7 +288,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.179224964944809
 'König Charles III',en,UK,#e838e8,#e838e8,1,0.177385287856752
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.176683916934702
-'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.1763173985546874
 'Aleksandar Vucic',en,Serbien,#111111,#111111,3,0.176083558030118
 'Christine Lagarde',en,EU,#111111,#111111,3,0.174478726466027
 'Alice Weidel',en,Deutschland,#1818e8,#1818e8,1,0.173002564932806
@@ -331,6 +330,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.150492701540908
 'Jürgen Grässlin',en,Deutschland,#1818e8,#1818e8,1,0.1503862311026937
 'Benjamin Netanjahu',en,Israel,#111111,#111111,1,0.150082657970528
+'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.14986978877148427
 'Sergej Lavrov',en,Russland,#e81818,#e81818,1,0.14981780323335
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,1,0.1491243828765442
 'Julian Assange',en,Australien,#111111,#111111,2,0.149083180581724
