@@ -75,7 +75,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.427924836970838
 'Ed McVey',en,UK,#e838e8,#e838e8,2,0.427647634193182
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.427217199681818
-'Bruno Le Maire',en,Frankreich,#e8e808,#e8e808,3,0.4252793586772727
 'Michael Walzer',en,USA,#18e8e8,#18e8e8,1,0.4252550555
 'Barbara Walters',en,USA,#18e8e8,#18e8e8,2,0.425182321272727
 'Bruno Retailleau',en,Frankreich,#e8e808,#e8e808,2,0.425150015
@@ -131,6 +130,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'King Charles',en,UK,#e838e8,#e838e8,3,0.400982873336363
 'Winston Churchill',en,UK,#e838e8,#e838e8,3,0.399797020752443
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.398507337875
+'Bruno Le Maire',en,Frankreich,#e8e808,#e8e808,3,0.3982578566938636
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.396635537565398
 'Yoon Suk Yeol',en,SüdKorea,#111111,#111111,3,0.396587234843372
 'Kim Jong Un',en,NordKorea,#e85858,#e85858,3,0.3962718770781857
@@ -169,9 +169,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
 'Michael Sandel',en,USA,#18e8e8,#18e8e8,1,0.3078951157625
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,2,0.307283715319758
-'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3070625
+'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,1,0.294223484111042
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.293322933515939
