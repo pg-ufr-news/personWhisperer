@@ -76,7 +76,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.43106410897875
 'Leonardo DiCaprio',en,USA,#18e8e8,#18e8e8,3,0.430028154997216
 'Camilla',en,UK,#e838e8,#e838e8,3,0.429846972275
-'Albert Einstein',en,Deutschland,#1818e8,#1818e8,3,0.429090130272727
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.428915765126478
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,2,0.428671776991935
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.427924836970838
@@ -134,7 +133,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.398507337875
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.396635537565398
 'Yoon Suk Yeol',en,SüdKorea,#111111,#111111,3,0.396587234843372
-'Kim Jong Un',en,NordKorea,#e85858,#e85858,3,0.39627187707818573
+'Kim Jong Un',en,NordKorea,#e85858,#e85858,3,0.3962718770781857
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.395841266130685
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.394226217909091
 'Prince Harry',en,UK,#e838e8,#e838e8,2,0.393155824418182
@@ -144,6 +143,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alfred Nobel',en,Schweden,#111111,#111111,2,0.389797756655429
 'Cristiano Ronaldo',en,Portugal,#111111,#111111,2,0.389749823568182
 'George Washington',en,USA,#18e8e8,#18e8e8,3,0.3880506678617044
+'Albert Einstein',en,Deutschland,#1818e8,#1818e8,3,0.3878609189136361
 'Putin',en,Russland,#e81818,#e81818,3,0.38784510155445
 'Barbara Sturm',en,Deutschland,#1818e8,#1818e8,2,0.384538746287862
 'Prince Louis',en,UK,#e838e8,#e838e8,3,0.384201885729489
@@ -169,9 +169,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
 'Michael Sandel',en,USA,#18e8e8,#18e8e8,1,0.3078951157625
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,2,0.307283715319758
-'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070625
+'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,1,0.294223484111042
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.293322933515939
