@@ -37,7 +37,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Charles',en,UK,#e838e8,#e838e8,2,0.457303592272727
 'Matt Damon',en,USA,#18e8e8,#18e8e8,3,0.457229627272727
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.455488707572727
-'Kim Jong Un',en,NordKorea,#e85858,#e85858,3,0.4550183088620367
 'Alvin Bragg',en,USA,#18e8e8,#18e8e8,3,0.45343063495198
 'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.453159078003579
 'Recep Tayyip Erdogan',en,Türkei,#111111,#111111,3,0.452713196278352
@@ -135,6 +134,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.398507337875
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.396635537565398
 'Yoon Suk Yeol',en,SüdKorea,#111111,#111111,3,0.396587234843372
+'Kim Jong Un',en,NordKorea,#e85858,#e85858,3,0.39627187707818573
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.395841266130685
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.394226217909091
 'Prince Harry',en,UK,#e838e8,#e838e8,2,0.393155824418182
@@ -169,9 +169,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
 'Michael Sandel',en,USA,#18e8e8,#18e8e8,1,0.3078951157625
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,2,0.307283715319758
-'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
+'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,1,0.294223484111042
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.293322933515939
@@ -331,7 +331,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.150492701540908
 'Jürgen Grässlin',en,Deutschland,#1818e8,#1818e8,1,0.1503862311026937
 'Benjamin Netanjahu',en,Israel,#111111,#111111,1,0.150082657970528
-'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.14986978877148427
+'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.1498697887714842
 'Sergej Lavrov',en,Russland,#e81818,#e81818,1,0.14981780323335
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,1,0.1491243828765442
 'Julian Assange',en,Australien,#111111,#111111,2,0.149083180581724
