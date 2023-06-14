@@ -81,7 +81,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bruno Retailleau',en,Frankreich,#e8e808,#e8e808,2,0.425150015
 'Élisabeth Borne',en,Frankreich,#e8e808,#e8e808,1,0.42500033
 'Yannick Morez',en,Frankreich,#e8e808,#e8e808,1,0.42500018
-'Olivier Marleix',en,Frankreich,#e8e808,#e8e808,1,0.42500009
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.425
 'Geoffrey Hinton',en,UK,#e838e8,#e838e8,3,0.424831125994034
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.424818249159091
@@ -157,6 +156,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,1,0.3724119849
 'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.364788804766875
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.363349458453493
+'Olivier Marleix',en,Frankreich,#e8e808,#e8e808,1,0.3621501665
 'Olaf Scholz',en,Deutschland,#1818e8,#1818e8,3,0.353801249417119
 'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.352781836809091
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.350494259980586
@@ -169,9 +169,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
 'Michael Sandel',en,USA,#18e8e8,#18e8e8,1,0.3078951157625
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,2,0.307283715319758
-'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070625
+'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,1,0.294223484111042
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.293322933515939
