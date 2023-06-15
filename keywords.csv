@@ -22,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matt Damon',en,USA,#18e8e8,#18e8e8,3,0.457229627272727
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.455488707572727
 'Alvin Bragg',en,USA,#18e8e8,#18e8e8,3,0.45343063495198
-'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.453159078003579
 'Recep Tayyip Erdogan',en,Türkei,#111111,#111111,3,0.452713196278352
 'Jeffrey Donaldson',en,Irland,#111111,#111111,2,0.452679222727273
 'Jordan Neely',en,USA,#18e8e8,#18e8e8,2,0.4518220526275976
@@ -103,6 +102,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laurent Berger',en,Frankreich,#e8e808,#e8e808,1,0.4119463222884615
 'Lady Di',en,UK,#e838e8,#e838e8,2,0.411773791363636
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4116815571291397
+'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.41068601130304216
 'Meg Bellamy',en,UK,#e838e8,#e838e8,2,0.4105042349867608
 'Prince William',en,UK,#e838e8,#e838e8,3,0.408624199796591
 'Finnegan Biden',en,USA,#18e8e8,#18e8e8,2,0.408326584215557
@@ -156,7 +156,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.363349458453493
 'Yannick Morez',en,Frankreich,#e8e808,#e8e808,1,0.363050333
 'Olivier Marleix',en,Frankreich,#e8e808,#e8e808,1,0.3621501665
-'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.36124999999999996
+'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Olaf Scholz',en,Deutschland,#1818e8,#1818e8,3,0.353801249417119
 'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.352781836809091
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.350494259980586
