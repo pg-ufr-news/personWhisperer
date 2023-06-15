@@ -71,7 +71,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Walzer',en,USA,#18e8e8,#18e8e8,1,0.4252550555
 'Barbara Walters',en,USA,#18e8e8,#18e8e8,2,0.425182321272727
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.4251019999423077
-'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.425
 'Geoffrey Hinton',en,UK,#e838e8,#e838e8,3,0.424831125994034
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.424818249159091
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.424710729247727
@@ -156,6 +155,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.363349458453493
 'Yannick Morez',en,Frankreich,#e8e808,#e8e808,1,0.363050333
 'Olivier Marleix',en,Frankreich,#e8e808,#e8e808,1,0.3621501665
+'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.36124999999999996
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Olaf Scholz',en,Deutschland,#1818e8,#1818e8,3,0.353801249417119
 'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.352781836809091
