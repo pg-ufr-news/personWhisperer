@@ -169,9 +169,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
 'Michael Sandel',en,USA,#18e8e8,#18e8e8,1,0.3078951157625
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,2,0.307283715319758
-'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070625
+'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,1,0.294223484111042
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.293322933515939
@@ -221,7 +221,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Melinda Gates',en,USA,#18e8e8,#18e8e8,3,0.228081532818181
 'Mario Czaja',en,Deutschland,#1818e8,#1818e8,1,0.2274968442229687
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,3,0.223802778437948
-'Nina Gummich',en,Deutschland,#1818e8,#1818e8,1,0.2236274774999999
 'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.22185265625
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.22185265625
 'Ramsan Kadyrow',en,Russland,#e81818,#e81818,1,0.22185265625
@@ -270,6 +269,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jair Bolsonaro',en,Brasilien,#58e838,#58e848,3,0.191220077650967
 'Wolfgang Kubicki',en,Deutschland,#1818e8,#1818e8,1,0.1906644489643312
 'Andrzej Duda',en,Polen,#111111,#111111,3,0.190417289712013
+'Nina Gummich',en,Deutschland,#1818e8,#1818e8,1,0.19008335587499992
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,2,0.189828411253257
 'Edward Snowden',en,USA,#18e8e8,#18e8e8,1,0.189299821846266
 'Daniel Zhang',en,China,#e88818,#e88818,2,0.189178654886423
