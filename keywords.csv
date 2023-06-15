@@ -102,7 +102,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laurent Berger',en,Frankreich,#e8e808,#e8e808,1,0.4119463222884615
 'Lady Di',en,UK,#e838e8,#e838e8,2,0.411773791363636
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4116815571291397
-'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.41068601130304216
+'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.4106860113030421
 'Meg Bellamy',en,UK,#e838e8,#e838e8,2,0.4105042349867608
 'Prince William',en,UK,#e838e8,#e838e8,3,0.408624199796591
 'Finnegan Biden',en,USA,#18e8e8,#18e8e8,2,0.408326584215557
@@ -279,7 +279,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gautam Adani',en,Indien,#111111,#111111,2,0.182786564704519
 'Subrahmanyam Jaishankar',en,Indien,#111111,#111111,2,0.18212654954468
 'Andrés Manuel López Obrador',en,Mexiko,#111111,#111111,3,0.181187559439785
-'Andrea Lindholz',en,Deutschland,#1818e8,#1818e8,1,0.1810981894181783
 'Karl Lauterbach',en,Deutschland,#1818e8,#1818e8,2,0.180625893135617
 'Lael Brainard',en,USA,#18e8e8,#18e8e8,2,0.180586466283117
 'Holger Münch',en,Deutschland,#1818e8,#1818e8,1,0.180570677234297
@@ -320,6 +319,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Jong-un',en,NordKorea,#e85858,#e85858,3,0.155993498900897
 'Alexander Lukaschenko',en,Belarus,#e81858,#e81858,3,0.15552846240718
 'Alexej Kudrin',en,Russland,#e81818,#e81818,1,0.154863444578666
+'Andrea Lindholz',en,Deutschland,#1818e8,#1818e8,1,0.15453352100545156
 'Tamim bin Hamad Al Thani',en,Katar,#111111,#111111,2,0.153885065978855
 'Sandra Maischberger',en,Deutschland,#1818e8,#1818e8,1,0.152886155898887
 'Michael Ballweg',en,Deutschland,#1818e8,#1818e8,1,0.152251389455966
