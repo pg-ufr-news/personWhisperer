@@ -85,7 +85,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.424710729247727
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,2,0.424400065126136
 'Jimmy Carter',en,USA,#18e8e8,#18e8e8,3,0.423626339354829
-'Queen Camilla',en,UK,#e838e8,#e838e8,3,0.423402325607565
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.4227859538826473
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.422421919558732
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,3,0.421974185414773
@@ -151,6 +150,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cem Özdemir',en,Deutschland,#1818e8,#1818e8,2,0.3821570549642853
 'Herbert Diess',en,Deutschland,#1818e8,#1818e8,2,0.381664652674242
 'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.3813146845066175
+'Queen Camilla',en,UK,#e838e8,#e838e8,3,0.3784892154027939
 'Anne Will',en,Deutschland,#1818e8,#1818e8,2,0.377750428514773
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.374587953775
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,1,0.3724119849
@@ -169,9 +169,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
 'Michael Sandel',en,USA,#18e8e8,#18e8e8,1,0.3078951157625
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,2,0.307283715319758
-'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
+'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,1,0.294223484111042
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.293322933515939
