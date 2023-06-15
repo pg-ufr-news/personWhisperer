@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.4628541550785912
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.4621997874777021
 'Lindsey Graham',en,USA,#18e8e8,#18e8e8,2,0.461779236818182
-'Chip Somodevilla',en,USA,#18e8e8,#18e8e8,2,0.461771646818182
 'Michelle O\'Neill',en,Irland,#111111,#111111,3,0.460385412758621
 'Lauren Sánchez',en,USA,#18e8e8,#18e8e8,3,0.458268477909091
 'Margaret Thatcher',en,UK,#e838e8,#e838e8,3,0.458200748529545
@@ -94,6 +93,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karl Jenkins',en,UK,#e838e8,#e838e8,2,0.4201344425
 'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.418700222
 'Napoleon Bonaparte',en,Frankreich,#e8e808,#e8e808,2,0.418627408318182
+'Chip Somodevilla',en,USA,#18e8e8,#18e8e8,3,0.4156416179772729
 'Jack Teixeira',en,USA,#18e8e8,#18e8e8,3,0.414888936352738
 'Silvio Berlusconi',en,Italien,#111111,#111111,3,0.41400144
 'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,2,0.41306878
