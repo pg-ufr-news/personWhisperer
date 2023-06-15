@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.5014498317919942
-'King Charles III',en,UK,#e838e8,#e838e8,3,0.49056096961117684
+'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.5312071970231951
+'King Charles III',en,UK,#e838e8,#e838e8,3,0.4905609696111768
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.4844405847331254
 'Gérald Darmanin',en,Frankreich,#e8e808,#e8e808,2,0.4806721335714286
 'Éric Ciotti',en,Frankreich,#e8e808,#e8e808,2,0.475450045
@@ -169,9 +169,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
 'Michael Sandel',en,USA,#18e8e8,#18e8e8,1,0.3078951157625
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,2,0.307283715319758
-'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3070625
+'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,1,0.294223484111042
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.293322933515939
