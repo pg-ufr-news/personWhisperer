@@ -81,7 +81,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,3,0.421974185414773
 'Johnny Depp',en,USA,#18e8e8,#18e8e8,3,0.421946320231844
 'James Cleverly',en,UK,#e838e8,#e838e8,3,0.421497860282955
-'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,2,0.421451185
 'Cillian Murphy',en,Irland,#111111,#111111,2,0.421425785517045
 'Gérald Darmanin',en,Frankreich,#e8e808,#e8e808,2,0.42138630425
 'Kanye West',en,USA,#18e8e8,#18e8e8,3,0.421325857362738
@@ -149,13 +148,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anne Will',en,Deutschland,#1818e8,#1818e8,2,0.377750428514773
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.374587953775
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,1,0.3724119849
+'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,2,0.3677301017954545
 'Steve Milloy',en,USA,#18e8e8,#18e8e8,2,0.3652323388352272
 'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.364788804766875
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.363349458453493
 'Yannick Morez',en,Frankreich,#e8e808,#e8e808,1,0.363050333
 'Olivier Marleix',en,Frankreich,#e8e808,#e8e808,1,0.3621501665
-'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
+'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Olaf Scholz',en,Deutschland,#1818e8,#1818e8,3,0.353801249417119
 'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.352781836809091
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.350494259980586
