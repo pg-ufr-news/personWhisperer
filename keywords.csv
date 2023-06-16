@@ -115,7 +115,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Recep Tayyip Erdoan',en,Türkei,#111111,#111111,3,0.4049785462607311
 'Martin Scorsese',en,USA,#18e8e8,#18e8e8,2,0.4045932111613636
 'Mathias Döpfner',en,Deutschland,#1818e8,#1818e8,1,0.404327780875
-'Éric Ciotti',en,Frankreich,#e8e808,#e8e808,1,0.40413258325
 'Adolf Hitler',en,Deutschland,#1818e8,#1818e8,3,0.403899899035227
 'Rudolf Steiner',en,Oesterreich,#111111,#111111,1,0.403638809538461
 'Scott Morrison',en,Australien,#111111,#111111,3,0.402630085973864
@@ -150,7 +149,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anne Will',en,Deutschland,#1818e8,#1818e8,2,0.377750428514773
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.374587953775
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,1,0.3724119849
-'Steve Milloy',en,USA,#18e8e8,#18e8e8,2,0.36523233883522727
+'Steve Milloy',en,USA,#18e8e8,#18e8e8,2,0.3652323388352272
 'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.364788804766875
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.363349458453493
 'Yannick Morez',en,Frankreich,#e8e808,#e8e808,1,0.363050333
@@ -162,6 +161,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.350494259980586
 'Helmut Kohl',en,Deutschland,#1818e8,#1818e8,1,0.347614376888011
 'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,1,0.346271344390909
+'Éric Ciotti',en,Frankreich,#e8e808,#e8e808,1,0.3439627407625
 'Isaac Newton',en,UK,#e838e8,#e838e8,3,0.343819546867272
 'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.329881279458913
 'Charles III',en,UK,#e838e8,#e838e8,3,0.327601171231922
