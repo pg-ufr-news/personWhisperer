@@ -84,7 +84,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cillian Murphy',en,Irland,#111111,#111111,2,0.421425785517045
 'Gérald Darmanin',en,Frankreich,#e8e808,#e8e808,2,0.42138630425
 'Kanye West',en,USA,#18e8e8,#18e8e8,3,0.421325857362738
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.4211661881426672
 'Daniel Penny',en,USA,#18e8e8,#18e8e8,3,0.420999335039148
 'Chris Hipkins',en,Neuseeland,#1818e8,#1818e8,3,0.420912552545455
 'Prince George',en,UK,#e838e8,#e838e8,3,0.420425222227273
@@ -145,6 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.3813146845066175
 'Queen Camilla',en,UK,#e838e8,#e838e8,3,0.3784892154027939
 'Anne Will',en,Deutschland,#1818e8,#1818e8,2,0.377750428514773
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.37659541355763076
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.374587953775
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.3726320242749998
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,1,0.3724119849
@@ -154,8 +154,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.363349458453493
 'Yannick Morez',en,Frankreich,#e8e808,#e8e808,1,0.363050333
 'Olivier Marleix',en,Frankreich,#e8e808,#e8e808,1,0.3621501665
-'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
+'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Olaf Scholz',en,Deutschland,#1818e8,#1818e8,3,0.353801249417119
 'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.352781836809091
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.350494259980586
