@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pete Davidson',en,USA,#18e8e8,#18e8e8,3,0.5072319822727273
-'Leon Botstein',en,USA,#18e8e8,#18e8e8,2,0.5
 'Chris Christie',en,USA,#18e8e8,#18e8e8,2,0.5
 'Tina Turner',en,USA,#18e8e8,#18e8e8,2,0.5
 'Karim Benzema',en,Frankreich,#e8e808,#e8e808,2,0.5
@@ -14,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4662441053875
 'Millie Mackintosh',en,UK,#e838e8,#e838e8,2,0.465723447272727
 'Kim Kardashian',en,USA,#18e8e8,#18e8e8,3,0.465230254048723
+'Leon Botstein',en,USA,#18e8e8,#18e8e8,2,0.46352143274193547
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.4628541550785912
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.4621997874777021
 'Lindsey Graham',en,USA,#18e8e8,#18e8e8,2,0.461779236818182
