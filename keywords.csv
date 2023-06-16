@@ -67,7 +67,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,2,0.428671776991935
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.427924836970838
 'Ed McVey',en,UK,#e838e8,#e838e8,2,0.427647634193182
-'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.427217199681818
 'Michael Walzer',en,USA,#18e8e8,#18e8e8,1,0.4252550555
 'Barbara Walters',en,USA,#18e8e8,#18e8e8,2,0.425182321272727
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.4251019999423077
@@ -147,6 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Queen Camilla',en,UK,#e838e8,#e838e8,3,0.3784892154027939
 'Anne Will',en,Deutschland,#1818e8,#1818e8,2,0.377750428514773
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.374587953775
+'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.3726320242749998
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,1,0.3724119849
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,2,0.3677301017954545
 'Steve Milloy',en,USA,#18e8e8,#18e8e8,2,0.3652323388352272
@@ -154,8 +154,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.363349458453493
 'Yannick Morez',en,Frankreich,#e8e808,#e8e808,1,0.363050333
 'Olivier Marleix',en,Frankreich,#e8e808,#e8e808,1,0.3621501665
-'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
+'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Olaf Scholz',en,Deutschland,#1818e8,#1818e8,3,0.353801249417119
 'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.352781836809091
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.350494259980586
@@ -401,7 +401,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klaus Hasselmann',en,Deutschland,#1818e8,#1818e8,1,0.121215907651484
 'Sergey Brin',en,USA,#18e8e8,#18e8e8,1,0.120401072049693
 'Jair Lapid',en,Israel,#111111,#111111,1,0.1197093140906851
-'Wolodymyr Selenski',en,Ukraine,#e818e8,#e818e8,1,0.11818090965598685
+'Wolodymyr Selenski',en,Ukraine,#e818e8,#e818e8,1,0.1181809096559868
 'Martin Sonneborn',en,Deutschland,#1818e8,#1818e8,1,0.117512603527464
 'Michael Kretschmer',en,Deutschland,#1818e8,#1818e8,1,0.116524999003359
 'Erik Marquardt',en,EU,#111111,#111111,1,0.1156146995278045
