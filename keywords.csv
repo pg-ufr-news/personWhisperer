@@ -151,7 +151,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.3813146845066175
 'Queen Camilla',en,UK,#e838e8,#e838e8,3,0.3784892154027939
 'Anne Will',en,Deutschland,#1818e8,#1818e8,2,0.377750428514773
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.37659541355763076
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.3765954135576307
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.374587953775
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.3726320242749998
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,1,0.3724119849
@@ -436,7 +436,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Philipp Wolff',en,Deutschland,#1818e8,#1818e8,1,0.055756936956877
 'Michael Kahle',en,Deutschland,#1818e8,#1818e8,1,0.051568423150856
 'Ethan Bradley',en,USA,#18e8e8,#18e8e8,2,0.0508912293418
-'Erica Chenoweth',en,USA,#18e8e8,#18e8e8,1,0.050406560428848
 'Amin H. Nasser',en,SaudiArabien,#111111,#111111,1,0.04705584515116
 'Francoise Bettencourt-Meyers',en,Frankreich,#e8e808,#e8e808,1,0.046409529334723
 'Chan Santokhi',en,Surinam,#111111,#111111,1,0.046308845279945
@@ -446,6 +445,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergei Ignatjew',en,Russland,#e81818,#e81818,1,0.045599448334723
 'Doris König',en,Deutschland,#1818e8,#1818e8,1,0.043751487645861
 'Barbara Frenkel',en,Deutschland,#1818e8,#1818e8,1,0.04371580426675
+'Erica Chenoweth',en,USA,#18e8e8,#18e8e8,1,0.0432956213645208
 'Valery Gerasimov',en,Russland,#e81818,#e81818,1,0.042731859488709
 'Michael Wirth',en,USA,#18e8e8,#18e8e8,1,0.042139457237594
 'Ilham Aliyev',en,Aserbaidschan,#111111,#111111,1,0.041137237977216
