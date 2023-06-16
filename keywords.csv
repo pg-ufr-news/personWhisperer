@@ -1,12 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leon Botstein',en,USA,#18e8e8,#18e8e8,2,0.5
-'Rosalynn Carter',en,USA,#18e8e8,#18e8e8,2,0.5
 'Chris Christie',en,USA,#18e8e8,#18e8e8,2,0.5
 'Pete Davidson',en,USA,#18e8e8,#18e8e8,2,0.5
 'Tina Turner',en,USA,#18e8e8,#18e8e8,2,0.5
 'Karim Benzema',en,Frankreich,#e8e808,#e8e808,2,0.5
 'Kemal Kılıçdaroğlu',en,Türkei,#111111,#111111,2,0.5
-'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4940781322103174
+'Rosalynn Carter',en,USA,#18e8e8,#18e8e8,2,0.5
 'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,2,0.47150015
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.468089648636364
 'Lachlan Murdoch',en,UK,#e838e8,#e838e8,3,0.467622855305682
@@ -68,6 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.431481546363636
 'Leonardo DiCaprio',en,USA,#18e8e8,#18e8e8,3,0.430028154997216
 'Camilla',en,UK,#e838e8,#e838e8,3,0.429846972275
+'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.42947242692422427
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,3,0.4290994598758765
 'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.4290971714948864
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.428915765126478
