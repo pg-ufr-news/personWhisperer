@@ -120,7 +120,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mathias Döpfner',en,Deutschland,#1818e8,#1818e8,1,0.404327780875
 'Adolf Hitler',en,Deutschland,#1818e8,#1818e8,3,0.403899899035227
 'Rudolf Steiner',en,Oesterreich,#111111,#111111,1,0.403638809538461
-'Scott Morrison',en,Australien,#111111,#111111,3,0.402630085973864
 'Bruce Springsteen',en,USA,#18e8e8,#18e8e8,3,0.402116165353864
 'Evan Gershkovich',en,USA,#18e8e8,#18e8e8,3,0.4018516894283713
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.40141514063
@@ -139,6 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Bush',en,USA,#18e8e8,#18e8e8,3,0.391088631845454
 'Alfred Nobel',en,Schweden,#111111,#111111,2,0.389797756655429
 'Cristiano Ronaldo',en,Portugal,#111111,#111111,2,0.389749823568182
+'Scott Morrison',en,Australien,#111111,#111111,3,0.3880981739868753
 'George Washington',en,USA,#18e8e8,#18e8e8,3,0.3880506678617044
 'Albert Einstein',en,Deutschland,#1818e8,#1818e8,3,0.3878609189136361
 'Putin',en,Russland,#e81818,#e81818,3,0.38784510155445
