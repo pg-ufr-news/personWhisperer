@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.49407813221031743
+'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4940781322103174
 'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,2,0.47150015
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.468089648636364
 'Lachlan Murdoch',en,UK,#e838e8,#e838e8,3,0.467622855305682
@@ -133,7 +133,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.394226217909091
 'Prince Harry',en,UK,#e838e8,#e838e8,2,0.393155824418182
 'Lionel Richie',en,USA,#18e8e8,#18e8e8,3,0.3927705735558462
-'Steve Milloy',en,USA,#18e8e8,#18e8e8,1,0.39177543125
 'George Bush',en,USA,#18e8e8,#18e8e8,3,0.391088631845454
 'Alfred Nobel',en,Schweden,#111111,#111111,2,0.389797756655429
 'Cristiano Ronaldo',en,Portugal,#111111,#111111,2,0.389749823568182
@@ -151,6 +150,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anne Will',en,Deutschland,#1818e8,#1818e8,2,0.377750428514773
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.374587953775
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,1,0.3724119849
+'Steve Milloy',en,USA,#18e8e8,#18e8e8,2,0.36523233883522727
 'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.364788804766875
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.363349458453493
 'Yannick Morez',en,Frankreich,#e8e808,#e8e808,1,0.363050333
