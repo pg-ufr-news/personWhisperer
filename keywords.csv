@@ -87,7 +87,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Cleverly',en,UK,#e838e8,#e838e8,3,0.421497860282955
 'Cillian Murphy',en,Irland,#111111,#111111,2,0.421425785517045
 'Gérald Darmanin',en,Frankreich,#e8e808,#e8e808,2,0.42138630425
-'Kanye West',en,USA,#18e8e8,#18e8e8,3,0.421325857362738
 'Daniel Penny',en,USA,#18e8e8,#18e8e8,3,0.420999335039148
 'Chris Hipkins',en,Neuseeland,#1818e8,#1818e8,3,0.420912552545455
 'Prince George',en,UK,#e838e8,#e838e8,3,0.420425222227273
@@ -142,6 +141,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Washington',en,USA,#18e8e8,#18e8e8,3,0.3880506678617044
 'Albert Einstein',en,Deutschland,#1818e8,#1818e8,3,0.3878609189136361
 'Putin',en,Russland,#e81818,#e81818,3,0.38784510155445
+'Kanye West',en,USA,#18e8e8,#18e8e8,3,0.3858222214856
 'Élisabeth Borne',en,Frankreich,#e8e808,#e8e808,2,0.3850051559545454
 'Barbara Sturm',en,Deutschland,#1818e8,#1818e8,2,0.384538746287862
 'Prince Louis',en,UK,#e838e8,#e838e8,3,0.384201885729489
