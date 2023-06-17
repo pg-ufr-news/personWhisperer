@@ -157,7 +157,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,2,0.3677301017954545
 'Steve Milloy',en,USA,#18e8e8,#18e8e8,2,0.3652323388352272
 'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.364788804766875
-'Richard Feynman',en,USA,#18e8e8,#18e8e8,1,0.36437122044314474
+'Richard Feynman',en,USA,#18e8e8,#18e8e8,1,0.3643712204431447
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.363349458453493
 'Yannick Morez',en,Frankreich,#e8e808,#e8e808,1,0.363050333
 'Olivier Marleix',en,Frankreich,#e8e808,#e8e808,1,0.3621501665
@@ -321,7 +321,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alice Schwarzer',en,Deutschland,#1818e8,#1818e8,2,0.157652779452524
 'Thomas Haldenwang',en,Deutschland,#1818e8,#1818e8,1,0.157259218330372
 'Kim Jong-un',en,NordKorea,#e85858,#e85858,3,0.155993498900897
-'Alexej Kudrin',en,Russland,#e81818,#e81818,1,0.154863444578666
 'Andrea Lindholz',en,Deutschland,#1818e8,#1818e8,1,0.1545335210054515
 'Tamim bin Hamad Al Thani',en,Katar,#111111,#111111,2,0.153885065978855
 'Sandra Maischberger',en,Deutschland,#1818e8,#1818e8,1,0.152886155898887
@@ -381,6 +380,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Igor Setschin',en,Russland,#e81818,#e81818,1,0.132435439497137
 'Alexander Lukaschenko',en,Belarus,#e81858,#e81858,2,0.1321991930461029
 'Andreas Jödecke',en,Deutschland,#1818e8,#1818e8,1,0.131776885743496
+'Alexej Kudrin',en,Russland,#e81818,#e81818,1,0.1316339278918661
 'Mojib Latif',en,Deutschland,#1818e8,#1818e8,1,0.1310812508367632
 'Sergej Schoigu',en,Russland,#e81818,#e81818,1,0.1306130097385245
 'Gregor Gysi',en,Deutschland,#1818e8,#1818e8,1,0.12973343735762
