@@ -231,7 +231,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrich Reitz',en,Deutschland,#1818e8,#1818e8,1,0.2231837721875
 'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.22185265625
 'Ramsan Kadyrow',en,Russland,#e81818,#e81818,1,0.22185265625
-'Joko Widodo',en,Indonesien,#111111,#111111,3,0.221016350796871
 'Gerhard Schröder',en,Deutschland,#1818e8,#1818e8,1,0.21991755341932
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.219827957022201
 'Warren Buffett',en,USA,#18e8e8,#18e8e8,2,0.219518081064424
@@ -264,6 +263,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karine Jean-Pierre',en,USA,#18e8e8,#18e8e8,3,0.199527170975639
 'Mohammed bin Salman',en,SaudiArabien,#111111,#111111,2,0.199302301329668
 'Antony Blinken',en,USA,#18e8e8,#18e8e8,3,0.199068191882527
+'Joko Widodo',en,Indonesien,#111111,#111111,3,0.19736491772279488
 'Thierry Breton',en,EU,#111111,#111111,3,0.195529511703006
 'Frank Plasberg',en,Deutschland,#1818e8,#1818e8,1,0.194986299578125
 'Tino Chrupalla',en,Deutschland,#1818e8,#1818e8,2,0.193789984578416
