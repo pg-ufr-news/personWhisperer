@@ -45,7 +45,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,3,0.448089843704545
 'Akshata Murty',en,Indien,#111111,#111111,3,0.447983289141534
 'Milo Yiannopoulos',en,UK,#e838e8,#e838e8,3,0.447519873811394
-'Harry Belafonte',en,USA,#18e8e8,#18e8e8,2,0.4464946326397726
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.4463668065002787
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.445776591606818
 'Wang Wentao',en,China,#e88818,#e88818,3,0.444789209536875
@@ -101,6 +100,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ted Cruz',en,USA,#18e8e8,#18e8e8,2,0.411995574559091
 'Laurent Berger',en,Frankreich,#e8e808,#e8e808,1,0.4119463222884615
 'Lady Di',en,UK,#e838e8,#e838e8,2,0.411773791363636
+'Harry Belafonte',en,USA,#18e8e8,#18e8e8,2,0.411744230016534
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4116815571291397
 'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.4106860113030421
 'Meg Bellamy',en,UK,#e838e8,#e838e8,2,0.4105042349867608
