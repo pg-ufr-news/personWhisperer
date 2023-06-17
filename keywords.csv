@@ -72,7 +72,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.427924836970838
 'Ed McVey',en,UK,#e838e8,#e838e8,2,0.427647634193182
 'Michael Walzer',en,USA,#18e8e8,#18e8e8,1,0.4252550555
-'Barbara Walters',en,USA,#18e8e8,#18e8e8,2,0.425182321272727
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.4251019999423077
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.424818249159091
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.424710729247727
@@ -152,6 +151,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Queen Camilla',en,UK,#e838e8,#e838e8,3,0.3784892154027939
 'Anne Will',en,Deutschland,#1818e8,#1818e8,2,0.377750428514773
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.3765954135576307
+'Barbara Walters',en,USA,#18e8e8,#18e8e8,3,0.375446932172727
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.374587953775
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.3726320242749998
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,1,0.3724119849
@@ -161,8 +161,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.363349458453493
 'Yannick Morez',en,Frankreich,#e8e808,#e8e808,1,0.363050333
 'Olivier Marleix',en,Frankreich,#e8e808,#e8e808,1,0.3621501665
-'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
+'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Olaf Scholz',en,Deutschland,#1818e8,#1818e8,3,0.353801249417119
 'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.352781836809091
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.350494259980586
@@ -433,7 +433,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dmitry Peskov',en,Russland,#e81818,#e81818,2,0.066365762202661
 'Alexei Miller',en,Russland,#e81818,#e81818,1,0.0647260669685873
 'Philipp Wolff',en,Deutschland,#1818e8,#1818e8,1,0.055756936956877
-'Bartholomäus',en,Türkei,#111111,#111111,1,0.051804240927196696
+'Bartholomäus',en,Türkei,#111111,#111111,1,0.0518042409271966
 'Michael Kahle',en,Deutschland,#1818e8,#1818e8,1,0.051568423150856
 'Ethan Bradley',en,USA,#18e8e8,#18e8e8,2,0.0508912293418
 'Amin H. Nasser',en,SaudiArabien,#111111,#111111,1,0.04705584515116
