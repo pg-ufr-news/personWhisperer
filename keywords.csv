@@ -77,7 +77,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.4227859538826473
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.422421919558732
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,3,0.421974185414773
-'Johnny Depp',en,USA,#18e8e8,#18e8e8,3,0.421946320231844
 'James Cleverly',en,UK,#e838e8,#e838e8,3,0.421497860282955
 'Cillian Murphy',en,Irland,#111111,#111111,2,0.421425785517045
 'Gérald Darmanin',en,Frankreich,#e8e808,#e8e808,2,0.42138630425
@@ -138,6 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Washington',en,USA,#18e8e8,#18e8e8,3,0.3880506678617044
 'Albert Einstein',en,Deutschland,#1818e8,#1818e8,3,0.3878609189136361
 'Putin',en,Russland,#e81818,#e81818,3,0.38784510155445
+'Johnny Depp',en,USA,#18e8e8,#18e8e8,3,0.3863471999243401
 'Kanye West',en,USA,#18e8e8,#18e8e8,3,0.3858222214856
 'Élisabeth Borne',en,Frankreich,#e8e808,#e8e808,2,0.3850051559545454
 'Barbara Sturm',en,Deutschland,#1818e8,#1818e8,2,0.384538746287862
