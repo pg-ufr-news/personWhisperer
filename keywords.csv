@@ -259,7 +259,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Roland Busch',en,Deutschland,#1818e8,#1818e8,1,0.201908765256893
 'Lars Klingbeil',en,Deutschland,#1818e8,#1818e8,1,0.200202743537157
 'Annalena Baerbock',en,Deutschland,#1818e8,#1818e8,3,0.199813339028611
-'Xi Jinping',en,China,#e88818,#e88818,3,0.199608826061185
 'Karine Jean-Pierre',en,USA,#18e8e8,#18e8e8,3,0.199527170975639
 'Mohammed bin Salman',en,SaudiArabien,#111111,#111111,2,0.199302301329668
 'Antony Blinken',en,USA,#18e8e8,#18e8e8,3,0.199068191882527
@@ -290,6 +289,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holger Münch',en,Deutschland,#1818e8,#1818e8,1,0.180570677234297
 'Anthony Albanese',en,Australien,#111111,#111111,2,0.179932450877684
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.179224964944809
+'Xi Jinping',en,China,#e88818,#e88818,3,0.1791954916974618
 'König Charles III',en,UK,#e838e8,#e838e8,1,0.177385287856752
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.176683916934702
 'Aleksandar Vucic',en,Serbien,#111111,#111111,3,0.176083558030118
