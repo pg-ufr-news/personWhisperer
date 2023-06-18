@@ -16,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leon Botstein',en,USA,#18e8e8,#18e8e8,2,0.4635214327419354
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.4628541550785912
 'Lindsey Graham',en,USA,#18e8e8,#18e8e8,2,0.461779236818182
-'Michelle O\'Neill',en,Irland,#111111,#111111,3,0.460385412758621
 'Lauren Sánchez',en,USA,#18e8e8,#18e8e8,3,0.458268477909091
 'Margaret Thatcher',en,UK,#e838e8,#e838e8,3,0.458200748529545
 'Martin Luther King',en,USA,#18e8e8,#18e8e8,3,0.457933266857954
@@ -130,6 +129,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.395841266130685
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.394226217909091
 'Geoffrey Hinton',en,UK,#e838e8,#e838e8,3,0.3933352143676561
+'Michelle O\'Neill',en,Irland,#111111,#111111,3,0.3932782908448278
 'Prince Harry',en,UK,#e838e8,#e838e8,2,0.393155824418182
 'Lionel Richie',en,USA,#18e8e8,#18e8e8,3,0.3927705735558462
 'George Bush',en,USA,#18e8e8,#18e8e8,3,0.391088631845454
