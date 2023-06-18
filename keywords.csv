@@ -22,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Charles',en,UK,#e838e8,#e838e8,2,0.457303592272727
 'Matt Damon',en,USA,#18e8e8,#18e8e8,3,0.457229627272727
 'Silvio Berlusconi',en,Italien,#111111,#111111,3,0.456860209
-'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.455488707572727
 'Alvin Bragg',en,USA,#18e8e8,#18e8e8,3,0.45343063495198
 'Recep Tayyip Erdogan',en,Türkei,#111111,#111111,3,0.452713196278352
 'Jeffrey Donaldson',en,Irland,#111111,#111111,2,0.452679222727273
@@ -91,6 +90,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.4160201775378649
 'Chip Somodevilla',en,USA,#18e8e8,#18e8e8,3,0.4156416179772729
 'Jack Teixeira',en,USA,#18e8e8,#18e8e8,3,0.414888936352738
+'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.4148629091640907
 'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,2,0.41306878
 'Ted Cruz',en,USA,#18e8e8,#18e8e8,2,0.411995574559091
 'Laurent Berger',en,Frankreich,#e8e808,#e8e808,1,0.4119463222884615
