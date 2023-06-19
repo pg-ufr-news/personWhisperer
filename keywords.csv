@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Rosalynn Carter',en,USA,#18e8e8,#18e8e8,3,0.5344976895454545
 'Chris Christie',en,USA,#18e8e8,#18e8e8,3,0.5088637794090909
 'Pete Davidson',en,USA,#18e8e8,#18e8e8,3,0.5072319822727273
 'Tina Turner',en,USA,#18e8e8,#18e8e8,2,0.5
-'Rosalynn Carter',en,USA,#18e8e8,#18e8e8,2,0.5
 'Kemal Kılıçdaroğlu',en,Türkei,#111111,#111111,3,0.4821880985608254
 'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,2,0.47150015
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.468089648636364
@@ -51,7 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Oprah Winfrey',en,USA,#18e8e8,#18e8e8,3,0.442874519336798
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,3,0.4419658429198095
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.440621003577534
-'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.44040462272536696
+'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.4404046227253669
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,2,0.43822569375
 'Princess Diana',en,UK,#e838e8,#e838e8,3,0.4373171806670026
 'Stephen Hawking',en,UK,#e838e8,#e838e8,3,0.436672503806818
