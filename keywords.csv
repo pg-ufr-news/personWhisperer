@@ -51,6 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Oprah Winfrey',en,USA,#18e8e8,#18e8e8,3,0.442874519336798
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,3,0.4419658429198095
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.440621003577534
+'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.44040462272536696
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,2,0.43822569375
 'Princess Diana',en,UK,#e838e8,#e838e8,3,0.4373171806670026
 'Stephen Hawking',en,UK,#e838e8,#e838e8,3,0.436672503806818
@@ -86,7 +87,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karl Jenkins',en,UK,#e838e8,#e838e8,2,0.4201344425
 'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.418700222
 'Napoleon Bonaparte',en,Frankreich,#e8e808,#e8e808,2,0.418627408318182
-'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.4160201775378649
 'Chip Somodevilla',en,USA,#18e8e8,#18e8e8,3,0.4156416179772729
 'Jack Teixeira',en,USA,#18e8e8,#18e8e8,3,0.414888936352738
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.4148629091640907
@@ -316,7 +316,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Söder',en,Deutschland,#1818e8,#1818e8,1,0.162508839523399
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
 'Roberta Metsola',en,EU,#111111,#111111,2,0.158833168910546
-'Thomas Haldenwang',en,Deutschland,#1818e8,#1818e8,1,0.15869745365773927
+'Thomas Haldenwang',en,Deutschland,#1818e8,#1818e8,1,0.1586974536577392
 'Nicola Beer',en,EU,#111111,#111111,1,0.15777415006034
 'Alice Schwarzer',en,Deutschland,#1818e8,#1818e8,2,0.157652779452524
 'Kim Jong-un',en,NordKorea,#e85858,#e85858,3,0.155993498900897
