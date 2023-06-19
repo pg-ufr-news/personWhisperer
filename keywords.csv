@@ -69,7 +69,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ed McVey',en,UK,#e838e8,#e838e8,2,0.427647634193182
 'Michael Walzer',en,USA,#18e8e8,#18e8e8,1,0.4252550555
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.4251019999423077
-'Missy Motown',en,Deutschland,#1818e8,#1818e8,1,0.425000045
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.425
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.425
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.424818249159091
@@ -162,6 +161,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,1,0.3643712204431447
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.363349458453493
 'Scott Morrison',en,Australien,#111111,#111111,3,0.3621097901615712
+'Missy Motown',en,Deutschland,#1818e8,#1818e8,1,0.36170008324999997
 'Olaf Scholz',en,Deutschland,#1818e8,#1818e8,3,0.353801249417119
 'Helmut Kohl',en,Deutschland,#1818e8,#1818e8,1,0.3511438589262379
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.350494259980586
@@ -176,9 +176,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Sandel',en,USA,#18e8e8,#18e8e8,1,0.3078951157625
 'Bruno Retailleau',en,Frankreich,#e8e808,#e8e808,2,0.3074484135874999
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,2,0.307283715319758
+'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070625
-'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.3048192262877273
@@ -322,7 +322,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicola Beer',en,EU,#111111,#111111,1,0.15777415006034
 'Kim Jong-un',en,NordKorea,#e85858,#e85858,3,0.155993498900897
 'Andrea Lindholz',en,Deutschland,#1818e8,#1818e8,1,0.1545335210054515
-'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.15429141520308762
+'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.1542914152030876
 'Tamim bin Hamad Al Thani',en,Katar,#111111,#111111,2,0.153885065978855
 'Sandra Maischberger',en,Deutschland,#1818e8,#1818e8,1,0.152886155898887
 'Michael Ballweg',en,Deutschland,#1818e8,#1818e8,1,0.152251389455966
