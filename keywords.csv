@@ -1,4 +1,17 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Robert De Niro',en,USA,#18e8e8,#18e8e8,2,0.5
+'Robert de Niro',en,USA,#18e8e8,#18e8e8,2,0.5
+'Steve Wozniak',en,USA,#18e8e8,#18e8e8,2,0.5
+'John Paul II',en,Vatikan,#58b8e8,#58b8e8,2,0.5
+'Ayatollah Chamenei',en,Iran,#111111,#111111,2,0.5
+'Mohammed Bin Salman',en,SaudiArabien,#111111,#111111,2,0.5
+'Kemal Kiliçdaroglu',en,Türkei,#111111,#111111,2,0.5
+'Kemal Klçdarolu',en,Türkei,#111111,#111111,2,0.5
+'Tim Scott',en,USA,#18e8e8,#18e8e8,2,0.5
+'Axel Springer',en,Deutschland,#1818e8,#1818e8,2,0.5
+'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,2,0.5
+'Jeanne du Barry',en,Frankreich,#e8e808,#e8e808,2,0.5
+'Jamie Dimon',en,USA,#18e8e8,#18e8e8,2,0.5
 'Chris Christie',en,USA,#18e8e8,#18e8e8,3,0.4875099674977272
 'Pete Davidson',en,USA,#18e8e8,#18e8e8,3,0.4851954609874999
 'Rosalynn Carter',en,USA,#18e8e8,#18e8e8,3,0.484501661701696
