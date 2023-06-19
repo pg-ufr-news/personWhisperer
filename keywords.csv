@@ -86,7 +86,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.424818249159091
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.424710729247727
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,3,0.4244367217363634
-'Bill Clinton',en,USA,#18e8e8,#18e8e8,2,0.424400065126136
 'Jimmy Carter',en,USA,#18e8e8,#18e8e8,3,0.423626339354829
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.4227859538826473
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.422421919558732
@@ -137,6 +136,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.398507337875
 'Bruno Le Maire',en,Frankreich,#e8e808,#e8e808,3,0.3982578566938636
 'Ed McVey',en,UK,#e838e8,#e838e8,2,0.3979297214326258
+'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.3975258021753974
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.396635537565398
 'Yoon Suk Yeol',en,SüdKorea,#111111,#111111,3,0.396587234843372
 'Kim Jong Un',en,NordKorea,#e85858,#e85858,3,0.3962718770781857
