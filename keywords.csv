@@ -33,7 +33,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Margaret Thatcher',en,UK,#e838e8,#e838e8,3,0.458200748529545
 'Martin Luther King',en,USA,#18e8e8,#18e8e8,3,0.457933266857954
 'Prince Charles',en,UK,#e838e8,#e838e8,2,0.457303592272727
-'Matt Damon',en,USA,#18e8e8,#18e8e8,3,0.457229627272727
 'Silvio Berlusconi',en,Italien,#111111,#111111,3,0.456860209
 'Alvin Bragg',en,USA,#18e8e8,#18e8e8,3,0.45343063495198
 'Recep Tayyip Erdogan',en,Türkei,#111111,#111111,3,0.452713196278352
@@ -68,6 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,2,0.43822569375
 'Princess Diana',en,UK,#e838e8,#e838e8,3,0.4373171806670026
 'Stephen Hawking',en,UK,#e838e8,#e838e8,3,0.436672503806818
+'Matt Damon',en,USA,#18e8e8,#18e8e8,3,0.4345109340909088
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,3,0.433896885727689
 'Don Lemon',en,USA,#18e8e8,#18e8e8,2,0.433775099136364
 'Henry Ford',en,USA,#18e8e8,#18e8e8,3,0.432955190136364
@@ -431,7 +431,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alberto Ángel Fernández',en,Argentinien,#111111,#111111,1,0.115556980050688
 'Frank Bainimarama',en,Fidschi,#111111,#111111,1,0.113346782585109
 'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.111957626138911
-'Larry Page',en,USA,#18e8e8,#18e8e8,2,0.11192229421960512
+'Larry Page',en,USA,#18e8e8,#18e8e8,2,0.1119222942196051
 'Paul Ronzheimer',en,Deutschland,#1818e8,#1818e8,1,0.111028842616365
 'Tamim bin Hamad Al-Thani',en,Katar,#111111,#111111,2,0.107216081078123
 'Herman Gref',en,Russland,#e81818,#e81818,1,0.10523043450444
