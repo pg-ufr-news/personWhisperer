@@ -431,6 +431,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alberto Ángel Fernández',en,Argentinien,#111111,#111111,1,0.115556980050688
 'Frank Bainimarama',en,Fidschi,#111111,#111111,1,0.113346782585109
 'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.111957626138911
+'Larry Page',en,USA,#18e8e8,#18e8e8,2,0.11192229421960512
 'Paul Ronzheimer',en,Deutschland,#1818e8,#1818e8,1,0.111028842616365
 'Tamim bin Hamad Al-Thani',en,Katar,#111111,#111111,2,0.107216081078123
 'Herman Gref',en,Russland,#e81818,#e81818,1,0.10523043450444
@@ -444,7 +445,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Carola Rackete',en,Deutschland,#1818e8,#1818e8,1,0.087961318565401
 'Kurt Krömer',en,Deutschland,#1818e8,#1818e8,1,0.085330596145521
 'Katalin Novak',en,Ungarn,#111111,#111111,1,0.084671230325276
-'Larry Page',en,USA,#18e8e8,#18e8e8,1,0.083062426889375
 'Sergei Surovikin',en,Russland,#e81818,#e81818,1,0.080543810484615
 'Dmitry Peskov',en,Russland,#e81818,#e81818,2,0.066365762202661
 'Alexei Miller',en,Russland,#e81818,#e81818,1,0.0647260669685873
