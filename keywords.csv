@@ -24,7 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.466586652522727
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4662441053875
 'Millie Mackintosh',en,UK,#e838e8,#e838e8,2,0.465723447272727
-'Kim Kardashian',en,USA,#18e8e8,#18e8e8,3,0.4640495845777782
 'Leon Botstein',en,USA,#18e8e8,#18e8e8,2,0.4635214327419354
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.4628541550785912
 'Karim Benzema',en,Frankreich,#e8e808,#e8e808,3,0.4617798368181818
@@ -124,6 +123,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Recep Tayyip Erdoan',en,Türkei,#111111,#111111,3,0.4049785462607311
 'Martin Scorsese',en,USA,#18e8e8,#18e8e8,2,0.4045932111613636
 'Mathias Döpfner',en,Deutschland,#1818e8,#1818e8,1,0.404327780875
+'Kim Kardashian',en,USA,#18e8e8,#18e8e8,3,0.403954956436566
 'Adolf Hitler',en,Deutschland,#1818e8,#1818e8,3,0.403899899035227
 'Rudolf Steiner',en,Oesterreich,#111111,#111111,1,0.403638809538461
 'Bruce Springsteen',en,USA,#18e8e8,#18e8e8,3,0.402116165353864
