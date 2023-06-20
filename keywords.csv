@@ -193,7 +193,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.3048192262877273
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.293322933515939
@@ -218,6 +217,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.261362786800768
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.261003125
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,1,0.261003125
+'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,2,0.257086102712395
 'Eva Kaili',en,EU,#111111,#111111,3,0.253708887180195
 'Frank-Walter Steinmeier',en,Deutschland,#1818e8,#1818e8,3,0.251492460588568
@@ -411,7 +411,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergej Lavrov',en,Russland,#e81818,#e81818,1,0.1273451327483475
 'Veronika Grimm',en,Deutschland,#1818e8,#1818e8,1,0.127161277337623
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.1264321327009491
-'Sergey Brin',en,USA,#18e8e8,#18e8e8,2,0.12547434942405722
+'Sergey Brin',en,USA,#18e8e8,#18e8e8,2,0.1254743494240572
 'Muhammad bin Zayid Al Nahyan',en,VAE,#111111,#111111,1,0.125394471353096
 'Julia Koch',en,USA,#18e8e8,#18e8e8,1,0.1253417359567913
 'Badri Hosseini Chamenei',en,Iran,#111111,#111111,1,0.1244766197819587
