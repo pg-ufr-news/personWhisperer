@@ -53,7 +53,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akshata Murty',en,Indien,#111111,#111111,3,0.447983289141534
 'Milo Yiannopoulos',en,UK,#e838e8,#e838e8,3,0.447519873811394
 'Matt Damon',en,USA,#18e8e8,#18e8e8,3,0.4470182567045452
-'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.4463668065002787
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.445776591606818
 'Wang Wentao',en,China,#e88818,#e88818,3,0.444789209536875
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.44442184028119
@@ -78,6 +77,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,3,0.4290994598758765
 'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.4290971714948864
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.427924836970838
+'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.42529651143432784
 'Michael Walzer',en,USA,#18e8e8,#18e8e8,1,0.4252550555
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.4251019999423077
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.425
