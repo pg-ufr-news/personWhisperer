@@ -33,7 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martin Luther King',en,USA,#18e8e8,#18e8e8,3,0.457933266857954
 'Prince Charles',en,UK,#e838e8,#e838e8,2,0.457303592272727
 'Silvio Berlusconi',en,Italien,#111111,#111111,3,0.456860209
-'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.45652281391251487
+'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.4565228139125148
 'Alvin Bragg',en,USA,#18e8e8,#18e8e8,3,0.45343063495198
 'Recep Tayyip Erdogan',en,Türkei,#111111,#111111,3,0.452713196278352
 'Jeffrey Donaldson',en,Irland,#111111,#111111,2,0.452679222727273
@@ -409,7 +409,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benjamin Netanjahu',en,Israel,#111111,#111111,1,0.1275702592749488
 'Luisa Neubauer',en,Deutschland,#1818e8,#1818e8,1,0.12749783707508
 'Sergej Lavrov',en,Russland,#e81818,#e81818,1,0.1273451327483475
-'Veronika Grimm',en,Deutschland,#1818e8,#1818e8,1,0.127161277337623
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.1264321327009491
 'Sergey Brin',en,USA,#18e8e8,#18e8e8,2,0.1254743494240572
 'Muhammad bin Zayid Al Nahyan',en,VAE,#111111,#111111,1,0.125394471353096
@@ -433,6 +432,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.111957626138911
 'Larry Page',en,USA,#18e8e8,#18e8e8,2,0.1119222942196051
 'Paul Ronzheimer',en,Deutschland,#1818e8,#1818e8,1,0.111028842616365
+'Veronika Grimm',en,Deutschland,#1818e8,#1818e8,1,0.10808708573697955
 'Tamim bin Hamad Al-Thani',en,Katar,#111111,#111111,2,0.107216081078123
 'Herman Gref',en,Russland,#e81818,#e81818,1,0.10523043450444
 'Jochen Thewes',en,Deutschland,#1818e8,#1818e8,1,0.103044076814963
