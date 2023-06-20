@@ -120,7 +120,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.4062234467211426
 'Lula da Silva',en,Brasilien,#58e838,#58e848,3,0.405876004658636
 'Linda Yaccarino',en,USA,#18e8e8,#18e8e8,3,0.405806780336
-'Andrew Tate',en,USA,#18e8e8,#18e8e8,2,0.4056356731818182
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.4056129521175
 'Recep Tayyip Erdoan',en,Türkei,#111111,#111111,3,0.4049785462607311
 'Martin Scorsese',en,USA,#18e8e8,#18e8e8,2,0.4045932111613636
@@ -175,6 +174,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.363349458453493
 'Scott Morrison',en,Australien,#111111,#111111,3,0.3621097901615712
 'Missy Motown',en,Deutschland,#1818e8,#1818e8,1,0.3617000832499999
+'Andrew Tate',en,USA,#18e8e8,#18e8e8,2,0.35428939175
 'Olaf Scholz',en,Deutschland,#1818e8,#1818e8,3,0.353801249417119
 'Helmut Kohl',en,Deutschland,#1818e8,#1818e8,1,0.3511438589262379
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.350494259980586
