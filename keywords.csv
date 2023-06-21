@@ -182,9 +182,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Scott Morrison',en,Australien,#111111,#111111,3,0.3621097901615712
 'Thomas Bayes',en,UK,#e838e8,#e838e8,1,0.361850111
 'Missy Motown',en,Deutschland,#1818e8,#1818e8,1,0.3617000832499999
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.3612499999999999
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Andrew Tate',en,USA,#18e8e8,#18e8e8,2,0.35428939175
 'Olaf Scholz',en,Deutschland,#1818e8,#1818e8,3,0.353801249417119
 'Helmut Kohl',en,Deutschland,#1818e8,#1818e8,1,0.3511438589262379
@@ -316,7 +316,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holger Münch',en,Deutschland,#1818e8,#1818e8,1,0.180570677234297
 'Anthony Albanese',en,Australien,#111111,#111111,2,0.179932450877684
 'Xi Jinping',en,China,#e88818,#e88818,3,0.1791954916974618
-'König Charles III',en,UK,#e838e8,#e838e8,1,0.177385287856752
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.176683916934702
 'Aleksandar Vucic',en,Serbien,#111111,#111111,3,0.176083558030118
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.174745784838585
@@ -352,6 +351,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexei Nawalny',en,Russland,#e81818,#e81818,1,0.152173026993773
 'Anthony Fauci',en,USA,#18e8e8,#18e8e8,1,0.151941997910852
 'Generalbundesanwalt Peter Frank',en,Deutschland,#1818e8,#1818e8,1,0.151894374506219
+'König Charles III',en,UK,#e838e8,#e838e8,1,0.1509275096782392
 'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.150492701540908
 'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.1498697887714842
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,1,0.1491243828765442
