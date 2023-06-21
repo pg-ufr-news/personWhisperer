@@ -335,7 +335,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicola Beer',en,EU,#111111,#111111,1,0.15777415006034
 'Kim Jong-un',en,NordKorea,#e85858,#e85858,3,0.155993498900897
 'Andrea Lindholz',en,Deutschland,#1818e8,#1818e8,1,0.1545335210054515
-'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.1542914152030876
 'Tamim bin Hamad Al Thani',en,Katar,#111111,#111111,2,0.153885065978855
 'Sandra Maischberger',en,Deutschland,#1818e8,#1818e8,1,0.152886155898887
 'Michael Ballweg',en,Deutschland,#1818e8,#1818e8,1,0.152251389455966
@@ -389,6 +388,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katarina Barley',en,EU,#111111,#111111,1,0.1342285656625094
 'Alice Schwarzer',en,Deutschland,#1818e8,#1818e8,2,0.1341548775346454
 'Patrick Pouyanné',en,Frankreich,#e8e808,#e8e808,1,0.133992937205804
+'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.13309789792262444
 'Lukaschenko',en,Belarus,#e81858,#e81858,2,0.13285618797614
 'Stefan Rahmstorf',en,Deutschland,#1818e8,#1818e8,1,0.13283693334544
 'Schellnhuber',en,Deutschland,#1818e8,#1818e8,1,0.132722900873717
