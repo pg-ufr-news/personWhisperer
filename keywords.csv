@@ -55,7 +55,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matt Damon',en,USA,#18e8e8,#18e8e8,3,0.4470182567045452
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.445776591606818
 'Wang Wentao',en,China,#e88818,#e88818,3,0.444789209536875
-'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.44442184028119
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.4443348572267818
 'Raphael Warnock',en,USA,#18e8e8,#18e8e8,2,0.443588088636364
 'Herschel Walker',en,USA,#18e8e8,#18e8e8,3,0.443129257248409
@@ -130,6 +129,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Evan Gershkovich',en,USA,#18e8e8,#18e8e8,3,0.4018516894283713
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.40141514063
 'King Charles',en,UK,#e838e8,#e838e8,3,0.400982873336363
+'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.40090962742082964
 'Winston Churchill',en,UK,#e838e8,#e838e8,3,0.399797020752443
 'Katy Perry',en,USA,#18e8e8,#18e8e8,3,0.3995796965434094
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.398507337875
@@ -388,7 +388,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katarina Barley',en,EU,#111111,#111111,1,0.1342285656625094
 'Alice Schwarzer',en,Deutschland,#1818e8,#1818e8,2,0.1341548775346454
 'Patrick Pouyanné',en,Frankreich,#e8e808,#e8e808,1,0.133992937205804
-'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.13309789792262444
+'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.1330978979226244
 'Lukaschenko',en,Belarus,#e81858,#e81858,2,0.13285618797614
 'Stefan Rahmstorf',en,Deutschland,#1818e8,#1818e8,1,0.13283693334544
 'Schellnhuber',en,Deutschland,#1818e8,#1818e8,1,0.132722900873717
