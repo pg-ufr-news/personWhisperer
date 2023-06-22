@@ -296,7 +296,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dmitri Medwedew',en,Russland,#e81818,#e81818,1,0.19234625296875
 'Charles Koch',en,USA,#18e8e8,#18e8e8,3,0.19169576434382
 'Jair Bolsonaro',en,Brasilien,#58e838,#58e848,3,0.191220077650967
-'Andrés Manuel López Obrador',en,Mexiko,#111111,#111111,3,0.19078048734199907
+'Andrés Manuel López Obrador',en,Mexiko,#111111,#111111,3,0.190780487341999
 'Wolfgang Kubicki',en,Deutschland,#1818e8,#1818e8,1,0.1906644489643312
 'Andrzej Duda',en,Polen,#111111,#111111,3,0.190417289712013
 'Nina Gummich',en,Deutschland,#1818e8,#1818e8,1,0.1900833558749999
@@ -392,7 +392,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marco Buschmann',en,Deutschland,#1818e8,#1818e8,1,0.1363091408916048
 'Wladimir Putin',en,Russland,#e81818,#e81818,1,0.1358791656501874
 'Markus Krebber',en,Deutschland,#1818e8,#1818e8,1,0.1348693816975384
-'Ulf Poschardt',en,Deutschland,#1818e8,#1818e8,1,0.134794132715092
 'John Roberts',en,USA,#18e8e8,#18e8e8,1,0.134786905615324
 'Ebrahim Raisi',en,Iran,#111111,#111111,3,0.134674092572129
 'Katarina Barley',en,EU,#111111,#111111,1,0.1342285656625094
@@ -439,6 +438,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Kretschmer',en,Deutschland,#1818e8,#1818e8,1,0.116524999003359
 'Erik Marquardt',en,EU,#111111,#111111,1,0.1156146995278045
 'Alberto Ángel Fernández',en,Argentinien,#111111,#111111,1,0.115556980050688
+'Ulf Poschardt',en,Deutschland,#1818e8,#1818e8,1,0.1145750128078282
 'Frank Bainimarama',en,Fidschi,#111111,#111111,1,0.113346782585109
 'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.111957626138911
 'Larry Page',en,USA,#18e8e8,#18e8e8,2,0.1119222942196051
