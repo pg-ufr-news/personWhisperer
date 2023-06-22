@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Amber Heard',en,USA,#18e8e8,#18e8e8,2,0.5
-'Richard Ferrand',en,Frankreich,#e8e808,#e8e808,2,0.5
-'Péter Szijjártó',en,Ungarn,#111111,#111111,2,0.5
-'Pablo Picasso',en,Spanien,#111111,#111111,2,0.5
-'Afida Turner',en,Frankreich,#e8e808,#e8e808,2,0.5
 'Al Pacino',en,USA,#18e8e8,#18e8e8,2,0.5
-'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,2,0.5
-'Berkshire Hathaway',en,USA,#18e8e8,#18e8e8,2,0.5
 'Chuck Todd',en,USA,#18e8e8,#18e8e8,2,0.5
+'Berkshire Hathaway',en,USA,#18e8e8,#18e8e8,2,0.5
+'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,2,0.5
+'Richard Ferrand',en,Frankreich,#e8e808,#e8e808,2,0.5
+'Afida Turner',en,Frankreich,#e8e808,#e8e808,2,0.5
+'Pablo Picasso',en,Spanien,#111111,#111111,2,0.5
+'Péter Szijjártó',en,Ungarn,#111111,#111111,2,0.5
 'Pete Davidson',en,USA,#18e8e8,#18e8e8,3,0.4851954609874999
 'Tim Scott',en,USA,#18e8e8,#18e8e8,2,0.4845382195454545
 'Rosalynn Carter',en,USA,#18e8e8,#18e8e8,3,0.484501661701696
@@ -105,6 +105,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karl Jenkins',en,UK,#e838e8,#e838e8,2,0.4201344425
 'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.418700222
 'Napoleon Bonaparte',en,Frankreich,#e8e808,#e8e808,2,0.418627408318182
+'Winston Churchill',en,UK,#e838e8,#e838e8,3,0.41751044036684926
 'Chip Somodevilla',en,USA,#18e8e8,#18e8e8,3,0.4156416179772729
 'Jack Teixeira',en,USA,#18e8e8,#18e8e8,3,0.414888936352738
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.4148629091640907
@@ -136,7 +137,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Evan Gershkovich',en,USA,#18e8e8,#18e8e8,3,0.4018516894283713
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.40141514063
 'King Charles',en,UK,#e838e8,#e838e8,3,0.400982873336363
-'Winston Churchill',en,UK,#e838e8,#e838e8,3,0.399797020752443
 'Katy Perry',en,USA,#18e8e8,#18e8e8,3,0.3995796965434094
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.398507337875
 'Bruno Le Maire',en,Frankreich,#e8e808,#e8e808,3,0.3982578566938636
@@ -182,8 +182,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Scott Morrison',en,Australien,#111111,#111111,3,0.3621097901615712
 'Thomas Bayes',en,UK,#e838e8,#e838e8,1,0.361850111
 'Missy Motown',en,Deutschland,#1818e8,#1818e8,1,0.3617000832499999
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.3612499999999999
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Andrew Tate',en,USA,#18e8e8,#18e8e8,2,0.35428939175
 'Olaf Scholz',en,Deutschland,#1818e8,#1818e8,3,0.353801249417119
