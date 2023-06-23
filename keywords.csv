@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Pete Davidson',en,USA,#18e8e8,#18e8e8,3,0.4901026995666476
+'Pete Davidson',en,USA,#18e8e8,#18e8e8,3,0.4851833332680141
 'Narendra Modi',en,Indien,#111111,#111111,2,0.4845767245454545
 'Tim Scott',en,USA,#18e8e8,#18e8e8,2,0.4845382195454545
 'Rosalynn Carter',en,USA,#18e8e8,#18e8e8,3,0.484501661701696
@@ -197,13 +197,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
+'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.3070624999999999
-'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.3070624999999999
-'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.3070624999999999
 'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.3048192262877273
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.293322933515939
