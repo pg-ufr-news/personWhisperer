@@ -197,12 +197,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070625
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.3070624999999999
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.3070624999999999
+'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.3048192262877273
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.293322933515939
@@ -218,7 +218,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.271082346135862
 'Giorgia Meloni',en,Italien,#111111,#111111,3,0.268923953740093
 'Georg Gänswein',en,Deutschland,#1818e8,#1818e8,1,0.268547120299375
-'Jens Spahn',en,Deutschland,#1818e8,#1818e8,1,0.268514293240625
 'Jens Stoltenberg',en,Norwegen,#e818e8,#e818e8,3,0.267339068916897
 'David Malpass',en,USA,#18e8e8,#18e8e8,3,0.2662653274494
 'Hun Sen',en,Kambodscha,#111111,#111111,3,0.265928065094144
@@ -250,6 +249,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Friedrich Merz',en,Deutschland,#1818e8,#1818e8,3,0.233134248070145
 'Jacinda Ardern',en,Neuseeland,#1818e8,#1818e8,3,0.2313480705993221
 'Dalai Lama',en,Tibet,#111111,#111111,3,0.229547663263707
+'Jens Spahn',en,Deutschland,#1818e8,#1818e8,1,0.22883720925453124
 'Melinda Gates',en,USA,#18e8e8,#18e8e8,3,0.228081532818181
 'Mario Czaja',en,Deutschland,#1818e8,#1818e8,1,0.2274968442229687
 'Andreas Jung',en,Deutschland,#1818e8,#1818e8,1,0.2239148687678749
