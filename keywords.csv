@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Noor Alfallah',en,USA,#18e8e8,#18e8e8,2,0.5
-'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.5
-'Paul-Henry Nargeolet',en,Frankreich,#e8e808,#e8e808,2,0.5
-'Stockton Rush',en,USA,#18e8e8,#18e8e8,2,0.5
-'Oisin Fanning',en,Irland,#111111,#111111,2,0.5
 'Hamish Harding',en,UK,#e838e8,#e838e8,2,0.5
-'Shahzada Dawood',en,Pakistan,#111111,#111111,2,0.5
-'Jan Lipavský',en,Tschechien,#111111,#111111,2,0.5
 'Narendra Modi',en,Indien,#111111,#111111,2,0.5
+'Jan Lipavský',en,Tschechien,#111111,#111111,2,0.5
+'Shahzada Dawood',en,Pakistan,#111111,#111111,2,0.5
+'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.5
+'Oisin Fanning',en,Irland,#111111,#111111,2,0.5
+'Stockton Rush',en,USA,#18e8e8,#18e8e8,2,0.5
+'Paul-Henry Nargeolet',en,Frankreich,#e8e808,#e8e808,2,0.5
 'Pete Davidson',en,USA,#18e8e8,#18e8e8,3,0.4851954609874999
 'Tim Scott',en,USA,#18e8e8,#18e8e8,2,0.4845382195454545
 'Rosalynn Carter',en,USA,#18e8e8,#18e8e8,3,0.484501661701696
@@ -170,7 +170,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lula da Silva',en,Brasilien,#58e838,#58e848,3,0.3817727007780224
 'Herbert Diess',en,Deutschland,#1818e8,#1818e8,2,0.381664652674242
 'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.3813146845066175
-'Daniel Penny',en,USA,#18e8e8,#18e8e8,3,0.38098764296509396
+'Daniel Penny',en,USA,#18e8e8,#18e8e8,3,0.3809876429650939
 'Queen Camilla',en,UK,#e838e8,#e838e8,3,0.3784892154027939
 'Anne Will',en,Deutschland,#1818e8,#1818e8,2,0.377750428514773
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.3765954135576307
@@ -203,9 +203,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Sandel',en,USA,#18e8e8,#18e8e8,1,0.3078951157625
 'Missy Motown',en,Deutschland,#1818e8,#1818e8,1,0.3078951157624999
 'Bruno Retailleau',en,Frankreich,#e8e808,#e8e808,2,0.3074484135874999
+'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.3070625
-'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
@@ -238,6 +238,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,1,0.261003125
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,2,0.257086102712395
+'Joseph Ratzinger',en,Vatikan,#58b8e8,#58b8e8,2,0.25490353974769986
 'Jeff Bezos',en,USA,#18e8e8,#18e8e8,3,0.2541353805609927
 'Frank-Walter Steinmeier',en,Deutschland,#1818e8,#1818e8,3,0.251492460588568
 'Mateusz Morawiecki',en,Polen,#111111,#111111,3,0.250372010575567
@@ -264,8 +265,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andreas Jung',en,Deutschland,#1818e8,#1818e8,1,0.2239148687678749
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,3,0.223802778437948
 'Ulrich Reitz',en,Deutschland,#1818e8,#1818e8,1,0.2231837721875
-'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.22185265625
 'Ramsan Kadyrow',en,Russland,#e81818,#e81818,1,0.22185265625
+'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.22185265625
 'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.22185265625
 'Gerhard Schröder',en,Deutschland,#1818e8,#1818e8,1,0.21991755341932
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.219827957022201
@@ -288,7 +289,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dieter Bohlen',en,Deutschland,#1818e8,#1818e8,1,0.2041915324569236
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.2036607384375
 'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.2036607384374999
-'Joseph Ratzinger',en,Vatikan,#58b8e8,#58b8e8,1,0.203460611813903
 'Mark Zuckerberg',en,USA,#18e8e8,#18e8e8,3,0.202991931793682
 'Pedro Sánchez',en,Spanien,#111111,#111111,3,0.202565397952638
 'Roland Busch',en,Deutschland,#1818e8,#1818e8,1,0.201908765256893
