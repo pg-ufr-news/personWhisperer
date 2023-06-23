@@ -66,7 +66,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.440621003577534
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.4404046227253669
 'Shahzada Dawood',en,Pakistan,#111111,#111111,2,0.4390513340909091
-'Noor Alfallah',en,USA,#18e8e8,#18e8e8,3,0.439046624090909
 'Robert de Niro',en,USA,#18e8e8,#18e8e8,3,0.4387448787465909
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,2,0.43822569375
 'Princess Diana',en,UK,#e838e8,#e838e8,3,0.4373171806670026
@@ -144,6 +143,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.3975258021753974
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.396635537565398
 'Yoon Suk Yeol',en,SüdKorea,#111111,#111111,3,0.396587234843372
+'Noor Alfallah',en,USA,#18e8e8,#18e8e8,3,0.3963272086590908
 'Kim Jong Un',en,NordKorea,#e85858,#e85858,3,0.3962718770781857
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.395841266130685
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.394226217909091
@@ -197,13 +197,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.3070624999999999
 'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.3070624999999999
-'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.3048192262877273
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.293322933515939
