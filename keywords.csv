@@ -197,13 +197,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.3070624999999999
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.3070624999999999
+'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.3048192262877273
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.293322933515939
@@ -260,7 +260,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jens Spahn',en,Deutschland,#1818e8,#1818e8,1,0.2288372092545312
 'Melinda Gates',en,USA,#18e8e8,#18e8e8,3,0.228081532818181
 'Mario Czaja',en,Deutschland,#1818e8,#1818e8,1,0.2274968442229687
-'Robert Nozick',en,USA,#18e8e8,#18e8e8,1,0.22635562229468748
+'Robert Nozick',en,USA,#18e8e8,#18e8e8,1,0.2263556222946874
 'Andreas Jung',en,Deutschland,#1818e8,#1818e8,1,0.2239148687678749
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,3,0.223802778437948
 'Ulrich Reitz',en,Deutschland,#1818e8,#1818e8,1,0.2231837721875
@@ -334,7 +334,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robin Li',en,China,#e88818,#e88818,2,0.17239776701366
 'Larry Ellison',en,USA,#18e8e8,#18e8e8,1,0.171549988043549
 'Ricarda Lang',en,Deutschland,#1818e8,#1818e8,1,0.1707460476255964
-'Selenskyj',en,Ukraine,#e818e8,#e818e8,1,0.1706917712645072
 'Patriarch Kyrill',en,Ukraine,#e818e8,#e818e8,3,0.169320826374793
 'Karl Nehammer',en,Oesterreich,#111111,#111111,1,0.169196016107712
 'Antonio Guterres',en,UN,#e888e8,#e888e8,3,0.169056093356733
@@ -371,6 +370,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Selenski',en,Ukraine,#e818e8,#e818e8,1,0.1460265211134415
 'Yoon Suk-yeol',en,SüdKorea,#111111,#111111,3,0.145481018944251
 'Kardinal Woelki',en,Deutschland,#1818e8,#1818e8,1,0.14527461460928
+'Selenskyj',en,Ukraine,#e818e8,#e818e8,1,0.14508800557483112
 'Pietro Lombardi',en,Deutschland,#1818e8,#1818e8,1,0.1450498801148274
 'Gabor Steingart',en,Deutschland,#1818e8,#1818e8,1,0.1445835769285881
 'Paul Kagame',en,Ruanda,#111111,#111111,1,0.144473003100117
