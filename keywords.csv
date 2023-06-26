@@ -197,13 +197,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.3070624999999999
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.3070624999999999
+'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.3048192262877273
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.293322933515939
@@ -266,7 +266,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrich Reitz',en,Deutschland,#1818e8,#1818e8,1,0.2231837721875
 'Bruno Retailleau',en,Frankreich,#e8e808,#e8e808,1,0.2222815065669686
 'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.22185265625
-'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.22185265625
 'Ramsan Kadyrow',en,Russland,#e81818,#e81818,1,0.22185265625
 'Gerhard Schröder',en,Deutschland,#1818e8,#1818e8,1,0.21991755341932
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.219827957022201
@@ -312,6 +311,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edward Snowden',en,USA,#18e8e8,#18e8e8,1,0.189299821846266
 'Daniel Zhang',en,China,#e88818,#e88818,2,0.189178654886423
 'Rishi Sunak',en,UK,#e838e8,#e838e8,3,0.18908344476026
+'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Maria Kolesnikowa',en,Belarus,#e81858,#e81858,1,0.186767295009577
