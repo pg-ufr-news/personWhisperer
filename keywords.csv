@@ -43,6 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.44942310947642
 'Lionel Messi',en,Argentinien,#111111,#111111,3,0.448695999711364
 'Billy Graham',en,USA,#18e8e8,#18e8e8,3,0.448631943568182
+'Nikki Haley',en,USA,#18e8e8,#18e8e8,3,0.4483497097951362
 'Pablo Picasso',en,Spanien,#111111,#111111,2,0.4481342631818181
 'Elisabeth Borne',en,Frankreich,#e8e808,#e8e808,2,0.4481336631818182
 'Kemal Klçdarolu',en,Türkei,#111111,#111111,2,0.4481332581818181
@@ -51,7 +52,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akshata Murty',en,Indien,#111111,#111111,3,0.447983289141534
 'Milo Yiannopoulos',en,UK,#e838e8,#e838e8,3,0.447519873811394
 'Matt Damon',en,USA,#18e8e8,#18e8e8,3,0.4470182567045452
-'Nikki Haley',en,USA,#18e8e8,#18e8e8,3,0.4467437190103207
 'Robert De Niro',en,USA,#18e8e8,#18e8e8,2,0.4465731803863636
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.445776591606818
 'Wang Wentao',en,China,#e88818,#e88818,3,0.444789209536875
