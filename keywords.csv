@@ -54,7 +54,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matt Damon',en,USA,#18e8e8,#18e8e8,3,0.4470182567045452
 'Robert De Niro',en,USA,#18e8e8,#18e8e8,2,0.4465731803863636
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.445776591606818
-'Wang Wentao',en,China,#e88818,#e88818,3,0.444789209536875
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.4443348572267818
 'Stockton Rush',en,USA,#18e8e8,#18e8e8,3,0.4436004336363636
 'Raphael Warnock',en,USA,#18e8e8,#18e8e8,2,0.443588088636364
@@ -116,6 +115,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4116815571291397
 'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.4106860113030421
 'Meg Bellamy',en,UK,#e838e8,#e838e8,2,0.4105042349867608
+'Wang Wentao',en,China,#e88818,#e88818,3,0.410295550379071
 'Lady Gaga',en,USA,#18e8e8,#18e8e8,3,0.4095310211920454
 'Prince William',en,UK,#e838e8,#e838e8,3,0.408624199796591
 'Finnegan Biden',en,USA,#18e8e8,#18e8e8,2,0.408326584215557
