@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Prince Archie',en,UK,#e838e8,#e838e8,3,0.5256835676978983
+'Prince Archie',en,UK,#e838e8,#e838e8,3,0.5654211761795771
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,2,0.5
 'Salvador Dali',en,Spanien,#111111,#111111,2,0.5
 'James Cameron',en,USA,#18e8e8,#18e8e8,3,0.489062284090909
@@ -29,7 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Charles',en,UK,#e838e8,#e838e8,2,0.457303592272727
 'Silvio Berlusconi',en,Italien,#111111,#111111,3,0.456860209
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.4565228139125148
-'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,3,0.45586443345454536
+'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,3,0.4558644334545453
 'Chris Christie',en,USA,#18e8e8,#18e8e8,3,0.4557238687367044
 'Alvin Bragg',en,USA,#18e8e8,#18e8e8,3,0.45343063495198
 'Recep Tayyip Erdogan',en,Türkei,#111111,#111111,3,0.452713196278352
