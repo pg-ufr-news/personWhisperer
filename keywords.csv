@@ -78,7 +78,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.431481546363636
 'Camilla',en,UK,#e838e8,#e838e8,3,0.429846972275
 'Karim Benzema',en,Frankreich,#e8e808,#e8e808,3,0.4292944381136364
-'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.4290971714948864
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.427924836970838
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.4252965114343278
 'Michael Walzer',en,USA,#18e8e8,#18e8e8,1,0.4252550555
@@ -135,6 +134,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rudolf Steiner',en,Oesterreich,#111111,#111111,1,0.403638809538461
 'Bruce Springsteen',en,USA,#18e8e8,#18e8e8,3,0.402116165353864
 'Evan Gershkovich',en,USA,#18e8e8,#18e8e8,3,0.4018516894283713
+'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.40152753758883525
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.40141514063
 'King Charles',en,UK,#e838e8,#e838e8,3,0.400982873336363
 'Katy Perry',en,USA,#18e8e8,#18e8e8,3,0.3995796965434094
@@ -200,11 +200,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
+'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.3070624999999999
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.3070624999999999
-'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.3070624999999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.3048192262877273
