@@ -46,7 +46,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,3,0.4483497097951362
 'Pablo Picasso',en,Spanien,#111111,#111111,2,0.4481342631818181
 'Elisabeth Borne',en,Frankreich,#e8e808,#e8e808,2,0.4481336631818182
-'Kemal Klçdarolu',en,Türkei,#111111,#111111,2,0.4481332581818181
 'Sam Altman',en,USA,#18e8e8,#18e8e8,3,0.4481060683397727
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,3,0.448089843704545
 'Akshata Murty',en,Indien,#111111,#111111,3,0.447983289141534
@@ -117,6 +116,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wang Wentao',en,China,#e88818,#e88818,3,0.410295550379071
 'Lady Gaga',en,USA,#18e8e8,#18e8e8,3,0.4095310211920454
 'Prince William',en,UK,#e838e8,#e838e8,3,0.408624199796591
+'Kemal Klçdarolu',en,Türkei,#111111,#111111,3,0.40859159218181806
 'Finnegan Biden',en,USA,#18e8e8,#18e8e8,2,0.408326584215557
 'Mary Lou McDonald',en,Irland,#111111,#111111,3,0.407910047
 'Axel Springer',en,Deutschland,#1818e8,#1818e8,3,0.4078119417499999
@@ -355,7 +355,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Jong-un',en,NordKorea,#e85858,#e85858,3,0.155993498900897
 'Andrea Lindholz',en,Deutschland,#1818e8,#1818e8,1,0.1545335210054515
 'Tamim bin Hamad Al Thani',en,Katar,#111111,#111111,2,0.153885065978855
-'Holger Münch',en,Deutschland,#1818e8,#1818e8,1,0.15363509064915246
+'Holger Münch',en,Deutschland,#1818e8,#1818e8,1,0.1536350906491524
 'Sandra Maischberger',en,Deutschland,#1818e8,#1818e8,1,0.152886155898887
 'Michael Ballweg',en,Deutschland,#1818e8,#1818e8,1,0.152251389455966
 'Anthony Fauci',en,USA,#18e8e8,#18e8e8,1,0.151941997910852
