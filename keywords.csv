@@ -314,8 +314,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edward Snowden',en,USA,#18e8e8,#18e8e8,1,0.189299821846266
 'Daniel Zhang',en,China,#e88818,#e88818,2,0.189178654886423
 'Rishi Sunak',en,UK,#e838e8,#e838e8,3,0.18908344476026
-'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
+'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Maria Kolesnikowa',en,Belarus,#e81858,#e81858,1,0.186767295009577
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,2,0.184417292896354
@@ -324,7 +324,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Subrahmanyam Jaishankar',en,Indien,#111111,#111111,2,0.18212654954468
 'Karl Lauterbach',en,Deutschland,#1818e8,#1818e8,2,0.180625893135617
 'Lael Brainard',en,USA,#18e8e8,#18e8e8,2,0.180586466283117
-'Holger Münch',en,Deutschland,#1818e8,#1818e8,1,0.180570677234297
 'Anthony Albanese',en,Australien,#111111,#111111,2,0.179932450877684
 'Xi Jinping',en,China,#e88818,#e88818,3,0.1791954916974618
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.176683916934702
@@ -356,6 +355,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Jong-un',en,NordKorea,#e85858,#e85858,3,0.155993498900897
 'Andrea Lindholz',en,Deutschland,#1818e8,#1818e8,1,0.1545335210054515
 'Tamim bin Hamad Al Thani',en,Katar,#111111,#111111,2,0.153885065978855
+'Holger Münch',en,Deutschland,#1818e8,#1818e8,1,0.15363509064915246
 'Sandra Maischberger',en,Deutschland,#1818e8,#1818e8,1,0.152886155898887
 'Michael Ballweg',en,Deutschland,#1818e8,#1818e8,1,0.152251389455966
 'Anthony Fauci',en,USA,#18e8e8,#18e8e8,1,0.151941997910852
@@ -460,7 +460,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heinrich XIII. Prinz Reuß',en,Deutschland,#1818e8,#1818e8,1,0.102973299662835
 'Yanis Varoufakis',en,Griechenland,#1858e8,#1858e8,1,0.102105240474468
 'Ayatollah Ali Chamenei',en,Iran,#111111,#111111,1,0.100398524460988
-'Erik Marquardt',en,EU,#111111,#111111,1,0.09827249459863382
+'Erik Marquardt',en,EU,#111111,#111111,1,0.0982724945986338
 'Amin Nasser',en,SaudiArabien,#111111,#111111,1,0.09727380071405
 'Miriam Adelson',en,USA,#18e8e8,#18e8e8,2,0.094575918383561
 'Dimitry Peskov',en,Russland,#e81818,#e81818,1,0.089436513672263
