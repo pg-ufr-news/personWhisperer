@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.5654211761795771
-'Caren Miosga',en,Deutschland,#1818e8,#1818e8,2,0.5
 'Salvador Dali',en,Spanien,#111111,#111111,2,0.5
 'James Cameron',en,USA,#18e8e8,#18e8e8,3,0.489062284090909
 'Narendra Modi',en,Indien,#111111,#111111,2,0.4845767245454545
@@ -65,7 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert de Niro',en,USA,#18e8e8,#18e8e8,3,0.4387448787465909
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,2,0.43822569375
 'Princess Diana',en,UK,#e838e8,#e838e8,3,0.4373171806670026
-'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.43697777805495697
+'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.4369777780549569
 'Stephen Hawking',en,UK,#e838e8,#e838e8,3,0.436672503806818
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.436651714216796
 'Kemal Kiliçdaroglu',en,Türkei,#111111,#111111,1,0.4349998371071428
@@ -81,6 +80,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.4252965114343278
 'Michael Walzer',en,USA,#18e8e8,#18e8e8,1,0.4252550555
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.4251019999423077
+'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.425
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.424818249159091
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.424710729247727
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,3,0.4244367217363634
