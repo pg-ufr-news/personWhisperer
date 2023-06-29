@@ -34,7 +34,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Camille Etienne',en,Frankreich,#e8e808,#e8e808,2,0.4515344955263157
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.450265575142063
 'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,3,0.4501180033593748
-'Mohammed Bin Salman',en,SaudiArabien,#111111,#111111,3,0.4497457450681818
 'Jeanne du Barry',en,Frankreich,#e8e808,#e8e808,3,0.4497029971769318
 'Lionel Messi',en,Argentinien,#111111,#111111,3,0.448695999711364
 'Billy Graham',en,USA,#18e8e8,#18e8e8,3,0.448631943568182
@@ -74,14 +73,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tiffany Chen',en,USA,#18e8e8,#18e8e8,3,0.4314642446813068
 'Camilla',en,UK,#e838e8,#e838e8,3,0.429846972275
 'Karim Benzema',en,Frankreich,#e8e808,#e8e808,3,0.4292944381136364
+'Mohammed Bin Salman',en,SaudiArabien,#111111,#111111,3,0.42815296421704546
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.427924836970838
 'Hunter Biden',en,USA,#18e8e8,#18e8e8,3,0.4263914746506513
 'Michael Walzer',en,USA,#18e8e8,#18e8e8,1,0.4252550555
-'König Felipe VI',en,Spanien,#111111,#111111,1,0.425
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.425
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.425
-'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.425
+'König Felipe VI',en,Spanien,#111111,#111111,1,0.425
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.425
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.425
+'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.425
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.424818249159091
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.424710729247727
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,3,0.4244367217363634
