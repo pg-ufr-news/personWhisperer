@@ -20,7 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Floyd',en,USA,#18e8e8,#18e8e8,3,0.4631799932272725
 'Steve Wozniak',en,USA,#18e8e8,#18e8e8,2,0.4617710918181818
 'Lauren Sánchez',en,USA,#18e8e8,#18e8e8,3,0.458268477909091
-'Margaret Thatcher',en,UK,#e838e8,#e838e8,3,0.458200748529545
 'Prince Charles',en,UK,#e838e8,#e838e8,2,0.457303592272727
 'Silvio Berlusconi',en,Italien,#111111,#111111,3,0.456860209
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.4565228139125148
@@ -71,16 +70,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,3,0.4315308987804113
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.431481546363636
 'Tiffany Chen',en,USA,#18e8e8,#18e8e8,3,0.4314642446813068
+'Margaret Thatcher',en,UK,#e838e8,#e838e8,3,0.4307902726137496
 'Camilla',en,UK,#e838e8,#e838e8,3,0.429846972275
 'Karim Benzema',en,Frankreich,#e8e808,#e8e808,3,0.4292944381136364
 'Mohammed Bin Salman',en,SaudiArabien,#111111,#111111,3,0.4281529642170454
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.427924836970838
 'Hunter Biden',en,USA,#18e8e8,#18e8e8,3,0.4263914746506513
 'Michael Walzer',en,USA,#18e8e8,#18e8e8,1,0.4252550555
-'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.425
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.425
-'König Felipe VI',en,Spanien,#111111,#111111,1,0.425
+'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.425
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.425
+'König Felipe VI',en,Spanien,#111111,#111111,1,0.425
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.424818249159091
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.424710729247727
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,3,0.4244367217363634
@@ -196,7 +196,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Scott Morrison',en,Australien,#111111,#111111,3,0.3621097901615712
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,2,0.3618050555
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.3615500554999999
-'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.36124999999999996
+'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Boris Johnson',en,UK,#e838e8,#e838e8,3,0.3574162960158356
 'Andrew Tate',en,USA,#18e8e8,#18e8e8,2,0.35428939175
 'Olaf Scholz',en,Deutschland,#1818e8,#1818e8,3,0.353801249417119
