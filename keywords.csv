@@ -77,11 +77,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.427924836970838
 'Hunter Biden',en,USA,#18e8e8,#18e8e8,3,0.4263914746506513
 'Michael Walzer',en,USA,#18e8e8,#18e8e8,1,0.4252550555
-'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.425
-'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.425
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.425
-'König Felipe VI',en,Spanien,#111111,#111111,1,0.425
+'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.425
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.425
+'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.425
+'König Felipe VI',en,Spanien,#111111,#111111,1,0.425
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.424818249159091
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.424710729247727
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,3,0.4244367217363634
@@ -387,7 +387,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klaus-Michael Kühne',en,Deutschland,#1818e8,#1818e8,1,0.143665233328073
 'Nikos Androulakis',en,Griechenland,#1858e8,#1858e8,1,0.143634131098959
 'Joschka Fischer',en,Deutschland,#1818e8,#1818e8,1,0.1434636605397728
-'Andreas Baum',en,Deutschland,#1818e8,#1818e8,1,0.143313773919434
 'Rainer Maria Woelki',en,Deutschland,#1818e8,#1818e8,2,0.142634331011007
 'Jan Böhmermann',en,Deutschland,#1818e8,#1818e8,1,0.140989480961508
 'Christian Drosten',en,Deutschland,#1818e8,#1818e8,2,0.138861896292022
@@ -446,8 +445,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Selenskyj',en,Ukraine,#e818e8,#e818e8,1,0.1233248047386064
 'Kyrill',en,Ukraine,#e818e8,#e818e8,1,0.122334297055787
 'Steffen Große',en,Deutschland,#1818e8,#1818e8,1,0.12222690613538
+'Andreas Baum',en,Deutschland,#1818e8,#1818e8,1,0.12196672283151891
 'Jitzchak Herzog',en,Israel,#111111,#111111,1,0.121758564796411
-'Steffi Lemke',en,Deutschland,#1818e8,#1818e8,1,0.12152486871361419
+'Steffi Lemke',en,Deutschland,#1818e8,#1818e8,1,0.1215248687136141
 'Klaus Hasselmann',en,Deutschland,#1818e8,#1818e8,1,0.121215907651484
 'Wolodimir Selenski',en,Ukraine,#e818e8,#e818e8,1,0.1202091951209825
 'Winfried Kretschmann',en,Deutschland,#1818e8,#1818e8,1,0.1198495487826529
