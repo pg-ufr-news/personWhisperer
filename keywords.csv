@@ -195,7 +195,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Scott Morrison',en,Australien,#111111,#111111,3,0.3621097901615712
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,2,0.3618050555
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.3615500554999999
-'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.36124999999999996
+'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Boris Johnson',en,UK,#e838e8,#e838e8,3,0.3574162960158356
 'Andrew Tate',en,USA,#18e8e8,#18e8e8,2,0.35428939175
@@ -341,7 +341,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Forrest',en,Australien,#111111,#111111,2,0.1780635727259072
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.176683916934702
 'Aleksandar Vucic',en,Serbien,#111111,#111111,3,0.176083558030118
-'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.174745784838585
 'Christine Lagarde',en,EU,#111111,#111111,3,0.174478726466027
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1743094532801115
 'Alice Weidel',en,Deutschland,#1818e8,#1818e8,1,0.173002564932806
@@ -375,6 +374,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,1,0.1491243828765442
 'Julian Assange',en,Australien,#111111,#111111,2,0.149083180581724
 'Sundar Pichai',en,USA,#18e8e8,#18e8e8,2,0.148799828047942
+'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.14868393211279723
 'Fidel Castro',en,Kuba,#111111,#111111,1,0.148244122139483
 'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.1471448835210937
 'Selenski',en,Ukraine,#e818e8,#e818e8,1,0.1460265211134415
