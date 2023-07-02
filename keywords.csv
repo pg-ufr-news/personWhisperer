@@ -26,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.4565228139125148
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,3,0.4558644334545453
 'Chris Christie',en,USA,#18e8e8,#18e8e8,3,0.4557238687367044
-'Robert Sesselmann',en,Deutschland,#1818e8,#1818e8,2,0.4539233872727272
 'Alvin Bragg',en,USA,#18e8e8,#18e8e8,3,0.45343063495198
 'Recep Tayyip Erdogan',en,Türkei,#111111,#111111,3,0.452713196278352
 'Jeffrey Donaldson',en,Irland,#111111,#111111,2,0.452679222727273
@@ -95,6 +94,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karl Jenkins',en,UK,#e838e8,#e838e8,2,0.4201344425
 'Kemal Kılıçdaroğlu',en,Türkei,#111111,#111111,3,0.4195295045459323
 'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.418700222
+'Robert Sesselmann',en,Deutschland,#1818e8,#1818e8,2,0.4180583264545453
 'Lachlan Murdoch',en,UK,#e838e8,#e838e8,3,0.4178485433447188
 'Winston Churchill',en,UK,#e838e8,#e838e8,3,0.4175104403668492
 'Pete Davidson',en,USA,#18e8e8,#18e8e8,3,0.417365238277812
@@ -194,7 +194,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Scott Morrison',en,Australien,#111111,#111111,3,0.3621097901615712
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,2,0.3618050555
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.3615500554999999
-'König Felipe VI',en,Spanien,#111111,#111111,1,0.36124999999999996
+'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Boris Johnson',en,UK,#e838e8,#e838e8,3,0.3574162960158356
