@@ -32,7 +32,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jordan Neely',en,USA,#18e8e8,#18e8e8,2,0.4518220526275976
 'Camille Etienne',en,Frankreich,#e8e808,#e8e808,2,0.4515344955263157
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.450265575142063
-'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,3,0.4501180033593748
 'Jeanne du Barry',en,Frankreich,#e8e808,#e8e808,3,0.4497029971769318
 'Lionel Messi',en,Argentinien,#111111,#111111,3,0.448695999711364
 'Billy Graham',en,USA,#18e8e8,#18e8e8,3,0.448631943568182
@@ -50,6 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Herschel Walker',en,USA,#18e8e8,#18e8e8,3,0.443129257248409
 'Oprah Winfrey',en,USA,#18e8e8,#18e8e8,3,0.442874519336798
 'James Cameron',en,USA,#18e8e8,#18e8e8,3,0.4425463477556817
+'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,3,0.4420976174009231
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,3,0.4419658429198095
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.440621003577534
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.4404046227253669
