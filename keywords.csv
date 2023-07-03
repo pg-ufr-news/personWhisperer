@@ -208,7 +208,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles III',en,UK,#e838e8,#e838e8,3,0.327601171231922
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027019743
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
-'Tim Müller',en,Deutschland,#1818e8,#1818e8,1,0.3087138951124999
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
@@ -234,6 +233,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jens Stoltenberg',en,Norwegen,#e818e8,#e818e8,3,0.267339068916897
 'David Malpass',en,USA,#18e8e8,#18e8e8,3,0.2662653274494
 'Hun Sen',en,Kambodscha,#111111,#111111,3,0.265928065094144
+'Tim Müller',en,Deutschland,#1818e8,#1818e8,1,0.2636069308456249
 'Olivier Marleix',en,Frankreich,#e8e808,#e8e808,1,0.26331866179625
 'Thomas Bayes',en,UK,#e838e8,#e838e8,1,0.2629743589474999
 'Yannick Morez',en,Frankreich,#e8e808,#e8e808,1,0.2625813933424999
@@ -255,7 +255,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christine Lambrecht',en,Deutschland,#1818e8,#1818e8,1,0.249283962031489
 'Steven Milloy',en,USA,#18e8e8,#18e8e8,1,0.248178230154469
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.247096386627747
-'Cyril Ramaphosa',en,Südafrika,#111111,#111111,3,0.24597862463999126
+'Cyril Ramaphosa',en,Südafrika,#111111,#111111,3,0.2459786246399912
 'Katja Krasavice',en,Deutschland,#1818e8,#1818e8,1,0.244130065497062
 'Tamim Hamad Thani',en,Katar,#111111,#111111,3,0.243702483793426
 'Richard Ferrand',en,Frankreich,#e8e808,#e8e808,1,0.2432848168928749
