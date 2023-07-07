@@ -76,9 +76,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mohammed Bin Salman',en,SaudiArabien,#111111,#111111,3,0.4281529642170454
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.427924836970838
 'Michael Walzer',en,USA,#18e8e8,#18e8e8,1,0.4252550555
+'König Felipe VI',en,Spanien,#111111,#111111,1,0.425
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.425
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.425
-'König Felipe VI',en,Spanien,#111111,#111111,1,0.425
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.424818249159091
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.424710729247727
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,3,0.4244367217363634
@@ -200,7 +200,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,2,0.3601819436335849
 'Boris Johnson',en,UK,#e838e8,#e838e8,3,0.3574162960158356
-'Karl Jenkins',en,UK,#e838e8,#e838e8,1,0.35711444112499996
+'Karl Jenkins',en,UK,#e838e8,#e838e8,1,0.3571144411249999
 'Andrew Tate',en,USA,#18e8e8,#18e8e8,2,0.35428939175
 'Olaf Scholz',en,Deutschland,#1818e8,#1818e8,3,0.353801249417119
 'Helmut Kohl',en,Deutschland,#1818e8,#1818e8,1,0.3511438589262379
@@ -409,7 +409,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katarina Barley',en,EU,#111111,#111111,1,0.1342285656625094
 'Alice Schwarzer',en,Deutschland,#1818e8,#1818e8,2,0.1341548775346454
 'Patrick Pouyanné',en,Frankreich,#e8e808,#e8e808,1,0.133992937205804
-'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.1330978979226244
 'Lukaschenko',en,Belarus,#e81858,#e81858,2,0.13285618797614
 'Stefan Rahmstorf',en,Deutschland,#1818e8,#1818e8,1,0.13283693334544
 'Schellnhuber',en,Deutschland,#1818e8,#1818e8,1,0.132722900873717
@@ -458,6 +457,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.1171652815017715
 'Michael Kretschmer',en,Deutschland,#1818e8,#1818e8,1,0.116524999003359
 'Alberto Ángel Fernández',en,Argentinien,#111111,#111111,1,0.115556980050688
+'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.11508340823423073
 'Ulf Poschardt',en,Deutschland,#1818e8,#1818e8,1,0.1145750128078282
 'Frank Bainimarama',en,Fidschi,#111111,#111111,1,0.113346782585109
 'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.111957626138911
