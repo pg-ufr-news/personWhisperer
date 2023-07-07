@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'King Charles III',en,UK,#e838e8,#e838e8,3,0.557588973755687
+'King Charles III',en,UK,#e838e8,#e838e8,3,0.538011441783243
 'Patti LaBelle',en,USA,#18e8e8,#18e8e8,2,0.489043204090909
 'Akshata Murty',en,Indien,#111111,#111111,3,0.4812860957703039
 'Pedro Sánchez',en,Spanien,#111111,#111111,3,0.479953015
@@ -76,9 +76,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mohammed Bin Salman',en,SaudiArabien,#111111,#111111,3,0.4281529642170454
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.427924836970838
 'Michael Walzer',en,USA,#18e8e8,#18e8e8,1,0.4252550555
+'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.425
 'König Felipe VI',en,Spanien,#111111,#111111,1,0.425
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.425
-'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.425
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.424818249159091
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.424710729247727
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,3,0.4244367217363634
@@ -171,7 +171,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Louis',en,UK,#e838e8,#e838e8,3,0.384201885729489
 'Oisin Fanning',en,Irland,#111111,#111111,1,0.38350041625
 'Jimmy Carter',en,USA,#18e8e8,#18e8e8,3,0.3832220366334228
-'Lachlan Murdoch',en,UK,#e838e8,#e838e8,3,0.38284968957028376
+'Lachlan Murdoch',en,UK,#e838e8,#e838e8,3,0.3828496895702837
 'Rupert Murdoch',en,USA,#18e8e8,#18e8e8,3,0.382575571093362
 'Cem Özdemir',en,Deutschland,#1818e8,#1818e8,2,0.3821570549642853
 'Lula da Silva',en,Brasilien,#58e838,#58e848,3,0.3817727007780224
