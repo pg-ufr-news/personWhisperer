@@ -76,9 +76,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mohammed Bin Salman',en,SaudiArabien,#111111,#111111,3,0.4281529642170454
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.427924836970838
 'Michael Walzer',en,USA,#18e8e8,#18e8e8,1,0.4252550555
+'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.425
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.425
 'König Felipe VI',en,Spanien,#111111,#111111,1,0.425
-'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.425
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.424818249159091
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.424710729247727
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,3,0.4244367217363634
@@ -150,7 +150,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Napoleon Bonaparte',en,Frankreich,#e8e808,#e8e808,3,0.3946983927847404
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.394226217909091
 'John Rawls',en,USA,#18e8e8,#18e8e8,2,0.3940639599285711
-'Bruno Le Maire',en,Frankreich,#e8e808,#e8e808,3,0.39347168318978404
+'Bruno Le Maire',en,Frankreich,#e8e808,#e8e808,3,0.393471683189784
 'Geoffrey Hinton',en,UK,#e838e8,#e838e8,3,0.3933352143676561
 'Michelle O\'Neill',en,Irland,#111111,#111111,3,0.3932782908448278
 'Leonardo DiCaprio',en,USA,#18e8e8,#18e8e8,3,0.3932127394749063
@@ -423,7 +423,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Susanne Klatten',en,Deutschland,#1818e8,#1818e8,1,0.129544290716574
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.129458180778799
 'Alexei Nawalny',en,Russland,#e81818,#e81818,1,0.129347072944707
-'Wolfgang Schäuble',en,Deutschland,#1818e8,#1818e8,1,0.1292140245106099
 'Generalbundesanwalt Peter Frank',en,Deutschland,#1818e8,#1818e8,1,0.1291102183302861
 'König Charles III',en,UK,#e838e8,#e838e8,1,0.1287384282265033
 'Jürgen Grässlin',en,Deutschland,#1818e8,#1818e8,1,0.1278282964372896
@@ -463,6 +462,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.111957626138911
 'Larry Page',en,USA,#18e8e8,#18e8e8,2,0.1119222942196051
 'Paul Ronzheimer',en,Deutschland,#1818e8,#1818e8,1,0.111028842616365
+'Wolfgang Schäuble',en,Deutschland,#1818e8,#1818e8,1,0.10998193583401841
 'Benjamin Netanjahu',en,Israel,#111111,#111111,1,0.1084347203837064
 'Veronika Grimm',en,Deutschland,#1818e8,#1818e8,1,0.1080870857369795
 'Tamim bin Hamad Al-Thani',en,Katar,#111111,#111111,2,0.107216081078123
