@@ -76,9 +76,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mohammed Bin Salman',en,SaudiArabien,#111111,#111111,3,0.4281529642170454
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.427924836970838
 'Michael Walzer',en,USA,#18e8e8,#18e8e8,1,0.4252550555
+'König Felipe VI',en,Spanien,#111111,#111111,1,0.425
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.425
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.425
-'König Felipe VI',en,Spanien,#111111,#111111,1,0.425
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.424818249159091
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.424710729247727
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,3,0.4244367217363634
@@ -456,7 +456,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.1171652815017715
 'Michael Kretschmer',en,Deutschland,#1818e8,#1818e8,1,0.116524999003359
 'Alberto Ángel Fernández',en,Argentinien,#111111,#111111,1,0.115556980050688
-'Ulf Poschardt',en,Deutschland,#1818e8,#1818e8,1,0.1145750128078282
 'Frank Bainimarama',en,Fidschi,#111111,#111111,1,0.113346782585109
 'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.111957626138911
 'Larry Page',en,USA,#18e8e8,#18e8e8,2,0.1119222942196051
@@ -470,8 +469,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heinrich XIII. Prinz Reuß',en,Deutschland,#1818e8,#1818e8,1,0.102973299662835
 'Yanis Varoufakis',en,Griechenland,#1858e8,#1858e8,1,0.102105240474468
 'Ayatollah Ali Chamenei',en,Iran,#111111,#111111,1,0.100398524460988
-'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.09977109199909609
+'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.099771091999096
 'Erik Marquardt',en,EU,#111111,#111111,1,0.0982724945986338
+'Ulf Poschardt',en,Deutschland,#1818e8,#1818e8,1,0.09753877588665397
 'Amin Nasser',en,SaudiArabien,#111111,#111111,1,0.09727380071405
 'Miriam Adelson',en,USA,#18e8e8,#18e8e8,2,0.094575918383561
 'Dimitry Peskov',en,Russland,#e81818,#e81818,1,0.089436513672263
