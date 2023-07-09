@@ -76,9 +76,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mohammed Bin Salman',en,SaudiArabien,#111111,#111111,3,0.4281529642170454
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.427924836970838
 'Michael Walzer',en,USA,#18e8e8,#18e8e8,1,0.4252550555
+'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.425
 'König Felipe VI',en,Spanien,#111111,#111111,1,0.425
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.425
-'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.425
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.424818249159091
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.424710729247727
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,3,0.4244367217363634
@@ -297,7 +297,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mukesh Ambani',en,Indien,#111111,#111111,2,0.207879378084222
 'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.20743223359375
 'Rafael Grossi',en,UN,#e888e8,#e888e8,3,0.206302208699169
-'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,1,0.2056606906139625
 'Jack Ma',en,China,#e88818,#e88818,3,0.2056546227271782
 'Ola Källenius',en,Deutschland,#1818e8,#1818e8,1,0.204498505730197
 'Dieter Bohlen',en,Deutschland,#1818e8,#1818e8,1,0.2041915324569236
@@ -342,6 +341,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Forrest',en,Australien,#111111,#111111,2,0.1780635727259072
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.176683916934702
 'Aleksandar Vucic',en,Serbien,#111111,#111111,3,0.176083558030118
+'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,1,0.1748115870218681
 'Christine Lagarde',en,EU,#111111,#111111,3,0.174478726466027
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1743094532801115
 'Alice Weidel',en,Deutschland,#1818e8,#1818e8,1,0.173002564932806
@@ -471,7 +471,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ayatollah Ali Chamenei',en,Iran,#111111,#111111,1,0.100398524460988
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.099771091999096
 'Erik Marquardt',en,EU,#111111,#111111,1,0.0982724945986338
-'Ulf Poschardt',en,Deutschland,#1818e8,#1818e8,1,0.09753877588665397
+'Ulf Poschardt',en,Deutschland,#1818e8,#1818e8,1,0.0975387758866539
 'Amin Nasser',en,SaudiArabien,#111111,#111111,1,0.09727380071405
 'Miriam Adelson',en,USA,#18e8e8,#18e8e8,2,0.094575918383561
 'Dimitry Peskov',en,Russland,#e81818,#e81818,1,0.089436513672263
