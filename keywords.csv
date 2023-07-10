@@ -76,9 +76,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mohammed Bin Salman',en,SaudiArabien,#111111,#111111,3,0.4281529642170454
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.427924836970838
 'Michael Walzer',en,USA,#18e8e8,#18e8e8,1,0.4252550555
+'König Felipe VI',en,Spanien,#111111,#111111,1,0.425
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.425
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.425
-'König Felipe VI',en,Spanien,#111111,#111111,1,0.425
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.424818249159091
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.424710729247727
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,3,0.4244367217363634
@@ -436,7 +436,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.1250731509929299
 'Pope Benedikt XVI',en,Vatikan,#58b8e8,#58b8e8,1,0.1245294384437421
 'Badri Hosseini Chamenei',en,Iran,#111111,#111111,1,0.1244766197819587
-'Patrick Pouyanné',en,Frankreich,#e8e808,#e8e808,2,0.12418716876779054
+'Patrick Pouyanné',en,Frankreich,#e8e808,#e8e808,2,0.1241871687677905
 'Franziska Giffey',en,Deutschland,#1818e8,#1818e8,1,0.1238125786207335
 'Hans Joachim Schellnhuber',en,Deutschland,#1818e8,#1818e8,2,0.123692573061033
 'Macky Sall',en,Senegal,#111111,#111111,1,0.123426671058894
@@ -485,7 +485,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bartholomäus',en,Türkei,#111111,#111111,1,0.0518042409271966
 'Michael Kahle',en,Deutschland,#1818e8,#1818e8,1,0.051568423150856
 'Ethan Bradley',en,USA,#18e8e8,#18e8e8,2,0.0508912293418
-'Amin H. Nasser',en,SaudiArabien,#111111,#111111,1,0.04705584515116
 'Francoise Bettencourt-Meyers',en,Frankreich,#e8e808,#e8e808,1,0.046409529334723
 'Chan Santokhi',en,Surinam,#111111,#111111,1,0.046308845279945
 'Helge Lund',en,UK,#e838e8,#e838e8,1,0.045599448334723
@@ -499,6 +498,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Wirth',en,USA,#18e8e8,#18e8e8,1,0.042139457237594
 'Ilham Aliyev',en,Aserbaidschan,#111111,#111111,1,0.041137237977216
 'Sucharit Bhakdi',en,Deutschland,#1818e8,#1818e8,1,0.040754003768274
+'Amin H. Nasser',en,SaudiArabien,#111111,#111111,1,0.040747543378486004
 'Jacqueline Mars',en,USA,#18e8e8,#18e8e8,1,0.039231328259514
 'Charles Holliday',en,USA,#18e8e8,#18e8e8,1,0.039132103604239
 'Choe Ryong-hae',en,NordKorea,#e85858,#e85858,1,0.0389095460845145
