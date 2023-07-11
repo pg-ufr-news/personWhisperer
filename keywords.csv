@@ -29,7 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,3,0.4558644334545453
 'Chris Christie',en,USA,#18e8e8,#18e8e8,3,0.4557238687367044
 'Recep Tayyip Erdogan',en,Türkei,#111111,#111111,3,0.452713196278352
-'Jeffrey Donaldson',en,Irland,#111111,#111111,2,0.452679222727273
 'Jordan Neely',en,USA,#18e8e8,#18e8e8,2,0.4518220526275976
 'Camille Etienne',en,Frankreich,#e8e808,#e8e808,2,0.4515344955263157
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.450265575142063
@@ -76,6 +75,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karim Benzema',en,Frankreich,#e8e808,#e8e808,3,0.4292944381136364
 'Mohammed Bin Salman',en,SaudiArabien,#111111,#111111,3,0.4281529642170454
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.427924836970838
+'Jeffrey Donaldson',en,Irland,#111111,#111111,2,0.4260917406818184
 'Michael Walzer',en,USA,#18e8e8,#18e8e8,1,0.4252550555
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.425
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.425
