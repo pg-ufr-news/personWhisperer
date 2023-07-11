@@ -14,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lindsey Graham',en,USA,#18e8e8,#18e8e8,3,0.4702019690227274
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.468089648636364
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.466893276818182
+'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.4667505968803862
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.466586652522727
 'Amber Heard',en,USA,#18e8e8,#18e8e8,3,0.4663201463636363
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4662441053875
@@ -76,9 +77,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mohammed Bin Salman',en,SaudiArabien,#111111,#111111,3,0.4281529642170454
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.427924836970838
 'Michael Walzer',en,USA,#18e8e8,#18e8e8,1,0.4252550555
-'König Felipe VI',en,Spanien,#111111,#111111,1,0.425
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.425
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.425
+'König Felipe VI',en,Spanien,#111111,#111111,1,0.425
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.424818249159091
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.424710729247727
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,3,0.4244367217363634
@@ -99,7 +100,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hamish Harding',en,UK,#e838e8,#e838e8,3,0.4163525849090908
 'Chip Somodevilla',en,USA,#18e8e8,#18e8e8,3,0.4156416179772729
 'Jack Teixeira',en,USA,#18e8e8,#18e8e8,3,0.414888936352738
-'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.4148629091640907
 'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,2,0.41306878
 'Stephen Hawking',en,UK,#e838e8,#e838e8,3,0.4124868845994316
 'Ted Cruz',en,USA,#18e8e8,#18e8e8,2,0.411995574559091
