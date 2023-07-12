@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Wozniak',en,USA,#18e8e8,#18e8e8,2,0.4617710918181818
 'Silvio Berlusconi',en,Italien,#111111,#111111,3,0.4614727908318182
 'Lauren Sánchez',en,USA,#18e8e8,#18e8e8,3,0.458268477909091
-'Prince Charles',en,UK,#e838e8,#e838e8,2,0.457303592272727
+'Prince Charles',en,UK,#e838e8,#e838e8,3,0.45732008206818153
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.4565228139125148
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,3,0.4558644334545453
 'Chris Christie',en,USA,#18e8e8,#18e8e8,3,0.4557238687367044
@@ -466,7 +466,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Herman Gref',en,Russland,#e81818,#e81818,1,0.10523043450444
 'Jochen Thewes',en,Deutschland,#1818e8,#1818e8,1,0.103044076814963
 'Heinrich XIII. Prinz Reuß',en,Deutschland,#1818e8,#1818e8,1,0.102973299662835
-'Wolodimir Selenski',en,Ukraine,#e818e8,#e818e8,1,0.10217781585283513
+'Wolodimir Selenski',en,Ukraine,#e818e8,#e818e8,1,0.1021778158528351
 'Yanis Varoufakis',en,Griechenland,#1858e8,#1858e8,1,0.102105240474468
 'Ayatollah Ali Chamenei',en,Iran,#111111,#111111,1,0.100398524460988
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.099771091999096
