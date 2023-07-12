@@ -77,7 +77,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.427924836970838
 'Jeffrey Donaldson',en,Irland,#111111,#111111,2,0.4260917406818184
 'Michael Walzer',en,USA,#18e8e8,#18e8e8,1,0.4252550555
-'König Felipe VI',en,Spanien,#111111,#111111,1,0.425
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.425
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.425
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.424818249159091
@@ -194,6 +193,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Scott Morrison',en,Australien,#111111,#111111,3,0.3621097901615712
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,2,0.3618050555
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.3615500554999999
+'König Felipe VI',en,Spanien,#111111,#111111,1,0.36124999999999996
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,2,0.3601819436335849
@@ -246,7 +246,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.261003125
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,1,0.261003125
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.2610031249999999
-'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.25721949547435935
+'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.2572194954743593
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,2,0.257086102712395
 'Joseph Ratzinger',en,Vatikan,#58b8e8,#58b8e8,2,0.2549035397476998
 'Jeff Bezos',en,USA,#18e8e8,#18e8e8,3,0.2541353805609927
