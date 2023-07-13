@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patti LaBelle',en,USA,#18e8e8,#18e8e8,2,0.489043204090909
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4814379049266383
 'Akshata Murty',en,Indien,#111111,#111111,3,0.4812860957703039
-'Pedro Sánchez',en,Spanien,#111111,#111111,3,0.479953015
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4791033619764997
 'Berkshire Hathaway',en,USA,#18e8e8,#18e8e8,3,0.4771478209987273
 'Tim Scott',en,USA,#18e8e8,#18e8e8,3,0.4759317107045454
@@ -42,6 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Milo Yiannopoulos',en,UK,#e838e8,#e838e8,3,0.447519873811394
 'Matt Damon',en,USA,#18e8e8,#18e8e8,3,0.4470182567045452
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.445776591606818
+'Pedro Sánchez',en,Spanien,#111111,#111111,3,0.44473121456818177
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.4443348572267818
 'Robert De Niro',en,USA,#18e8e8,#18e8e8,2,0.4436357324193181
 'Raphael Warnock',en,USA,#18e8e8,#18e8e8,2,0.443588088636364
@@ -193,7 +193,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Scott Morrison',en,Australien,#111111,#111111,3,0.3621097901615712
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,2,0.3618050555
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.3615500554999999
-'König Felipe VI',en,Spanien,#111111,#111111,1,0.36124999999999996
+'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,2,0.3601819436335849
