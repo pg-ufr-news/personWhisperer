@@ -20,7 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Millie Mackintosh',en,UK,#e838e8,#e838e8,2,0.465723447272727
 'Leon Botstein',en,USA,#18e8e8,#18e8e8,2,0.4635214327419354
 'George Floyd',en,USA,#18e8e8,#18e8e8,3,0.4631799932272725
-'Steve Wozniak',en,USA,#18e8e8,#18e8e8,2,0.4617710918181818
 'Silvio Berlusconi',en,Italien,#111111,#111111,3,0.4614727908318182
 'Lauren Sánchez',en,USA,#18e8e8,#18e8e8,3,0.458268477909091
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.4573200820681815
@@ -95,6 +94,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winston Churchill',en,UK,#e838e8,#e838e8,3,0.4175104403668492
 'Pete Davidson',en,USA,#18e8e8,#18e8e8,3,0.417365238277812
 'Chip Somodevilla',en,USA,#18e8e8,#18e8e8,3,0.4156416179772729
+'Steve Wozniak',en,USA,#18e8e8,#18e8e8,2,0.4156387612272727
 'Jack Teixeira',en,USA,#18e8e8,#18e8e8,3,0.414888936352738
 'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,2,0.41306878
 'Stephen Hawking',en,UK,#e838e8,#e838e8,3,0.4124868845994316
@@ -202,7 +202,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karl Jenkins',en,UK,#e838e8,#e838e8,1,0.3571144411249999
 'Andrew Tate',en,USA,#18e8e8,#18e8e8,2,0.35428939175
 'Olaf Scholz',en,Deutschland,#1818e8,#1818e8,3,0.353801249417119
-'Alfred Nobel',en,Schweden,#111111,#111111,3,0.35253667046480697
+'Alfred Nobel',en,Schweden,#111111,#111111,3,0.3525366704648069
 'Helmut Kohl',en,Deutschland,#1818e8,#1818e8,1,0.3511438589262379
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.350494259980586
 'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,1,0.346271344390909
