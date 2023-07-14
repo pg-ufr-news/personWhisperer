@@ -154,7 +154,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lionel Richie',en,USA,#18e8e8,#18e8e8,3,0.3927705735558462
 'Hunter Biden',en,USA,#18e8e8,#18e8e8,3,0.3918777428636363
 'George Bush',en,USA,#18e8e8,#18e8e8,3,0.391088631845454
-'Alfred Nobel',en,Schweden,#111111,#111111,2,0.389797756655429
 'Cristiano Ronaldo',en,Portugal,#111111,#111111,2,0.389749823568182
 'George Washington',en,USA,#18e8e8,#18e8e8,3,0.3880506678617044
 'Albert Einstein',en,Deutschland,#1818e8,#1818e8,3,0.3878609189136361
@@ -203,6 +202,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karl Jenkins',en,UK,#e838e8,#e838e8,1,0.3571144411249999
 'Andrew Tate',en,USA,#18e8e8,#18e8e8,2,0.35428939175
 'Olaf Scholz',en,Deutschland,#1818e8,#1818e8,3,0.353801249417119
+'Alfred Nobel',en,Schweden,#111111,#111111,3,0.35253667046480697
 'Helmut Kohl',en,Deutschland,#1818e8,#1818e8,1,0.3511438589262379
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.350494259980586
 'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,1,0.346271344390909
@@ -254,7 +254,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,1,0.2500899614943856
 'Christine Lambrecht',en,Deutschland,#1818e8,#1818e8,1,0.249283962031489
 'Steven Milloy',en,USA,#18e8e8,#18e8e8,1,0.248178230154469
-'Immanuel Kant',en,Deutschland,#1818e8,#1818e8,2,0.24677176318508848
+'Immanuel Kant',en,Deutschland,#1818e8,#1818e8,2,0.2467717631850884
 'Cyril Ramaphosa',en,Südafrika,#111111,#111111,3,0.2459786246399912
 'Katja Krasavice',en,Deutschland,#1818e8,#1818e8,1,0.244130065497062
 'Tamim Hamad Thani',en,Katar,#111111,#111111,3,0.243702483793426
