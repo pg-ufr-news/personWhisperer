@@ -1,27 +1,27 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Geert Wilders',en,Niederlande,#111111,#111111,3,0.52375902625
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.5076472781345702
-'Jesse Watters',en,USA,#18e8e8,#18e8e8,2,0.5
 'Jack Smith',en,USA,#18e8e8,#18e8e8,2,0.5
+'Alexander De Croo',en,Belgien,#111111,#111111,2,0.5
+'Jesse Watters',en,USA,#18e8e8,#18e8e8,2,0.5
 'Kim Yo Jong',en,NordKorea,#111111,#111111,2,0.5
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,2,0.5
 'Gilbert Plass',en,Kanada,#111111,#111111,2,0.5
 'Sergio Mattarella',en,Italien,#111111,#111111,2,0.5
-'Matteo Salvini',en,Italien,#111111,#111111,2,0.5
 'Reinhard Marx',en,Deutschland,#1818e8,#1818e8,2,0.5
-'Bettina Stark-Watzinger',en,Deutschland,#1818e8,#1818e8,2,0.5
+'Matteo Salvini',en,Italien,#111111,#111111,2,0.5
 'Leandro De Niro Rodriguez',en,USA,#18e8e8,#18e8e8,2,0.5
 'Sultan al-Jaber',en,VAE,#111111,#111111,2,0.5
 'Moon Hyung-jin',en,USA,#18e8e8,#18e8e8,2,0.5
 'Drena De Niro',en,USA,#18e8e8,#18e8e8,2,0.5
 'Sergej Surowikin',en,Russland,#e81818,#e81818,2,0.5
-'Alexander De Croo',en,Belgien,#111111,#111111,2,0.5
 'Sergei Surovikin',en,Russland,#e81818,#e81818,2,0.5
+'Bettina Stark-Watzinger',en,Deutschland,#1818e8,#1818e8,2,0.5
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.4930305464885433
 'Patti LaBelle',en,USA,#18e8e8,#18e8e8,2,0.489043204090909
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4814379049266383
 'Akshata Murty',en,Indien,#111111,#111111,3,0.4812860957703039
 'Chelsea Handler',en,USA,#18e8e8,#18e8e8,2,0.47995123
+'Geert Wilders',en,Niederlande,#111111,#111111,3,0.47741872458522727
 'Berkshire Hathaway',en,USA,#18e8e8,#18e8e8,3,0.4771478209987273
 'Tim Scott',en,USA,#18e8e8,#18e8e8,3,0.4759317107045454
 'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,3,0.4737095416748864
@@ -39,7 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leon Botstein',en,USA,#18e8e8,#18e8e8,2,0.4635214327419354
 'George Floyd',en,USA,#18e8e8,#18e8e8,3,0.4631799932272725
 'Silvio Berlusconi',en,Italien,#111111,#111111,3,0.4614727908318182
-'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.46086267643923734
+'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.4608626764392373
 'Lauren Sánchez',en,USA,#18e8e8,#18e8e8,3,0.458268477909091
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.4573200820681815
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.4565228139125148
