@@ -1,26 +1,25 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.5209387799522269
-'Leandro De Niro Rodriguez',en,USA,#18e8e8,#18e8e8,2,0.5
-'Bettina Stark-Watzinger',en,Deutschland,#1818e8,#1818e8,2,0.5
-'Sultan al-Jaber',en,VAE,#111111,#111111,2,0.5
-'Sergei Surovikin',en,Russland,#e81818,#e81818,2,0.5
-'Sergej Surowikin',en,Russland,#e81818,#e81818,2,0.5
-'Drena De Niro',en,USA,#18e8e8,#18e8e8,2,0.5
-'Alexander De Croo',en,Belgien,#111111,#111111,2,0.5
-'Jack Smith',en,USA,#18e8e8,#18e8e8,2,0.5
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,2,0.5
-'Reinhard Marx',en,Deutschland,#1818e8,#1818e8,2,0.5
-'Sergio Mattarella',en,Italien,#111111,#111111,2,0.5
-'Gilbert Plass',en,Kanada,#111111,#111111,2,0.5
-'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,2,0.5
+'Leandro De Niro Rodriguez',en,USA,#18e8e8,#18e8e8,2,0.5
 'Kim Yo Jong',en,NordKorea,#111111,#111111,2,0.5
+'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,2,0.5
+'Gilbert Plass',en,Kanada,#111111,#111111,2,0.5
+'Sergio Mattarella',en,Italien,#111111,#111111,2,0.5
+'Reinhard Marx',en,Deutschland,#1818e8,#1818e8,2,0.5
 'Matteo Salvini',en,Italien,#111111,#111111,2,0.5
+'Jack Smith',en,USA,#18e8e8,#18e8e8,2,0.5
+'Alexander De Croo',en,Belgien,#111111,#111111,2,0.5
+'Drena De Niro',en,USA,#18e8e8,#18e8e8,2,0.5
+'Sergej Surowikin',en,Russland,#e81818,#e81818,2,0.5
+'Sergei Surovikin',en,Russland,#e81818,#e81818,2,0.5
+'Sultan al-Jaber',en,VAE,#111111,#111111,2,0.5
+'Bettina Stark-Watzinger',en,Deutschland,#1818e8,#1818e8,2,0.5
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.4930305464885433
 'Patti LaBelle',en,USA,#18e8e8,#18e8e8,2,0.489043204090909
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4814379049266383
 'Akshata Murty',en,Indien,#111111,#111111,3,0.4812860957703039
 'Chelsea Handler',en,USA,#18e8e8,#18e8e8,2,0.47995123
-'Geert Wilders',en,Niederlande,#111111,#111111,3,0.4774187245852272
 'Berkshire Hathaway',en,USA,#18e8e8,#18e8e8,3,0.4771478209987273
 'Tim Scott',en,USA,#18e8e8,#18e8e8,3,0.4759317107045454
 'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,3,0.4737095416748864
@@ -133,6 +132,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'William Shakespeare',en,UK,#e838e8,#e838e8,2,0.406575647129545
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.4062234467211426
 'Linda Yaccarino',en,USA,#18e8e8,#18e8e8,3,0.405806780336
+'Geert Wilders',en,Niederlande,#111111,#111111,2,0.40580675589744314
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.4056129521175
 'Martin Scorsese',en,USA,#18e8e8,#18e8e8,2,0.4045932111613636
 'Mathias Döpfner',en,Deutschland,#1818e8,#1818e8,1,0.404327780875
