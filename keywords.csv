@@ -319,7 +319,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Ma',en,China,#e88818,#e88818,3,0.2056546227271782
 'Ola Källenius',en,Deutschland,#1818e8,#1818e8,1,0.204498505730197
 'Dieter Bohlen',en,Deutschland,#1818e8,#1818e8,1,0.2041915324569236
-'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.2036607384374999
 'Mark Zuckerberg',en,USA,#18e8e8,#18e8e8,3,0.202991931793682
 'Karine Jean-Pierre',en,USA,#18e8e8,#18e8e8,3,0.199527170975639
 'Mohammed bin Salman',en,SaudiArabien,#111111,#111111,2,0.199302301329668
@@ -363,6 +362,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christine Lagarde',en,EU,#111111,#111111,3,0.174478726466027
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1743094532801115
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.173111627671875
+'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.1731116276718749
 'Alice Weidel',en,Deutschland,#1818e8,#1818e8,1,0.173002564932806
 'Robin Li',en,China,#e88818,#e88818,2,0.17239776701366
 'Patriarch Kyrill',en,Ukraine,#e818e8,#e818e8,3,0.169320826374793
