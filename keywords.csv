@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jesse Watters',en,USA,#18e8e8,#18e8e8,2,0.5
+'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.5526849977272728
 'Alexander De Croo',en,Belgien,#111111,#111111,2,0.5
 'Bettina Stark-Watzinger',en,Deutschland,#1818e8,#1818e8,2,0.5
 'Sultan al-Jaber',en,VAE,#111111,#111111,2,0.5
@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,2,0.5
 'Kim Yo Jong',en,NordKorea,#111111,#111111,2,0.5
 'Leandro De Niro Rodriguez',en,USA,#18e8e8,#18e8e8,2,0.5
-'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,3,0.49854278633274435
+'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,3,0.4985427863327443
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4977519529593929
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.4930305464885433
 'Patti LaBelle',en,USA,#18e8e8,#18e8e8,2,0.489043204090909
