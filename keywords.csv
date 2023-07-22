@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akshata Murty',en,Indien,#111111,#111111,3,0.4812860957703039
 'Chelsea Handler',en,USA,#18e8e8,#18e8e8,2,0.47995123
 'Berkshire Hathaway',en,USA,#18e8e8,#18e8e8,3,0.4771478209987273
-'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.47612191208427657
+'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.4761219120842765
 'Tim Scott',en,USA,#18e8e8,#18e8e8,3,0.4759317107045454
 'Al Pacino',en,USA,#18e8e8,#18e8e8,3,0.4730062562413238
 'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,2,0.47150015
@@ -471,6 +471,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Freund',en,EU,#111111,#111111,1,0.1165552828461984
 'Michael Kretschmer',en,Deutschland,#1818e8,#1818e8,1,0.116524999003359
 'Alberto Ángel Fernández',en,Argentinien,#111111,#111111,1,0.115556980050688
+'Valery Gerasimov',en,Russland,#e81818,#e81818,3,0.11401606329267537
 'Frank Bainimarama',en,Fidschi,#111111,#111111,1,0.113346782585109
 'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.111957626138911
 'Larry Page',en,USA,#18e8e8,#18e8e8,2,0.1119222942196051
@@ -512,7 +513,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doris König',en,Deutschland,#1818e8,#1818e8,1,0.043751487645861
 'Barbara Frenkel',en,Deutschland,#1818e8,#1818e8,1,0.04371580426675
 'Erica Chenoweth',en,USA,#18e8e8,#18e8e8,1,0.0432956213645208
-'Valery Gerasimov',en,Russland,#e81818,#e81818,1,0.042731859488709
 'Michael Wirth',en,USA,#18e8e8,#18e8e8,1,0.042139457237594
 'Ilham Aliyev',en,Aserbaidschan,#111111,#111111,1,0.041137237977216
 'Sucharit Bhakdi',en,Deutschland,#1818e8,#1818e8,1,0.040754003768274
