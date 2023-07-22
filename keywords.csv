@@ -22,6 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akshata Murty',en,Indien,#111111,#111111,3,0.4812860957703039
 'Chelsea Handler',en,USA,#18e8e8,#18e8e8,2,0.47995123
 'Berkshire Hathaway',en,USA,#18e8e8,#18e8e8,3,0.4771478209987273
+'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.47612191208427657
 'Tim Scott',en,USA,#18e8e8,#18e8e8,3,0.4759317107045454
 'Al Pacino',en,USA,#18e8e8,#18e8e8,3,0.4730062562413238
 'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,2,0.47150015
@@ -73,7 +74,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,2,0.43822569375
 'Princess Diana',en,UK,#e838e8,#e838e8,3,0.4373171806670026
 'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.4369777780549569
-'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.436651714216796
 'Sam Altman',en,USA,#18e8e8,#18e8e8,3,0.4358609930888067
 'Kemal Kiliçdaroglu',en,Türkei,#111111,#111111,1,0.4349998371071428
 'John Paul II',en,Vatikan,#58b8e8,#58b8e8,3,0.4345034645454545
