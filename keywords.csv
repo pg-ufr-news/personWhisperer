@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.5526849977272728
+'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.6111039394318182
 'Leandro De Niro Rodriguez',en,USA,#18e8e8,#18e8e8,2,0.5
 'Kim Yo Jong',en,NordKorea,#111111,#111111,2,0.5
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,2,0.5
@@ -70,7 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alvin Bragg',en,USA,#18e8e8,#18e8e8,3,0.440373884709183
 'Martin Luther King',en,USA,#18e8e8,#18e8e8,3,0.4396595972838064
 'Shahzada Dawood',en,Pakistan,#111111,#111111,2,0.4390513340909091
-'Sultan al-Jaber',en,VAE,#111111,#111111,2,0.43904311409090907
+'Sultan al-Jaber',en,VAE,#111111,#111111,2,0.439043114090909
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,2,0.43822569375
 'Princess Diana',en,UK,#e838e8,#e838e8,3,0.4373171806670026
 'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.4369777780549569
