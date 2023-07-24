@@ -72,7 +72,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shahzada Dawood',en,Pakistan,#111111,#111111,2,0.4390513340909091
 'Sultan al-Jaber',en,VAE,#111111,#111111,2,0.439043114090909
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,2,0.43822569375
-'Princess Diana',en,UK,#e838e8,#e838e8,3,0.4373171806670026
 'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.4369777780549569
 'Sam Altman',en,USA,#18e8e8,#18e8e8,3,0.4358609930888067
 'Kemal Kiliçdaroglu',en,Türkei,#111111,#111111,1,0.4349998371071428
@@ -81,6 +80,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Cohen',en,USA,#18e8e8,#18e8e8,3,0.4318025479659088
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.431481546363636
 'Cillian Murphy',en,Irland,#111111,#111111,2,0.4313534408713064
+'Princess Diana',en,UK,#e838e8,#e838e8,3,0.4312251231124068
 'Margaret Thatcher',en,UK,#e838e8,#e838e8,3,0.4307902726137496
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.43058758136357
 'Robert Sesselmann',en,Deutschland,#1818e8,#1818e8,2,0.429950825
@@ -214,7 +214,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,2,0.3601819436335849
 'Hamish Harding',en,UK,#e838e8,#e838e8,3,0.3588866121727271
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.358678357602557
-'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.35799539869999997
+'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.3579953986999999
 'Boris Johnson',en,UK,#e838e8,#e838e8,3,0.3574162960158356
 'Karl Jenkins',en,UK,#e838e8,#e838e8,1,0.3571144411249999
 'Andrew Tate',en,USA,#18e8e8,#18e8e8,2,0.35428939175
