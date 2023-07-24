@@ -80,7 +80,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Don Lemon',en,USA,#18e8e8,#18e8e8,2,0.433775099136364
 'Michael Cohen',en,USA,#18e8e8,#18e8e8,3,0.4318025479659088
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.431481546363636
-'Oprah Winfrey',en,USA,#18e8e8,#18e8e8,3,0.4313995964362783
 'Cillian Murphy',en,Irland,#111111,#111111,2,0.4313534408713064
 'Margaret Thatcher',en,UK,#e838e8,#e838e8,3,0.4307902726137496
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.43058758136357
@@ -88,6 +87,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Camilla',en,UK,#e838e8,#e838e8,3,0.429846972275
 'Mohammed Bin Salman',en,SaudiArabien,#111111,#111111,3,0.4281529642170454
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.427924836970838
+'Oprah Winfrey',en,USA,#18e8e8,#18e8e8,3,0.4261913965162911
 'Jeffrey Donaldson',en,Irland,#111111,#111111,2,0.4260917406818184
 'Moon Hyung-jin',en,USA,#18e8e8,#18e8e8,1,0.425000075
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.425
