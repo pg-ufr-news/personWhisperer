@@ -313,6 +313,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benjamin Netanyahu',en,Israel,#111111,#111111,3,0.211518893579839
 'Larry Ellison',en,USA,#18e8e8,#18e8e8,2,0.2098610389279257
 'Julian Reichelt',en,Deutschland,#1818e8,#1818e8,1,0.208929344504067
+'Charles Koch',en,USA,#18e8e8,#18e8e8,3,0.2088020656013379
 'Mukesh Ambani',en,Indien,#111111,#111111,2,0.207879378084222
 'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.20743223359375
 'Rafael Grossi',en,UN,#e888e8,#e888e8,3,0.206302208699169
@@ -332,7 +333,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tino Chrupalla',en,Deutschland,#1818e8,#1818e8,2,0.193789984578416
 'Greta Thunberg',en,Schweden,#111111,#111111,3,0.193346340414224
 'Dmitri Medwedew',en,Russland,#e81818,#e81818,1,0.19234625296875
-'Charles Koch',en,USA,#18e8e8,#18e8e8,3,0.19169576434382
 'Jair Bolsonaro',en,Brasilien,#58e838,#58e848,3,0.191220077650967
 'Andrés Manuel López Obrador',en,Mexiko,#111111,#111111,3,0.190780487341999
 'Wolfgang Kubicki',en,Deutschland,#1818e8,#1818e8,1,0.1906644489643312
