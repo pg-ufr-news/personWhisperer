@@ -231,10 +231,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070625
-'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.293322933515939
 'Olivier Marleix',en,Frankreich,#e8e808,#e8e808,1,0.2902067868125268
@@ -261,6 +260,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.261003125
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,1,0.261003125
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.2610031249999999
+'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.2572194954743593
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,2,0.257086102712395
 'Joseph Ratzinger',en,Vatikan,#58b8e8,#58b8e8,2,0.2549035397476998
