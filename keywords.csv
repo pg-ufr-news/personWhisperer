@@ -431,7 +431,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Igor Setschin',en,Russland,#e81818,#e81818,1,0.132435439497137
 'Alexander Lukaschenko',en,Belarus,#e81858,#e81858,2,0.1321991930461029
 'Andreas Jödecke',en,Deutschland,#1818e8,#1818e8,1,0.131776885743496
-'Alexej Kudrin',en,Russland,#e81818,#e81818,1,0.1316339278918661
 'Mojib Latif',en,Deutschland,#1818e8,#1818e8,1,0.1310812508367632
 'Sergej Schoigu',en,Russland,#e81818,#e81818,1,0.1306130097385245
 'Gregor Gysi',en,Deutschland,#1818e8,#1818e8,1,0.12973343735762
@@ -475,6 +474,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frank Bainimarama',en,Fidschi,#111111,#111111,1,0.113346782585109
 'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.111957626138911
 'Larry Page',en,USA,#18e8e8,#18e8e8,2,0.1119222942196051
+'Alexej Kudrin',en,Russland,#e81818,#e81818,1,0.11188883870808618
 'Paul Ronzheimer',en,Deutschland,#1818e8,#1818e8,1,0.111028842616365
 'Wolfgang Schäuble',en,Deutschland,#1818e8,#1818e8,1,0.1099819358340184
 'Benjamin Netanjahu',en,Israel,#111111,#111111,1,0.1084347203837064
