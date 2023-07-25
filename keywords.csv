@@ -98,7 +98,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gérald Darmanin',en,Frankreich,#e8e808,#e8e808,2,0.42138630425
 'Rosalynn Carter',en,USA,#18e8e8,#18e8e8,3,0.4213236669918961
 'Jack Teixeira',en,USA,#18e8e8,#18e8e8,3,0.4212442845361909
-'Chris Hipkins',en,Neuseeland,#1818e8,#1818e8,3,0.420912552545455
 'Chuck Todd',en,USA,#18e8e8,#18e8e8,3,0.4206783829772726
 'Afida Turner',en,Frankreich,#e8e808,#e8e808,1,0.42060577175
 'Prince George',en,UK,#e838e8,#e838e8,3,0.420425222227273
@@ -189,6 +188,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Penny',en,USA,#18e8e8,#18e8e8,3,0.3809876429650939
 'Queen Camilla',en,UK,#e838e8,#e838e8,3,0.3784892154027939
 'Anne Will',en,Deutschland,#1818e8,#1818e8,2,0.377750428514773
+'Chris Hipkins',en,Neuseeland,#1818e8,#1818e8,3,0.3763690683000004
 'Barbara Walters',en,USA,#18e8e8,#18e8e8,3,0.375446932172727
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.374587953775
 'Karim Benzema',en,Frankreich,#e8e808,#e8e808,3,0.3744024619420454
