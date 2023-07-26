@@ -36,7 +36,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Floyd',en,USA,#18e8e8,#18e8e8,3,0.4631799932272725
 'Silvio Berlusconi',en,Italien,#111111,#111111,3,0.4614727908318182
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.4608626764392373
-'Paul Gosar',en,USA,#18e8e8,#18e8e8,3,0.4585553648761359
 'Lauren Sánchez',en,USA,#18e8e8,#18e8e8,3,0.458268477909091
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.4573200820681815
 'Alexander De Croo',en,Belgien,#111111,#111111,2,0.4572236272727272
@@ -81,6 +80,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.431481546363636
 'Cillian Murphy',en,Irland,#111111,#111111,2,0.4313534408713064
 'Princess Diana',en,UK,#e838e8,#e838e8,3,0.4312251231124068
+'Paul Gosar',en,USA,#18e8e8,#18e8e8,3,0.4310869115083519
 'Margaret Thatcher',en,UK,#e838e8,#e838e8,3,0.4307902726137496
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.43058758136357
 'Robert Sesselmann',en,Deutschland,#1818e8,#1818e8,2,0.429950825
@@ -356,7 +356,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Xi Jinping',en,China,#e88818,#e88818,3,0.1791954916974618
 'Andrew Forrest',en,Australien,#111111,#111111,2,0.1780635727259072
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.176683916934702
-'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.17631739855468748
+'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.1763173985546874
 'Aleksandar Vucic',en,Serbien,#111111,#111111,3,0.176083558030118
 'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,1,0.1748115870218681
 'Christine Lagarde',en,EU,#111111,#111111,3,0.174478726466027
