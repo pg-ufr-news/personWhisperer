@@ -315,7 +315,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Julian Reichelt',en,Deutschland,#1818e8,#1818e8,1,0.208929344504067
 'Charles Koch',en,USA,#18e8e8,#18e8e8,3,0.2088020656013379
 'Mukesh Ambani',en,Indien,#111111,#111111,2,0.207879378084222
-'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.20743223359375
 'Rafael Grossi',en,UN,#e888e8,#e888e8,3,0.206302208699169
 'Jack Ma',en,China,#e88818,#e88818,3,0.2056546227271782
 'Ola Källenius',en,Deutschland,#1818e8,#1818e8,1,0.204498505730197
@@ -340,10 +339,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Missy Motown',en,Deutschland,#1818e8,#1818e8,1,0.1902438287301451
 'Edward Snowden',en,USA,#18e8e8,#18e8e8,1,0.189299821846266
 'Rishi Sunak',en,UK,#e838e8,#e838e8,3,0.18908344476026
+'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.1885747578125
 'Ramsan Kadyrow',en,Russland,#e81818,#e81818,1,0.1885747578125
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
-'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.1885747578125
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Maria Kolesnikowa',en,Belarus,#e81858,#e81858,1,0.186767295009577
 'Roland Busch',en,Deutschland,#1818e8,#1818e8,2,0.1856639745592681
@@ -357,6 +356,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Xi Jinping',en,China,#e88818,#e88818,3,0.1791954916974618
 'Andrew Forrest',en,Australien,#111111,#111111,2,0.1780635727259072
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.176683916934702
+'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.17631739855468748
 'Aleksandar Vucic',en,Serbien,#111111,#111111,3,0.176083558030118
 'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,1,0.1748115870218681
 'Christine Lagarde',en,EU,#111111,#111111,3,0.174478726466027
