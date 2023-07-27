@@ -91,7 +91,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jeffrey Donaldson',en,Irland,#111111,#111111,2,0.4260917406818184
 'Moon Hyung-jin',en,USA,#18e8e8,#18e8e8,1,0.425000075
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.425
-'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.424818249159091
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,3,0.4244367217363634
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.4227859538826473
 'James Cleverly',en,UK,#e838e8,#e838e8,3,0.421497860282955
@@ -168,6 +167,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Bush',en,USA,#18e8e8,#18e8e8,3,0.391088631845454
 'Billy Graham',en,USA,#18e8e8,#18e8e8,3,0.3908345415784092
 'Cristiano Ronaldo',en,Portugal,#111111,#111111,2,0.389749823568182
+'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.3887876495125001
 'George Washington',en,USA,#18e8e8,#18e8e8,3,0.3880506678617044
 'Albert Einstein',en,Deutschland,#1818e8,#1818e8,3,0.3878609189136361
 'Putin',en,Russland,#e81818,#e81818,3,0.38784510155445
