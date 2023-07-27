@@ -1,14 +1,15 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.6471239912443181
-'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,2,0.5
-'Gilbert Plass',en,Kanada,#111111,#111111,2,0.5
-'Sergio Mattarella',en,Italien,#111111,#111111,2,0.5
-'Jack Smith',en,USA,#18e8e8,#18e8e8,2,0.5
-'Drena De Niro',en,USA,#18e8e8,#18e8e8,2,0.5
+'Tiffany Chen',en,USA,#18e8e8,#18e8e8,3,0.5128798815589772
 'Sergej Surowikin',en,Russland,#e81818,#e81818,2,0.5
-'Sergei Surovikin',en,Russland,#e81818,#e81818,2,0.5
-'Matteo Salvini',en,Italien,#111111,#111111,2,0.5
 'Bettina Stark-Watzinger',en,Deutschland,#1818e8,#1818e8,2,0.5
+'Matteo Salvini',en,Italien,#111111,#111111,2,0.5
+'Sergei Surovikin',en,Russland,#e81818,#e81818,2,0.5
+'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,2,0.5
+'Drena De Niro',en,USA,#18e8e8,#18e8e8,2,0.5
+'Jack Smith',en,USA,#18e8e8,#18e8e8,2,0.5
+'Sergio Mattarella',en,Italien,#111111,#111111,2,0.5
+'Gilbert Plass',en,Kanada,#111111,#111111,2,0.5
 'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,3,0.4985427863327443
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4977519529593929
 'Leandro De Niro Rodriguez',en,USA,#18e8e8,#18e8e8,2,0.4935900986363636
@@ -61,7 +62,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Raphael Warnock',en,USA,#18e8e8,#18e8e8,2,0.443588088636364
 'Herschel Walker',en,USA,#18e8e8,#18e8e8,3,0.443129257248409
 'James Cameron',en,USA,#18e8e8,#18e8e8,3,0.4425463477556817
-'Tiffany Chen',en,USA,#18e8e8,#18e8e8,3,0.4424821291068181
 'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,3,0.4420976174009231
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,3,0.4419658429198095
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.440621003577534
