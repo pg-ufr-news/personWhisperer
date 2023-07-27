@@ -300,7 +300,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrich Reitz',en,Deutschland,#1818e8,#1818e8,1,0.2231837721875
 'Bruno Retailleau',en,Frankreich,#e8e808,#e8e808,1,0.2222815065669686
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
-'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
 'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.2218526562499999
 'Annalena Baerbock',en,Deutschland,#1818e8,#1818e8,3,0.2202487036288648
 'Gerhard Schröder',en,Deutschland,#1818e8,#1818e8,1,0.21991755341932
@@ -343,6 +342,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ramsan Kadyrow',en,Russland,#e81818,#e81818,1,0.1885747578125
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
+'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1885747578124999
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Maria Kolesnikowa',en,Belarus,#e81858,#e81858,1,0.186767295009577
 'Roland Busch',en,Deutschland,#1818e8,#1818e8,2,0.1856639745592681
