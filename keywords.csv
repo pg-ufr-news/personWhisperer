@@ -36,7 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leon Botstein',en,USA,#18e8e8,#18e8e8,2,0.4635214327419354
 'George Floyd',en,USA,#18e8e8,#18e8e8,3,0.4631799932272725
 'Silvio Berlusconi',en,Italien,#111111,#111111,3,0.4614727908318182
-'Alvin Bragg',en,USA,#18e8e8,#18e8e8,3,0.46109027382098733
+'Alvin Bragg',en,USA,#18e8e8,#18e8e8,3,0.4610902738209873
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.4608626764392373
 'Lauren Sánchez',en,USA,#18e8e8,#18e8e8,3,0.458268477909091
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.4573200820681815
@@ -59,7 +59,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.445776591606818
 'Pedro Sánchez',en,Spanien,#111111,#111111,3,0.4447312145681817
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.4443348572267818
-'Robert De Niro',en,USA,#18e8e8,#18e8e8,2,0.4436357324193181
 'Raphael Warnock',en,USA,#18e8e8,#18e8e8,2,0.443588088636364
 'Herschel Walker',en,USA,#18e8e8,#18e8e8,3,0.443129257248409
 'James Cameron',en,USA,#18e8e8,#18e8e8,3,0.4425463477556817
@@ -154,6 +153,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Noor Alfallah',en,USA,#18e8e8,#18e8e8,3,0.3963272086590908
 'Kim Jong Un',en,NordKorea,#e85858,#e85858,3,0.3962718770781857
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.395841266130685
+'Robert De Niro',en,USA,#18e8e8,#18e8e8,2,0.395685211192784
 'Napoleon Bonaparte',en,Frankreich,#e8e808,#e8e808,3,0.3946983927847404
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.394226217909091
 'John Rawls',en,USA,#18e8e8,#18e8e8,2,0.3940639599285711
