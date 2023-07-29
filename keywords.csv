@@ -57,7 +57,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Milo Yiannopoulos',en,UK,#e838e8,#e838e8,3,0.447519873811394
 'Matt Damon',en,USA,#18e8e8,#18e8e8,3,0.4470182567045452
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.445776591606818
-'Pedro Sánchez',en,Spanien,#111111,#111111,3,0.4447312145681817
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.4443348572267818
 'Raphael Warnock',en,USA,#18e8e8,#18e8e8,2,0.443588088636364
 'Herschel Walker',en,USA,#18e8e8,#18e8e8,3,0.443129257248409
@@ -100,6 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Afida Turner',en,Frankreich,#e8e808,#e8e808,1,0.42060577175
 'Prince George',en,UK,#e838e8,#e838e8,3,0.420425222227273
 'Kemal Kılıçdaroğlu',en,Türkei,#111111,#111111,3,0.4195295045459323
+'Pedro Sánchez',en,Spanien,#111111,#111111,3,0.4193411537465908
 'Elisabeth Borne',en,Frankreich,#e8e808,#e8e808,2,0.4176855305227273
 'Winston Churchill',en,UK,#e838e8,#e838e8,3,0.4175104403668492
 'Pete Davidson',en,USA,#18e8e8,#18e8e8,3,0.417365238277812
@@ -230,9 +230,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
-'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.3066963288949999
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.293322933515939
