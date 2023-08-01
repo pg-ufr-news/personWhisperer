@@ -230,9 +230,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070625
-'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.3066963288949999
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.293322933515939
@@ -298,7 +298,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andreas Jung',en,Deutschland,#1818e8,#1818e8,1,0.2239148687678749
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,3,0.223802778437948
 'Yannick Morez',en,Frankreich,#e8e808,#e8e808,1,0.2231941843411249
-'Ulrich Reitz',en,Deutschland,#1818e8,#1818e8,1,0.2231837721875
 'Bruno Retailleau',en,Frankreich,#e8e808,#e8e808,1,0.2222815065669686
 'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.2218526562499999
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
@@ -337,6 +336,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Kubicki',en,Deutschland,#1818e8,#1818e8,1,0.1906644489643312
 'Andrzej Duda',en,Polen,#111111,#111111,3,0.190417289712013
 'Missy Motown',en,Deutschland,#1818e8,#1818e8,1,0.1902438287301451
+'Ulrich Reitz',en,Deutschland,#1818e8,#1818e8,1,0.189706206359375
 'Edward Snowden',en,USA,#18e8e8,#18e8e8,1,0.189299821846266
 'Rishi Sunak',en,UK,#e838e8,#e838e8,3,0.18908344476026
 'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.1885747578125
