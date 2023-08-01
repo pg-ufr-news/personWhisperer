@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.4930305464885433
 'Reinhard Marx',en,Deutschland,#1818e8,#1818e8,1,0.48913258325
 'Patti LaBelle',en,USA,#18e8e8,#18e8e8,2,0.489043204090909
-'Sergio Mattarella',en,Italien,#111111,#111111,2,0.48904159909090905
+'Sergio Mattarella',en,Italien,#111111,#111111,2,0.489041599090909
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4814379049266383
 'Akshata Murty',en,Indien,#111111,#111111,3,0.4812860957703039
 'Berkshire Hathaway',en,USA,#18e8e8,#18e8e8,3,0.4771478209987273
@@ -184,7 +184,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lula da Silva',en,Brasilien,#58e838,#58e848,3,0.3817727007780224
 'Herbert Diess',en,Deutschland,#1818e8,#1818e8,2,0.381664652674242
 'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.3813146845066175
-'Daniel Penny',en,USA,#18e8e8,#18e8e8,3,0.3809876429650939
 'Queen Camilla',en,UK,#e838e8,#e838e8,3,0.3784892154027939
 'Anne Will',en,Deutschland,#1818e8,#1818e8,2,0.377750428514773
 'Chris Hipkins',en,Neuseeland,#1818e8,#1818e8,3,0.3763690683000004
@@ -216,6 +215,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.358678357602557
 'Boris Johnson',en,UK,#e838e8,#e838e8,3,0.3574162960158356
 'Karl Jenkins',en,UK,#e838e8,#e838e8,1,0.3571144411249999
+'Daniel Penny',en,USA,#18e8e8,#18e8e8,3,0.35606411379305714
 'Andrew Tate',en,USA,#18e8e8,#18e8e8,2,0.35428939175
 'Stockton Rush',en,USA,#18e8e8,#18e8e8,3,0.3542800823477272
 'Olaf Scholz',en,Deutschland,#1818e8,#1818e8,3,0.353801249417119
@@ -230,9 +230,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070625
-'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.3066963288949999
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.293322933515939
