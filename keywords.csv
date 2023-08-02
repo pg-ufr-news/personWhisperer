@@ -41,6 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.4565228139125148
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,3,0.4558644334545453
 'Chris Christie',en,USA,#18e8e8,#18e8e8,3,0.4557238687367044
+'Sam Altman',en,USA,#18e8e8,#18e8e8,3,0.45271870139821296
 'Recep Tayyip Erdogan',en,Türkei,#111111,#111111,3,0.452713196278352
 'Kim Yo Jong',en,NordKorea,#111111,#111111,2,0.4526801527272727
 'Jordan Neely',en,USA,#18e8e8,#18e8e8,2,0.4518220526275976
@@ -67,7 +68,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sultan al-Jaber',en,VAE,#111111,#111111,2,0.439043114090909
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,2,0.43822569375
 'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.4369777780549569
-'Sam Altman',en,USA,#18e8e8,#18e8e8,3,0.4358609930888067
 'Kemal Kiliçdaroglu',en,Türkei,#111111,#111111,1,0.4349998371071428
 'John Paul II',en,Vatikan,#58b8e8,#58b8e8,3,0.4345034645454545
 'Don Lemon',en,USA,#18e8e8,#18e8e8,2,0.433775099136364
@@ -230,9 +230,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070625
-'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.3066963288949999
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.293322933515939
