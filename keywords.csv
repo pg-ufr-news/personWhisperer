@@ -41,7 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.4565228139125148
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,3,0.4558644334545453
 'Chris Christie',en,USA,#18e8e8,#18e8e8,3,0.4557238687367044
-'Sam Altman',en,USA,#18e8e8,#18e8e8,3,0.45271870139821296
+'Sam Altman',en,USA,#18e8e8,#18e8e8,3,0.4527187013982129
 'Recep Tayyip Erdogan',en,Türkei,#111111,#111111,3,0.452713196278352
 'Kim Yo Jong',en,NordKorea,#111111,#111111,2,0.4526801527272727
 'Jordan Neely',en,USA,#18e8e8,#18e8e8,2,0.4518220526275976
@@ -82,11 +82,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Camilla',en,UK,#e838e8,#e838e8,3,0.429846972275
 'Mohammed Bin Salman',en,SaudiArabien,#111111,#111111,3,0.4281529642170454
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.427924836970838
+'Noor Alfallah',en,USA,#18e8e8,#18e8e8,3,0.4276282023602272
 'Oprah Winfrey',en,USA,#18e8e8,#18e8e8,3,0.4261913965162911
 'Jeffrey Donaldson',en,Irland,#111111,#111111,2,0.4260917406818184
-'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.425
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.425
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.425
+'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.425
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,3,0.4244367217363634
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.4227859538826473
 'James Cleverly',en,UK,#e838e8,#e838e8,3,0.421497860282955
@@ -149,7 +150,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.3975258021753974
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.396635537565398
 'Yoon Suk Yeol',en,SüdKorea,#111111,#111111,3,0.396587234843372
-'Noor Alfallah',en,USA,#18e8e8,#18e8e8,3,0.3963272086590908
 'Kim Jong Un',en,NordKorea,#e85858,#e85858,3,0.3962718770781857
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.395841266130685
 'Robert De Niro',en,USA,#18e8e8,#18e8e8,2,0.395685211192784
@@ -230,8 +230,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070625
-'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.3066963288949999
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
