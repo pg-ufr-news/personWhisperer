@@ -230,9 +230,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070625
-'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.3066963288949999
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.293322933515939
@@ -435,7 +435,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergej Schoigu',en,Russland,#e81818,#e81818,1,0.1306130097385245
 'Gregor Gysi',en,Deutschland,#1818e8,#1818e8,1,0.12973343735762
 'Bodo Ramelow',en,Deutschland,#1818e8,#1818e8,1,0.129708448503648
-'Susanne Klatten',en,Deutschland,#1818e8,#1818e8,1,0.129544290716574
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.129458180778799
 'Alexei Nawalny',en,Russland,#e81818,#e81818,1,0.129347072944707
 'Generalbundesanwalt Peter Frank',en,Deutschland,#1818e8,#1818e8,1,0.1291102183302861
@@ -476,6 +475,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry Page',en,USA,#18e8e8,#18e8e8,2,0.1119222942196051
 'Alexej Kudrin',en,Russland,#e81818,#e81818,1,0.1118888387080861
 'Paul Ronzheimer',en,Deutschland,#1818e8,#1818e8,1,0.111028842616365
+'Susanne Klatten',en,Deutschland,#1818e8,#1818e8,1,0.1104126771090879
 'Wolfgang Schäuble',en,Deutschland,#1818e8,#1818e8,1,0.1099819358340184
 'Benjamin Netanjahu',en,Israel,#111111,#111111,1,0.1084347203837064
 'Veronika Grimm',en,Deutschland,#1818e8,#1818e8,1,0.1080870857369795
