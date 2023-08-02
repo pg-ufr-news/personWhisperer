@@ -230,9 +230,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070625
-'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.3066963288949999
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.293322933515939
@@ -329,6 +329,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sundar Pichai',en,USA,#18e8e8,#18e8e8,2,0.1950709124771143
 'Tino Chrupalla',en,Deutschland,#1818e8,#1818e8,2,0.193789984578416
 'Greta Thunberg',en,Schweden,#111111,#111111,3,0.193346340414224
+'Christian Drosten',en,Deutschland,#1818e8,#1818e8,2,0.1933326418482187
 'Dmitri Medwedew',en,Russland,#e81818,#e81818,1,0.19234625296875
 'Jair Bolsonaro',en,Brasilien,#58e838,#58e848,3,0.191220077650967
 'Andrés Manuel López Obrador',en,Mexiko,#111111,#111111,3,0.190780487341999
@@ -408,7 +409,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rainer Maria Woelki',en,Deutschland,#1818e8,#1818e8,2,0.142634331011007
 'Jan Böhmermann',en,Deutschland,#1818e8,#1818e8,1,0.140989480961508
 'Frank Plasberg',en,Deutschland,#1818e8,#1818e8,1,0.1408776014451953
-'Christian Drosten',en,Deutschland,#1818e8,#1818e8,2,0.138861896292022
 'Stephan Harbarth',en,Deutschland,#1818e8,#1818e8,1,0.138699496181964
 'Faisal Kawusi',en,Deutschland,#1818e8,#1818e8,1,0.1386976772448825
 'Chez Krömer',en,Deutschland,#1818e8,#1818e8,1,0.138425186719844
