@@ -230,9 +230,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027019743
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
-'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.3066963288949999
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.293322933515939
@@ -299,7 +299,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,3,0.223802778437948
 'Yannick Morez',en,Frankreich,#e8e808,#e8e808,1,0.2231941843411249
 'Bruno Retailleau',en,Frankreich,#e8e808,#e8e808,1,0.2222815065669686
-'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.2218526562499999
 'Annalena Baerbock',en,Deutschland,#1818e8,#1818e8,3,0.2202487036288648
 'Gerhard Schröder',en,Deutschland,#1818e8,#1818e8,1,0.21991755341932
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.219827957022201
@@ -344,6 +343,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.1885747578125
+'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1885747578124999
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1885747578124999
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
