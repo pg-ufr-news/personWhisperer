@@ -206,10 +206,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Moon Hyung-jin',en,USA,#18e8e8,#18e8e8,1,0.36200013875
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,2,0.3618050555
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.3615500554999999
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,2,0.3601819436335849
 'Hamish Harding',en,UK,#e838e8,#e838e8,3,0.3588866121727271
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.358678357602557
@@ -224,15 +224,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.350494259980586
 'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,1,0.346271344390909
 'Isaac Newton',en,UK,#e838e8,#e838e8,3,0.343819546867272
+'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.34007336876093724
 'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.329881279458913
 'Charles III',en,UK,#e838e8,#e838e8,3,0.327601171231922
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027019743
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.3070625
-'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.3066963288949999
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.293322933515939
@@ -244,7 +245,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Lindner',en,Deutschland,#1818e8,#1818e8,3,0.277578331234168
 'Péter Szijjártó',en,Ungarn,#111111,#111111,1,0.2744471456198213
 'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.2731418264354773
-'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.271082346135862
 'Jacinda Ardern',en,Neuseeland,#1818e8,#1818e8,3,0.269779643191242
 'Giorgia Meloni',en,Italien,#111111,#111111,3,0.268923953740093
 'Georg Gänswein',en,Deutschland,#1818e8,#1818e8,1,0.268547120299375
