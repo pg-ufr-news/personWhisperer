@@ -71,7 +71,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.4369777780549569
 'Kemal Kiliçdaroglu',en,Türkei,#111111,#111111,1,0.4349998371071428
 'John Paul II',en,Vatikan,#58b8e8,#58b8e8,3,0.4345034645454545
-'Don Lemon',en,USA,#18e8e8,#18e8e8,2,0.433775099136364
 'Michael Cohen',en,USA,#18e8e8,#18e8e8,3,0.4318025479659088
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.431481546363636
 'Cillian Murphy',en,Irland,#111111,#111111,2,0.4313534408713064
@@ -163,6 +162,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Harry',en,UK,#e838e8,#e838e8,2,0.393155824418182
 'Lionel Richie',en,USA,#18e8e8,#18e8e8,3,0.3927705735558462
 'Hunter Biden',en,USA,#18e8e8,#18e8e8,3,0.3918777428636363
+'Don Lemon',en,USA,#18e8e8,#18e8e8,2,0.39184230244772755
 'George Bush',en,USA,#18e8e8,#18e8e8,3,0.391088631845454
 'Billy Graham',en,USA,#18e8e8,#18e8e8,3,0.3908345415784092
 'Cristiano Ronaldo',en,Portugal,#111111,#111111,2,0.389749823568182
@@ -230,9 +230,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027019743
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
-'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.3066963288949999
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
 'Mario Czaja',en,Deutschland,#1818e8,#1818e8,2,0.2938223625895234
@@ -304,7 +304,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.219827957022201
 'Warren Buffett',en,USA,#18e8e8,#18e8e8,2,0.219518081064424
 'Viktor Orbán',en,Ungarn,#111111,#111111,3,0.217938501074347
-'Werner von Braun',en,Deutschland,#1818e8,#1818e8,2,0.21750580044506254
+'Werner von Braun',en,Deutschland,#1818e8,#1818e8,2,0.2175058004450625
 'Charles Michel',en,EU,#111111,#111111,3,0.2156023514033326
 'Mark Rutte',en,Niederlande,#111111,#111111,3,0.215456271429137
 'Björn Höcke',en,Deutschland,#1818e8,#1818e8,2,0.215400379085716
