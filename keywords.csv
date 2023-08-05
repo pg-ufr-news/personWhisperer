@@ -230,9 +230,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027019743
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
-'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.3066963288949999
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
 'Mario Czaja',en,Deutschland,#1818e8,#1818e8,2,0.2938223625895234
@@ -304,6 +304,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.219827957022201
 'Warren Buffett',en,USA,#18e8e8,#18e8e8,2,0.219518081064424
 'Viktor Orbán',en,Ungarn,#111111,#111111,3,0.217938501074347
+'Werner von Braun',en,Deutschland,#1818e8,#1818e8,2,0.21750580044506254
 'Charles Michel',en,EU,#111111,#111111,3,0.2156023514033326
 'Mark Rutte',en,Niederlande,#111111,#111111,3,0.215456271429137
 'Björn Höcke',en,Deutschland,#1818e8,#1818e8,2,0.215400379085716
@@ -390,7 +391,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Ballweg',en,Deutschland,#1818e8,#1818e8,1,0.152251389455966
 'Anthony Fauci',en,USA,#18e8e8,#18e8e8,1,0.151941997910852
 'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.150492701540908
-'Werner von Braun',en,Deutschland,#1818e8,#1818e8,1,0.1491243828765442
 'Julian Assange',en,Australien,#111111,#111111,2,0.149083180581724
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.1486839321127972
 'Fidel Castro',en,Kuba,#111111,#111111,1,0.148244122139483
