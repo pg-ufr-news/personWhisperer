@@ -138,7 +138,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Evan Gershkovich',en,USA,#18e8e8,#18e8e8,3,0.4018516894283713
 'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.4015275375888352
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.40141514063
-'King Charles',en,UK,#e838e8,#e838e8,3,0.400982873336363
 'Jan Lipavský',en,Tschechien,#111111,#111111,1,0.4008451607624999
 'Katy Perry',en,USA,#18e8e8,#18e8e8,3,0.3995796965434094
 'Michael Walzer',en,USA,#18e8e8,#18e8e8,1,0.3995668571749999
@@ -150,6 +149,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yoon Suk Yeol',en,SüdKorea,#111111,#111111,3,0.396587234843372
 'Kim Jong Un',en,NordKorea,#e85858,#e85858,3,0.3962718770781857
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.395841266130685
+'King Charles',en,UK,#e838e8,#e838e8,3,0.39582703733590857
 'Robert De Niro',en,USA,#18e8e8,#18e8e8,2,0.395685211192784
 'Napoleon Bonaparte',en,Frankreich,#e8e808,#e8e808,3,0.3946983927847404
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.394226217909091
@@ -191,7 +191,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karim Benzema',en,Frankreich,#e8e808,#e8e808,3,0.3744024619420454
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.3726320242749998
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,1,0.3724119849
-'Kemal Kiliçdaroglu',en,Türkei,#111111,#111111,1,0.36974986154107137
+'Kemal Kiliçdaroglu',en,Türkei,#111111,#111111,1,0.3697498615410713
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,2,0.3688127278685356
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,2,0.3677301017954545
 'Salvador Dali',en,Spanien,#111111,#111111,2,0.3665086099999999
@@ -230,9 +230,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027019743
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
-'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.3066963288949999
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
 'Mario Czaja',en,Deutschland,#1818e8,#1818e8,2,0.2938223625895234
