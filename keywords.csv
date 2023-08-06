@@ -68,7 +68,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sultan al-Jaber',en,VAE,#111111,#111111,2,0.439043114090909
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,2,0.43822569375
 'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.4369777780549569
-'Kemal Kiliçdaroglu',en,Türkei,#111111,#111111,1,0.4349998371071428
 'John Paul II',en,Vatikan,#58b8e8,#58b8e8,3,0.4345034645454545
 'Michael Cohen',en,USA,#18e8e8,#18e8e8,3,0.4318025479659088
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.431481546363636
@@ -192,6 +191,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karim Benzema',en,Frankreich,#e8e808,#e8e808,3,0.3744024619420454
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.3726320242749998
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,1,0.3724119849
+'Kemal Kiliçdaroglu',en,Türkei,#111111,#111111,1,0.36974986154107137
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,2,0.3688127278685356
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,2,0.3677301017954545
 'Salvador Dali',en,Spanien,#111111,#111111,2,0.3665086099999999
@@ -230,9 +230,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027019743
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
-'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.3066963288949999
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
 'Mario Czaja',en,Deutschland,#1818e8,#1818e8,2,0.2938223625895234
