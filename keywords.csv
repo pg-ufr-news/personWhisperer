@@ -149,7 +149,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yoon Suk Yeol',en,SüdKorea,#111111,#111111,3,0.396587234843372
 'Kim Jong Un',en,NordKorea,#e85858,#e85858,3,0.3962718770781857
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.395841266130685
-'King Charles',en,UK,#e838e8,#e838e8,3,0.39582703733590857
+'King Charles',en,UK,#e838e8,#e838e8,3,0.3958270373359085
 'Robert De Niro',en,USA,#18e8e8,#18e8e8,2,0.395685211192784
 'Napoleon Bonaparte',en,Frankreich,#e8e808,#e8e808,3,0.3946983927847404
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.394226217909091
@@ -200,7 +200,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,1,0.3643712204431447
 'Tina Turner',en,USA,#18e8e8,#18e8e8,3,0.3637510272556807
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.363349458453493
-'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.3629878549509615
 'Tim Müller',en,Deutschland,#1818e8,#1818e8,1,0.3621501665
 'Scott Morrison',en,Australien,#111111,#111111,3,0.3621097901615712
 'Moon Hyung-jin',en,USA,#18e8e8,#18e8e8,1,0.36200013875
@@ -225,14 +224,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,1,0.346271344390909
 'Isaac Newton',en,UK,#e838e8,#e838e8,3,0.343819546867272
 'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.3400733687609372
+'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.3316728748901354
 'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.329881279458913
 'Charles III',en,UK,#e838e8,#e838e8,3,0.327601171231922
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027019743
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
-'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.3066963288949999
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
 'Mario Czaja',en,Deutschland,#1818e8,#1818e8,2,0.2938223625895234
