@@ -54,6 +54,7 @@ keywordsDF['crc'] = keywordsDF['uniqueString'].apply(
     lambda x: 
         hashlib.sha256(x.encode()).hexdigest()
 )
+keywordsDF = keywordsDF.drop_duplicates(subset=['keyword'])
 keywordsDF = keywordsDF.sort_values(by=['ratioNew'], ascending=False)  
 
 
@@ -65,6 +66,7 @@ def getNewsFiles():
 def getNewsDFbyList(files):    
     newsDF = pd.DataFrame(None)
     for file in files:
+        #print(file)
         df = pd.read_csv(file, delimiter=',')
         if(newsDF.empty):
             newsDF = df
@@ -84,7 +86,7 @@ newsDf['age'] = newsDf['published'].apply(
     lambda x: 
         getAge(x)
 )
-newsDf = newsDf[(newsDf.age>0) & (newsDf.age < 60)]
+#newsDf = newsDf[(newsDf.age>0) & (newsDf.age < 60)]
 
 keywordsNewsDF = pd.DataFrame(None) 
 if(not newsDf.empty):
@@ -210,6 +212,8 @@ def checkDuplicates(dict1, data2):
             return True 
         day1 = '1970-01-01'
         if(len(str(data1['published']))>5):
+          #print(data1['published'])
+          #print(data1)
           pubDate1 = parser.parse(data1['published'])
           day1 = pubDate1.strftime('%Y-%m-%d')
         groupTxt1 = str(data1['domain']) +  ' ' + day1
@@ -460,7 +464,7 @@ def inqRandomNews():
     #if foundNothing:  newLimit = maximum(1,random.choice(range(currPage-1,limitPage-1)))
 
     ## cheat for now!     
-    ### keywordEmptyDF = keywordsDF[keywordsDF['keyword']=="'Ron DeSantis'"]
+    ### keywordEmptyDF = keywordsDF[keywordsDF['keyword']=="'Eva Kaili'"]
     ### rndKey = keywordEmptyDF.sample()
     ## rm in final version
     ### rndKey = keywordsDF3.head(1).sample()
@@ -588,6 +592,7 @@ if(age>60*60*5*0):
 inqRandomNews()
 
 #keywordsDF = keywordsDF.sort_values(by=['topic','keyword'])
+keywordsDF = keywordsDF[(keywordsDF.ratioNew > 0.05)]
 keywordsDF = keywordsDF.sort_values(by=['ratioNew'], ascending=False)
 keywordsDF.to_csv(DATA_PATH / 'keywords.csv', columns=keywordsFields,index=False)  
 
