@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Andy Cohen',en,unknown,#111111,#111111,2,0.6037036159587589
 'Ben Affleck',en,unknown,#111111,#111111,2,0.6025635791052946
 'Vo Van Thuong',en,unknown,#111111,#111111,2,0.6023815173678637
 'Leandro De Niro-Rodriguez',en,unknown,#111111,#111111,2,0.6012118419003755
@@ -8,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Merrick Garland',en,unknown,#111111,#111111,2,0.5713595976101487
 'Gayle King',en,unknown,#111111,#111111,2,0.5699809699920235
 'Bret Baier',en,unknown,#111111,#111111,2,0.561022139985909
+'Andy Cohen',en,unknown,#111111,#111111,3,0.559013554474036
 'Roman Pacino',en,unknown,#111111,#111111,2,0.557307718432714
 'David Koch',en,unknown,#111111,#111111,3,0.550073586724994
 'Wagner-Chef Prigoschin',en,unknown,#111111,#111111,2,0.5089552111647259
@@ -19,27 +19,27 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Luc Terlinden',en,unknown,#111111,#111111,2,0.503322048411165
 'nan nan',en,unknown,#111111,#111111,2,0.5024774790212222
 'Pap Ndiaye',en,unknown,#111111,#111111,2,0.502170804080355
-'Kim Yo Jong',en,NordKorea,#111111,#111111,2,0.5
+'Geert Wilders',en,Niederlande,#111111,#111111,2,0.5
+'Laura Ingraham',en,USA,#18e8e8,#18e8e8,2,0.5
+'Alexander De Croo',en,Belgien,#111111,#111111,2,0.5
+'Evgueni Prigojine',en,Russland,#e81818,#e81818,2,0.5
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,2,0.5
 'Sergej Surowikin',en,Russland,#e81818,#e81818,2,0.5
-'Chelsea Handler',en,USA,#18e8e8,#18e8e8,2,0.5
-'Evgueni Prigojine',en,Russland,#e81818,#e81818,2,0.5
-'Alexander De Croo',en,Belgien,#111111,#111111,2,0.5
-'Laura Ingraham',en,USA,#18e8e8,#18e8e8,2,0.5
-'Geert Wilders',en,Niederlande,#111111,#111111,2,0.5
 'Drena De Niro',en,USA,#18e8e8,#18e8e8,2,0.5
-'Reinhard Marx',en,Deutschland,#1818e8,#1818e8,2,0.5
-'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,2,0.5
-'Sultan al-Jaber',en,VAE,#111111,#111111,2,0.5
-'Gilbert Plass',en,Kanada,#111111,#111111,2,0.5
 'Moon Hyung-jin',en,USA,#18e8e8,#18e8e8,2,0.5
-'Jack Smith',en,USA,#18e8e8,#18e8e8,2,0.5
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,2,0.5
-'Lauren Boebert',en,USA,#18e8e8,#18e8e8,2,0.5
+'Chelsea Handler',en,USA,#18e8e8,#18e8e8,2,0.5
+'Reinhard Marx',en,Deutschland,#1818e8,#1818e8,2,0.5
+'Kim Yo Jong',en,NordKorea,#111111,#111111,2,0.5
+'Sultan al-Jaber',en,VAE,#111111,#111111,2,0.5
 'Sergio Mattarella',en,Italien,#111111,#111111,2,0.5
+'Bettina Stark-Watzinger',en,Deutschland,#1818e8,#1818e8,2,0.5
+'Gilbert Plass',en,Kanada,#111111,#111111,2,0.5
 'Leandro De Niro Rodriguez',en,USA,#18e8e8,#18e8e8,2,0.5
 'George Santos',en,USA,#18e8e8,#18e8e8,2,0.5
-'Bettina Stark-Watzinger',en,Deutschland,#1818e8,#1818e8,2,0.5
+'Lauren Boebert',en,USA,#18e8e8,#18e8e8,2,0.5
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,2,0.5
+'Jack Smith',en,USA,#18e8e8,#18e8e8,2,0.5
+'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,2,0.5
 'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,3,0.4985427863327443
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4977519529593929
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.4930305464885433
