@@ -1,64 +1,54 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Merrick Garland',en,unknown,#111111,#111111,3,0.5633514706958991
-'Andy Cohen',en,unknown,#111111,#111111,3,0.559013554474036
-'Roman Pacino',en,unknown,#111111,#111111,2,0.557307718432714
-'Vivek Ramaswamy',en,unknown,#111111,#111111,3,0.5513909716645582
-'David Koch',en,unknown,#111111,#111111,3,0.550073586724994
-'Leandro De Niro-Rodriguez',en,unknown,#111111,#111111,3,0.5496714811593849
-'Vo Van Thuong',en,unknown,#111111,#111111,3,0.5452904989573724
-'George Santos',en,USA,#18e8e8,#18e8e8,3,0.5390458140909091
-'Ben Affleck',en,unknown,#111111,#111111,3,0.5344196314691754
-'Bret Baier',en,unknown,#111111,#111111,3,0.5272758544425681
-'Gayle King',en,unknown,#111111,#111111,3,0.5212539863114017
-'Gabriel Attal',en,unknown,#111111,#111111,2,0.5204833307253129
-'Jane Fonda',en,unknown,#111111,#111111,3,0.5204788979783349
-'nan nan',en,unknown,#111111,#111111,2,0.5024774790212222
-'Sergio Mattarella',en,Italien,#111111,#111111,2,0.5
-'Alexander De Croo',en,Belgien,#111111,#111111,2,0.5
-'Jesse Watters',en,USA,#18e8e8,#18e8e8,2,0.5
-'Leandro De Niro Rodriguez',en,USA,#18e8e8,#18e8e8,2,0.5
-'Sultan al-Jaber',en,VAE,#111111,#111111,2,0.5
-'Geert Wilders',en,Niederlande,#111111,#111111,2,0.5
-'Jack Smith',en,USA,#18e8e8,#18e8e8,2,0.5
-'Reinhard Marx',en,Deutschland,#1818e8,#1818e8,2,0.5
-'Drena De Niro',en,USA,#18e8e8,#18e8e8,2,0.5
-'Kim Yo Jong',en,NordKorea,#111111,#111111,2,0.5
-'Chelsea Handler',en,USA,#18e8e8,#18e8e8,2,0.5
-'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,3,0.4985427863327443
-'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4977519529593929
-'King Charles III',en,UK,#e838e8,#e838e8,3,0.4930305464885433
 'Patti LaBelle',en,USA,#18e8e8,#18e8e8,2,0.489043204090909
+'Gayle King',en,unknown,#111111,#111111,3,0.4889269742737824
+'Vivek Ramaswamy',en,unknown,#111111,#111111,3,0.4852364353030422
 'Tony Bennett',en,USA,#18e8e8,#18e8e8,3,0.4845081295454545
 'Laura Ingraham',en,USA,#18e8e8,#18e8e8,3,0.4844990395454545
+'Kim Yo Jong',en,NordKorea,#111111,#111111,2,0.4844984395454545
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4814379049266383
 'Akshata Murty',en,Indien,#111111,#111111,3,0.4812860957703039
+'Ben Affleck',en,unknown,#111111,#111111,3,0.4785333758169808
 'Berkshire Hathaway',en,USA,#18e8e8,#18e8e8,3,0.4771478209987273
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.4761219120842765
 'Tim Scott',en,USA,#18e8e8,#18e8e8,3,0.4759317107045454
+'Roman Pacino',en,unknown,#111111,#111111,1,0.4737117256678069
+'Bret Baier',en,unknown,#111111,#111111,3,0.4728461285620281
 'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,2,0.47150015
 'Narendra Modi',en,Indien,#111111,#111111,2,0.4714749204090908
+'Leandro De Niro-Rodriguez',en,unknown,#111111,#111111,3,0.4711500976831101
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.4709640270306815
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.4705073894060225
 'Lindsey Graham',en,USA,#18e8e8,#18e8e8,3,0.4702019690227274
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.468089648636364
+'George Santos',en,USA,#18e8e8,#18e8e8,3,0.4676891515227273
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.466893276818182
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.466586652522727
 'Amber Heard',en,USA,#18e8e8,#18e8e8,3,0.4663201463636363
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4662441053875
 'Tiffany Chen',en,USA,#18e8e8,#18e8e8,3,0.4660611942218155
 'Millie Mackintosh',en,UK,#e838e8,#e838e8,2,0.465723447272727
+'Jack Smith',en,USA,#18e8e8,#18e8e8,2,0.4655607744999999
+'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4654458203966113
 'Leon Botstein',en,USA,#18e8e8,#18e8e8,2,0.4635214327419354
 'George Floyd',en,USA,#18e8e8,#18e8e8,3,0.4631799932272725
+'Alexander De Croo',en,Belgien,#111111,#111111,2,0.4631005549999999
 'Eric Adams',en,USA,#18e8e8,#18e8e8,2,0.4617830918181818
 'Silvio Berlusconi',en,Italien,#111111,#111111,3,0.4614727908318182
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.4608626764392373
+'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.4601925355227271
 'Lauren Sánchez',en,USA,#18e8e8,#18e8e8,3,0.458268477909091
 'Lauren Boebert',en,USA,#18e8e8,#18e8e8,3,0.4572292822727272
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.4565228139125148
+'Jane Fonda',en,unknown,#111111,#111111,3,0.4564498323724937
+'King Charles III',en,UK,#e838e8,#e838e8,3,0.4563062189970635
 'Pap Ndiaye',en,unknown,#111111,#111111,2,0.4558660267035958
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,3,0.4558644334545453
+'Chelsea Handler',en,USA,#18e8e8,#18e8e8,3,0.4536008549999999
+'Vo Van Thuong',en,unknown,#111111,#111111,3,0.4533604477239741
+'Merrick Garland',en,unknown,#111111,#111111,3,0.4531097050410912
 'Sam Altman',en,USA,#18e8e8,#18e8e8,3,0.4527187013982129
 'Recep Tayyip Erdogan',en,Türkei,#111111,#111111,3,0.452713196278352
+'Sergio Mattarella',en,Italien,#111111,#111111,2,0.4526780227272727
 'Matteo Salvini',en,Italien,#111111,#111111,3,0.451977808076923
 'Jordan Neely',en,USA,#18e8e8,#18e8e8,2,0.4518220526275976
 'Camille Etienne',en,Frankreich,#e8e808,#e8e808,2,0.4515344955263157
@@ -69,9 +59,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.4482951315373604
 'Pablo Picasso',en,Spanien,#111111,#111111,2,0.4481342631818181
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.4481171157490561
+'Andy Cohen',en,unknown,#111111,#111111,3,0.4478290366302182
 'Milo Yiannopoulos',en,UK,#e838e8,#e838e8,3,0.447519873811394
 'Matt Damon',en,USA,#18e8e8,#18e8e8,3,0.4470182567045452
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.445776591606818
+'Gabriel Attal',en,unknown,#111111,#111111,2,0.4445110411165159
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.4443348572267818
 'Lady Gaga',en,USA,#18e8e8,#18e8e8,3,0.4439723089223294
 'Raphael Warnock',en,USA,#18e8e8,#18e8e8,2,0.443588088636364
@@ -85,17 +77,24 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shahzada Dawood',en,Pakistan,#111111,#111111,2,0.4390513340909091
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,2,0.43822569375
 'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.4369777780549569
+'nan nan',en,unknown,#111111,#111111,2,0.4366122617134934
 'Sergei Surovikin',en,Russland,#e81818,#e81818,3,0.4360936749318181
+'David Koch',en,unknown,#111111,#111111,3,0.434998753317899
 'John Paul II',en,Vatikan,#58b8e8,#58b8e8,3,0.4345034645454545
+'Sultan al-Jaber',en,VAE,#111111,#111111,3,0.4344980495454545
+'Drena De Niro',en,USA,#18e8e8,#18e8e8,3,0.4344965645454545
 'Afida Turner',en,Frankreich,#e8e808,#e8e808,2,0.4338854198393749
 'Michael Cohen',en,USA,#18e8e8,#18e8e8,3,0.4318025479659088
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.431481546363636
 'Cillian Murphy',en,Irland,#111111,#111111,2,0.4313534408713064
+'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,3,0.4312295659435896
 'Princess Diana',en,UK,#e838e8,#e838e8,3,0.4312251231124068
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,3,0.4310869115083519
 'Margaret Thatcher',en,UK,#e838e8,#e838e8,3,0.4307902726137496
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.43058758136357
+'Leandro De Niro Rodriguez',en,USA,#18e8e8,#18e8e8,2,0.42995108
 'Robert Sesselmann',en,Deutschland,#1818e8,#1818e8,2,0.429950825
+'Geert Wilders',en,Niederlande,#111111,#111111,2,0.429950555
 'Camilla',en,UK,#e838e8,#e838e8,3,0.429846972275
 'Jessy Wellmer',en,unknown,#111111,#111111,1,0.429350429660098
 'président de la République',en,unknown,#111111,#111111,1,0.4292426200377393
@@ -110,12 +109,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Al Pacino',en,USA,#18e8e8,#18e8e8,3,0.4251898509869434
 'Bettina Stark-Watzinger',en,Deutschland,#1818e8,#1818e8,1,0.4250001499999999
 'Moon Hyung-jin',en,USA,#18e8e8,#18e8e8,1,0.4250001049999999
-'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.425
-'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.425
-'Gilbert Plass',en,Kanada,#111111,#111111,1,0.425
+'Reinhard Marx',en,Deutschland,#1818e8,#1818e8,1,0.42500009
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.425
-'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.425
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.425
+'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.425
+'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.425
+'Gilbert Plass',en,Kanada,#111111,#111111,1,0.425
+'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.425
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,3,0.4244367217363634
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.4227859538826473
 'James Cleverly',en,UK,#e838e8,#e838e8,3,0.421497860282955
@@ -396,7 +396,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.1731116276718749
 'Alice Weidel',en,Deutschland,#1818e8,#1818e8,1,0.173002564932806
 'Robin Li',en,China,#e88818,#e88818,2,0.17239776701366
-'Patriarch Kyrill',en,Ukraine,#e818e8,#e818e8,3,0.169320826374793
 'Karl Nehammer',en,Oesterreich,#111111,#111111,1,0.169196016107712
 'Antonio Guterres',en,UN,#e888e8,#e888e8,3,0.169056093356733
 'Sahra Wagenknecht',en,Deutschland,#1818e8,#1818e8,1,0.1690026935783271
@@ -417,7 +416,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tamim bin Hamad Al Thani',en,Katar,#111111,#111111,2,0.153885065978855
 'Holger Münch',en,Deutschland,#1818e8,#1818e8,1,0.1536350906491524
 'Sandra Maischberger',en,Deutschland,#1818e8,#1818e8,1,0.152886155898887
-'Michael Ballweg',en,Deutschland,#1818e8,#1818e8,1,0.152251389455966
 'Anthony Fauci',en,USA,#18e8e8,#18e8e8,1,0.151941997910852
 'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.150492701540908
 'Julian Assange',en,Australien,#111111,#111111,2,0.149083180581724
@@ -431,6 +429,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boris Palmer',en,Deutschland,#1818e8,#1818e8,1,0.1449050835982684
 'Gabor Steingart',en,Deutschland,#1818e8,#1818e8,1,0.1445835769285881
 'Lula sa Silva',en,Brasilien,#58e838,#58e838,1,0.144203701802678
+'Patriarch Kyrill',en,Ukraine,#e818e8,#e818e8,1,0.143922702418574
 'Martin Schirdewan',en,Deutschland,#1818e8,#1818e8,2,0.143693342607638
 'Klaus-Michael Kühne',en,Deutschland,#1818e8,#1818e8,1,0.143665233328073
 'Nikos Androulakis',en,Griechenland,#1858e8,#1858e8,1,0.143634131098959
@@ -465,6 +464,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gregor Gysi',en,Deutschland,#1818e8,#1818e8,1,0.12973343735762
 'Bodo Ramelow',en,Deutschland,#1818e8,#1818e8,1,0.129708448503648
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.129458180778799
+'Michael Ballweg',en,Deutschland,#1818e8,#1818e8,1,0.1294136810375711
 'Alexei Nawalny',en,Russland,#e81818,#e81818,1,0.129347072944707
 'Generalbundesanwalt Peter Frank',en,Deutschland,#1818e8,#1818e8,1,0.1291102183302861
 'König Charles III',en,UK,#e838e8,#e838e8,1,0.1287384282265033
