@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Patti LaBelle',en,USA,#18e8e8,#18e8e8,2,0.489043204090909
 'Gayle King',en,unknown,#111111,#111111,3,0.4889269742737824
 'Vivek Ramaswamy',en,unknown,#111111,#111111,3,0.4852364353030422
 'Tony Bennett',en,USA,#18e8e8,#18e8e8,3,0.4845081295454545
@@ -46,6 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chelsea Handler',en,USA,#18e8e8,#18e8e8,3,0.4536008549999999
 'Vo Van Thuong',en,unknown,#111111,#111111,3,0.4533604477239741
 'Merrick Garland',en,unknown,#111111,#111111,3,0.4531097050410912
+'Patti LaBelle',en,USA,#18e8e8,#18e8e8,2,0.45307046181060595
 'Sam Altman',en,USA,#18e8e8,#18e8e8,3,0.4527187013982129
 'Recep Tayyip Erdogan',en,Türkei,#111111,#111111,3,0.452713196278352
 'Sergio Mattarella',en,Italien,#111111,#111111,2,0.4526780227272727
