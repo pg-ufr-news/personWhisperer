@@ -45,7 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chelsea Handler',en,USA,#18e8e8,#18e8e8,3,0.4536008549999999
 'Vo Van Thuong',en,unknown,#111111,#111111,3,0.4533604477239741
 'Merrick Garland',en,unknown,#111111,#111111,3,0.4531097050410912
-'Patti LaBelle',en,USA,#18e8e8,#18e8e8,2,0.45307046181060595
+'Patti LaBelle',en,USA,#18e8e8,#18e8e8,2,0.4530704618106059
 'Sam Altman',en,USA,#18e8e8,#18e8e8,3,0.4527187013982129
 'Recep Tayyip Erdogan',en,Türkei,#111111,#111111,3,0.452713196278352
 'Sergio Mattarella',en,Italien,#111111,#111111,2,0.4526780227272727
@@ -325,6 +325,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karine Jean-Pierre',en,USA,#18e8e8,#18e8e8,3,0.2245664103292931
 'Thomas Bayes',en,UK,#e838e8,#e838e8,1,0.2241282651053749
 'Andreas Jung',en,Deutschland,#1818e8,#1818e8,1,0.2239148687678749
+'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,2,0.22388987896858792
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,3,0.223802778437948
 'Yannick Morez',en,Frankreich,#e8e808,#e8e808,1,0.2231941843411249
 'Bruno Retailleau',en,Frankreich,#e8e808,#e8e808,1,0.2222815065669686
@@ -369,10 +370,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edward Snowden',en,USA,#18e8e8,#18e8e8,1,0.189299821846266
 'Rishi Sunak',en,UK,#e838e8,#e838e8,3,0.18908344476026
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.1889983512346281
-'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Ramsan Kadyrow',en,Russland,#e81818,#e81818,1,0.1885747578125
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
 'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.1885747578125
+'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1885747578124999
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1885747578124999
@@ -389,7 +390,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.176683916934702
 'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.1763173985546874
 'Aleksandar Vucic',en,Serbien,#111111,#111111,3,0.176083558030118
-'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,1,0.1748115870218681
 'Christine Lagarde',en,EU,#111111,#111111,3,0.174478726466027
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1743094532801115
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.173111627671875
