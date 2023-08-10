@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gayle King',en,unknown,#111111,#111111,3,0.4889269742737824
 'Vivek Ramaswamy',en,unknown,#111111,#111111,3,0.4852364353030422
 'Tony Bennett',en,USA,#18e8e8,#18e8e8,3,0.4845081295454545
 'Laura Ingraham',en,USA,#18e8e8,#18e8e8,3,0.4844990395454545
@@ -75,6 +74,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.4404046227253669
 'Martin Luther King',en,USA,#18e8e8,#18e8e8,3,0.4396595972838064
 'Shahzada Dawood',en,Pakistan,#111111,#111111,2,0.4390513340909091
+'Gayle King',en,unknown,#111111,#111111,3,0.43872184631453326
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,2,0.43822569375
 'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.4369777780549569
 'nan nan',en,unknown,#111111,#111111,2,0.4366122617134934
@@ -325,7 +325,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karine Jean-Pierre',en,USA,#18e8e8,#18e8e8,3,0.2245664103292931
 'Thomas Bayes',en,UK,#e838e8,#e838e8,1,0.2241282651053749
 'Andreas Jung',en,Deutschland,#1818e8,#1818e8,1,0.2239148687678749
-'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,2,0.22388987896858792
+'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,2,0.2238898789685879
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,3,0.223802778437948
 'Yannick Morez',en,Frankreich,#e8e808,#e8e808,1,0.2231941843411249
 'Bruno Retailleau',en,Frankreich,#e8e808,#e8e808,1,0.2222815065669686
