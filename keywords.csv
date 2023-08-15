@@ -114,12 +114,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bettina Stark-Watzinger',en,Deutschland,#1818e8,#1818e8,1,0.4250001499999999
 'Moon Hyung-jin',en,USA,#18e8e8,#18e8e8,1,0.4250001049999999
 'Reinhard Marx',en,Deutschland,#1818e8,#1818e8,1,0.42500009
+'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.425
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.425
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.425
-'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.425
-'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.425
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.425
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.425
+'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.425
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,3,0.4244367217363634
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.4227859538826473
 'Cillian Murphy',en,Irland,#111111,#111111,2,0.4216313847406104
@@ -148,6 +148,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ben Affleck',en,unknown,#111111,#111111,3,0.4117119794444336
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4116815571291397
 'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.4106860113030421
+'Barbara Walters',en,USA,#18e8e8,#18e8e8,3,0.4106310323468179
 'Meg Bellamy',en,UK,#e838e8,#e838e8,2,0.4105042349867608
 'Wang Wentao',en,China,#e88818,#e88818,3,0.410295550379071
 'Prince William',en,UK,#e838e8,#e838e8,3,0.408624199796591
@@ -222,7 +223,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Queen Camilla',en,UK,#e838e8,#e838e8,3,0.3784892154027939
 'Anne Will',en,Deutschland,#1818e8,#1818e8,2,0.377750428514773
 'Chris Hipkins',en,Neuseeland,#1818e8,#1818e8,3,0.3763690683000004
-'Barbara Walters',en,USA,#18e8e8,#18e8e8,3,0.375446932172727
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.374587953775
 'Karim Benzema',en,Frankreich,#e8e808,#e8e808,3,0.3744024619420454
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.3726320242749998
@@ -512,7 +512,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alberto Ángel Fernández',en,Argentinien,#111111,#111111,1,0.115556980050688
 'Valery Gerasimov',en,Russland,#e81818,#e81818,3,0.1140160632926753
 'Frank Bainimarama',en,Fidschi,#111111,#111111,1,0.113346782585109
-'Lukaschenko',en,Belarus,#e81858,#e81858,1,0.11292775977971899
+'Lukaschenko',en,Belarus,#e81858,#e81858,1,0.1129277597797189
 'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.111957626138911
 'Larry Page',en,USA,#18e8e8,#18e8e8,2,0.1119222942196051
 'Alexej Kudrin',en,Russland,#e81818,#e81818,1,0.1118888387080861
