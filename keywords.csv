@@ -25,7 +25,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.4705073894060225
 'Lindsey Graham',en,USA,#18e8e8,#18e8e8,3,0.4702019690227274
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.468089648636364
-'George Santos',en,USA,#18e8e8,#18e8e8,3,0.4676891515227273
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.466893276818182
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.466586652522727
 'Amber Heard',en,USA,#18e8e8,#18e8e8,3,0.4663201463636363
@@ -53,6 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patti LaBelle',en,USA,#18e8e8,#18e8e8,2,0.4530704618106059
 'Recep Tayyip Erdogan',en,Türkei,#111111,#111111,3,0.452713196278352
 'Sergio Mattarella',en,Italien,#111111,#111111,2,0.4526780227272727
+'George Santos',en,USA,#18e8e8,#18e8e8,3,0.45248970879431816
 'Jordan Neely',en,USA,#18e8e8,#18e8e8,2,0.4518220526275976
 'Camille Etienne',en,Frankreich,#e8e808,#e8e808,2,0.4515344955263157
 'Roger Federer',en,unknown,#111111,#111111,2,0.4509922732298416
@@ -114,12 +114,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bettina Stark-Watzinger',en,Deutschland,#1818e8,#1818e8,1,0.4250001499999999
 'Moon Hyung-jin',en,USA,#18e8e8,#18e8e8,1,0.4250001049999999
 'Reinhard Marx',en,Deutschland,#1818e8,#1818e8,1,0.42500009
+'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.425
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.425
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.425
-'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.425
-'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.425
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.425
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.425
+'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.425
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,3,0.4244367217363634
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.4227859538826473
 'Cillian Murphy',en,Irland,#111111,#111111,2,0.4216313847406104
