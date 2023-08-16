@@ -52,7 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patti LaBelle',en,USA,#18e8e8,#18e8e8,2,0.4530704618106059
 'Recep Tayyip Erdogan',en,Türkei,#111111,#111111,3,0.452713196278352
 'Sergio Mattarella',en,Italien,#111111,#111111,2,0.4526780227272727
-'George Santos',en,USA,#18e8e8,#18e8e8,3,0.45248970879431816
+'George Santos',en,USA,#18e8e8,#18e8e8,3,0.4524897087943181
 'Jordan Neely',en,USA,#18e8e8,#18e8e8,2,0.4518220526275976
 'Camille Etienne',en,Frankreich,#e8e808,#e8e808,2,0.4515344955263157
 'Roger Federer',en,unknown,#111111,#111111,2,0.4509922732298416
@@ -114,12 +114,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bettina Stark-Watzinger',en,Deutschland,#1818e8,#1818e8,1,0.4250001499999999
 'Moon Hyung-jin',en,USA,#18e8e8,#18e8e8,1,0.4250001049999999
 'Reinhard Marx',en,Deutschland,#1818e8,#1818e8,1,0.42500009
-'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.425
-'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.425
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.425
-'Gilbert Plass',en,Kanada,#111111,#111111,1,0.425
+'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.425
+'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.425
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.425
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.425
+'Gilbert Plass',en,Kanada,#111111,#111111,1,0.425
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,3,0.4244367217363634
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.4227859538826473
 'Cillian Murphy',en,Irland,#111111,#111111,2,0.4216313847406104
@@ -266,6 +266,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Isaac Newton',en,UK,#e838e8,#e838e8,3,0.343819546867272
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,1,0.3430846826913157
 'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.3400733687609372
+'Bruno Retailleau',en,Frankreich,#e8e808,#e8e808,2,0.3390892955819233
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.3316728748901354
 'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.329881279458913
 'Charles III',en,UK,#e838e8,#e838e8,3,0.327601171231922
@@ -273,8 +274,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
 'Tim Müller',en,Deutschland,#1818e8,#1818e8,1,0.307977656525
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
-'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.3066963288949999
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
@@ -342,7 +343,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,2,0.2238898789685879
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,3,0.223802778437948
 'Yannick Morez',en,Frankreich,#e8e808,#e8e808,1,0.2231941843411249
-'Bruno Retailleau',en,Frankreich,#e8e808,#e8e808,1,0.2222815065669686
 'Annalena Baerbock',en,Deutschland,#1818e8,#1818e8,3,0.2202487036288648
 'Gerhard Schröder',en,Deutschland,#1818e8,#1818e8,1,0.21991755341932
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.219827957022201
