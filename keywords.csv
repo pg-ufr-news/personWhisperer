@@ -251,7 +251,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,2,0.3601819436335849
-'Hamish Harding',en,UK,#e838e8,#e838e8,3,0.3588866121727271
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.358678357602557
 'Boris Johnson',en,UK,#e838e8,#e838e8,3,0.3574162960158356
 'Karl Jenkins',en,UK,#e838e8,#e838e8,1,0.3571144411249999
@@ -267,6 +266,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,1,0.3430846826913157
 'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.3400733687609372
 'Bruno Retailleau',en,Frankreich,#e8e808,#e8e808,2,0.3390892955819233
+'Hamish Harding',en,UK,#e838e8,#e838e8,3,0.3372772776195453
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.3316728748901354
 'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.329881279458913
 'Charles III',en,UK,#e838e8,#e838e8,3,0.327601171231922
