@@ -168,7 +168,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Adolf Hitler',en,Deutschland,#1818e8,#1818e8,3,0.403899899035227
 'Recep Tayyip Erdoan',en,Türkei,#111111,#111111,3,0.403731553867076
 'Rudolf Steiner',en,Oesterreich,#111111,#111111,1,0.403638809538461
-'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,3,0.40334502287023294
+'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,3,0.4033450228702329
 'Robert de Niro',en,USA,#18e8e8,#18e8e8,3,0.4025312920080482
 'Bruce Springsteen',en,USA,#18e8e8,#18e8e8,3,0.402116165353864
 'Evan Gershkovich',en,USA,#18e8e8,#18e8e8,3,0.4018516894283713
@@ -334,7 +334,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jens Spahn',en,Deutschland,#1818e8,#1818e8,1,0.2288372092545312
 'Melinda Gates',en,USA,#18e8e8,#18e8e8,3,0.228081532818181
 'Kevin Kühnert',en,Deutschland,#1818e8,#1818e8,2,0.2266686225201619
-'Robert Nozick',en,USA,#18e8e8,#18e8e8,1,0.2263556222946874
 'Daniel Zhang',en,China,#e88818,#e88818,2,0.2248482257443686
 'Karine Jean-Pierre',en,USA,#18e8e8,#18e8e8,3,0.2245664103292931
 'Thomas Bayes',en,UK,#e838e8,#e838e8,1,0.2241282651053749
@@ -374,6 +373,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tino Chrupalla',en,Deutschland,#1818e8,#1818e8,2,0.193789984578416
 'Greta Thunberg',en,Schweden,#111111,#111111,3,0.193346340414224
 'Christian Drosten',en,Deutschland,#1818e8,#1818e8,2,0.1933326418482187
+'Robert Nozick',en,USA,#18e8e8,#18e8e8,1,0.1930023389504843
 'Dmitri Medwedew',en,Russland,#e81818,#e81818,1,0.19234625296875
 'Jair Bolsonaro',en,Brasilien,#58e838,#58e848,3,0.191220077650967
 'Andrés Manuel López Obrador',en,Mexiko,#111111,#111111,3,0.190780487341999
