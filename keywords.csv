@@ -110,7 +110,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Moon Hyung-jin',en,USA,#18e8e8,#18e8e8,1,0.4250001049999999
 'Reinhard Marx',en,Deutschland,#1818e8,#1818e8,1,0.42500009
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.425
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.425
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.425
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.425
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.425
@@ -246,6 +245,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Scott Morrison',en,Australien,#111111,#111111,3,0.3621097901615712
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,2,0.3618050555
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.3615500554999999
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.36124999999999996
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
