@@ -89,7 +89,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.4326420386427645
 'Michael Cohen',en,USA,#18e8e8,#18e8e8,3,0.4318025479659088
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.431481546363636
-'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,3,0.4312295659435896
 'Princess Diana',en,UK,#e838e8,#e838e8,3,0.4312251231124068
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,3,0.4310869115083519
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.43058758136357
@@ -169,6 +168,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Adolf Hitler',en,Deutschland,#1818e8,#1818e8,3,0.403899899035227
 'Recep Tayyip Erdoan',en,Türkei,#111111,#111111,3,0.403731553867076
 'Rudolf Steiner',en,Oesterreich,#111111,#111111,1,0.403638809538461
+'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,3,0.40334502287023294
 'Robert de Niro',en,USA,#18e8e8,#18e8e8,3,0.4025312920080482
 'Bruce Springsteen',en,USA,#18e8e8,#18e8e8,3,0.402116165353864
 'Evan Gershkovich',en,USA,#18e8e8,#18e8e8,3,0.4018516894283713
