@@ -55,7 +55,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Santos',en,USA,#18e8e8,#18e8e8,3,0.4524897087943181
 'Jordan Neely',en,USA,#18e8e8,#18e8e8,2,0.4518220526275976
 'Camille Etienne',en,Frankreich,#e8e808,#e8e808,2,0.4515344955263157
-'Roger Federer',en,unknown,#111111,#111111,2,0.4509922732298416
 'Jack Smith',en,USA,#18e8e8,#18e8e8,3,0.4507679783249999
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.450265575142063
 'Jeanne du Barry',en,Frankreich,#e8e808,#e8e808,3,0.4497029971769318
@@ -144,6 +143,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harry Belafonte',en,USA,#18e8e8,#18e8e8,2,0.411744230016534
 'Ben Affleck',en,unknown,#111111,#111111,3,0.4117119794444336
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4116815571291397
+'Roger Federer',en,unknown,#111111,#111111,3,0.4110227449726381
 'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.4106860113030421
 'Barbara Walters',en,USA,#18e8e8,#18e8e8,3,0.4106310323468179
 'Meg Bellamy',en,UK,#e838e8,#e838e8,2,0.4105042349867608
