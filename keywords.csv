@@ -6,6 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4814379049266383
 'Akshata Murty',en,Indien,#111111,#111111,3,0.4812860957703039
 'Vivek Ramaswamy',en,unknown,#111111,#111111,3,0.480181376990708
+'Lauren Boebert',en,USA,#18e8e8,#18e8e8,3,0.4799628762954545
 'Bill Barr',en,unknown,#111111,#111111,2,0.4795305162845205
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.4792228934944881
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.4788397307877839
@@ -39,7 +40,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.4601925355227271
 'Devon Archer',en,unknown,#111111,#111111,3,0.4591268786832974
 'Lauren Sánchez',en,USA,#18e8e8,#18e8e8,3,0.458268477909091
-'Lauren Boebert',en,USA,#18e8e8,#18e8e8,3,0.4572292822727272
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.4565228139125148
 'Jane Fonda',en,unknown,#111111,#111111,3,0.4564498323724937
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.4563062189970635
