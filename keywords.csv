@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'David Weiss',en,unknown,#111111,#111111,3,0.5239516377377299
 'Kim Reynolds',en,unknown,#111111,#111111,3,0.5161503441314153
 'Lindsey Graham',en,USA,#18e8e8,#18e8e8,3,0.5046286336693183
+'David Weiss',en,unknown,#111111,#111111,3,0.4957816325316159
 'Laura Ingraham',en,USA,#18e8e8,#18e8e8,3,0.4844990395454545
 'Kim Yo Jong',en,NordKorea,#111111,#111111,2,0.4844984395454545
 'Jared Kushner',en,unknown,#111111,#111111,3,0.4843217708618934
@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Roman Pacino',en,unknown,#111111,#111111,1,0.4737117256678069
 'Bret Baier',en,unknown,#111111,#111111,3,0.4728461285620281
 'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,2,0.47150015
-'Sean Hannity',en,unknown,#111111,#111111,3,0.47127042495353055
+'Sean Hannity',en,unknown,#111111,#111111,3,0.4712704249535305
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.4709640270306815
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.4705073894060225
 'Leandro De Niro-Rodriguez',en,unknown,#111111,#111111,2,0.4681619168260469
@@ -103,9 +103,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jeffrey Donaldson',en,Irland,#111111,#111111,2,0.4260917406818184
 'Al Pacino',en,USA,#18e8e8,#18e8e8,3,0.4251898509869434
 'Reinhard Marx',en,Deutschland,#1818e8,#1818e8,1,0.42500009
-'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.425
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.425
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.425
+'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.425
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,3,0.4244367217363634
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.4227859538826473
 'Cillian Murphy',en,Irland,#111111,#111111,2,0.4216313847406104
