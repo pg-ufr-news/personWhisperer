@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bill Geddie',en,unknown,#111111,#111111,3,0.5825699764049834
 'David Weiss',en,unknown,#111111,#111111,3,0.5805414240786391
 'Kim Reynolds',en,unknown,#111111,#111111,2,0.5746189592570705
 'Melania Trump',en,unknown,#111111,#111111,3,0.5713711951423953
@@ -7,6 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sean Hannity',en,unknown,#111111,#111111,3,0.5461570608023942
 'Tom Brady',en,unknown,#111111,#111111,3,0.5451868241282485
 'Elizabeth Warren',en,unknown,#111111,#111111,3,0.539094049551749
+'Bill Geddie',en,unknown,#111111,#111111,3,0.5319536967624178
 'Lindsey Graham',en,USA,#18e8e8,#18e8e8,3,0.5046286336693183
 'Laura Ingraham',en,USA,#18e8e8,#18e8e8,3,0.4844990395454545
 'Kim Yo Jong',en,NordKorea,#111111,#111111,2,0.4844984395454545
@@ -111,11 +111,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Narendra Modi',en,Indien,#111111,#111111,3,0.4255702511773863
 'Al Pacino',en,USA,#18e8e8,#18e8e8,3,0.4251898509869434
 'Reinhard Marx',en,Deutschland,#1818e8,#1818e8,1,0.42500009
-'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.425
-'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.425
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.425
-'Gilbert Plass',en,Kanada,#111111,#111111,1,0.425
+'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.425
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.425
+'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.425
+'Gilbert Plass',en,Kanada,#111111,#111111,1,0.425
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,3,0.4244367217363634
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.4227859538826473
 'Cillian Murphy',en,Irland,#111111,#111111,2,0.4216313847406104
