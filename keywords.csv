@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Laura Ingraham',en,USA,#18e8e8,#18e8e8,3,0.5031415699772727
+'Laura Ingraham',en,USA,#18e8e8,#18e8e8,3,0.5144422812988636
 'Kim Yo Jong',en,NordKorea,#111111,#111111,2,0.4844984395454545
 'Jared Kushner',en,unknown,#111111,#111111,3,0.4843217708618934
 'Jennifer Garner',en,unknown,#111111,#111111,3,0.4841870613888442
@@ -375,7 +375,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dieter Bohlen',en,Deutschland,#1818e8,#1818e8,1,0.2041915324569236
 'Mark Zuckerberg',en,USA,#18e8e8,#18e8e8,3,0.202991931793682
 'Nancy Faeser',en,Deutschland,#1818e8,#1818e8,2,0.2025913901087565
-'Aleksandar Vucic',en,Serbien,#111111,#111111,3,0.20007642478014573
+'Aleksandar Vucic',en,Serbien,#111111,#111111,3,0.2000764247801457
 'Mohammed bin Salman',en,SaudiArabien,#111111,#111111,2,0.199302301329668
 'Antony Blinken',en,USA,#18e8e8,#18e8e8,3,0.199068191882527
 'Sergey Brin',en,USA,#18e8e8,#18e8e8,3,0.1979684383740849
@@ -401,9 +401,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.1885747578125
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
-'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1885747578124999
 'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1885747578124999
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
+'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1885747578124999
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Maria Kolesnikowa',en,Belarus,#e81858,#e81858,1,0.186767295009577
 'Roland Busch',en,Deutschland,#1818e8,#1818e8,2,0.1856639745592681
