@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ana Navarro',en,unknown,#111111,#111111,3,0.5976763523067006
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.5910862171364398
 'Maria Bartiromo',en,unknown,#111111,#111111,3,0.5884562770028947
 'Jonathan Turley',en,unknown,#111111,#111111,3,0.5794886687135876
@@ -8,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lara Trump',en,unknown,#111111,#111111,3,0.5671408299437489
 'Gavin Newsom',en,unknown,#111111,#111111,3,0.549528474850606
 'Sherri Shepherd',en,unknown,#111111,#111111,2,0.5278622782536693
+'Ana Navarro',en,unknown,#111111,#111111,3,0.5111757094606955
 'Jared Kushner',en,unknown,#111111,#111111,3,0.4843217708618934
 'Jennifer Garner',en,unknown,#111111,#111111,3,0.4841870613888442
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4814379049266383
@@ -258,15 +258,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.361565435094065
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.3615500554999999
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3614000149999999
+'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.3612499999999999
-'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3612499999999999
+'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
 'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
+'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3612499999999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,2,0.3601819436335849
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.358678357602557
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.3580522669973862
