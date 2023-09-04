@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sunny Hostin',en,unknown,#111111,#111111,2,0.6048133238830337
+'Sunny Hostin',en,unknown,#111111,#111111,2,0.5417696180278513
 'Caroline Ellison',en,unknown,#111111,#111111,3,0.5061770006787055
 'Margaret Qualley',en,unknown,#111111,#111111,2,0.5056619659070815
 'Nicolas Sarkozy',en,unknown,#111111,#111111,2,0.5041811977445924
@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alyssa Farah Griffin',en,unknown,#111111,#111111,3,0.4871106013074874
 'Maria Bartiromo',en,unknown,#111111,#111111,3,0.4870031669833786
 'Joy Behar',en,unknown,#111111,#111111,3,0.4868633261314267
-'Rand Paul',en,unknown,#111111,#111111,3,0.48473866895208123
+'Rand Paul',en,unknown,#111111,#111111,3,0.4847386689520812
 'Jennifer Garner',en,unknown,#111111,#111111,3,0.4841870613888442
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.4821396488155973
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4814379049266383
@@ -272,11 +272,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.3615500554999999
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3614000149999999
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.3612499999999999
-'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
-'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
+'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3612499999999999
@@ -425,9 +425,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ramsan Kadyrow',en,Russland,#e81818,#e81818,1,0.1885747578125
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1885747578124999
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1885747578124999
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Maria Kolesnikowa',en,Belarus,#e81858,#e81858,1,0.186767295009577
 'Roland Busch',en,Deutschland,#1818e8,#1818e8,2,0.1856639745592681
