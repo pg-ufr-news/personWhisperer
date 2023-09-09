@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Mark Meadows',en,unknown,#111111,#111111,3,0.5005815040115722
 'Taylor Swift',en,unknown,#111111,#111111,3,0.4938595292445193
 'Sam Bankman-Fried',en,unknown,#111111,#111111,3,0.487938851996055
 'Alyssa Farah Griffin',en,unknown,#111111,#111111,3,0.4871106013074874
@@ -10,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.4821396488155973
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4814379049266383
 'Akshata Murty',en,Indien,#111111,#111111,3,0.4812860957703039
+'Mark Meadows',en,unknown,#111111,#111111,3,0.4804726134098363
 'Vivek Ramaswamy',en,unknown,#111111,#111111,3,0.480181376990708
 'Lauren Boebert',en,USA,#18e8e8,#18e8e8,3,0.4799628762954545
 'Ron Johnson',en,unknown,#111111,#111111,3,0.4799121247530954
@@ -31,7 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gisele Bündchen',en,unknown,#111111,#111111,3,0.4719788665151883
 'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,2,0.47150015
 'Sean Hannity',en,unknown,#111111,#111111,3,0.4712704249535305
-'Jack Antonoff',en,unknown,#111111,#111111,3,0.46895074010980814
+'Jack Antonoff',en,unknown,#111111,#111111,3,0.4689507401098081
 'Jim Jordan',en,unknown,#111111,#111111,3,0.4687806814530167
 'Leandro De Niro-Rodriguez',en,unknown,#111111,#111111,2,0.4681619168260469
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.468089648636364
@@ -272,11 +272,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.3615500554999999
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3614000149999999
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.3612499999999999
-'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
-'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
+'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3612499999999999
@@ -425,9 +425,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ramsan Kadyrow',en,Russland,#e81818,#e81818,1,0.1885747578125
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1885747578124999
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1885747578124999
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Maria Kolesnikowa',en,Belarus,#e81858,#e81858,1,0.186767295009577
 'Roland Busch',en,Deutschland,#1818e8,#1818e8,2,0.1856639745592681
