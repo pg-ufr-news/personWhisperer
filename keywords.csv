@@ -252,7 +252,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karim Benzema',en,Frankreich,#e8e808,#e8e808,3,0.3744024619420454
 'Kemal Kiliçdaroglu',en,Türkei,#111111,#111111,1,0.3697498615410713
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,2,0.3677301017954545
-'Aurélien Rousseau',en,unknown,#111111,#111111,1,0.3661039626228906
 'Steve Milloy',en,USA,#18e8e8,#18e8e8,2,0.3652323388352272
 'président de la République',en,unknown,#111111,#111111,1,0.3650062420320784
 'Jessy Wellmer',en,unknown,#111111,#111111,1,0.3649478652110833
@@ -276,10 +275,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
-'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3612499999999999
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3612499999999999
+'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,2,0.3601819436335849
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.358678357602557
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.3580522669973862
@@ -307,6 +306,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027019743
 'Wagner-Chef Prigoschin',en,unknown,#111111,#111111,1,0.3125621190565372
 'Marguerite Cazeneuve',en,unknown,#111111,#111111,1,0.3121541829667352
+'Aurélien Rousseau',en,unknown,#111111,#111111,1,0.311488398229457
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
 'Tim Müller',en,Deutschland,#1818e8,#1818e8,1,0.307977656525
 'Julian Reichelt',en,Deutschland,#1818e8,#1818e8,2,0.3072114763998855
@@ -426,8 +426,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
-'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1885747578124999
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1885747578124999
+'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1885747578124999
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Maria Kolesnikowa',en,Belarus,#e81858,#e81858,1,0.186767295009577
 'Roland Busch',en,Deutschland,#1818e8,#1818e8,2,0.1856639745592681
