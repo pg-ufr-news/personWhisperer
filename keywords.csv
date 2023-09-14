@@ -198,7 +198,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jan Lipavský',en,Tschechien,#111111,#111111,1,0.4008451607624999
 'Katy Perry',en,USA,#18e8e8,#18e8e8,3,0.3995796965434094
 'Michael Walzer',en,USA,#18e8e8,#18e8e8,1,0.3995668571749999
-'Paul-Henry Nargeolet',en,Frankreich,#e8e808,#e8e808,3,0.3988256374090909
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.398507337875
 'Ed McVey',en,UK,#e838e8,#e838e8,2,0.3979297214326258
 'Sam H',en,unknown,#111111,#111111,2,0.3973205540488556
@@ -277,14 +276,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.3615500554999999
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3614000149999999
 'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
-'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
-'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3612499999999999
+'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.3612499999999999
+'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3612499999999999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,2,0.3601819436335849
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.358678357602557
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.3580522669973862
@@ -302,6 +301,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Isaac Newton',en,UK,#e838e8,#e838e8,3,0.343819546867272
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,1,0.3430846826913157
 'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.3400733687609372
+'Paul-Henry Nargeolet',en,Frankreich,#e8e808,#e8e808,3,0.3391518067977272
 'Bruno Retailleau',en,Frankreich,#e8e808,#e8e808,2,0.3390892955819233
 'Hamish Harding',en,UK,#e838e8,#e838e8,3,0.3372772776195453
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,2,0.3366240018700734
@@ -431,9 +431,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.1885747578125
-'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1885747578124999
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1885747578124999
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
+'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1885747578124999
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Maria Kolesnikowa',en,Belarus,#e81858,#e81858,1,0.186767295009577
 'Roland Busch',en,Deutschland,#1818e8,#1818e8,2,0.1856639745592681
