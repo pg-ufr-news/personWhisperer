@@ -1,5 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.5005508255512789
+'Steve Doocy',en,unknown,#111111,#111111,2,0.6046123675841343
+'Carey Mulligan',en,unknown,#111111,#111111,2,0.6033553096978425
+'Joaquim Valente',en,unknown,#111111,#111111,2,0.6009839498917052
 'Vivek Ramaswamy',en,USA,#18e8e8,#18e8e8,3,0.5005001088636364
 'Sam Bankman-Fried',en,unknown,#111111,#111111,3,0.487938851996055
 'Alyssa Farah Griffin',en,unknown,#111111,#111111,3,0.4871106013074874
@@ -27,6 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sunny Hostin',en,unknown,#111111,#111111,2,0.4722799103236736
 'Eric Trump',en,unknown,#111111,#111111,3,0.4721300526043329
 'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,2,0.47150015
+'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.47134148262767794
 'Sean Hannity',en,unknown,#111111,#111111,3,0.4712704249535305
 'Jack Antonoff',en,unknown,#111111,#111111,3,0.4689507401098081
 'Jim Jordan',en,unknown,#111111,#111111,3,0.4687806814530167
@@ -273,15 +276,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.361565435094065
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.3615500554999999
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3614000149999999
-'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3612499999999999
-'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.3612499999999999
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
-'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
+'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.3612499999999999
+'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3612499999999999
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,2,0.3601819436335849
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.358678357602557
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.3580522669973862
@@ -348,8 +351,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,1,0.261003125
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.261003125
-'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.2610031249999999
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
+'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.2610031249999999
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.2572194954743593
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,2,0.257086102712395
@@ -432,8 +435,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.1885747578125
-'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1885747578124999
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1885747578124999
+'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1885747578124999
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Maria Kolesnikowa',en,Belarus,#e81858,#e81858,1,0.186767295009577
@@ -475,8 +478,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Julian Assange',en,Australien,#111111,#111111,2,0.149083180581724
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.1486839321127972
 'Fidel Castro',en,Kuba,#111111,#111111,1,0.148244122139483
-'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.1471448835210937
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.1471448835210937
+'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.1471448835210937
 'Selenski',en,Ukraine,#e818e8,#e818e8,1,0.1460265211134415
 'Yoon Suk-yeol',en,SüdKorea,#111111,#111111,3,0.145481018944251
 'Kardinal Woelki',en,Deutschland,#1818e8,#1818e8,1,0.14527461460928
