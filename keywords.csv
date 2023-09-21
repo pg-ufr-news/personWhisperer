@@ -277,10 +277,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3614000149999999
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.3612499999999999
-'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
+'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3612499999999999
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
@@ -321,9 +321,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Julian Reichelt',en,Deutschland,#1818e8,#1818e8,2,0.3072114763998855
 'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,1,0.3071451384465584
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
+'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.3066963288949999
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
 'Mario Czaja',en,Deutschland,#1818e8,#1818e8,2,0.2938223625895234
@@ -431,10 +431,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrich Reitz',en,Deutschland,#1818e8,#1818e8,1,0.189706206359375
 'Edward Snowden',en,USA,#18e8e8,#18e8e8,1,0.189299821846266
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.1889983512346281
-'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
 'Ramsan Kadyrow',en,Russland,#e81818,#e81818,1,0.1885747578125
-'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.1885747578125
+'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
+'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.1885747578125
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1885747578124999
 'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1885747578124999
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
@@ -500,7 +500,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christoph Heusgen',en,Deutschland,#1818e8,#1818e8,1,0.138367905115676
 'Jewgenij Roisman',en,Russland,#e81818,#e81818,1,0.137861546247125
 'Wolodymyr Selenskyj',en,Ukraine,#e818e8,#e818e8,1,0.137520488281903
-'Sergej Lawrow',en,Russland,#e81818,#e81818,1,0.137358973511577
 'Marco Buschmann',en,Deutschland,#1818e8,#1818e8,1,0.1363091408916048
 'Wladimir Putin',en,Russland,#e81818,#e81818,1,0.1358791656501874
 'Markus Krebber',en,Deutschland,#1818e8,#1818e8,1,0.1348693816975384
@@ -551,6 +550,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joana Cotar',en,Deutschland,#1818e8,#1818e8,1,0.1176270711232918
 'Martin Sonneborn',en,Deutschland,#1818e8,#1818e8,1,0.117512603527464
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.1171652815017715
+'Sergej Lawrow',en,Russland,#e81818,#e81818,1,0.11675512748484045
 'Daniel Freund',en,EU,#111111,#111111,1,0.1165552828461984
 'Michael Kretschmer',en,Deutschland,#1818e8,#1818e8,1,0.116524999003359
 'Alberto Ángel Fernández',en,Argentinien,#111111,#111111,1,0.115556980050688
