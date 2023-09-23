@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Vassily Nebenzia',en,Russland,#e81818,#e81818,2,0.5058893209545454
 'Sam Bankman-Fried',en,unknown,#111111,#111111,3,0.487938851996055
 'Alyssa Farah Griffin',en,unknown,#111111,#111111,3,0.4871106013074874
 'Maria Bartiromo',en,unknown,#111111,#111111,3,0.4870031669833786
@@ -80,7 +79,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Reynolds',en,unknown,#111111,#111111,3,0.4459524289985839
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.445807904925992
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.445776591606818
-'Akshata Murty',en,Indien,#111111,#111111,3,0.44575379655768094
+'Akshata Murty',en,Indien,#111111,#111111,3,0.4457537965576809
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,3,0.4442579151182017
 'Lionel Messi',en,Argentinien,#111111,#111111,3,0.4440859879732786
 'Raphael Warnock',en,USA,#18e8e8,#18e8e8,2,0.443588088636364
@@ -96,6 +95,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gerald Darmanin',en,unknown,#111111,#111111,2,0.4406192349452916
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.4404046227253669
 'Martin Luther King',en,USA,#18e8e8,#18e8e8,3,0.4396595972838064
+'Vassily Nebenzia',en,Russland,#e81818,#e81818,2,0.43950262235681814
 'Gayle King',en,unknown,#111111,#111111,3,0.4387218463145332
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.4382747316020494
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,2,0.43822569375
@@ -277,11 +277,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.3615500554999999
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3614000149999999
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.3612499999999999
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
 'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.3612499999999999
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3612499999999999
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
@@ -322,9 +322,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Julian Reichelt',en,Deutschland,#1818e8,#1818e8,2,0.3072114763998855
 'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,1,0.3071451384465584
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
+'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.3066963288949999
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
 'Mario Czaja',en,Deutschland,#1818e8,#1818e8,2,0.2938223625895234
@@ -432,10 +432,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrich Reitz',en,Deutschland,#1818e8,#1818e8,1,0.189706206359375
 'Edward Snowden',en,USA,#18e8e8,#18e8e8,1,0.189299821846266
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.1889983512346281
-'Ramsan Kadyrow',en,Russland,#e81818,#e81818,1,0.1885747578125
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
-'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
+'Ramsan Kadyrow',en,Russland,#e81818,#e81818,1,0.1885747578125
 'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.1885747578125
+'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1885747578124999
 'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1885747578124999
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
