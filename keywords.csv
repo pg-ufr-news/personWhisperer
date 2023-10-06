@@ -132,7 +132,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean Jouzel',en,unknown,#111111,#111111,1,0.4267284513017148
 'Joaquim Valente',en,unknown,#111111,#111111,1,0.4263506247683148
 'Al Pacino',en,USA,#18e8e8,#18e8e8,3,0.4254551174298109
-'Fabien Roussel',en,unknown,#111111,#111111,1,0.42540093716249605
+'Fabien Roussel',en,unknown,#111111,#111111,1,0.425400937162496
 'Reinhard Marx',en,Deutschland,#1818e8,#1818e8,1,0.42500009
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,3,0.4244367217363634
 'Jeffrey Donaldson',en,Irland,#111111,#111111,2,0.4232120779128789
@@ -287,15 +287,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.361565435094065
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.3615500554999999
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3614000149999999
-'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
-'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
-'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3612499999999999
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.3612499999999999
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.3612499999999999
+'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
+'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,2,0.3601819436335849
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.358678357602557
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.3580522669973862
@@ -333,9 +332,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Julian Reichelt',en,Deutschland,#1818e8,#1818e8,2,0.3072114763998855
 'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,1,0.3071451384465584
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
-'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.3066963288949999
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
 'Mario Czaja',en,Deutschland,#1818e8,#1818e8,2,0.2938223625895234
