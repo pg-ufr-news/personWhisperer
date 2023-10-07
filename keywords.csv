@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.4730977641769373
 'Bret Baier',en,unknown,#111111,#111111,3,0.4725220378406555
 'Eric Trump',en,unknown,#111111,#111111,3,0.4721300526043329
-'Jack Antonoff',en,unknown,#111111,#111111,3,0.47174153727515505
+'Jack Antonoff',en,unknown,#111111,#111111,3,0.471741537275155
 'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,2,0.47150015
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4713414826276779
 'Sean Hannity',en,unknown,#111111,#111111,3,0.4712704249535305
@@ -291,11 +291,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.3612499999999999
-'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
-'Markus Lanz',en,Deutschland,#1818e8,#1818e8,2,0.3601819436335849
+'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3612499999999999
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.358678357602557
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.3580522669973862
 'Boris Johnson',en,UK,#e838e8,#e838e8,3,0.3574162960158356
@@ -332,11 +331,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Julian Reichelt',en,Deutschland,#1818e8,#1818e8,2,0.3072114763998855
 'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,1,0.3071451384465584
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3070625
-'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.3066963288949999
+'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.3061546820885471
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.295040084794687
 'Mario Czaja',en,Deutschland,#1818e8,#1818e8,2,0.2938223625895234
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.293322933515939
