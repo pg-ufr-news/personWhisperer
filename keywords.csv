@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lauren Boebert',en,USA,#18e8e8,#18e8e8,3,0.4799628762954545
 'Ron Johnson',en,unknown,#111111,#111111,3,0.4799121247530954
 'Bill Barr',en,unknown,#111111,#111111,2,0.4795305162845205
-'Lara Trump',en,unknown,#111111,#111111,3,0.47931506639002847
+'Lara Trump',en,unknown,#111111,#111111,3,0.4793150663900284
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.4784178451296212
 'Melania Trump',en,unknown,#111111,#111111,3,0.4781024874827326
 'Matt Gaetz',en,unknown,#111111,#111111,3,0.4779343845811609
@@ -25,7 +25,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bret Baier',en,unknown,#111111,#111111,3,0.4725220378406555
 'Eric Trump',en,unknown,#111111,#111111,3,0.4721300526043329
 'Jack Antonoff',en,unknown,#111111,#111111,3,0.471741537275155
-'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,2,0.47150015
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4713414826276779
 'Sean Hannity',en,unknown,#111111,#111111,3,0.4712704249535305
 'Berkshire Hathaway',en,USA,#18e8e8,#18e8e8,3,0.4689117196715804
@@ -211,6 +210,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.4015275375888352
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.40141514063
 'Jan Lipavský',en,Tschechien,#111111,#111111,1,0.4008451607624999
+'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,1,0.4007751275
 'Katy Perry',en,USA,#18e8e8,#18e8e8,3,0.3995796965434094
 'Michael Walzer',en,USA,#18e8e8,#18e8e8,1,0.3995668571749999
 'James Cameron',en,USA,#18e8e8,#18e8e8,3,0.3993062787741476
@@ -287,14 +287,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.361565435094065
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.3615500554999999
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3614000149999999
+'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.3612499999999999
-'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
+'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3612499999999999
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.358678357602557
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.3580522669973862
 'Boris Johnson',en,UK,#e838e8,#e838e8,3,0.3574162960158356
