@@ -113,7 +113,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ana Navarro',en,unknown,#111111,#111111,2,0.4345001030415911
 'Drena De Niro',en,USA,#18e8e8,#18e8e8,3,0.4344965645454545
 'Afida Turner',en,Frankreich,#e8e808,#e8e808,2,0.4338854198393749
-'Edouard Philippe',en,unknown,#111111,#111111,1,0.4316349494889242
 'Princess Diana',en,UK,#e838e8,#e838e8,3,0.4312251231124068
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,3,0.4310869115083519
 'James Comer',en,unknown,#111111,#111111,3,0.4310120514787025
@@ -249,6 +248,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Washington',en,USA,#18e8e8,#18e8e8,3,0.3880506678617044
 'Albert Einstein',en,Deutschland,#1818e8,#1818e8,3,0.3878609189136361
 'Putin',en,Russland,#e81818,#e81818,3,0.38784510155445
+'Edouard Philippe',en,unknown,#111111,#111111,1,0.387087020889115
 'Johnny Depp',en,USA,#18e8e8,#18e8e8,3,0.3863471999243401
 'Kanye West',en,USA,#18e8e8,#18e8e8,3,0.3858222214856
 'Élisabeth Borne',en,Frankreich,#e8e808,#e8e808,2,0.3850051559545454
@@ -293,14 +293,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.361565435094065
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.3615500554999999
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3614000149999999
-'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3612499999999999
-'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
+'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.3612499999999999
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
-'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
+'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
+'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3612499999999999
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.358678357602557
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.3580522669973862
 'Boris Johnson',en,UK,#e838e8,#e838e8,3,0.3574162960158356
