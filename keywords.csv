@@ -1,16 +1,15 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Marjan Minnesma',en,unknown,#111111,#111111,2,0.55
-'Mary Robinson',en,unknown,#111111,#111111,2,0.55
-'Kyle Pope',en,unknown,#111111,#111111,2,0.55
-'Mark Hertsgaard',en,unknown,#111111,#111111,2,0.55
 'Robin Wall Kimmerer',en,unknown,#111111,#111111,2,0.55
-'António Guterres',en,unknown,#111111,#111111,2,0.55
-'Sophia Kianni',en,unknown,#111111,#111111,2,0.55
-'Hans Joosten',en,unknown,#111111,#111111,2,0.55
+'Steven Donziger',en,unknown,#111111,#111111,2,0.55
+'Johan Rockström',en,unknown,#111111,#111111,2,0.55
+'Mary Robinson',en,unknown,#111111,#111111,2,0.55
 'Tasneem Essop',en,unknown,#111111,#111111,2,0.55
 'Helena Gualinga',en,unknown,#111111,#111111,2,0.55
-'Johan Rockström',en,unknown,#111111,#111111,2,0.55
-'Steven Donziger',en,unknown,#111111,#111111,2,0.55
+'Sophia Kianni',en,unknown,#111111,#111111,2,0.55
+'António Guterres',en,unknown,#111111,#111111,2,0.55
+'Hans Joosten',en,unknown,#111111,#111111,2,0.55
+'Mark Hertsgaard',en,unknown,#111111,#111111,2,0.55
+'Kyle Pope',en,unknown,#111111,#111111,2,0.55
 'Chuck Schumer',en,unknown,#111111,#111111,3,0.5362640259496957
 'Bob Menendez',en,unknown,#111111,#111111,3,0.5239085513674422
 'Leni Klum',en,unknown,#111111,#111111,2,0.5095793461652652
@@ -54,9 +53,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.468089648636364
 'Autumn Peltier',en,unknown,#111111,#111111,2,0.467950045
 'Vanessa Nakate',en,unknown,#111111,#111111,1,0.467500285
-'Minka Indigena',en,unknown,#111111,#111111,1,0.4675
 'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.4675
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.4675
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.4675
+'Minka Indigena',en,unknown,#111111,#111111,1,0.4675
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.466893276818182
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.466586652522727
 'Margaret Qualley',en,unknown,#111111,#111111,2,0.466583012839201
