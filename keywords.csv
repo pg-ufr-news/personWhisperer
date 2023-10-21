@@ -1,12 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sophia Kianni',en,unknown,#111111,#111111,2,0.55
-'Tasneem Essop',en,unknown,#111111,#111111,2,0.55
 'Johan Rockström',en,unknown,#111111,#111111,2,0.55
 'Mark Hertsgaard',en,unknown,#111111,#111111,2,0.55
 'António Guterres',en,unknown,#111111,#111111,2,0.55
 'Hans Joosten',en,unknown,#111111,#111111,2,0.55
 'Helena Gualinga',en,unknown,#111111,#111111,2,0.55
 'Kyle Pope',en,unknown,#111111,#111111,2,0.55
+'Tasneem Essop',en,unknown,#111111,#111111,2,0.55
 'Chuck Schumer',en,unknown,#111111,#111111,3,0.5362640259496957
 'Bob Menendez',en,unknown,#111111,#111111,3,0.5239085513674422
 'Leni Klum',en,unknown,#111111,#111111,2,0.5095793461652652
@@ -52,7 +51,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Autumn Peltier',en,unknown,#111111,#111111,2,0.467950045
 'Vanessa Nakate',en,unknown,#111111,#111111,1,0.467500285
 'Robin Wall Kimmerer',en,unknown,#111111,#111111,1,0.467500165
-'Steven Donziger',en,unknown,#111111,#111111,1,0.46750004500000003
+'Sophia Kianni',en,unknown,#111111,#111111,1,0.46750006000000005
+'Steven Donziger',en,unknown,#111111,#111111,1,0.467500045
 'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.4675
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.4675
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.4675
