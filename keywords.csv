@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sam Asghari',en,unknown,#111111,#111111,2,0.6097635841999031
+'Sam Asghari',en,unknown,#111111,#111111,3,0.6232524965699175
 'Travis Kelce',en,unknown,#111111,#111111,2,0.6085818639204488
 'Lance Bass',en,unknown,#111111,#111111,2,0.6008590400061585
 'Brad Pitt',en,unknown,#111111,#111111,2,0.5080459885600574
@@ -393,7 +393,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.293322933515939
 'Olivier Marleix',en,Frankreich,#e8e808,#e8e808,1,0.2902067868125268
 'Liz Truss',en,UK,#e838e8,#e838e8,3,0.288453085811433
-'Jens Stoltenberg',en,Norwegen,#e818e8,#e818e8,3,0.28219222857936244
+'Jens Stoltenberg',en,Norwegen,#e818e8,#e818e8,3,0.2821922285793624
 'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.281883375
 'Aleksandar Vučić',en,Serbien,#111111,#111111,2,0.281541245468467
 'Jordan Bardella',en,Frankreich,#e8e808,#e8e808,1,0.28141566077404
