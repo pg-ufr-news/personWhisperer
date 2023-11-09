@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sam Asghari',en,unknown,#111111,#111111,3,0.494361238532137
 'Steve Scalise',en,unknown,#111111,#111111,3,0.4880037614077614
 'Alyssa Farah Griffin',en,unknown,#111111,#111111,3,0.4871787242931825
 'Maria Bartiromo',en,unknown,#111111,#111111,3,0.4870031669833786
@@ -56,11 +55,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Hertsgaard',en,unknown,#111111,#111111,1,0.467500105
 'Sophia Kianni',en,unknown,#111111,#111111,1,0.46750006
 'Steven Donziger',en,unknown,#111111,#111111,1,0.467500045
-'Claudia Kempfert',en,unknown,#111111,#111111,1,0.4675
 'Gorbatschow',en,unknown,#111111,#111111,1,0.4675
-'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.4675
-'Minka Indigena',en,unknown,#111111,#111111,1,0.4675
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.4675
+'Claudia Kempfert',en,unknown,#111111,#111111,1,0.4675
+'Minka Indigena',en,unknown,#111111,#111111,1,0.4675
+'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.4675
 'Hans Joosten',en,unknown,#111111,#111111,1,0.4675
 'Tasneem Essop',en,unknown,#111111,#111111,1,0.4675
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.4675
@@ -99,6 +98,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Merrick Garland',en,unknown,#111111,#111111,3,0.4531097050410912
 'Patti LaBelle',en,USA,#18e8e8,#18e8e8,2,0.4530704618106059
 'George Santos',en,USA,#18e8e8,#18e8e8,3,0.4524897087943181
+'Sam Asghari',en,unknown,#111111,#111111,3,0.4524331700250437
 'Jonathan Turley',en,unknown,#111111,#111111,3,0.4523920616910216
 'Taylor Swift',en,unknown,#111111,#111111,3,0.4520514321305686
 'Jordan Neely',en,USA,#18e8e8,#18e8e8,2,0.4518220526275976
