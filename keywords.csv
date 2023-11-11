@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bret Baier',en,unknown,#111111,#111111,3,0.4929590635281935
 'Alyssa Farah Griffin',en,unknown,#111111,#111111,3,0.4871787242931825
 'Maria Bartiromo',en,unknown,#111111,#111111,3,0.4870031669833786
 'Joy Behar',en,unknown,#111111,#111111,3,0.4868633261314267
@@ -54,13 +53,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Hertsgaard',en,unknown,#111111,#111111,1,0.467500105
 'Sophia Kianni',en,unknown,#111111,#111111,1,0.46750006
 'Steven Donziger',en,unknown,#111111,#111111,1,0.467500045
-'Gorbatschow',en,unknown,#111111,#111111,1,0.4675
 'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.4675
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.4675
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.4675
-'Tasneem Essop',en,unknown,#111111,#111111,1,0.4675
-'Hans Joosten',en,unknown,#111111,#111111,1,0.4675
+'Gorbatschow',en,unknown,#111111,#111111,1,0.4675
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.4675
 'Minka Indigena',en,unknown,#111111,#111111,1,0.4675
+'Hans Joosten',en,unknown,#111111,#111111,1,0.4675
+'Tasneem Essop',en,unknown,#111111,#111111,1,0.4675
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.4675
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.4675
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.466893276818182
@@ -83,6 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawrence Jones',en,unknown,#111111,#111111,3,0.4616580239693126
 'Silvio Berlusconi',en,Italien,#111111,#111111,3,0.4614727908318182
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.4611618314598204
+'Bret Baier',en,unknown,#111111,#111111,3,0.4603305803626008
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.4601925355227271
 'Leni Klum',en,unknown,#111111,#111111,3,0.4596817286044041
 'Devon Archer',en,unknown,#111111,#111111,3,0.4591268786832974
