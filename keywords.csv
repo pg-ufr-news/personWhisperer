@@ -5,6 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brad Pitt',en,unknown,#111111,#111111,3,0.4867939352760488
 'Rand Paul',en,unknown,#111111,#111111,3,0.4847386689520812
 'Sunny Hostin',en,unknown,#111111,#111111,3,0.4844501366354805
+'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.4839181228657953
 'Ryan Gosling',en,unknown,#111111,#111111,3,0.4835873520454546
 'Justin Timberlake',en,unknown,#111111,#111111,3,0.4834748696655584
 'Lance Bass',en,unknown,#111111,#111111,3,0.4824905168062821
@@ -53,14 +54,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Hertsgaard',en,unknown,#111111,#111111,1,0.467500105
 'Sophia Kianni',en,unknown,#111111,#111111,1,0.46750006
 'Steven Donziger',en,unknown,#111111,#111111,1,0.467500045
-'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.4675
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.4675
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.4675
 'Gorbatschow',en,unknown,#111111,#111111,1,0.4675
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.4675
-'Helena Gualinga',en,unknown,#111111,#111111,1,0.4675
+'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.4675
+'Minka Indigena',en,unknown,#111111,#111111,1,0.4675
 'Hans Joosten',en,unknown,#111111,#111111,1,0.4675
 'Tasneem Essop',en,unknown,#111111,#111111,1,0.4675
-'Minka Indigena',en,unknown,#111111,#111111,1,0.4675
+'Helena Gualinga',en,unknown,#111111,#111111,1,0.4675
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.4675
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.466893276818182
 'Heidi Klum',en,unknown,#111111,#111111,3,0.4668360525136714
@@ -119,7 +120,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cassidy Hutchinson',en,unknown,#111111,#111111,3,0.4461955797820728
 'Nicolas Sarkozy',en,unknown,#111111,#111111,3,0.4461229684392294
 'Kim Reynolds',en,unknown,#111111,#111111,3,0.4459524289985839
-'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.445776591606818
 'Akshata Murty',en,Indien,#111111,#111111,3,0.4457537965576809
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,3,0.4442579151182017
 'Lionel Messi',en,Argentinien,#111111,#111111,3,0.4440859879732786
@@ -587,7 +587,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Luisa Neubauer',en,Deutschland,#1818e8,#1818e8,1,0.12749783707508
 'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.1273893204557615
 'Sergej Lavrov',en,Russland,#e81818,#e81818,1,0.1273451327483475
-'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.12653135729587764
+'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.1265313572958776
 'Muhammad bin Zayid Al Nahyan',en,VAE,#111111,#111111,1,0.125394471353096
 'Julia Koch',en,USA,#18e8e8,#18e8e8,1,0.1253417359567913
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.1250731509929299
