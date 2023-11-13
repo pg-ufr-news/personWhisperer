@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sophie Turner',en,unknown,#111111,#111111,2,0.6083840619389594
 'Pedro Pascal',en,unknown,#111111,#111111,2,0.6021183684849309
+'Sophie Turner',en,unknown,#111111,#111111,3,0.567536623102661
 'Margot Robbie',en,unknown,#111111,#111111,2,0.5028603756190335
 'Alyssa Farah Griffin',en,unknown,#111111,#111111,3,0.4871787242931825
 'Maria Bartiromo',en,unknown,#111111,#111111,3,0.4870031669833786
@@ -625,7 +625,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry Page',en,USA,#18e8e8,#18e8e8,2,0.1119222942196051
 'Alexej Kudrin',en,Russland,#e81818,#e81818,1,0.1118888387080861
 'Paul Ronzheimer',en,Deutschland,#1818e8,#1818e8,1,0.111028842616365
-'Sergej Schoigu',en,Russland,#e81818,#e81818,1,0.11102105827774582
+'Sergej Schoigu',en,Russland,#e81818,#e81818,1,0.1110210582777458
 'Susanne Klatten',en,Deutschland,#1818e8,#1818e8,1,0.1104126771090879
 'Gregor Gysi',en,Deutschland,#1818e8,#1818e8,1,0.1102734217539769
 'Michael Ballweg',en,Deutschland,#1818e8,#1818e8,1,0.1100016288819354
