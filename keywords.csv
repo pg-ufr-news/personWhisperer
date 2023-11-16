@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sophie Turner',en,unknown,#111111,#111111,3,0.4989621618315375
+'Sophie Turner',en,unknown,#111111,#111111,3,0.488163321647716
 'Alyssa Farah Griffin',en,unknown,#111111,#111111,3,0.4871787242931825
 'Maria Bartiromo',en,unknown,#111111,#111111,3,0.4870031669833786
 'Joy Behar',en,unknown,#111111,#111111,3,0.4868633261314267
@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.4784178451296212
 'Melania Trump',en,unknown,#111111,#111111,3,0.4781024874827326
 'Matt Gaetz',en,unknown,#111111,#111111,3,0.4779343845811609
-'Margot Robbie',en,unknown,#111111,#111111,3,0.47783935973072394
+'Margot Robbie',en,unknown,#111111,#111111,3,0.4778393597307239
 'Tom Brady',en,unknown,#111111,#111111,3,0.4774715345999202
 'Jennifer Lopez',en,unknown,#111111,#111111,3,0.4771596667547748
 'Nawaz Sharif',en,unknown,#111111,#111111,3,0.4771290044145105
@@ -58,15 +58,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Hertsgaard',en,unknown,#111111,#111111,1,0.467500105
 'Sophia Kianni',en,unknown,#111111,#111111,1,0.46750006
 'Steven Donziger',en,unknown,#111111,#111111,1,0.467500045
+'Tasneem Essop',en,unknown,#111111,#111111,1,0.4675
 'Gorbatschow',en,unknown,#111111,#111111,1,0.4675
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.4675
 'Minka Indigena',en,unknown,#111111,#111111,1,0.4675
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.4675
-'Tasneem Essop',en,unknown,#111111,#111111,1,0.4675
-'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.4675
 'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.4675
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.4675
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.4675
 'Hans Joosten',en,unknown,#111111,#111111,1,0.4675
+'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.4675
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.466893276818182
 'Heidi Klum',en,unknown,#111111,#111111,3,0.4668360525136714
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.466586652522727
