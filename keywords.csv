@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Chris Stapleton',en,unknown,#111111,#111111,2,0.558957563802846
 'Missy Elliott',en,unknown,#111111,#111111,2,0.545525562222588
 'Gigi Hadid',en,unknown,#111111,#111111,3,0.5453822439757975
 'Willie Nelson',en,unknown,#111111,#111111,3,0.539444142949238
@@ -11,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Behar',en,unknown,#111111,#111111,3,0.4868633261314267
 'Brad Pitt',en,unknown,#111111,#111111,3,0.4867939352760488
 'Rand Paul',en,unknown,#111111,#111111,3,0.4847386689520812
+'Chris Stapleton',en,unknown,#111111,#111111,2,0.4846141237778736
 'Sunny Hostin',en,unknown,#111111,#111111,3,0.4844501366354805
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.4839181228657953
 'Ryan Gosling',en,unknown,#111111,#111111,3,0.4835873520454546
@@ -511,9 +511,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.1885747578125
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
-'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1885747578124999
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1885747578124999
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
+'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1885747578124999
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Maria Kolesnikowa',en,Belarus,#e81858,#e81858,1,0.186767295009577
 'Roland Busch',en,Deutschland,#1818e8,#1818e8,2,0.1856639745592681
