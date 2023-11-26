@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Joe Jonas',en,unknown,#111111,#111111,2,0.5015277652320482
 'Brittany Mahomes',en,unknown,#111111,#111111,3,0.4994712355437051
 'Peregrine Pearson',en,unknown,#111111,#111111,2,0.4951468727558065
 'Gigi Hadid',en,unknown,#111111,#111111,3,0.4879783290452409
@@ -79,7 +78,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tiffany Chen',en,USA,#18e8e8,#18e8e8,3,0.4660611942218155
 'Paris Hilton',en,unknown,#111111,#111111,2,0.4657946898618948
 'Millie Mackintosh',en,UK,#e838e8,#e838e8,2,0.465723447272727
-'Willie Nelson',en,unknown,#111111,#111111,3,0.46550553687173357
+'Willie Nelson',en,unknown,#111111,#111111,3,0.4655055368717335
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4654458203966113
 'Gisele Bündchen',en,unknown,#111111,#111111,3,0.4652246406288191
 'Jessica Biel',en,unknown,#111111,#111111,3,0.4644669443897264
@@ -152,6 +151,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gayle King',en,unknown,#111111,#111111,3,0.4387218463145332
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.4382747316020494
 'Sergei Surovikin',en,Russland,#e81818,#e81818,3,0.4360936749318181
+'Joe Jonas',en,unknown,#111111,#111111,2,0.43579766999269554
 'Michael Cohen',en,USA,#18e8e8,#18e8e8,3,0.435627874407386
 'Milo Yiannopoulos',en,UK,#e838e8,#e838e8,2,0.4355835250787321
 'Faith Birol',en,unknown,#111111,#111111,1,0.43547506
@@ -511,9 +511,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.1885747578125
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
-'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1885747578124999
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1885747578124999
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
+'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1885747578124999
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Maria Kolesnikowa',en,Belarus,#e81858,#e81858,1,0.186767295009577
 'Roland Busch',en,Deutschland,#1818e8,#1818e8,2,0.1856639745592681
