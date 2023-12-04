@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Reed Richards',en,unknown,#111111,#111111,2,0.6097248103749286
 'Carter Reum',en,unknown,#111111,#111111,2,0.6049566584180304
 'Victoria Monét',en,unknown,#111111,#111111,2,0.6012610907530925
+'Reed Richards',en,unknown,#111111,#111111,3,0.545946901545962
 'Derek Chauvin',en,unknown,#111111,#111111,2,0.5041698229009506
 'Cara Delevingne',en,unknown,#111111,#111111,2,0.4872775794741463
 'Paris Hilton',en,unknown,#111111,#111111,3,0.487245707746247
@@ -144,7 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.4410324932402883
 'Gerald Darmanin',en,unknown,#111111,#111111,2,0.4406192349452916
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.4404046227253669
-'Jeanne du Barry',en,Frankreich,#e8e808,#e8e808,2,0.43981088496033316
+'Jeanne du Barry',en,Frankreich,#e8e808,#e8e808,2,0.4398108849603331
 'Martin Luther King',en,USA,#18e8e8,#18e8e8,3,0.4396595972838064
 'Vassily Nebenzia',en,Russland,#e81818,#e81818,2,0.4395026223568181
 'Harrison Ford',en,unknown,#111111,#111111,3,0.4394949272045454
