@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rand Paul',en,unknown,#111111,#111111,3,0.4847386689520812
 'Chris Stapleton',en,unknown,#111111,#111111,2,0.4846141237778736
 'Sunny Hostin',en,unknown,#111111,#111111,3,0.4844501366354805
-'Ivanka Trump',en,unknown,#111111,#111111,3,0.48428213990262015
+'Ivanka Trump',en,unknown,#111111,#111111,3,0.4842821399026201
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.4839181228657953
 'Ryan Gosling',en,unknown,#111111,#111111,3,0.4835873520454546
 'Justin Timberlake',en,unknown,#111111,#111111,3,0.4834748696655584
@@ -45,6 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.4758436910103064
 'Carey Mulligan',en,unknown,#111111,#111111,2,0.4755420257112366
 'Javier Milei',en,unknown,#111111,#111111,3,0.4752782346238636
+'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.47404684523438995
 'Maria Bartiromo',en,unknown,#111111,#111111,3,0.4737810409182182
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.4730977641769373
 'Mark Hertsgaard',en,unknown,#111111,#111111,2,0.47267511925
@@ -66,14 +67,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.468089648636364
 'Sophia Kianni',en,unknown,#111111,#111111,1,0.46750006
 'Steven Donziger',en,unknown,#111111,#111111,1,0.467500045
-'Claudia Kempfert',en,unknown,#111111,#111111,1,0.4675
-'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.4675
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.4675
-'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.4675
-'Helena Gualinga',en,unknown,#111111,#111111,1,0.4675
-'Tasneem Essop',en,unknown,#111111,#111111,1,0.4675
 'Gorbatschow',en,unknown,#111111,#111111,1,0.4675
+'Tasneem Essop',en,unknown,#111111,#111111,1,0.4675
 'Minka Indigena',en,unknown,#111111,#111111,1,0.4675
+'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.4675
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.4675
+'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.4675
+'Claudia Kempfert',en,unknown,#111111,#111111,1,0.4675
+'Helena Gualinga',en,unknown,#111111,#111111,1,0.4675
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.466893276818182
 'Heidi Klum',en,unknown,#111111,#111111,3,0.4668360525136714
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.466586652522727
@@ -121,7 +122,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Billionaire Bunker',en,unknown,#111111,#111111,2,0.4514925911496645
 'Jack Smith',en,USA,#18e8e8,#18e8e8,3,0.4507679783249999
 'Bob Menendez',en,unknown,#111111,#111111,3,0.4502915886623258
-'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.450265575142063
 'Brian Kilmeade',en,unknown,#111111,#111111,3,0.4495540059567855
 'Viktor Shokin',en,unknown,#111111,#111111,3,0.449349214487078
 'Kyle Pope',en,unknown,#111111,#111111,2,0.4490334434999999
