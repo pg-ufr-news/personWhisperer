@@ -1,8 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Hazel Monét',en,unknown,#111111,#111111,2,0.554377566641295
 'Jon Batiste',en,unknown,#111111,#111111,2,0.5373985555631575
 'Gérard Larcher',en,unknown,#111111,#111111,2,0.5083487856117614
-'Phoebe Bridgers',en,unknown,#111111,#111111,3,0.48986729905145426
+'Phoebe Bridgers',en,unknown,#111111,#111111,3,0.4898672990514542
 'Rupert Murdoch',en,unknown,#111111,#111111,2,0.4879025406136364
 'Cara Delevingne',en,unknown,#111111,#111111,2,0.4872775794741463
 'Paris Hilton',en,unknown,#111111,#111111,3,0.487245707746247
@@ -56,6 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eric Trump',en,unknown,#111111,#111111,3,0.4721300526043329
 'Hugh Grant',en,unknown,#111111,#111111,3,0.4720322388127522
 'Jack Antonoff',en,unknown,#111111,#111111,3,0.471741537275155
+'Hazel Monét',en,unknown,#111111,#111111,2,0.47167097664510077
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4713414826276779
 'Sean Hannity',en,unknown,#111111,#111111,3,0.4712704249535305
 'António Guterres',en,unknown,#111111,#111111,3,0.4708385799056818
@@ -70,9 +70,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.468089648636364
 'Sophia Kianni',en,unknown,#111111,#111111,1,0.46750006
 'Steven Donziger',en,unknown,#111111,#111111,1,0.467500045
+'Helena Gualinga',en,unknown,#111111,#111111,1,0.4675
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.4675
 'Minka Indigena',en,unknown,#111111,#111111,1,0.4675
-'Helena Gualinga',en,unknown,#111111,#111111,1,0.4675
 'Tasneem Essop',en,unknown,#111111,#111111,1,0.4675
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.4675
 'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.4675
@@ -521,10 +521,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Missy Motown',en,Deutschland,#1818e8,#1818e8,1,0.1902438287301451
 'Edward Snowden',en,USA,#18e8e8,#18e8e8,1,0.189299821846266
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.1889983512346281
-'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Ramsan Kadyrow',en,Russland,#e81818,#e81818,1,0.1885747578125
-'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.1885747578125
+'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
+'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.1885747578125
 'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1885747578124999
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1885747578124999
