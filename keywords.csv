@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Pedro Pascal',en,unknown,#111111,#111111,3,0.4871183579175991
 'Joy Behar',en,unknown,#111111,#111111,3,0.4868633261314267
 'Brad Pitt',en,unknown,#111111,#111111,3,0.4867939352760488
 'Zach Bryan',en,unknown,#111111,#111111,3,0.4851882000153666
@@ -20,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Meadows',en,unknown,#111111,#111111,3,0.4804726134098363
 'Lauren Boebert',en,USA,#18e8e8,#18e8e8,3,0.4799628762954545
 'Ron Johnson',en,unknown,#111111,#111111,3,0.4799121247530954
-'Cara Delevingne',en,unknown,#111111,#111111,3,0.47986356096552524
+'Cara Delevingne',en,unknown,#111111,#111111,3,0.4798635609655252
 'Bill Barr',en,unknown,#111111,#111111,2,0.4795305162845205
 'Lara Trump',en,unknown,#111111,#111111,3,0.4793150663900284
 'Derek Chauvin',en,unknown,#111111,#111111,2,0.4789554949203534
@@ -67,13 +66,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.468089648636364
 'Rupert Murdoch',en,unknown,#111111,#111111,3,0.4675822560024432
 'Steven Donziger',en,unknown,#111111,#111111,1,0.467500045
-'Tasneem Essop',en,unknown,#111111,#111111,1,0.4675
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.4675
-'Minka Indigena',en,unknown,#111111,#111111,1,0.4675
-'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.4675
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.4675
-'Claudia Kempfert',en,unknown,#111111,#111111,1,0.4675
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.4675
+'Claudia Kempfert',en,unknown,#111111,#111111,1,0.4675
+'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.4675
+'Minka Indigena',en,unknown,#111111,#111111,1,0.4675
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.4675
+'Tasneem Essop',en,unknown,#111111,#111111,1,0.4675
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.466893276818182
 'Heidi Klum',en,unknown,#111111,#111111,3,0.4668360525136714
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.466586652522727
@@ -121,6 +120,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Silvio Berlusconi',en,Italien,#111111,#111111,3,0.4517480167525
 'Steve Scalise',en,unknown,#111111,#111111,3,0.451604094014779
 'Billionaire Bunker',en,unknown,#111111,#111111,2,0.4514925911496645
+'Pedro Pascal',en,unknown,#111111,#111111,3,0.45082706604814105
 'Jack Smith',en,USA,#18e8e8,#18e8e8,3,0.4507679783249999
 'Bob Menendez',en,unknown,#111111,#111111,3,0.4502915886623258
 'Brian Kilmeade',en,unknown,#111111,#111111,3,0.4495540059567855
@@ -521,10 +521,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Missy Motown',en,Deutschland,#1818e8,#1818e8,1,0.1902438287301451
 'Edward Snowden',en,USA,#18e8e8,#18e8e8,1,0.189299821846266
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.1889983512346281
-'Ramsan Kadyrow',en,Russland,#e81818,#e81818,1,0.1885747578125
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
-'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
+'Ramsan Kadyrow',en,Russland,#e81818,#e81818,1,0.1885747578125
 'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.1885747578125
+'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
 'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1885747578124999
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1885747578124999
