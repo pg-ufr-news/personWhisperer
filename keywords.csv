@@ -68,7 +68,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.4675
 'Minka Indigena',en,unknown,#111111,#111111,1,0.4675
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.4675
-'Helena Gualinga',en,unknown,#111111,#111111,1,0.4675
 'Tasneem Essop',en,unknown,#111111,#111111,1,0.4675
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.4675
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.466893276818182
@@ -288,9 +287,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ed McVey',en,UK,#e838e8,#e838e8,2,0.3979297214326258
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.39775753825
 'Vanessa Nakate',en,unknown,#111111,#111111,1,0.39752525725
+'Helena Gualinga',en,unknown,#111111,#111111,1,0.39752501500000004
 'Gorbatschow',en,unknown,#111111,#111111,1,0.397525015
 'Steven Donziger',en,unknown,#111111,#111111,1,0.39737503825
-'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.39737500000000003
+'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.397375
 'Hans Joosten',en,unknown,#111111,#111111,1,0.397375
 'Sam H',en,unknown,#111111,#111111,2,0.3973205540488556
 'Sultan al-Jaber',en,VAE,#111111,#111111,3,0.397003494840909
