@@ -160,7 +160,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Milo Yiannopoulos',en,UK,#e838e8,#e838e8,2,0.4355835250787321
 'Faith Birol',en,unknown,#111111,#111111,1,0.43547506
 'David Weiss',en,unknown,#111111,#111111,3,0.4354738667427826
-'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.43516953572195866
+'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.4351695357219586
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.4350344771975876
 'David Koch',en,unknown,#111111,#111111,3,0.434998753317899
 'Ana Navarro',en,unknown,#111111,#111111,2,0.4345001030415911
@@ -524,10 +524,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yannick Morez',en,Frankreich,#e8e808,#e8e808,1,0.1897150566899561
 'Edward Snowden',en,USA,#18e8e8,#18e8e8,1,0.189299821846266
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.1889983512346281
+'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.1885747578125
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
-'Ramsan Kadyrow',en,Russland,#e81818,#e81818,1,0.1885747578125
-'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1885747578124999
 'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1885747578124999
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
@@ -561,6 +560,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Söder',en,Deutschland,#1818e8,#1818e8,1,0.162508839523399
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
 'Ulrich Reitz',en,Deutschland,#1818e8,#1818e8,1,0.1612502754054687
+'Ramsan Kadyrow',en,Russland,#e81818,#e81818,1,0.160288544140625
 'Lars Klingbeil',en,Deutschland,#1818e8,#1818e8,1,0.1602322506372565
 'Roberta Metsola',en,EU,#111111,#111111,2,0.158833168910546
 'Thomas Haldenwang',en,Deutschland,#1818e8,#1818e8,1,0.1586974536577392
