@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sam Altman',en,USA,#18e8e8,#18e8e8,3,0.4865602807374815
 'Joy Behar',en,unknown,#111111,#111111,3,0.4863737123345013
 'Zach Bryan',en,unknown,#111111,#111111,3,0.4851882000153666
 'Rand Paul',en,unknown,#111111,#111111,3,0.4847386689520812
@@ -63,11 +62,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leandro De Niro-Rodriguez',en,unknown,#111111,#111111,2,0.4681619168260469
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.468089648636364
 'Rupert Murdoch',en,unknown,#111111,#111111,3,0.4675822560024432
-'Tasneem Essop',en,unknown,#111111,#111111,1,0.4675
-'Minka Indigena',en,unknown,#111111,#111111,1,0.4675
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.4675
-'Claudia Kempfert',en,unknown,#111111,#111111,1,0.4675
+'Minka Indigena',en,unknown,#111111,#111111,1,0.4675
+'Tasneem Essop',en,unknown,#111111,#111111,1,0.4675
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.4675
+'Claudia Kempfert',en,unknown,#111111,#111111,1,0.4675
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.466893276818182
 'Heidi Klum',en,unknown,#111111,#111111,3,0.4668360525136714
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.466586652522727
@@ -130,6 +129,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cassidy Hutchinson',en,unknown,#111111,#111111,3,0.4461955797820728
 'Nicolas Sarkozy',en,unknown,#111111,#111111,3,0.4461229684392294
 'António Guterres',en,unknown,#111111,#111111,3,0.4460795038289204
+'Sam Altman',en,USA,#18e8e8,#18e8e8,3,0.44584036589958653
 'Akshata Murty',en,Indien,#111111,#111111,3,0.4457537965576809
 'Jon Batiste',en,unknown,#111111,#111111,3,0.4451613063716539
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,3,0.4442579151182017
@@ -393,7 +393,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.3400733687609372
 'Paul-Henry Nargeolet',en,Frankreich,#e8e808,#e8e808,3,0.3391518067977272
 'Bruno Retailleau',en,Frankreich,#e8e808,#e8e808,2,0.3390892955819233
-'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.33776874999999995
+'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.3377687499999999
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,2,0.3366240018700734
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.3316728748901354
 'Charles III',en,UK,#e838e8,#e838e8,3,0.327601171231922
