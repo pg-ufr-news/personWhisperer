@@ -63,10 +63,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leandro De Niro-Rodriguez',en,unknown,#111111,#111111,2,0.4681619168260469
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.468089648636364
 'Rupert Murdoch',en,unknown,#111111,#111111,3,0.4675822560024432
-'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.4675
-'Minka Indigena',en,unknown,#111111,#111111,1,0.4675
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.4675
+'Minka Indigena',en,unknown,#111111,#111111,1,0.4675
 'Tasneem Essop',en,unknown,#111111,#111111,1,0.4675
+'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.4675
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.4675
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.466893276818182
 'Heidi Klum',en,unknown,#111111,#111111,3,0.4668360525136714
@@ -525,7 +525,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yannick Morez',en,Frankreich,#e8e808,#e8e808,1,0.1897150566899561
 'Edward Snowden',en,USA,#18e8e8,#18e8e8,1,0.189299821846266
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.1889983512346281
-'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.1885747578125
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
 'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1885747578124999
@@ -560,6 +559,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Söder',en,Deutschland,#1818e8,#1818e8,1,0.162508839523399
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
 'Ulrich Reitz',en,Deutschland,#1818e8,#1818e8,1,0.1612502754054687
+'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.160288544140625
 'Ramsan Kadyrow',en,Russland,#e81818,#e81818,1,0.160288544140625
 'Lars Klingbeil',en,Deutschland,#1818e8,#1818e8,1,0.1602322506372565
 'Roberta Metsola',en,EU,#111111,#111111,2,0.158833168910546
