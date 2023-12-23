@@ -49,6 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Fetterman',en,unknown,#111111,#111111,3,0.4723100492382956
 'Eric Trump',en,unknown,#111111,#111111,3,0.4721300526043329
 'Hugh Grant',en,unknown,#111111,#111111,3,0.4720322388127522
+'Merrick Garland',en,unknown,#111111,#111111,3,0.4719204761031094
 'Jack Antonoff',en,unknown,#111111,#111111,3,0.471741537275155
 'Hazel Monét',en,unknown,#111111,#111111,2,0.4716709766451007
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4713414826276779
@@ -62,11 +63,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leandro De Niro-Rodriguez',en,unknown,#111111,#111111,2,0.4681619168260469
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.468089648636364
 'Rupert Murdoch',en,unknown,#111111,#111111,3,0.4675822560024432
+'Minka Indigena',en,unknown,#111111,#111111,1,0.4675
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.4675
 'Tasneem Essop',en,unknown,#111111,#111111,1,0.4675
-'Minka Indigena',en,unknown,#111111,#111111,1,0.4675
-'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.4675
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.4675
+'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.4675
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.466893276818182
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.466586652522727
 'Margaret Qualley',en,unknown,#111111,#111111,2,0.466583012839201
@@ -103,7 +104,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chelsea Handler',en,USA,#18e8e8,#18e8e8,3,0.4536008549999999
 'Vo Van Thuong',en,unknown,#111111,#111111,3,0.4533604477239741
 'Phoebe Bridgers',en,unknown,#111111,#111111,3,0.4531571860119179
-'Merrick Garland',en,unknown,#111111,#111111,3,0.4531097050410912
 'Patti LaBelle',en,USA,#18e8e8,#18e8e8,2,0.4530704618106059
 'Heidi Klum',en,unknown,#111111,#111111,3,0.4526346065596976
 'George Santos',en,USA,#18e8e8,#18e8e8,3,0.4524897087943181
