@@ -62,13 +62,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leandro De Niro-Rodriguez',en,unknown,#111111,#111111,2,0.4681619168260469
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.468089648636364
 'Rupert Murdoch',en,unknown,#111111,#111111,3,0.4675822560024432
-'Tasneem Essop',en,unknown,#111111,#111111,1,0.4675
-'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.4675
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.4675
+'Tasneem Essop',en,unknown,#111111,#111111,1,0.4675
 'Minka Indigena',en,unknown,#111111,#111111,1,0.4675
+'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.4675
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.4675
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.466893276818182
-'Heidi Klum',en,unknown,#111111,#111111,3,0.4668360525136714
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.466586652522727
 'Margaret Qualley',en,unknown,#111111,#111111,2,0.466583012839201
 'Amber Heard',en,USA,#18e8e8,#18e8e8,3,0.4663201463636363
@@ -106,6 +105,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Phoebe Bridgers',en,unknown,#111111,#111111,3,0.4531571860119179
 'Merrick Garland',en,unknown,#111111,#111111,3,0.4531097050410912
 'Patti LaBelle',en,USA,#18e8e8,#18e8e8,2,0.4530704618106059
+'Heidi Klum',en,unknown,#111111,#111111,3,0.4526346065596976
 'George Santos',en,USA,#18e8e8,#18e8e8,3,0.4524897087943181
 'Sam Asghari',en,unknown,#111111,#111111,3,0.4524331700250437
 'Jonathan Turley',en,unknown,#111111,#111111,3,0.4523920616910216
@@ -549,7 +549,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.1731116276718749
 'Alice Weidel',en,Deutschland,#1818e8,#1818e8,1,0.173002564932806
 'Robin Li',en,China,#e88818,#e88818,2,0.17239776701366
-'Fidel Castro',en,Kuba,#111111,#111111,2,0.17186843972765145
+'Fidel Castro',en,Kuba,#111111,#111111,2,0.1718684397276514
 'Antonio Guterres',en,UN,#e888e8,#e888e8,3,0.169056093356733
 'Sahra Wagenknecht',en,Deutschland,#1818e8,#1818e8,1,0.1690026935783271
 'Bill Gates',en,USA,#18e8e8,#18e8e8,3,0.169000396353472
