@@ -20,7 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ron Johnson',en,unknown,#111111,#111111,3,0.4799121247530954
 'Cara Delevingne',en,unknown,#111111,#111111,3,0.4798635609655252
 'Bill Barr',en,unknown,#111111,#111111,2,0.4795305162845205
-'Lara Trump',en,unknown,#111111,#111111,3,0.4793150663900284
 'Derek Chauvin',en,unknown,#111111,#111111,2,0.4789554949203534
 'Sergio Massa',en,unknown,#111111,#111111,2,0.4788547538657643
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.4784178451296212
@@ -103,6 +102,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nancy Mace',en,unknown,#111111,#111111,3,0.4545136600872565
 'Chelsea Handler',en,USA,#18e8e8,#18e8e8,3,0.4536008549999999
 'Vo Van Thuong',en,unknown,#111111,#111111,3,0.4533604477239741
+'Lara Trump',en,unknown,#111111,#111111,3,0.453278052340615
 'Phoebe Bridgers',en,unknown,#111111,#111111,3,0.4531571860119179
 'Patti LaBelle',en,USA,#18e8e8,#18e8e8,2,0.4530704618106059
 'Heidi Klum',en,unknown,#111111,#111111,3,0.4526346065596976
@@ -674,7 +674,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erik Marquardt',en,EU,#111111,#111111,1,0.0982724945986338
 'Ulf Poschardt',en,Deutschland,#1818e8,#1818e8,1,0.0975387758866539
 'Amin Nasser',en,SaudiArabien,#111111,#111111,1,0.09727380071405
-'Susanne Klatten',en,Deutschland,#1818e8,#1818e8,1,0.09385077554272472
+'Susanne Klatten',en,Deutschland,#1818e8,#1818e8,1,0.0938507755427247
 'Dimitry Peskov',en,Russland,#e81818,#e81818,1,0.089436513672263
 'Carola Rackete',en,Deutschland,#1818e8,#1818e8,1,0.087961318565401
 'Kurt Krömer',en,Deutschland,#1818e8,#1818e8,1,0.085330596145521
