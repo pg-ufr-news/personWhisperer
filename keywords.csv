@@ -41,6 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.4758436910103064
 'Carey Mulligan',en,unknown,#111111,#111111,2,0.4755420257112366
 'Javier Milei',en,unknown,#111111,#111111,3,0.4752782346238636
+'Bob Menendez',en,unknown,#111111,#111111,3,0.47406598672661326
 'Maria Bartiromo',en,unknown,#111111,#111111,3,0.4737810409182182
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.4730977641769373
 'Mark Hertsgaard',en,unknown,#111111,#111111,2,0.47267511925
@@ -61,11 +62,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leandro De Niro-Rodriguez',en,unknown,#111111,#111111,2,0.4681619168260469
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.468089648636364
 'Rupert Murdoch',en,unknown,#111111,#111111,3,0.4675822560024432
-'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.4675
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.4675
 'Minka Indigena',en,unknown,#111111,#111111,1,0.4675
+'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.4675
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.4675
 'Tasneem Essop',en,unknown,#111111,#111111,1,0.4675
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.4675
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.466893276818182
 'Lana Del Rey',en,unknown,#111111,#111111,3,0.4667936305989326
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.466586652522727
@@ -116,7 +117,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Billionaire Bunker',en,unknown,#111111,#111111,2,0.4514925911496645
 'Pedro Pascal',en,unknown,#111111,#111111,3,0.450827066048141
 'Jack Smith',en,USA,#18e8e8,#18e8e8,3,0.4507679783249999
-'Bob Menendez',en,unknown,#111111,#111111,3,0.4502915886623258
 'Brian Kilmeade',en,unknown,#111111,#111111,3,0.4495540059567855
 'Viktor Shokin',en,unknown,#111111,#111111,3,0.449349214487078
 'Kyle Pope',en,unknown,#111111,#111111,2,0.4490334434999999
