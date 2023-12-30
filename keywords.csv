@@ -64,9 +64,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leandro De Niro-Rodriguez',en,unknown,#111111,#111111,2,0.4681619168260469
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.468089648636364
 'Rupert Murdoch',en,unknown,#111111,#111111,3,0.4675822560024432
-'Minka Indigena',en,unknown,#111111,#111111,1,0.4675
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.4675
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.4675
+'Minka Indigena',en,unknown,#111111,#111111,1,0.4675
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.466893276818182
 'Lana Del Rey',en,unknown,#111111,#111111,3,0.4667936305989326
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.466586652522727
@@ -369,14 +369,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.361565435094065
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.3615500554999999
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3614000149999999
-'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
+'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.3612499999999999
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
+'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
+'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.358678357602557
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.3580522669973862
 'Boris Johnson',en,UK,#e838e8,#e838e8,3,0.3574162960158356
@@ -627,7 +627,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pope Benedikt XVI',en,Vatikan,#58b8e8,#58b8e8,1,0.1245294384437421
 'Badri Hosseini Chamenei',en,Iran,#111111,#111111,1,0.1244766197819587
 'Lula sa Silva',en,Brasilien,#58e838,#58e838,1,0.1242233115322763
-'Hans Joachim Schellnhuber',en,Deutschland,#1818e8,#1818e8,2,0.123692573061033
 'Kardinal Woelki',en,Deutschland,#1818e8,#1818e8,1,0.123483422417888
 'Macky Sall',en,Senegal,#111111,#111111,1,0.123426671058894
 'Selenskyj',en,Ukraine,#e818e8,#e818e8,1,0.1233248047386064
@@ -667,6 +666,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Franziska Giffey',en,Deutschland,#1818e8,#1818e8,1,0.1056907368276234
 'Patrick Pouyanné',en,Frankreich,#e8e808,#e8e808,1,0.1055595134526219
 'Herman Gref',en,Russland,#e81818,#e81818,1,0.10523043450444
+'Hans Joachim Schellnhuber',en,Deutschland,#1818e8,#1818e8,1,0.10513870210187805
 'Jochen Thewes',en,Deutschland,#1818e8,#1818e8,1,0.103044076814963
 'Klaus Hasselmann',en,Deutschland,#1818e8,#1818e8,1,0.1030335215037614
 'Heinrich XIII. Prinz Reuß',en,Deutschland,#1818e8,#1818e8,1,0.102973299662835
