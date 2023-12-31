@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4921775304884659
 'Zach Bryan',en,unknown,#111111,#111111,3,0.4851882000153666
 'Rand Paul',en,unknown,#111111,#111111,3,0.4847386689520812
 'Chris Stapleton',en,unknown,#111111,#111111,2,0.4846141237778736
@@ -63,14 +64,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.468089648636364
 'Rupert Murdoch',en,unknown,#111111,#111111,3,0.4675822560024432
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.4675
-'Claudia Kempfert',en,unknown,#111111,#111111,1,0.4675
 'Minka Indigena',en,unknown,#111111,#111111,1,0.4675
+'Claudia Kempfert',en,unknown,#111111,#111111,1,0.4675
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.466893276818182
 'Lana Del Rey',en,unknown,#111111,#111111,3,0.4667936305989326
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.466586652522727
 'Margaret Qualley',en,unknown,#111111,#111111,2,0.466583012839201
 'Amber Heard',en,USA,#18e8e8,#18e8e8,3,0.4663201463636363
-'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4662441053875
 'Tiffany Chen',en,USA,#18e8e8,#18e8e8,3,0.4660611942218155
 'Millie Mackintosh',en,UK,#e838e8,#e838e8,2,0.465723447272727
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4654458203966113
@@ -369,14 +369,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.361565435094065
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.3615500554999999
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3614000149999999
-'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
+'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.3612499999999999
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
+'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
+'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.358678357602557
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.3580522669973862
 'Boris Johnson',en,UK,#e838e8,#e838e8,3,0.3574162960158356
@@ -654,7 +654,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexej Kudrin',en,Russland,#e81818,#e81818,1,0.1118888387080861
 'Paul Ronzheimer',en,Deutschland,#1818e8,#1818e8,1,0.111028842616365
 'Sergej Schoigu',en,Russland,#e81818,#e81818,1,0.1110210582777458
-'Bodo Ramelow',en,Deutschland,#1818e8,#1818e8,1,0.11070222622810079
+'Bodo Ramelow',en,Deutschland,#1818e8,#1818e8,1,0.1107022262281007
 'Gregor Gysi',en,Deutschland,#1818e8,#1818e8,1,0.1102734217539769
 'Michael Ballweg',en,Deutschland,#1818e8,#1818e8,1,0.1100016288819354
 'Wolfgang Schäuble',en,Deutschland,#1818e8,#1818e8,1,0.1099819358340184
