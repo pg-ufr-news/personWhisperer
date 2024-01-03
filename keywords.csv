@@ -53,7 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hazel Monét',en,unknown,#111111,#111111,2,0.4716709766451007
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4713414826276779
 'Sean Hannity',en,unknown,#111111,#111111,3,0.4712704249535305
-'Derek Chauvin',en,unknown,#111111,#111111,2,0.47115612477320945
+'Derek Chauvin',en,unknown,#111111,#111111,2,0.4711561247732094
 'Brittany Mahomes',en,unknown,#111111,#111111,3,0.4704152061212402
 'Travis Kelce',en,unknown,#111111,#111111,3,0.4697007724447714
 'Berkshire Hathaway',en,USA,#18e8e8,#18e8e8,3,0.4689117196715804
@@ -63,9 +63,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leandro De Niro-Rodriguez',en,unknown,#111111,#111111,2,0.4681619168260469
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.468089648636364
 'Rupert Murdoch',en,unknown,#111111,#111111,3,0.4675822560024432
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.4675
-'Minka Indigena',en,unknown,#111111,#111111,1,0.4675
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.4675
+'Minka Indigena',en,unknown,#111111,#111111,1,0.4675
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.466893276818182
 'Lana Del Rey',en,unknown,#111111,#111111,3,0.4667936305989326
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.466586652522727
@@ -291,9 +290,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ed McVey',en,UK,#e838e8,#e838e8,2,0.3979297214326258
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.39775753825
 'Vanessa Nakate',en,unknown,#111111,#111111,1,0.39752525725
-'Gorbatschow',en,unknown,#111111,#111111,1,0.397525015
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.397525015
+'Gorbatschow',en,unknown,#111111,#111111,1,0.397525015
 'Steven Donziger',en,unknown,#111111,#111111,1,0.39737503825
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.39737500000000003
 'Hans Joosten',en,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.397375
 'Sam H',en,unknown,#111111,#111111,2,0.3973205540488556
@@ -371,13 +371,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.361565435094065
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.3615500554999999
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3614000149999999
-'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
+'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3612499999999999
-'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.358678357602557
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.3580522669973862
 'Boris Johnson',en,UK,#e838e8,#e838e8,3,0.3574162960158356
