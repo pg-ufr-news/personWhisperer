@@ -86,7 +86,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alex Jones',en,unknown,#111111,#111111,3,0.4613919588024479
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.4611618314598204
 'Carter Reum',en,unknown,#111111,#111111,3,0.460785640088339
-'Bret Baier',en,unknown,#111111,#111111,3,0.4603305803626008
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.4601925355227271
 'Leni Klum',en,unknown,#111111,#111111,3,0.4596817286044041
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4596751122788323
@@ -137,6 +136,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.4431206516772675
 'Willie Nelson',en,unknown,#111111,#111111,3,0.4427628061625547
 'Kim Yo Jong',en,NordKorea,#111111,#111111,3,0.4417107885715908
+'Bret Baier',en,unknown,#111111,#111111,3,0.4416875937627561
 'Petro Poroshenko',en,unknown,#111111,#111111,2,0.4415666768187958
 'Michelle Williams',en,unknown,#111111,#111111,3,0.4414304371705506
 'Ronna McDaniel',en,unknown,#111111,#111111,3,0.4412639044708203
@@ -232,7 +232,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.4142111052128882
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.413908894685469
 'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,2,0.41306878
-'Patti LaBelle',en,USA,#18e8e8,#18e8e8,2,0.41278788526628774
+'Patti LaBelle',en,USA,#18e8e8,#18e8e8,2,0.4127878852662877
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.4126357303181815
 'Stephen Hawking',en,UK,#e838e8,#e838e8,3,0.4124868845994316
 'Ted Cruz',en,USA,#18e8e8,#18e8e8,2,0.411995574559091
@@ -371,13 +371,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.361565435094065
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.3615500554999999
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3614000149999999
-'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3612499999999999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
+'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.358678357602557
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.3580522669973862
 'Boris Johnson',en,UK,#e838e8,#e838e8,3,0.3574162960158356
