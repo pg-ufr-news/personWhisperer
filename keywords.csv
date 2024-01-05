@@ -289,10 +289,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ed McVey',en,UK,#e838e8,#e838e8,2,0.3979297214326258
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.39775753825
 'Vanessa Nakate',en,unknown,#111111,#111111,1,0.39752525725
-'Gorbatschow',en,unknown,#111111,#111111,1,0.397525015
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.397525015
+'Gorbatschow',en,unknown,#111111,#111111,1,0.397525015
 'Steven Donziger',en,unknown,#111111,#111111,1,0.39737503825
-'Minka Indigena',en,unknown,#111111,#111111,1,0.39737500000000003
+'Minka Indigena',en,unknown,#111111,#111111,1,0.397375
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.397375
 'Hans Joosten',en,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.397375
@@ -329,7 +329,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Albert Einstein',en,Deutschland,#1818e8,#1818e8,3,0.3878609189136361
 'Putin',en,Russland,#e81818,#e81818,3,0.38784510155445
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3874852634363634
-'Edouard Philippe',en,unknown,#111111,#111111,1,0.387087020889115
 'Johnny Depp',en,USA,#18e8e8,#18e8e8,3,0.3863471999243401
 'Kanye West',en,USA,#18e8e8,#18e8e8,3,0.3858222214856
 'Élisabeth Borne',en,Frankreich,#e8e808,#e8e808,2,0.3850051559545454
@@ -371,16 +370,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.361565435094065
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.3615500554999999
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3614000149999999
-'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
-'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3612499999999999
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
-'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.358678357602557
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.3580522669973862
 'Boris Johnson',en,UK,#e838e8,#e838e8,3,0.3574162960158356
+'Edouard Philippe',en,unknown,#111111,#111111,1,0.35672423775574774
 'Daniel Penny',en,USA,#18e8e8,#18e8e8,3,0.3560641137930571
 'Michael Kahle',en,Deutschland,#1818e8,#1818e8,1,0.3547300705
 'Andrew Tate',en,USA,#18e8e8,#18e8e8,2,0.35428939175
