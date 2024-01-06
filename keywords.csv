@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kim Yo Jong',en,NordKorea,#111111,#111111,3,0.4934714669525188
 'Rand Paul',en,unknown,#111111,#111111,3,0.4847386689520812
 'Chris Stapleton',en,unknown,#111111,#111111,2,0.4846141237778736
 'Robert Menendez',en,unknown,#111111,#111111,3,0.4845527845911797
@@ -215,6 +214,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hubert Aiwanger',en,unknown,#111111,#111111,2,0.4196570488150117
 'Lindsey Graham',en,USA,#18e8e8,#18e8e8,3,0.4196441722283064
 'Kemal Kılıçdaroğlu',en,Türkei,#111111,#111111,3,0.4195295045459323
+'Kim Yo Jong',en,NordKorea,#111111,#111111,2,0.41945145190964095
 'Pedro Sánchez',en,Spanien,#111111,#111111,3,0.4193411537465908
 'Lady Gaga',en,USA,#18e8e8,#18e8e8,3,0.4187022339476163
 'Elisabeth Borne',en,Frankreich,#e8e808,#e8e808,2,0.4176855305227273
