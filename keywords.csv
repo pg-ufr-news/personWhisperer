@@ -566,7 +566,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Söder',en,Deutschland,#1818e8,#1818e8,1,0.162508839523399
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
 'Ulrich Reitz',en,Deutschland,#1818e8,#1818e8,1,0.1612502754054687
-'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.160288544140625
 'Ramsan Kadyrow',en,Russland,#e81818,#e81818,1,0.160288544140625
 'Lars Klingbeil',en,Deutschland,#1818e8,#1818e8,1,0.1602322506372565
 'Roberta Metsola',en,EU,#111111,#111111,2,0.158833168910546
@@ -600,6 +599,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolodymyr Selenskyj',en,Ukraine,#e818e8,#e818e8,1,0.137520488281903
 'Nina Gummich',en,Deutschland,#1818e8,#1818e8,1,0.1373352246196874
 'Marco Buschmann',en,Deutschland,#1818e8,#1818e8,1,0.1363091408916048
+'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.13624526251953123
 'Wladimir Putin',en,Russland,#e81818,#e81818,1,0.1358791656501874
 'Markus Krebber',en,Deutschland,#1818e8,#1818e8,1,0.1348693816975384
 'John Roberts',en,USA,#18e8e8,#18e8e8,1,0.134786905615324
