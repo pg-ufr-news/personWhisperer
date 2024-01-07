@@ -144,7 +144,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jeanne du Barry',en,Frankreich,#e8e808,#e8e808,2,0.4398108849603331
 'Martin Luther King',en,USA,#18e8e8,#18e8e8,3,0.4396595972838064
 'Vassily Nebenzia',en,Russland,#e81818,#e81818,2,0.4395026223568181
-'Harrison Ford',en,unknown,#111111,#111111,3,0.4394949272045454
 'Jennifer Garner',en,unknown,#111111,#111111,3,0.4392384649077903
 'Mary Robinson',en,unknown,#111111,#111111,3,0.4388121055227273
 'Gayle King',en,unknown,#111111,#111111,3,0.4387218463145332
@@ -183,6 +182,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.428754301195194
 'Chris Christie',en,USA,#18e8e8,#18e8e8,3,0.428697884789835
 'Sergei Shoigu',en,unknown,#111111,#111111,3,0.4285670462508077
+'Harrison Ford',en,unknown,#111111,#111111,3,0.4285263131238636
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.427924836970838
 'Yaël Braun-Pivet',en,unknown,#111111,#111111,1,0.4267754048449168
 'Jean Jouzel',en,unknown,#111111,#111111,1,0.4267284513017148
@@ -289,8 +289,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ed McVey',en,UK,#e838e8,#e838e8,2,0.3979297214326258
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.39775753825
 'Vanessa Nakate',en,unknown,#111111,#111111,1,0.39752525725
-'Gorbatschow',en,unknown,#111111,#111111,1,0.397525015
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.397525015
+'Gorbatschow',en,unknown,#111111,#111111,1,0.397525015
 'Steven Donziger',en,unknown,#111111,#111111,1,0.39737503825
 'Minka Indigena',en,unknown,#111111,#111111,1,0.397375
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.397375
