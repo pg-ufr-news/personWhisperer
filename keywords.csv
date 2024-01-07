@@ -156,7 +156,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Cohen',en,USA,#18e8e8,#18e8e8,3,0.435627874407386
 'Milo Yiannopoulos',en,UK,#e838e8,#e838e8,2,0.4355835250787321
 'Faith Birol',en,unknown,#111111,#111111,1,0.43547506
-'David Weiss',en,unknown,#111111,#111111,3,0.4354738667427826
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.4351695357219586
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.4350344771975876
 'David Koch',en,unknown,#111111,#111111,3,0.434998753317899
@@ -240,6 +239,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harry Belafonte',en,USA,#18e8e8,#18e8e8,2,0.411744230016534
 'Ben Affleck',en,unknown,#111111,#111111,3,0.4117119794444336
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4116815571291397
+'David Weiss',en,unknown,#111111,#111111,3,0.41147377309500155
 'Roger Federer',en,unknown,#111111,#111111,3,0.4110227449726381
 'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.4106860113030421
 'Barbara Walters',en,USA,#18e8e8,#18e8e8,3,0.4106310323468179
@@ -289,8 +289,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ed McVey',en,UK,#e838e8,#e838e8,2,0.3979297214326258
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.39775753825
 'Vanessa Nakate',en,unknown,#111111,#111111,1,0.39752525725
-'Helena Gualinga',en,unknown,#111111,#111111,1,0.397525015
 'Gorbatschow',en,unknown,#111111,#111111,1,0.397525015
+'Helena Gualinga',en,unknown,#111111,#111111,1,0.397525015
 'Steven Donziger',en,unknown,#111111,#111111,1,0.39737503825
 'Minka Indigena',en,unknown,#111111,#111111,1,0.397375
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.397375
