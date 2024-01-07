@@ -107,7 +107,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jonathan Turley',en,unknown,#111111,#111111,3,0.4523920616910216
 'Taylor Swift',en,unknown,#111111,#111111,3,0.4520514321305686
 'Jordan Neely',en,USA,#18e8e8,#18e8e8,2,0.4518220526275976
-'Steve Scalise',en,unknown,#111111,#111111,3,0.451604094014779
 'Billionaire Bunker',en,unknown,#111111,#111111,2,0.4514925911496645
 'Pedro Pascal',en,unknown,#111111,#111111,3,0.450827066048141
 'Jack Smith',en,USA,#18e8e8,#18e8e8,3,0.4507679783249999
@@ -162,6 +161,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maria Bartiromo',en,unknown,#111111,#111111,3,0.4349381570532127
 'Ana Navarro',en,unknown,#111111,#111111,2,0.4345001030415911
 'Drena De Niro',en,USA,#18e8e8,#18e8e8,3,0.4344965645454545
+'Steve Scalise',en,unknown,#111111,#111111,3,0.4342698553671076
 'Afida Turner',en,Frankreich,#e8e808,#e8e808,2,0.4338854198393749
 'Gigi Hadid',en,unknown,#111111,#111111,3,0.4333730583248183
 'Gérard Larcher',en,unknown,#111111,#111111,2,0.4328465427699972
@@ -239,7 +239,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harry Belafonte',en,USA,#18e8e8,#18e8e8,2,0.411744230016534
 'Ben Affleck',en,unknown,#111111,#111111,3,0.4117119794444336
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4116815571291397
-'David Weiss',en,unknown,#111111,#111111,3,0.41147377309500155
+'David Weiss',en,unknown,#111111,#111111,3,0.4114737730950015
 'Roger Federer',en,unknown,#111111,#111111,3,0.4110227449726381
 'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.4106860113030421
 'Barbara Walters',en,USA,#18e8e8,#18e8e8,3,0.4106310323468179
