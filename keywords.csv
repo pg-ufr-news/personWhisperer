@@ -125,7 +125,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akshata Murty',en,Indien,#111111,#111111,3,0.4457537965576809
 'Jon Batiste',en,unknown,#111111,#111111,3,0.4451613063716539
 'Zach Bryan',en,unknown,#111111,#111111,3,0.4446356072857889
-'Penny Mordaunt',en,UK,#e838e8,#e838e8,3,0.4442579151182017
 'Lionel Messi',en,Argentinien,#111111,#111111,3,0.4440859879732786
 'Alexander De Croo',en,Belgien,#111111,#111111,2,0.4440416072045454
 'Raphael Warnock',en,USA,#18e8e8,#18e8e8,2,0.443588088636364
@@ -292,11 +291,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gorbatschow',en,unknown,#111111,#111111,1,0.397525015
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.397525015
 'Steven Donziger',en,unknown,#111111,#111111,1,0.39737503825
+'Minka Indigena',en,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.397375
 'Hans Joosten',en,unknown,#111111,#111111,1,0.397375
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.397375
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.397375
-'Minka Indigena',en,unknown,#111111,#111111,1,0.397375
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.397375
 'Sam H',en,unknown,#111111,#111111,2,0.3973205540488556
 'Sultan al-Jaber',en,VAE,#111111,#111111,3,0.397003494840909
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.396635537565398
@@ -350,6 +349,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Paul II',en,Vatikan,#58b8e8,#58b8e8,3,0.3788385944090909
 'Queen Camilla',en,UK,#e838e8,#e838e8,3,0.3784892154027939
 'Anne Will',en,Deutschland,#1818e8,#1818e8,2,0.377750428514773
+'Penny Mordaunt',en,UK,#e838e8,#e838e8,1,0.3776195878504714
 'Chris Hipkins',en,Neuseeland,#1818e8,#1818e8,3,0.3763690683000004
 'Shahzada Dawood',en,Pakistan,#111111,#111111,2,0.3746937839772726
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.374587953775
