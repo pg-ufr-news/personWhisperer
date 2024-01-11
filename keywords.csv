@@ -55,7 +55,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ron Johnson',en,unknown,#111111,#111111,3,0.4684132476341114
 'Leandro De Niro-Rodriguez',en,unknown,#111111,#111111,2,0.4681619168260469
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.468089648636364
-'Rupert Murdoch',en,unknown,#111111,#111111,3,0.4675822560024432
 'Rand Paul',en,unknown,#111111,#111111,3,0.466979728609269
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.466893276818182
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.466586652522727
@@ -159,6 +158,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ana Navarro',en,unknown,#111111,#111111,2,0.4345001030415911
 'Drena De Niro',en,USA,#18e8e8,#18e8e8,3,0.4344965645454545
 'Steve Scalise',en,unknown,#111111,#111111,3,0.4342698553671076
+'Rupert Murdoch',en,unknown,#111111,#111111,3,0.4342148544202585
 'Afida Turner',en,Frankreich,#e8e808,#e8e808,2,0.4338854198393749
 'Gérard Larcher',en,unknown,#111111,#111111,2,0.4328465427699972
 'Sophia Chikirou',en,unknown,#111111,#111111,1,0.4314440535028665
@@ -225,7 +225,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Wozniak',en,USA,#18e8e8,#18e8e8,2,0.4156387612272727
 'Chuck Schumer',en,unknown,#111111,#111111,3,0.4149599718647659
 'Mohammed Bin Salman',en,SaudiArabien,#111111,#111111,3,0.414341075039034
-'Gigi Hadid',en,unknown,#111111,#111111,3,0.41422875548518645
+'Gigi Hadid',en,unknown,#111111,#111111,3,0.4142287554851864
 'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.4142111052128882
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.413908894685469
 'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,2,0.41306878
@@ -291,11 +291,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gorbatschow',en,unknown,#111111,#111111,1,0.397525015
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.397525015
 'Steven Donziger',en,unknown,#111111,#111111,1,0.39737503825
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.397375
-'Claudia Kempfert',en,unknown,#111111,#111111,1,0.397375
 'Minka Indigena',en,unknown,#111111,#111111,1,0.397375
-'Hans Joosten',en,unknown,#111111,#111111,1,0.397375
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.397375
+'Claudia Kempfert',en,unknown,#111111,#111111,1,0.397375
+'Hans Joosten',en,unknown,#111111,#111111,1,0.397375
 'Sam H',en,unknown,#111111,#111111,2,0.3973205540488556
 'Sultan al-Jaber',en,VAE,#111111,#111111,3,0.397003494840909
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.396635537565398
