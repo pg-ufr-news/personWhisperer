@@ -160,7 +160,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Scalise',en,unknown,#111111,#111111,3,0.4342698553671076
 'Rupert Murdoch',en,unknown,#111111,#111111,3,0.4342148544202585
 'Afida Turner',en,Frankreich,#e8e808,#e8e808,2,0.4338854198393749
-'Gérard Larcher',en,unknown,#111111,#111111,2,0.4328465427699972
 'Sophia Chikirou',en,unknown,#111111,#111111,1,0.4314440535028665
 'Princess Diana',en,UK,#e838e8,#e838e8,3,0.4312251231124068
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,3,0.4310869115083519
@@ -291,11 +290,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gorbatschow',en,unknown,#111111,#111111,1,0.397525015
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.397525015
 'Steven Donziger',en,unknown,#111111,#111111,1,0.39737503825
-'Minka Indigena',en,unknown,#111111,#111111,1,0.397375
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.397375
-'Claudia Kempfert',en,unknown,#111111,#111111,1,0.397375
+'Minka Indigena',en,unknown,#111111,#111111,1,0.397375
 'Hans Joosten',en,unknown,#111111,#111111,1,0.397375
+'Claudia Kempfert',en,unknown,#111111,#111111,1,0.397375
 'Sam H',en,unknown,#111111,#111111,2,0.3973205540488556
 'Sultan al-Jaber',en,VAE,#111111,#111111,3,0.397003494840909
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.396635537565398
@@ -356,6 +355,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karim Benzema',en,Frankreich,#e8e808,#e8e808,3,0.3744024619420454
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,1,0.3724918396875
 'Kemal Kiliçdaroglu',en,Türkei,#111111,#111111,1,0.3697498615410713
+'Gérard Larcher',en,unknown,#111111,#111111,1,0.3679196063544976
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.3667259496198617
 'Steve Milloy',en,USA,#18e8e8,#18e8e8,2,0.3652323388352272
 'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.364788804766875
