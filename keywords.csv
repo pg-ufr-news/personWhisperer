@@ -476,7 +476,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karl Nehammer',en,Oesterreich,#111111,#111111,3,0.230585485509737
 'Jens Spahn',en,Deutschland,#1818e8,#1818e8,1,0.2288372092545312
 'Melinda Gates',en,USA,#18e8e8,#18e8e8,3,0.228081532818181
-'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.22719031928145048
+'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.2271903192814504
 'Kevin Kühnert',en,Deutschland,#1818e8,#1818e8,2,0.2266686225201619
 'Daniel Zhang',en,China,#e88818,#e88818,2,0.2248482257443686
 'Karine Jean-Pierre',en,USA,#18e8e8,#18e8e8,3,0.2245664103292931
@@ -610,7 +610,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Igor Setschin',en,Russland,#e81818,#e81818,1,0.132435439497137
 'Alexander Lukaschenko',en,Belarus,#e81858,#e81858,2,0.1321991930461029
 'Andreas Jödecke',en,Deutschland,#1818e8,#1818e8,1,0.131776885743496
-'Mojib Latif',en,Deutschland,#1818e8,#1818e8,1,0.1310812508367632
 'Sandra Maischberger',en,Deutschland,#1818e8,#1818e8,1,0.1299532325140539
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.129458180778799
 'Alexei Nawalny',en,Russland,#e81818,#e81818,1,0.129347072944707
@@ -656,6 +655,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.111957626138911
 'Larry Page',en,USA,#18e8e8,#18e8e8,2,0.1119222942196051
 'Alexej Kudrin',en,Russland,#e81818,#e81818,1,0.1118888387080861
+'Mojib Latif',en,Deutschland,#1818e8,#1818e8,1,0.11141906321124871
 'Paul Ronzheimer',en,Deutschland,#1818e8,#1818e8,1,0.111028842616365
 'Sergej Schoigu',en,Russland,#e81818,#e81818,1,0.1110210582777458
 'Bodo Ramelow',en,Deutschland,#1818e8,#1818e8,1,0.1107022262281007
