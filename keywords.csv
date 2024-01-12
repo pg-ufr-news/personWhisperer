@@ -129,7 +129,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Herschel Walker',en,USA,#18e8e8,#18e8e8,3,0.443129257248409
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.4431206516772675
 'Willie Nelson',en,unknown,#111111,#111111,3,0.4427628061625547
-'Robert Menendez',en,unknown,#111111,#111111,3,0.44262093190250273
+'Robert Menendez',en,unknown,#111111,#111111,3,0.4426209319025027
 'Bret Baier',en,unknown,#111111,#111111,3,0.4416875937627561
 'Petro Poroshenko',en,unknown,#111111,#111111,2,0.4415666768187958
 'Michelle Williams',en,unknown,#111111,#111111,3,0.4414304371705506
@@ -454,7 +454,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joseph Ratzinger',en,Vatikan,#58b8e8,#58b8e8,2,0.2549035397476998
 'Jeff Bezos',en,USA,#18e8e8,#18e8e8,3,0.2541353805609927
 'Frank-Walter Steinmeier',en,Deutschland,#1818e8,#1818e8,3,0.251492460588568
-'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.2507603061065193
 'Mateusz Morawiecki',en,Polen,#111111,#111111,3,0.250372010575567
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,1,0.2500899614943856
 'Éric Ciotti',en,Frankreich,#e8e808,#e8e808,1,0.2493456634509062
@@ -477,6 +476,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karl Nehammer',en,Oesterreich,#111111,#111111,3,0.230585485509737
 'Jens Spahn',en,Deutschland,#1818e8,#1818e8,1,0.2288372092545312
 'Melinda Gates',en,USA,#18e8e8,#18e8e8,3,0.228081532818181
+'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.22719031928145048
 'Kevin Kühnert',en,Deutschland,#1818e8,#1818e8,2,0.2266686225201619
 'Daniel Zhang',en,China,#e88818,#e88818,2,0.2248482257443686
 'Karine Jean-Pierre',en,USA,#18e8e8,#18e8e8,3,0.2245664103292931
@@ -486,8 +486,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,3,0.223802778437948
 'Edir Macedo',en,Brasilien,#58e838,#58e848,1,0.2228367593884062
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.22185265625
-'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.2218526562499999
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
+'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.2218526562499999
 'Annalena Baerbock',en,Deutschland,#1818e8,#1818e8,3,0.2202487036288648
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.219827957022201
 'Warren Buffett',en,USA,#18e8e8,#18e8e8,2,0.219518081064424
