@@ -486,8 +486,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,3,0.223802778437948
 'Edir Macedo',en,Brasilien,#58e838,#58e848,1,0.2228367593884062
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.22185265625
-'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.2218526562499999
+'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
 'Annalena Baerbock',en,Deutschland,#1818e8,#1818e8,3,0.2202487036288648
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.219827957022201
 'Warren Buffett',en,USA,#18e8e8,#18e8e8,2,0.219518081064424
@@ -509,7 +509,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sundar Pichai',en,USA,#18e8e8,#18e8e8,2,0.2071275569691835
 'Rafael Grossi',en,UN,#e888e8,#e888e8,3,0.206302208699169
 'Jack Ma',en,China,#e88818,#e88818,3,0.2056546227271782
-'Ola Källenius',en,Deutschland,#1818e8,#1818e8,1,0.204498505730197
 'Dieter Bohlen',en,Deutschland,#1818e8,#1818e8,1,0.2041915324569236
 'Mark Zuckerberg',en,USA,#18e8e8,#18e8e8,3,0.202991931793682
 'Nancy Faeser',en,Deutschland,#1818e8,#1818e8,2,0.2025913901087565
@@ -552,6 +551,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Drosten',en,Deutschland,#1818e8,#1818e8,2,0.1764376674725316
 'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.1763173985546874
 'Christine Lagarde',en,EU,#111111,#111111,3,0.174478726466027
+'Ola Källenius',en,Deutschland,#1818e8,#1818e8,1,0.17442378987066748
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1743094532801115
 'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.1731116276718749
 'Alice Weidel',en,Deutschland,#1818e8,#1818e8,1,0.173002564932806
