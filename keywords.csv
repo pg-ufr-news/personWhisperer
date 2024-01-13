@@ -459,8 +459,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Éric Ciotti',en,Frankreich,#e8e808,#e8e808,1,0.2493456634509062
 'Christine Lambrecht',en,Deutschland,#1818e8,#1818e8,1,0.249283962031489
 'Steven Milloy',en,USA,#18e8e8,#18e8e8,1,0.248178230154469
-'Immanuel Kant',en,Deutschland,#1818e8,#1818e8,2,0.24713973704065847
-'Cyril Ramaphosa',en,Südafrika,#111111,#111111,3,0.2459786246399912
+'Immanuel Kant',en,Deutschland,#1818e8,#1818e8,2,0.2471397370406584
 'Katja Krasavice',en,Deutschland,#1818e8,#1818e8,1,0.244130065497062
 'Tamim Hamad Thani',en,Katar,#111111,#111111,3,0.243702483793426
 'Richard Ferrand',en,Frankreich,#e8e808,#e8e808,1,0.2432848168928749
@@ -470,6 +469,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.2396008687499999
 'Angela Merkel',en,Deutschland,#1818e8,#1818e8,3,0.237179702498785
 'Michelle Obama',en,USA,#18e8e8,#18e8e8,3,0.2371359493612422
+'Cyril Ramaphosa',en,Südafrika,#111111,#111111,3,0.23676270367126526
 'Chelsea Manning',en,USA,#18e8e8,#18e8e8,3,0.236493260749635
 'Barack Obama',en,USA,#18e8e8,#18e8e8,3,0.236062309588674
 'Friedrich Merz',en,Deutschland,#1818e8,#1818e8,3,0.233134248070145
