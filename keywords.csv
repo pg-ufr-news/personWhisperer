@@ -113,7 +113,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Billy Crystal',en,unknown,#111111,#111111,2,0.4478188171538063
 'Gisele Bundchen',en,unknown,#111111,#111111,3,0.4473778304741422
 'Bradley Cooper',en,unknown,#111111,#111111,3,0.4468093811171629
-'Alyssa Farah Griffin',en,unknown,#111111,#111111,3,0.4463265329219324
 'Cassidy Hutchinson',en,unknown,#111111,#111111,3,0.4461955797820728
 'Nicolas Sarkozy',en,unknown,#111111,#111111,3,0.4461229684392294
 'António Guterres',en,unknown,#111111,#111111,3,0.4460795038289204
@@ -219,6 +218,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince George',en,UK,#e838e8,#e838e8,3,0.4168681434386366
 'Matt Damon',en,USA,#18e8e8,#18e8e8,3,0.4167549400170453
 'Kim Kardashian',en,USA,#18e8e8,#18e8e8,3,0.4165108261528992
+'Alyssa Farah Griffin',en,unknown,#111111,#111111,3,0.4161481048018244
 'Vivek Ramaswamy',en,USA,#18e8e8,#18e8e8,3,0.4157782638018166
 'Eric Adams',en,USA,#18e8e8,#18e8e8,3,0.4156645462272726
 'Steve Wozniak',en,USA,#18e8e8,#18e8e8,2,0.4156387612272727
@@ -290,10 +290,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gorbatschow',en,unknown,#111111,#111111,1,0.397525015
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.397525015
 'Steven Donziger',en,unknown,#111111,#111111,1,0.39737503825
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.397375
-'Minka Indigena',en,unknown,#111111,#111111,1,0.397375
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.397375
 'Hans Joosten',en,unknown,#111111,#111111,1,0.397375
+'Minka Indigena',en,unknown,#111111,#111111,1,0.397375
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.397375
 'Sam H',en,unknown,#111111,#111111,2,0.3973205540488556
 'Sultan al-Jaber',en,VAE,#111111,#111111,3,0.397003494840909
@@ -469,7 +469,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.2396008687499999
 'Angela Merkel',en,Deutschland,#1818e8,#1818e8,3,0.237179702498785
 'Michelle Obama',en,USA,#18e8e8,#18e8e8,3,0.2371359493612422
-'Cyril Ramaphosa',en,Südafrika,#111111,#111111,3,0.23676270367126526
+'Cyril Ramaphosa',en,Südafrika,#111111,#111111,3,0.2367627036712652
 'Chelsea Manning',en,USA,#18e8e8,#18e8e8,3,0.236493260749635
 'Barack Obama',en,USA,#18e8e8,#18e8e8,3,0.236062309588674
 'Friedrich Merz',en,Deutschland,#1818e8,#1818e8,3,0.233134248070145
