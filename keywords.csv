@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Devon Archer',en,unknown,#111111,#111111,3,0.5039589568808027
 'Ivanka Trump',en,unknown,#111111,#111111,3,0.4842821399026201
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.4839181228657953
 'Ryan Gosling',en,unknown,#111111,#111111,3,0.4835873520454546
@@ -80,7 +81,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.4601925355227271
 'Leni Klum',en,unknown,#111111,#111111,3,0.4596817286044041
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4596751122788323
-'Devon Archer',en,unknown,#111111,#111111,3,0.4591268786832974
 'Colin Farrell',en,unknown,#111111,#111111,3,0.4578288024512323
 'Viktor Shokin',en,unknown,#111111,#111111,3,0.4575473873140163
 'Abraham Lincoln',en,unknown,#111111,#111111,3,0.4565360480227273
