@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sunny Hostin',en,unknown,#111111,#111111,3,0.4844501366354805
+'Sunny Hostin',en,unknown,#111111,#111111,3,0.49400721841288564
 'Ivanka Trump',en,unknown,#111111,#111111,3,0.4842821399026201
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.4839181228657953
 'Ryan Gosling',en,unknown,#111111,#111111,3,0.4835873520454546
@@ -550,7 +550,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.176683916934702
 'Christian Drosten',en,Deutschland,#1818e8,#1818e8,2,0.1764376674725316
 'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.1763173985546874
-'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.17552319599292965
+'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.1755231959929296
 'Christine Lagarde',en,EU,#111111,#111111,3,0.174478726466027
 'Ola Källenius',en,Deutschland,#1818e8,#1818e8,1,0.1744237898706674
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1743094532801115
