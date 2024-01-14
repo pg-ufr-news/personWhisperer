@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sunny Hostin',en,unknown,#111111,#111111,3,0.49400721841288564
 'Ivanka Trump',en,unknown,#111111,#111111,3,0.4842821399026201
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.4839181228657953
 'Ryan Gosling',en,unknown,#111111,#111111,3,0.4835873520454546
@@ -47,6 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sean Hannity',en,unknown,#111111,#111111,3,0.4712704249535305
 'Derek Chauvin',en,unknown,#111111,#111111,2,0.4711561247732094
 'Brittany Mahomes',en,unknown,#111111,#111111,3,0.4704152061212402
+'Sunny Hostin',en,unknown,#111111,#111111,3,0.4703125561054982
 'Travis Kelce',en,unknown,#111111,#111111,3,0.4697007724447714
 'Berkshire Hathaway',en,USA,#18e8e8,#18e8e8,3,0.4689117196715804
 'Jim Jordan',en,unknown,#111111,#111111,3,0.4687806814530167
