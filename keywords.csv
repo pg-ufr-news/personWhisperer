@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Devon Archer',en,unknown,#111111,#111111,3,0.5039589568808027
 'Ivanka Trump',en,unknown,#111111,#111111,3,0.4842821399026201
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.4839181228657953
 'Ryan Gosling',en,unknown,#111111,#111111,3,0.4835873520454546
@@ -66,6 +65,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4654458203966113
 'Ahmed Al Jaber',en,unknown,#111111,#111111,3,0.4654024198636363
 'Gisele Bündchen',en,unknown,#111111,#111111,3,0.4652246406288191
+'Devon Archer',en,unknown,#111111,#111111,3,0.46513440516686416
 'Jessica Biel',en,unknown,#111111,#111111,3,0.4644669443897264
 'Charlie Munger',en,unknown,#111111,#111111,3,0.4642698731529138
 'Brad Pitt',en,unknown,#111111,#111111,3,0.4641858404391869
