@@ -292,10 +292,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gorbatschow',en,unknown,#111111,#111111,1,0.397525015
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.397525015
 'Steven Donziger',en,unknown,#111111,#111111,1,0.39737503825
-'Claudia Kempfert',en,unknown,#111111,#111111,1,0.397375
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.397375
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.397375
 'Minka Indigena',en,unknown,#111111,#111111,1,0.397375
+'Claudia Kempfert',en,unknown,#111111,#111111,1,0.397375
 'Hans Joosten',en,unknown,#111111,#111111,1,0.397375
 'Sam H',en,unknown,#111111,#111111,2,0.3973205540488556
 'Sultan al-Jaber',en,VAE,#111111,#111111,3,0.397003494840909
@@ -461,7 +461,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Éric Ciotti',en,Frankreich,#e8e808,#e8e808,1,0.2493456634509062
 'Christine Lambrecht',en,Deutschland,#1818e8,#1818e8,1,0.249283962031489
 'Steven Milloy',en,USA,#18e8e8,#18e8e8,1,0.248178230154469
-'Immanuel Kant',en,Deutschland,#1818e8,#1818e8,2,0.2471397370406584
 'Katja Krasavice',en,Deutschland,#1818e8,#1818e8,1,0.244130065497062
 'Tamim Hamad Thani',en,Katar,#111111,#111111,3,0.243702483793426
 'Richard Ferrand',en,Frankreich,#e8e808,#e8e808,1,0.2432848168928749
@@ -488,8 +487,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,3,0.223802778437948
 'Edir Macedo',en,Brasilien,#58e838,#58e848,1,0.2228367593884062
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.22185265625
-'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.2218526562499999
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
+'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.2218526562499999
 'Annalena Baerbock',en,Deutschland,#1818e8,#1818e8,3,0.2202487036288648
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.219827957022201
 'Warren Buffett',en,USA,#18e8e8,#18e8e8,2,0.219518081064424
@@ -502,6 +501,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Björn Höcke',en,Deutschland,#1818e8,#1818e8,2,0.215400379085716
 'Katarina Barley',en,EU,#111111,#111111,2,0.215162706941163
 'Dalai Lama',en,Tibet,#111111,#111111,3,0.2137038424105146
+'Immanuel Kant',en,Deutschland,#1818e8,#1818e8,2,0.21351912148455962
 'Benjamin Netanyahu',en,Israel,#111111,#111111,3,0.211518893579839
 'Gautam Adani',en,Indien,#111111,#111111,3,0.2103223449988411
 'Larry Ellison',en,USA,#18e8e8,#18e8e8,2,0.2098610389279257
