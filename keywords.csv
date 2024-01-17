@@ -159,7 +159,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Scalise',en,unknown,#111111,#111111,3,0.4342698553671076
 'Rupert Murdoch',en,unknown,#111111,#111111,3,0.4342148544202585
 'Afida Turner',en,Frankreich,#e8e808,#e8e808,2,0.4338854198393749
-'Sophia Chikirou',en,unknown,#111111,#111111,1,0.4314440535028665
 'Princess Diana',en,UK,#e838e8,#e838e8,3,0.4312251231124068
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,3,0.4310869115083519
 'James Comer',en,unknown,#111111,#111111,3,0.4310120514787025
@@ -292,10 +291,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.397525015
 'Steven Donziger',en,unknown,#111111,#111111,1,0.39737503825
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.397375
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.397375
-'Hans Joosten',en,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.397375
 'Minka Indigena',en,unknown,#111111,#111111,1,0.397375
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.397375
+'Hans Joosten',en,unknown,#111111,#111111,1,0.397375
 'Sam H',en,unknown,#111111,#111111,2,0.3973205540488556
 'Sultan al-Jaber',en,VAE,#111111,#111111,3,0.397003494840909
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.396635537565398
@@ -358,6 +357,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kemal Kiliçdaroglu',en,Türkei,#111111,#111111,1,0.3697498615410713
 'King Charles',en,UK,#e838e8,#e838e8,3,0.3687029340082495
 'Gérard Larcher',en,unknown,#111111,#111111,1,0.3679196063544976
+'Sophia Chikirou',en,unknown,#111111,#111111,1,0.3667274454774365
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.3667259496198617
 'Steve Milloy',en,USA,#18e8e8,#18e8e8,2,0.3652323388352272
 'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.364788804766875
@@ -373,12 +373,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.361565435094065
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.3615500554999999
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3614000149999999
-'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
 'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3612499999999999
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.358678357602557
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.3580522669973862
 'Boris Johnson',en,UK,#e838e8,#e838e8,3,0.3574162960158356
@@ -572,7 +572,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ramsan Kadyrow',en,Russland,#e81818,#e81818,1,0.160288544140625
 'Lars Klingbeil',en,Deutschland,#1818e8,#1818e8,1,0.1602322506372565
 'Roberta Metsola',en,EU,#111111,#111111,2,0.158833168910546
-'Maria Kolesnikowa',en,Belarus,#e81858,#e81858,1,0.15875220075814045
+'Maria Kolesnikowa',en,Belarus,#e81858,#e81858,1,0.1587522007581404
 'Thomas Haldenwang',en,Deutschland,#1818e8,#1818e8,1,0.1586974536577392
 'Nicola Beer',en,EU,#111111,#111111,1,0.15777415006034
 'John Kerry',en,USA,#18e8e8,#18e8e8,2,0.1541426732692274
