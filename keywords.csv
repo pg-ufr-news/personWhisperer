@@ -574,6 +574,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Roberta Metsola',en,EU,#111111,#111111,2,0.158833168910546
 'Maria Kolesnikowa',en,Belarus,#e81858,#e81858,1,0.1587522007581404
 'Thomas Haldenwang',en,Deutschland,#1818e8,#1818e8,1,0.1586974536577392
+'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.1581434948158253
 'Nicola Beer',en,EU,#111111,#111111,1,0.15777415006034
 'John Kerry',en,USA,#18e8e8,#18e8e8,2,0.1541426732692274
 'Tamim bin Hamad Al Thani',en,Katar,#111111,#111111,2,0.153885065978855
@@ -613,7 +614,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander Lukaschenko',en,Belarus,#e81858,#e81858,2,0.1321991930461029
 'Andreas Jödecke',en,Deutschland,#1818e8,#1818e8,1,0.131776885743496
 'Sandra Maischberger',en,Deutschland,#1818e8,#1818e8,1,0.1299532325140539
-'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.129458180778799
 'Alexei Nawalny',en,Russland,#e81818,#e81818,1,0.129347072944707
 'Generalbundesanwalt Peter Frank',en,Deutschland,#1818e8,#1818e8,1,0.1291102183302861
 'König Charles III',en,UK,#e838e8,#e838e8,1,0.1287384282265033
