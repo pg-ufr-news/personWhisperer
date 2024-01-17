@@ -332,7 +332,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Élisabeth Borne',en,Frankreich,#e8e808,#e8e808,2,0.3850051559545454
 'Fani Willis',en,unknown,#111111,#111111,3,0.3848321212041506
 'Sergio Mattarella',en,Italien,#111111,#111111,1,0.3847766193181818
-'Barbara Sturm',en,Deutschland,#1818e8,#1818e8,2,0.384538746287862
 'Prince Louis',en,UK,#e838e8,#e838e8,3,0.384201885729489
 'Silvio Berlusconi',en,Italien,#111111,#111111,2,0.383986579239625
 'Oisin Fanning',en,Irland,#111111,#111111,1,0.38350041625
@@ -342,6 +341,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cem Özdemir',en,Deutschland,#1818e8,#1818e8,2,0.3821570549642853
 'Lula da Silva',en,Brasilien,#58e838,#58e848,3,0.3817727007780224
 'Herbert Diess',en,Deutschland,#1818e8,#1818e8,2,0.381664652674242
+'Barbara Sturm',en,Deutschland,#1818e8,#1818e8,2,0.3800082493446827
 'Gabriel Attal',en,unknown,#111111,#111111,2,0.3799345949490385
 'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,3,0.3796395312578797
 'John Paul II',en,Vatikan,#58b8e8,#58b8e8,3,0.3788385944090909
