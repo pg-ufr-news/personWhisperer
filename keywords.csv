@@ -79,7 +79,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.4601925355227271
 'Leni Klum',en,unknown,#111111,#111111,3,0.4596817286044041
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4596751122788323
-'Patrick Mahomes',en,unknown,#111111,#111111,3,0.45819535282564305
+'Patrick Mahomes',en,unknown,#111111,#111111,3,0.458195352825643
 'Colin Farrell',en,unknown,#111111,#111111,3,0.4578288024512323
 'Viktor Shokin',en,unknown,#111111,#111111,3,0.4575473873140163
 'Abraham Lincoln',en,unknown,#111111,#111111,3,0.4565360480227273
@@ -289,11 +289,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.397525015
 'Gorbatschow',en,unknown,#111111,#111111,1,0.397525015
 'Steven Donziger',en,unknown,#111111,#111111,1,0.39737503825
+'Minka Indigena',en,unknown,#111111,#111111,1,0.397375
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.397375
-'Hans Joosten',en,unknown,#111111,#111111,1,0.397375
-'Minka Indigena',en,unknown,#111111,#111111,1,0.397375
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.397375
+'Hans Joosten',en,unknown,#111111,#111111,1,0.397375
 'Sam H',en,unknown,#111111,#111111,2,0.3973205540488556
 'Sultan al-Jaber',en,VAE,#111111,#111111,3,0.397003494840909
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.396635537565398
@@ -547,6 +547,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karl Lauterbach',en,Deutschland,#1818e8,#1818e8,2,0.180625893135617
 'Lael Brainard',en,USA,#18e8e8,#18e8e8,2,0.180586466283117
 'Anthony Albanese',en,Australien,#111111,#111111,2,0.179932450877684
+'Kyrill',en,Ukraine,#e818e8,#e818e8,2,0.17928418249741895
 'Andrew Forrest',en,Australien,#111111,#111111,2,0.1780635727259072
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.176683916934702
 'Christian Drosten',en,Deutschland,#1818e8,#1818e8,2,0.1764376674725316
@@ -633,7 +634,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kardinal Woelki',en,Deutschland,#1818e8,#1818e8,1,0.123483422417888
 'Macky Sall',en,Senegal,#111111,#111111,1,0.123426671058894
 'Selenskyj',en,Ukraine,#e818e8,#e818e8,1,0.1233248047386064
-'Kyrill',en,Ukraine,#e818e8,#e818e8,1,0.122334297055787
 'Steffen Große',en,Deutschland,#1818e8,#1818e8,1,0.12222690613538
 'Andreas Baum',en,Deutschland,#1818e8,#1818e8,1,0.1219667228315189
 'Jitzchak Herzog',en,Israel,#111111,#111111,1,0.121758564796411
