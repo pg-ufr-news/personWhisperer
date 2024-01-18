@@ -69,7 +69,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charlie Munger',en,unknown,#111111,#111111,3,0.4642698731529138
 'Brad Pitt',en,unknown,#111111,#111111,3,0.4641858404391869
 'Steve Doocy',en,unknown,#111111,#111111,3,0.4638996567045677
-'Patrick Mahomes',en,unknown,#111111,#111111,2,0.4636802632173341
 'George Floyd',en,USA,#18e8e8,#18e8e8,3,0.4631799932272725
 'Irina Shayk',en,unknown,#111111,#111111,2,0.4629874129466849
 'Leonard Bernstein',en,unknown,#111111,#111111,3,0.4621559586661052
@@ -80,6 +79,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.4601925355227271
 'Leni Klum',en,unknown,#111111,#111111,3,0.4596817286044041
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4596751122788323
+'Patrick Mahomes',en,unknown,#111111,#111111,3,0.45819535282564305
 'Colin Farrell',en,unknown,#111111,#111111,3,0.4578288024512323
 'Viktor Shokin',en,unknown,#111111,#111111,3,0.4575473873140163
 'Abraham Lincoln',en,unknown,#111111,#111111,3,0.4565360480227273
@@ -289,11 +289,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.397525015
 'Gorbatschow',en,unknown,#111111,#111111,1,0.397525015
 'Steven Donziger',en,unknown,#111111,#111111,1,0.39737503825
+'Claudia Kempfert',en,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.397375
 'Hans Joosten',en,unknown,#111111,#111111,1,0.397375
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.397375
-'Claudia Kempfert',en,unknown,#111111,#111111,1,0.397375
 'Minka Indigena',en,unknown,#111111,#111111,1,0.397375
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.397375
 'Sam H',en,unknown,#111111,#111111,2,0.3973205540488556
 'Sultan al-Jaber',en,VAE,#111111,#111111,3,0.397003494840909
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.396635537565398
@@ -677,7 +677,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yanis Varoufakis',en,Griechenland,#1858e8,#1858e8,1,0.102105240474468
 'Wolodymyr Selenski',en,Ukraine,#e818e8,#e818e8,1,0.1004537732075887
 'Ayatollah Ali Chamenei',en,Iran,#111111,#111111,1,0.100398524460988
-'Joana Cotar',en,Deutschland,#1818e8,#1818e8,1,0.09998301045479802
+'Joana Cotar',en,Deutschland,#1818e8,#1818e8,1,0.099983010454798
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.099771091999096
 'Erik Marquardt',en,EU,#111111,#111111,1,0.0982724945986338
 'Ulf Poschardt',en,Deutschland,#1818e8,#1818e8,1,0.0975387758866539
