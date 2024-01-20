@@ -276,7 +276,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sophia Kianni',en,unknown,#111111,#111111,1,0.4017738488499999
 'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.4015275375888352
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.40141514063
-'Jan Lipavský',en,Tschechien,#111111,#111111,1,0.4008451607624999
 'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,1,0.4007751275
 'Katy Perry',en,USA,#18e8e8,#18e8e8,3,0.3995796965434094
 'Willie Nelson',en,unknown,#111111,#111111,3,0.3994828434199897
@@ -289,11 +288,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.397525015
 'Gorbatschow',en,unknown,#111111,#111111,1,0.397525015
 'Steven Donziger',en,unknown,#111111,#111111,1,0.39737503825
-'Hans Joosten',en,unknown,#111111,#111111,1,0.397375
+'Claudia Kempfert',en,unknown,#111111,#111111,1,0.397375
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.397375
+'Hans Joosten',en,unknown,#111111,#111111,1,0.397375
 'Minka Indigena',en,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.397375
-'Claudia Kempfert',en,unknown,#111111,#111111,1,0.397375
 'Sam H',en,unknown,#111111,#111111,2,0.3973205540488556
 'Sultan al-Jaber',en,VAE,#111111,#111111,3,0.397003494840909
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.396635537565398
@@ -395,6 +394,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Margaret Thatcher',en,UK,#e838e8,#e838e8,3,0.3459014514086916
 'Isaac Newton',en,UK,#e838e8,#e838e8,3,0.343819546867272
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,1,0.3430846826913157
+'Jan Lipavský',en,Tschechien,#111111,#111111,1,0.3410184166481249
 'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.3400733687609372
 'Paul-Henry Nargeolet',en,Frankreich,#e8e808,#e8e808,3,0.3391518067977272
 'Bruno Retailleau',en,Frankreich,#e8e808,#e8e808,2,0.3390892955819233
