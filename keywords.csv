@@ -81,6 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patrick Mahomes',en,unknown,#111111,#111111,3,0.458195352825643
 'Colin Farrell',en,unknown,#111111,#111111,3,0.4578288024512323
 'Viktor Shokin',en,unknown,#111111,#111111,3,0.4575473873140163
+'Joe Jonas',en,unknown,#111111,#111111,3,0.457198676311973
 'Abraham Lincoln',en,unknown,#111111,#111111,3,0.4565360480227273
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.4565228139125148
 'Miley Cyrus',en,unknown,#111111,#111111,3,0.4562256308099992
@@ -145,7 +146,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.4382747316020494
 'Tasneem Essop',en,unknown,#111111,#111111,1,0.43667518
 'Sergei Surovikin',en,Russland,#e81818,#e81818,3,0.4360936749318181
-'Joe Jonas',en,unknown,#111111,#111111,2,0.4357976699926955
 'Michael Cohen',en,USA,#18e8e8,#18e8e8,3,0.435627874407386
 'Milo Yiannopoulos',en,UK,#e838e8,#e838e8,2,0.4355835250787321
 'Faith Birol',en,unknown,#111111,#111111,1,0.43547506
@@ -289,11 +289,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.397525015
 'Gorbatschow',en,unknown,#111111,#111111,1,0.397525015
 'Steven Donziger',en,unknown,#111111,#111111,1,0.39737503825
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.397375
 'Minka Indigena',en,unknown,#111111,#111111,1,0.397375
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.397375
-'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.397375
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.397375
 'Hans Joosten',en,unknown,#111111,#111111,1,0.397375
+'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.397375
 'Sam H',en,unknown,#111111,#111111,2,0.3973205540488556
 'Sultan al-Jaber',en,VAE,#111111,#111111,3,0.397003494840909
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.396635537565398
