@@ -27,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Suleika Jaouad',en,unknown,#111111,#111111,2,0.4767107699976718
 'Caroline Ellison',en,unknown,#111111,#111111,3,0.4761132464859906
 'Tim Scott',en,USA,#18e8e8,#18e8e8,3,0.4759317107045454
-'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.4758436910103064
 'Carey Mulligan',en,unknown,#111111,#111111,2,0.4755420257112366
 'Ines de Ramon',en,unknown,#111111,#111111,2,0.4754465438452643
 'Javier Milei',en,unknown,#111111,#111111,3,0.4752782346238636
@@ -65,6 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Devon Archer',en,unknown,#111111,#111111,3,0.4651344051668641
 'Jessica Biel',en,unknown,#111111,#111111,3,0.4644669443897264
 'Charlie Munger',en,unknown,#111111,#111111,3,0.4642698731529138
+'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.46397819190421496
 'Steve Doocy',en,unknown,#111111,#111111,3,0.4638996567045677
 'George Floyd',en,USA,#18e8e8,#18e8e8,3,0.4631799932272725
 'Irina Shayk',en,unknown,#111111,#111111,2,0.4629874129466849
@@ -363,7 +363,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tina Turner',en,USA,#18e8e8,#18e8e8,3,0.3637510272556807
 'François Braun',en,unknown,#111111,#111111,1,0.36372751597948
 'Luc Terlinden',en,unknown,#111111,#111111,1,0.3636501927270666
-'Jean Jouzel',en,unknown,#111111,#111111,1,0.36271918360645755
+'Jean Jouzel',en,unknown,#111111,#111111,1,0.3627191836064575
 'Marlène Schiappa',en,unknown,#111111,#111111,2,0.3624782710531116
 'Bettina Stark-Watzinger',en,Deutschland,#1818e8,#1818e8,1,0.3624502474999999
 'Moon Hyung-jin',en,USA,#18e8e8,#18e8e8,1,0.3624502092499999
