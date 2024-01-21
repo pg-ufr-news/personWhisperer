@@ -178,7 +178,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.427924836970838
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4278545546098469
 'Brad Pitt',en,unknown,#111111,#111111,3,0.4267868716460361
-'Jean Jouzel',en,unknown,#111111,#111111,1,0.4267284513017148
 'Joaquim Valente',en,unknown,#111111,#111111,1,0.4263506247683148
 'Peregrine Pearson',en,unknown,#111111,#111111,2,0.4258255468424355
 'Mark Cuban',en,unknown,#111111,#111111,3,0.42575876917349
@@ -288,10 +287,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.397525015
 'Gorbatschow',en,unknown,#111111,#111111,1,0.397525015
 'Steven Donziger',en,unknown,#111111,#111111,1,0.39737503825
-'Claudia Kempfert',en,unknown,#111111,#111111,1,0.397375
-'Minka Indigena',en,unknown,#111111,#111111,1,0.397375
-'Hans Joosten',en,unknown,#111111,#111111,1,0.397375
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.397375
+'Minka Indigena',en,unknown,#111111,#111111,1,0.397375
+'Claudia Kempfert',en,unknown,#111111,#111111,1,0.397375
+'Hans Joosten',en,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.397375
 'Sam H',en,unknown,#111111,#111111,2,0.3973205540488556
 'Sultan al-Jaber',en,VAE,#111111,#111111,3,0.397003494840909
@@ -364,6 +363,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tina Turner',en,USA,#18e8e8,#18e8e8,3,0.3637510272556807
 'François Braun',en,unknown,#111111,#111111,1,0.36372751597948
 'Luc Terlinden',en,unknown,#111111,#111111,1,0.3636501927270666
+'Jean Jouzel',en,unknown,#111111,#111111,1,0.36271918360645755
 'Marlène Schiappa',en,unknown,#111111,#111111,2,0.3624782710531116
 'Bettina Stark-Watzinger',en,Deutschland,#1818e8,#1818e8,1,0.3624502474999999
 'Moon Hyung-jin',en,USA,#18e8e8,#18e8e8,1,0.3624502092499999
