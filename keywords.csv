@@ -64,7 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Devon Archer',en,unknown,#111111,#111111,3,0.4651344051668641
 'Jessica Biel',en,unknown,#111111,#111111,3,0.4644669443897264
 'Charlie Munger',en,unknown,#111111,#111111,3,0.4642698731529138
-'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.46397819190421496
+'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.4639781919042149
 'Steve Doocy',en,unknown,#111111,#111111,3,0.4638996567045677
 'George Floyd',en,USA,#18e8e8,#18e8e8,3,0.4631799932272725
 'Irina Shayk',en,unknown,#111111,#111111,2,0.4629874129466849
@@ -74,7 +74,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.4611618314598204
 'Carter Reum',en,unknown,#111111,#111111,3,0.460785640088339
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.4601925355227271
-'Leni Klum',en,unknown,#111111,#111111,3,0.4596817286044041
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4596751122788323
 'Patrick Mahomes',en,unknown,#111111,#111111,3,0.458195352825643
 'Colin Farrell',en,unknown,#111111,#111111,3,0.4578288024512323
@@ -112,6 +111,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pablo Picasso',en,Spanien,#111111,#111111,2,0.4481342631818181
 'Billy Crystal',en,unknown,#111111,#111111,2,0.4478188171538063
 'Gisele Bundchen',en,unknown,#111111,#111111,3,0.4473778304741422
+'Leni Klum',en,unknown,#111111,#111111,3,0.4470924493137435
 'Bradley Cooper',en,unknown,#111111,#111111,3,0.4468093811171629
 'Cassidy Hutchinson',en,unknown,#111111,#111111,3,0.4461955797820728
 'Nicolas Sarkozy',en,unknown,#111111,#111111,3,0.4461229684392294
