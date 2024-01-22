@@ -448,7 +448,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.261003125
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,1,0.261003125
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
@@ -489,6 +488,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edir Macedo',en,Brasilien,#58e838,#58e848,1,0.2228367593884062
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.22185265625
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.2218526562499999
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
 'Annalena Baerbock',en,Deutschland,#1818e8,#1818e8,3,0.2202487036288648
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.219827957022201
