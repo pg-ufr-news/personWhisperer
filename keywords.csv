@@ -648,7 +648,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Freund',en,EU,#111111,#111111,1,0.1165552828461984
 'Michael Kretschmer',en,Deutschland,#1818e8,#1818e8,1,0.116524999003359
 'Alberto Ángel Fernández',en,Argentinien,#111111,#111111,1,0.115556980050688
-'Valery Gerasimov',en,Russland,#e81818,#e81818,3,0.1140160632926753
 'Frank Bainimarama',en,Fidschi,#111111,#111111,1,0.113346782585109
 'Schellnhuber',en,Deutschland,#1818e8,#1818e8,1,0.1129644807426594
 'Lukaschenko',en,Belarus,#e81858,#e81858,1,0.1129277597797189
@@ -681,6 +680,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erik Marquardt',en,EU,#111111,#111111,1,0.0982724945986338
 'Ulf Poschardt',en,Deutschland,#1818e8,#1818e8,1,0.0975387758866539
 'Amin Nasser',en,SaudiArabien,#111111,#111111,1,0.09727380071405
+'Valery Gerasimov',en,Russland,#e81818,#e81818,2,0.09691396879877401
 'Susanne Klatten',en,Deutschland,#1818e8,#1818e8,1,0.0938507755427247
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.0913472158764356
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.0903653515923918
