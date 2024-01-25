@@ -486,8 +486,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,3,0.223802778437948
 'Edir Macedo',en,Brasilien,#58e838,#58e848,1,0.2228367593884062
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.22185265625
-'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.2218526562499999
+'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
 'Annalena Baerbock',en,Deutschland,#1818e8,#1818e8,3,0.2202487036288648
@@ -498,7 +498,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,2,0.2175058004450625
 'Charles Michel',en,EU,#111111,#111111,3,0.2156023514033326
 'Mark Rutte',en,Niederlande,#111111,#111111,3,0.215456271429137
-'Björn Höcke',en,Deutschland,#1818e8,#1818e8,2,0.215400379085716
 'Katarina Barley',en,EU,#111111,#111111,2,0.215162706941163
 'Dalai Lama',en,Tibet,#111111,#111111,3,0.2137038424105146
 'Immanuel Kant',en,Deutschland,#1818e8,#1818e8,2,0.2135191214845596
@@ -541,6 +540,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Roland Busch',en,Deutschland,#1818e8,#1818e8,2,0.1856639745592681
 'Vitali Klitschko',en,Ukraine,#e818e8,#e818e8,3,0.183834986344811
+'Björn Höcke',en,Deutschland,#1818e8,#1818e8,1,0.1830905322228586
 'Subrahmanyam Jaishankar',en,Indien,#111111,#111111,2,0.18212654954468
 'Andrea Lindholz',en,Deutschland,#1818e8,#1818e8,1,0.1818035378546337
 'Karl Lauterbach',en,Deutschland,#1818e8,#1818e8,2,0.180625893135617
