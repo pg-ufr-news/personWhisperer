@@ -319,7 +319,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.3881638059215339
 'George Washington',en,USA,#18e8e8,#18e8e8,3,0.3880506678617044
 'Albert Einstein',en,Deutschland,#1818e8,#1818e8,3,0.3878609189136361
-'Putin',en,Russland,#e81818,#e81818,3,0.38784510155445
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3874852634363634
 'Johnny Depp',en,USA,#18e8e8,#18e8e8,3,0.3863471999243401
 'Kanye West',en,USA,#18e8e8,#18e8e8,3,0.3858222214856
@@ -345,6 +344,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,1,0.3776195878504714
 'Chris Hipkins',en,Neuseeland,#1818e8,#1818e8,3,0.3763690683000004
 'nan Si',en,unknown,#111111,#111111,1,0.3763188631801449
+'Putin',en,Russland,#e81818,#e81818,3,0.3755934272303734
 'Shahzada Dawood',en,Pakistan,#111111,#111111,2,0.3746937839772726
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.374587953775
 'Karim Benzema',en,Frankreich,#e8e808,#e8e808,3,0.3744024619420454
@@ -627,7 +627,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Miriam Adelson',en,USA,#18e8e8,#18e8e8,2,0.1262511865351177
 'Muhammad bin Zayid Al Nahyan',en,VAE,#111111,#111111,1,0.125394471353096
 'Julia Koch',en,USA,#18e8e8,#18e8e8,1,0.1253417359567913
-'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.12507315099292965
+'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.1250731509929296
 'Pope Benedikt XVI',en,Vatikan,#58b8e8,#58b8e8,1,0.1245294384437421
 'Badri Hosseini Chamenei',en,Iran,#111111,#111111,1,0.1244766197819587
 'Lula sa Silva',en,Brasilien,#58e838,#58e838,1,0.1242233115322763
