@@ -581,9 +581,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holger Münch',en,Deutschland,#1818e8,#1818e8,1,0.1536350906491524
 'Anthony Fauci',en,USA,#18e8e8,#18e8e8,1,0.151941997910852
 'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.150492701540908
-'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.14986978877148427
+'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.1498697887714842
 'Julian Assange',en,Australien,#111111,#111111,2,0.149083180581724
-'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.1471448835210937
 'Selenski',en,Ukraine,#e818e8,#e818e8,1,0.1460265211134415
 'Pietro Lombardi',en,Deutschland,#1818e8,#1818e8,1,0.1450498801148274
 'Boris Palmer',en,Deutschland,#1818e8,#1818e8,1,0.1449050835982684
@@ -628,6 +627,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Miriam Adelson',en,USA,#18e8e8,#18e8e8,2,0.1262511865351177
 'Muhammad bin Zayid Al Nahyan',en,VAE,#111111,#111111,1,0.125394471353096
 'Julia Koch',en,USA,#18e8e8,#18e8e8,1,0.1253417359567913
+'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.12507315099292965
 'Pope Benedikt XVI',en,Vatikan,#58b8e8,#58b8e8,1,0.1245294384437421
 'Badri Hosseini Chamenei',en,Iran,#111111,#111111,1,0.1244766197819587
 'Lula sa Silva',en,Brasilien,#58e838,#58e838,1,0.1242233115322763
