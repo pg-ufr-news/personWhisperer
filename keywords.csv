@@ -183,7 +183,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Al Pacino',en,USA,#18e8e8,#18e8e8,3,0.4254551174298109
 'Reinhard Marx',en,Deutschland,#1818e8,#1818e8,1,0.42500009
 'Kim Reynolds',en,unknown,#111111,#111111,3,0.4249248055578872
-'Lawrence Jones',en,unknown,#111111,#111111,3,0.42463917264664297
+'Lawrence Jones',en,unknown,#111111,#111111,3,0.4246391726466429
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,3,0.4244367217363634
 'Sophie Turner',en,unknown,#111111,#111111,3,0.423425345005767
 'Jeffrey Donaldson',en,Irland,#111111,#111111,2,0.4232120779128789
@@ -568,7 +568,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saskia Esken',en,Deutschland,#1818e8,#1818e8,2,0.1633994968660552
 'Markus Söder',en,Deutschland,#1818e8,#1818e8,1,0.162508839523399
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
-'Ulrich Reitz',en,Deutschland,#1818e8,#1818e8,1,0.1612502754054687
 'Ramsan Kadyrow',en,Russland,#e81818,#e81818,1,0.160288544140625
 'Lars Klingbeil',en,Deutschland,#1818e8,#1818e8,1,0.1602322506372565
 'Roberta Metsola',en,EU,#111111,#111111,2,0.158833168910546
@@ -601,6 +600,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jewgenij Roisman',en,Russland,#e81818,#e81818,1,0.137861546247125
 'Wolodymyr Selenskyj',en,Ukraine,#e818e8,#e818e8,1,0.137520488281903
 'Nina Gummich',en,Deutschland,#1818e8,#1818e8,1,0.1373352246196874
+'Ulrich Reitz',en,Deutschland,#1818e8,#1818e8,1,0.1372127490946484
 'Marco Buschmann',en,Deutschland,#1818e8,#1818e8,1,0.1363091408916048
 'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.1362452625195312
 'Wladimir Putin',en,Russland,#e81818,#e81818,1,0.1358791656501874
