@@ -277,12 +277,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Willie Nelson',en,unknown,#111111,#111111,3,0.3994828434199897
 'James Cameron',en,USA,#18e8e8,#18e8e8,3,0.3993062787741476
 'Johan Rockström',en,unknown,#111111,#111111,2,0.399295192
-'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.398507337875
 'Ed McVey',en,UK,#e838e8,#e838e8,2,0.3979297214326258
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.39775753825
 'Vanessa Nakate',en,unknown,#111111,#111111,1,0.39752525725
-'Helena Gualinga',en,unknown,#111111,#111111,1,0.397525015
 'Gorbatschow',en,unknown,#111111,#111111,1,0.397525015
+'Helena Gualinga',en,unknown,#111111,#111111,1,0.397525015
 'Steven Donziger',en,unknown,#111111,#111111,1,0.39737503825
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.397375
 'Minka Indigena',en,unknown,#111111,#111111,1,0.397375
@@ -349,6 +348,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.374587953775
 'Karim Benzema',en,Frankreich,#e8e808,#e8e808,3,0.3744024619420454
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,1,0.3724918396875
+'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.37096417946647725
 'Kemal Kiliçdaroglu',en,Türkei,#111111,#111111,1,0.3697498615410713
 'King Charles',en,UK,#e838e8,#e838e8,3,0.3687029340082495
 'Gérard Larcher',en,unknown,#111111,#111111,1,0.3679196063544976
@@ -486,8 +486,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,3,0.223802778437948
 'Edir Macedo',en,Brasilien,#58e838,#58e848,1,0.2228367593884062
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.22185265625
-'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.2218526562499999
+'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
 'Annalena Baerbock',en,Deutschland,#1818e8,#1818e8,3,0.2202487036288648
