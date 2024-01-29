@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Tom Hanks',en,unknown,#111111,#111111,3,0.5448568700290352
+'Tom Hanks',en,unknown,#111111,#111111,3,0.5044500158883162
 'Ryan Gosling',en,unknown,#111111,#111111,3,0.4835873520454546
 'Justin Timberlake',en,unknown,#111111,#111111,3,0.4834748696655584
 'Sheryl Crow',en,unknown,#111111,#111111,3,0.4829031421136364
@@ -487,10 +487,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,3,0.223802778437948
 'Edir Macedo',en,Brasilien,#58e838,#58e848,1,0.2228367593884062
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.22185265625
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
-'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.2218526562499999
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
+'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.2218526562499999
 'Annalena Baerbock',en,Deutschland,#1818e8,#1818e8,3,0.2202487036288648
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.219827957022201
 'Warren Buffett',en,USA,#18e8e8,#18e8e8,2,0.219518081064424
