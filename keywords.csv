@@ -14,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.4784178451296212
 'Mira Murati',en,unknown,#111111,#111111,2,0.4783285035690249
 'Melania Trump',en,unknown,#111111,#111111,3,0.4781024874827326
-'Reed Richards',en,unknown,#111111,#111111,3,0.4780992854049768
 'Greg Brockman',en,unknown,#111111,#111111,3,0.4778972185167051
 'Margot Robbie',en,unknown,#111111,#111111,3,0.4778393597307239
 'Missy Elliott',en,unknown,#111111,#111111,2,0.4777417019801088
@@ -153,6 +152,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drena De Niro',en,USA,#18e8e8,#18e8e8,3,0.4344965645454545
 'Steve Scalise',en,unknown,#111111,#111111,3,0.4342698553671076
 'Rupert Murdoch',en,unknown,#111111,#111111,3,0.4342148544202585
+'Reed Richards',en,unknown,#111111,#111111,3,0.43406295532150296
 'Afida Turner',en,Frankreich,#e8e808,#e8e808,2,0.4338854198393749
 'Princess Diana',en,UK,#e838e8,#e838e8,3,0.4312251231124068
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,3,0.4310869115083519
@@ -487,10 +487,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,3,0.223802778437948
 'Edir Macedo',en,Brasilien,#58e838,#58e848,1,0.2228367593884062
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.22185265625
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
-'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.2218526562499999
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
+'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.2218526562499999
 'Annalena Baerbock',en,Deutschland,#1818e8,#1818e8,3,0.2202487036288648
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.219827957022201
 'Warren Buffett',en,USA,#18e8e8,#18e8e8,2,0.219518081064424
