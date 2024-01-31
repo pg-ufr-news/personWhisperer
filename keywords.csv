@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ryan Gosling',en,unknown,#111111,#111111,3,0.4835873520454546
 'Justin Timberlake',en,unknown,#111111,#111111,3,0.4834748696655584
 'Sheryl Crow',en,unknown,#111111,#111111,3,0.4829031421136364
 'Selena Gomez',en,unknown,#111111,#111111,3,0.4828647377085545
@@ -90,6 +89,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Santos',en,USA,#18e8e8,#18e8e8,3,0.4524897087943181
 'Sam Asghari',en,unknown,#111111,#111111,3,0.4524331700250437
 'Jonathan Turley',en,unknown,#111111,#111111,3,0.4523920616910216
+'Ryan Gosling',en,unknown,#111111,#111111,3,0.45238220560227277
 'Taylor Swift',en,unknown,#111111,#111111,3,0.4520514321305686
 'Tom Hanks',en,unknown,#111111,#111111,3,0.4519221166868869
 'Jordan Neely',en,USA,#18e8e8,#18e8e8,2,0.4518220526275976
@@ -487,10 +487,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edir Macedo',en,Brasilien,#58e838,#58e848,1,0.2228367593884062
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,1,0.22200267125
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.22185265625
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
-'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.2218526562499999
+'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Annalena Baerbock',en,Deutschland,#1818e8,#1818e8,3,0.2202487036288648
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.219827957022201
 'Warren Buffett',en,USA,#18e8e8,#18e8e8,2,0.219518081064424
