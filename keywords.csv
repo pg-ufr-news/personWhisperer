@@ -89,7 +89,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Santos',en,USA,#18e8e8,#18e8e8,3,0.4524897087943181
 'Sam Asghari',en,unknown,#111111,#111111,3,0.4524331700250437
 'Jonathan Turley',en,unknown,#111111,#111111,3,0.4523920616910216
-'Ryan Gosling',en,unknown,#111111,#111111,3,0.45238220560227277
+'Ryan Gosling',en,unknown,#111111,#111111,3,0.4523822056022727
 'Taylor Swift',en,unknown,#111111,#111111,3,0.4520514321305686
 'Tom Hanks',en,unknown,#111111,#111111,3,0.4519221166868869
 'Jordan Neely',en,USA,#18e8e8,#18e8e8,2,0.4518220526275976
@@ -487,10 +487,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edir Macedo',en,Brasilien,#58e838,#58e848,1,0.2228367593884062
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,1,0.22200267125
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.22185265625
-'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
-'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.2218526562499999
+'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
+'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.2218526562499999
 'Annalena Baerbock',en,Deutschland,#1818e8,#1818e8,3,0.2202487036288648
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.219827957022201
 'Warren Buffett',en,USA,#18e8e8,#18e8e8,2,0.219518081064424
@@ -589,7 +589,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gabor Steingart',en,Deutschland,#1818e8,#1818e8,1,0.1445835769285881
 'Patriarch Kyrill',en,Ukraine,#e818e8,#e818e8,1,0.143922702418574
 'Klaus-Michael Kühne',en,Deutschland,#1818e8,#1818e8,1,0.143665233328073
-'Nikos Androulakis',en,Griechenland,#1858e8,#1858e8,1,0.143634131098959
 'Joschka Fischer',en,Deutschland,#1818e8,#1818e8,1,0.1434636605397728
 'Rainer Maria Woelki',en,Deutschland,#1818e8,#1818e8,2,0.142634331011007
 'Jan Böhmermann',en,Deutschland,#1818e8,#1818e8,1,0.140989480961508
@@ -633,6 +632,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lula sa Silva',en,Brasilien,#58e838,#58e838,1,0.1242233115322763
 'Macky Sall',en,Senegal,#111111,#111111,1,0.123426671058894
 'Selenskyj',en,Ukraine,#e818e8,#e818e8,1,0.1233248047386064
+'Nikos Androulakis',en,Griechenland,#1858e8,#1858e8,1,0.12223902643411516
 'Steffen Große',en,Deutschland,#1818e8,#1818e8,1,0.12222690613538
 'Martin Schirdewan',en,Deutschland,#1818e8,#1818e8,1,0.1221393562164923
 'Jitzchak Herzog',en,Israel,#111111,#111111,1,0.121758564796411
