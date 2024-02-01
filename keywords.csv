@@ -451,7 +451,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.2572194954743593
-'Joseph Ratzinger',en,Vatikan,#58b8e8,#58b8e8,2,0.2549035397476998
 'Jeff Bezos',en,USA,#18e8e8,#18e8e8,3,0.2541353805609927
 'Frank-Walter Steinmeier',en,Deutschland,#1818e8,#1818e8,3,0.251492460588568
 'Mateusz Morawiecki',en,Polen,#111111,#111111,3,0.250372010575567
@@ -487,8 +486,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edir Macedo',en,Brasilien,#58e838,#58e848,1,0.2228367593884062
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,1,0.22200267125
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.22185265625
-'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
+'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.2218526562499999
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Annalena Baerbock',en,Deutschland,#1818e8,#1818e8,3,0.2202487036288648
@@ -497,6 +496,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,1,0.2185231873055357
 'Gerhard Schröder',en,Deutschland,#1818e8,#1818e8,1,0.217679995406422
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,2,0.2175058004450625
+'Joseph Ratzinger',en,Vatikan,#58b8e8,#58b8e8,1,0.21666815878554482
 'Charles Michel',en,EU,#111111,#111111,3,0.2156023514033326
 'Mark Rutte',en,Niederlande,#111111,#111111,3,0.215456271429137
 'Katarina Barley',en,EU,#111111,#111111,2,0.215162706941163
