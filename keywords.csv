@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Paris Hilton',en,unknown,#111111,#111111,3,0.4827525802206736
 'Lance Bass',en,unknown,#111111,#111111,3,0.4824905168062821
 'Angelina Jolie',en,unknown,#111111,#111111,2,0.4811032975934757
 'Sam Bankman-Fried',en,unknown,#111111,#111111,3,0.4805127696741227
@@ -91,7 +90,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Taylor Swift',en,unknown,#111111,#111111,3,0.4520514321305686
 'Tom Hanks',en,unknown,#111111,#111111,3,0.4519221166868869
 'Jordan Neely',en,USA,#18e8e8,#18e8e8,2,0.4518220526275976
-'Selena Gomez',en,unknown,#111111,#111111,3,0.45176532841590766
+'Selena Gomez',en,unknown,#111111,#111111,3,0.4517653284159076
 'Billionaire Bunker',en,unknown,#111111,#111111,2,0.4514925911496645
 'Indiana Jones',en,unknown,#111111,#111111,2,0.4514407505991244
 'Jack Smith',en,USA,#18e8e8,#18e8e8,3,0.4507679783249999
@@ -138,6 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gayle King',en,unknown,#111111,#111111,3,0.4387218463145332
 'Yaël Braun-Pivet',en,unknown,#111111,#111111,2,0.4383591541181793
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.4382747316020494
+'Paris Hilton',en,unknown,#111111,#111111,3,0.43802092591484526
 'Tasneem Essop',en,unknown,#111111,#111111,1,0.43667518
 'Sergei Surovikin',en,Russland,#e81818,#e81818,3,0.4360936749318181
 'Michael Cohen',en,USA,#18e8e8,#18e8e8,3,0.435627874407386
