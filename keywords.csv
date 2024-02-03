@@ -94,7 +94,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Billionaire Bunker',en,unknown,#111111,#111111,2,0.4514925911496645
 'Indiana Jones',en,unknown,#111111,#111111,2,0.4514407505991244
 'Jack Smith',en,USA,#18e8e8,#18e8e8,3,0.4507679783249999
-'Travis Kelce',en,unknown,#111111,#111111,3,0.4496933120326011
 'Brian Kilmeade',en,unknown,#111111,#111111,3,0.4495540059567855
 'Lauren Boebert',en,USA,#18e8e8,#18e8e8,3,0.4492875562147727
 'Kyle Pope',en,unknown,#111111,#111111,2,0.4490334434999999
@@ -173,7 +172,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harrison Ford',en,unknown,#111111,#111111,3,0.4285263131238636
 'Chris Stapleton',en,unknown,#111111,#111111,3,0.4279300115658773
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.427924836970838
-'Lionel Messi',en,Argentinien,#111111,#111111,3,0.42788777523183225
+'Lionel Messi',en,Argentinien,#111111,#111111,3,0.4278877752318322
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4278545546098469
 'Brad Pitt',en,unknown,#111111,#111111,3,0.4267868716460361
 'Joaquim Valente',en,unknown,#111111,#111111,1,0.4263506247683148
@@ -219,6 +218,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Wozniak',en,USA,#18e8e8,#18e8e8,2,0.4156387612272727
 'Pedro Pascal',en,unknown,#111111,#111111,3,0.4154405684136471
 'Chuck Schumer',en,unknown,#111111,#111111,3,0.4149599718647659
+'Travis Kelce',en,unknown,#111111,#111111,3,0.4145232125004382
 'Mohammed Bin Salman',en,SaudiArabien,#111111,#111111,3,0.414341075039034
 'Gigi Hadid',en,unknown,#111111,#111111,3,0.4142287554851864
 'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.4142111052128882
