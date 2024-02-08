@@ -366,11 +366,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.361565435094065
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.3615500554999999
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3614000149999999
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
 'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.358678357602557
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.3580522669973862
 'Boris Johnson',en,UK,#e838e8,#e838e8,3,0.3574162960158356
@@ -652,7 +652,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frank Bainimarama',en,Fidschi,#111111,#111111,1,0.113346782585109
 'Schellnhuber',en,Deutschland,#1818e8,#1818e8,1,0.1129644807426594
 'Lukaschenko',en,Belarus,#e81858,#e81858,1,0.1129277597797189
-'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.111957626138911
 'Larry Page',en,USA,#18e8e8,#18e8e8,2,0.1119222942196051
 'Alexej Kudrin',en,Russland,#e81818,#e81818,1,0.1118888387080861
 'Mojib Latif',en,Deutschland,#1818e8,#1818e8,1,0.1114190632112487
@@ -675,7 +674,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heinrich XIII. Prinz Reuß',en,Deutschland,#1818e8,#1818e8,1,0.102973299662835
 'Wolodimir Selenski',en,Ukraine,#e818e8,#e818e8,1,0.1021778158528351
 'Yanis Varoufakis',en,Griechenland,#1858e8,#1858e8,1,0.102105240474468
-'Jair Lapid',en,Israel,#111111,#111111,1,0.10175291697708233
+'Jair Lapid',en,Israel,#111111,#111111,1,0.1017529169770823
 'Wolodymyr Selenski',en,Ukraine,#e818e8,#e818e8,1,0.1004537732075887
 'Ayatollah Ali Chamenei',en,Iran,#111111,#111111,1,0.100398524460988
 'Joana Cotar',en,Deutschland,#1818e8,#1818e8,1,0.099983010454798
@@ -684,6 +683,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulf Poschardt',en,Deutschland,#1818e8,#1818e8,1,0.0975387758866539
 'Amin Nasser',en,SaudiArabien,#111111,#111111,1,0.09727380071405
 'Valery Gerasimov',en,Russland,#e81818,#e81818,2,0.096913968798774
+'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.09516398221807434
 'Susanne Klatten',en,Deutschland,#1818e8,#1818e8,1,0.0938507755427247
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.0913472158764356
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.0903653515923918
