@@ -106,7 +106,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'António Guterres',en,unknown,#111111,#111111,3,0.4460795038289204
 'Sam Altman',en,USA,#18e8e8,#18e8e8,3,0.4458403658995865
 'Akshata Murty',en,Indien,#111111,#111111,3,0.4457537965576809
-'Mark Meadows',en,unknown,#111111,#111111,3,0.44517297821654267
+'Mark Meadows',en,unknown,#111111,#111111,3,0.4451729782165426
 'Jon Batiste',en,unknown,#111111,#111111,3,0.4451613063716539
 'Matt Gaetz',en,unknown,#111111,#111111,3,0.44480897516144
 'Zach Bryan',en,unknown,#111111,#111111,3,0.4446356072857889
@@ -366,18 +366,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.361565435094065
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.3615500554999999
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3614000149999999
+'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
 'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
+'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.358678357602557
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.3580522669973862
 'Boris Johnson',en,UK,#e838e8,#e838e8,3,0.3574162960158356
 'Richard Ferrand',en,Frankreich,#e8e808,#e8e808,2,0.3570921243589436
 'Edouard Philippe',en,unknown,#111111,#111111,1,0.3567242377557477
 'Daniel Penny',en,USA,#18e8e8,#18e8e8,3,0.3560641137930571
-'Michael Kahle',en,Deutschland,#1818e8,#1818e8,1,0.3547300705
 'Andrew Tate',en,USA,#18e8e8,#18e8e8,2,0.35428939175
 'Stockton Rush',en,USA,#18e8e8,#18e8e8,3,0.3542800823477272
 'Olaf Scholz',en,Deutschland,#1818e8,#1818e8,3,0.353801249417119
@@ -424,6 +423,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.3070624999999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.3061546820885471
 'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.3030158487712762
+'Michael Kahle',en,Deutschland,#1818e8,#1818e8,1,0.301820589925
 'Premier ministre',en,unknown,#111111,#111111,1,0.294332560596289
 'Mario Czaja',en,Deutschland,#1818e8,#1818e8,2,0.2938223625895234
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.293322933515939
