@@ -366,11 +366,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.361565435094065
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.3615500554999999
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3614000149999999
-'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
-'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
+'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
+'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.358678357602557
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.3580522669973862
 'Boris Johnson',en,UK,#e838e8,#e838e8,3,0.3574162960158356
@@ -427,6 +427,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Premier ministre',en,unknown,#111111,#111111,1,0.294332560596289
 'Mario Czaja',en,Deutschland,#1818e8,#1818e8,2,0.2938223625895234
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.293322933515939
+'Joseph Ratzinger',en,Vatikan,#58b8e8,#58b8e8,2,0.29236089711057023
 'Jens Stoltenberg',en,Norwegen,#e818e8,#e818e8,3,0.2902723797470035
 'Olivier Marleix',en,Frankreich,#e8e808,#e8e808,1,0.2902067868125268
 'Liz Truss',en,UK,#e838e8,#e838e8,3,0.288453085811433
@@ -488,8 +489,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edir Macedo',en,Brasilien,#58e838,#58e848,1,0.2228367593884062
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,1,0.22200267125
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.22185265625
-'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.2218526562499999
+'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Annalena Baerbock',en,Deutschland,#1818e8,#1818e8,3,0.2202487036288648
@@ -498,7 +499,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,1,0.2185231873055357
 'Gerhard Schröder',en,Deutschland,#1818e8,#1818e8,1,0.217679995406422
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,2,0.2175058004450625
-'Joseph Ratzinger',en,Vatikan,#58b8e8,#58b8e8,1,0.2166681587855448
 'Charles Michel',en,EU,#111111,#111111,3,0.2156023514033326
 'Mark Rutte',en,Niederlande,#111111,#111111,3,0.215456271429137
 'Katarina Barley',en,EU,#111111,#111111,2,0.215162706941163
