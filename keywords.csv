@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Mark Meadows',en,unknown,#111111,#111111,3,0.4804726134098363
 'Cara Delevingne',en,unknown,#111111,#111111,3,0.4798635609655252
 'Bill Barr',en,unknown,#111111,#111111,2,0.4795305162845205
 'Sergio Massa',en,unknown,#111111,#111111,2,0.4788547538657643
@@ -107,6 +106,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'António Guterres',en,unknown,#111111,#111111,3,0.4460795038289204
 'Sam Altman',en,USA,#18e8e8,#18e8e8,3,0.4458403658995865
 'Akshata Murty',en,Indien,#111111,#111111,3,0.4457537965576809
+'Mark Meadows',en,unknown,#111111,#111111,3,0.44517297821654267
 'Jon Batiste',en,unknown,#111111,#111111,3,0.4451613063716539
 'Matt Gaetz',en,unknown,#111111,#111111,3,0.44480897516144
 'Zach Bryan',en,unknown,#111111,#111111,3,0.4446356072857889
@@ -366,11 +366,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.361565435094065
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.3615500554999999
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3614000149999999
+'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
-'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
-'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
+'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.358678357602557
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.3580522669973862
 'Boris Johnson',en,UK,#e838e8,#e838e8,3,0.3574162960158356
@@ -683,7 +683,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulf Poschardt',en,Deutschland,#1818e8,#1818e8,1,0.0975387758866539
 'Amin Nasser',en,SaudiArabien,#111111,#111111,1,0.09727380071405
 'Valery Gerasimov',en,Russland,#e81818,#e81818,2,0.096913968798774
-'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.09516398221807434
+'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.0951639822180743
 'Susanne Klatten',en,Deutschland,#1818e8,#1818e8,1,0.0938507755427247
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.0913472158764356
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.0903653515923918
