@@ -133,7 +133,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mary Robinson',en,unknown,#111111,#111111,3,0.4388121055227273
 'Gayle King',en,unknown,#111111,#111111,3,0.4387218463145332
 'Yaël Braun-Pivet',en,unknown,#111111,#111111,2,0.4383591541181793
-'King Charles III',en,UK,#e838e8,#e838e8,3,0.4382747316020494
 'Paris Hilton',en,unknown,#111111,#111111,3,0.4380209259148452
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.4379319410079543
 'Tasneem Essop',en,unknown,#111111,#111111,1,0.43667518
@@ -240,6 +239,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Meg Bellamy',en,UK,#e838e8,#e838e8,2,0.4105042349867608
 'Wang Wentao',en,China,#e88818,#e88818,3,0.410295550379071
 'Robin Wall Kimmerer',en,unknown,#111111,#111111,1,0.4101896359642857
+'King Charles III',en,UK,#e838e8,#e838e8,3,0.4093215636799238
 'Kemal Klçdarolu',en,Türkei,#111111,#111111,3,0.408591592181818
 'Andy Cohen',en,unknown,#111111,#111111,3,0.4083371888629581
 'Finnegan Biden',en,USA,#18e8e8,#18e8e8,2,0.408326584215557
@@ -366,11 +366,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.361565435094065
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.3615500554999999
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3614000149999999
+'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.358678357602557
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.3580522669973862
 'Boris Johnson',en,UK,#e838e8,#e838e8,3,0.3574162960158356
