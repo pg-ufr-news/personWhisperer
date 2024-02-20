@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Prince Charles',en,UK,#e838e8,#e838e8,3,0.482597089333424
 'Mira Murati',en,unknown,#111111,#111111,2,0.4783285035690249
 'Melania Trump',en,unknown,#111111,#111111,3,0.4781024874827326
 'Greg Brockman',en,unknown,#111111,#111111,3,0.4778972185167051
@@ -63,6 +62,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abraham Lincoln',en,unknown,#111111,#111111,3,0.4565360480227273
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.4565228139125148
 'Britney Spears',en,unknown,#111111,#111111,3,0.4561785992862651
+'Prince Charles',en,UK,#e838e8,#e838e8,3,0.45609507184250125
 'Pap Ndiaye',en,unknown,#111111,#111111,2,0.4558660267035958
 'Joy Behar',en,unknown,#111111,#111111,3,0.4547328068479624
 'Nancy Mace',en,unknown,#111111,#111111,3,0.4545136600872565
@@ -367,11 +367,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.361565435094065
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.3615500554999999
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3614000149999999
-'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
-'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
+'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.358678357602557
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.3580522669973862
 'Boris Johnson',en,UK,#e838e8,#e838e8,3,0.3574162960158356
@@ -451,7 +451,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wagner-Chef Prigoschin',en,unknown,#111111,#111111,1,0.2656778011980566
 'Annalena Baerbock',en,Deutschland,#1818e8,#1818e8,3,0.2648909508118078
 'Eva Kaili',en,EU,#111111,#111111,3,0.2625054479876908
-'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,1,0.26227348767957465
+'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,1,0.2622734876795746
 'Michael Sandel',en,USA,#18e8e8,#18e8e8,1,0.261860863398125
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.261362786800768
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
