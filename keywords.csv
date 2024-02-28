@@ -368,11 +368,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.361565435094065
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.3615500554999999
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3614000149999999
-'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.358678357602557
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.3580522669973862
 'Boris Johnson',en,UK,#e838e8,#e838e8,3,0.3574162960158356
@@ -411,6 +411,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Salvador Dali',en,Spanien,#111111,#111111,3,0.3215048976304346
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027019743
 'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.3168237411740693
+'Robert Nozick',en,USA,#18e8e8,#18e8e8,2,0.3145020331079117
 'Marguerite Cazeneuve',en,unknown,#111111,#111111,1,0.3121541829667352
 'Aurélien Rousseau',en,unknown,#111111,#111111,1,0.311488398229457
 'président de la République',en,unknown,#111111,#111111,1,0.3105553357272666
@@ -527,7 +528,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paul Kagame',en,Ruanda,#111111,#111111,2,0.1959346358169176
 'Thierry Breton',en,EU,#111111,#111111,3,0.195529511703006
 'Greta Thunberg',en,Schweden,#111111,#111111,3,0.193346340414224
-'Robert Nozick',en,USA,#18e8e8,#18e8e8,1,0.1930023389504843
 'Dmitri Medwedew',en,Russland,#e81818,#e81818,1,0.19234625296875
 'Jair Bolsonaro',en,Brasilien,#58e838,#58e848,3,0.191220077650967
 'Andrés Manuel López Obrador',en,Mexiko,#111111,#111111,3,0.190780487341999
@@ -536,11 +536,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yannick Morez',en,Frankreich,#e8e808,#e8e808,1,0.1897150566899561
 'Edward Snowden',en,USA,#18e8e8,#18e8e8,1,0.189299821846266
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.1889983512346281
-'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
+'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1885747578124999
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Roland Busch',en,Deutschland,#1818e8,#1818e8,2,0.1856639745592681
 'Vitali Klitschko',en,Ukraine,#e818e8,#e818e8,3,0.183834986344811
