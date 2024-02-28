@@ -368,11 +368,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.361565435094065
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.3615500554999999
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3614000149999999
-'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
-'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
+'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
+'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.358678357602557
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.3580522669973862
 'Boris Johnson',en,UK,#e838e8,#e838e8,3,0.3574162960158356
@@ -498,13 +498,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.219827957022201
-'Warren Buffett',en,USA,#18e8e8,#18e8e8,2,0.219518081064424
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,1,0.2185231873055357
 'Gerhard Schröder',en,Deutschland,#1818e8,#1818e8,1,0.217679995406422
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,2,0.2175058004450625
 'Charles Michel',en,EU,#111111,#111111,3,0.2156023514033326
 'Mark Rutte',en,Niederlande,#111111,#111111,3,0.215456271429137
 'Katarina Barley',en,EU,#111111,#111111,2,0.215162706941163
+'Warren Buffett',en,USA,#18e8e8,#18e8e8,2,0.2142821766320331
 'Dalai Lama',en,Tibet,#111111,#111111,3,0.2137038424105146
 'Immanuel Kant',en,Deutschland,#1818e8,#1818e8,2,0.2135191214845596
 'Benjamin Netanyahu',en,Israel,#111111,#111111,3,0.211518893579839
