@@ -280,11 +280,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Cameron',en,USA,#18e8e8,#18e8e8,3,0.3993062787741476
 'Ed McVey',en,UK,#e838e8,#e838e8,2,0.3979297214326258
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.3974688483452221
-'Claudia Kempfert',en,unknown,#111111,#111111,1,0.397375
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.397375
-'Hans Joosten',en,unknown,#111111,#111111,1,0.397375
-'Minka Indigena',en,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.397375
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.397375
+'Claudia Kempfert',en,unknown,#111111,#111111,1,0.397375
+'Minka Indigena',en,unknown,#111111,#111111,1,0.397375
+'Hans Joosten',en,unknown,#111111,#111111,1,0.397375
 'Sam H',en,unknown,#111111,#111111,2,0.3973205540488556
 'Sultan al-Jaber',en,VAE,#111111,#111111,3,0.397003494840909
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.396635537565398
@@ -384,6 +384,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Albert Einstein',en,Deutschland,#1818e8,#1818e8,3,0.3528181892584088
 'Alfred Nobel',en,Schweden,#111111,#111111,3,0.3525366704648069
 'Henry Ford',en,USA,#18e8e8,#18e8e8,3,0.3524339663280684
+'Bill Geddie',en,unknown,#111111,#111111,2,0.3521318675904342
 'Steven Donziger',en,unknown,#111111,#111111,2,0.3516635461356249
 'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.3514065604154801
 'Helmut Kohl',en,Deutschland,#1818e8,#1818e8,1,0.3511438589262379
@@ -405,7 +406,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,2,0.3366240018700734
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.3316728748901354
 'Charles III',en,UK,#e838e8,#e838e8,3,0.327601171231922
-'Bill Geddie',en,unknown,#111111,#111111,1,0.3256845148122755
 'Karl Jenkins',en,UK,#e838e8,#e838e8,2,0.3221342235926135
 'Salvador Dali',en,Spanien,#111111,#111111,3,0.3215048976304346
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027019743
