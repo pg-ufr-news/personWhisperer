@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jimmy Kimmel',en,unknown,#111111,#111111,3,0.4970920163161847
 'Ayo Edebiri',en,unknown,#111111,#111111,3,0.4786760545157683
 'Jennifer Lopez',en,unknown,#111111,#111111,3,0.4773494428894156
 'Nawaz Sharif',en,unknown,#111111,#111111,3,0.4771290044145105
@@ -28,7 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ron Johnson',en,unknown,#111111,#111111,3,0.4684132476341114
 'Leandro De Niro-Rodriguez',en,unknown,#111111,#111111,2,0.4681619168260469
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.466893276818182
-'Tony Bobulinski',en,unknown,#111111,#111111,3,0.46689192082355074
+'Tony Bobulinski',en,unknown,#111111,#111111,3,0.4668919208235507
 'Margaret Qualley',en,unknown,#111111,#111111,2,0.466583012839201
 'Millie Mackintosh',en,UK,#e838e8,#e838e8,2,0.465723447272727
 'Dua Lipa',en,unknown,#111111,#111111,2,0.4655688056643171
@@ -81,6 +80,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Indiana Jones',en,unknown,#111111,#111111,2,0.4514407505991244
 'Jack Smith',en,USA,#18e8e8,#18e8e8,3,0.4507679783249999
 'Al Nassr',en,unknown,#111111,#111111,3,0.450377337781512
+'Jimmy Kimmel',en,unknown,#111111,#111111,3,0.45021732159602973
 'Brian Kilmeade',en,unknown,#111111,#111111,3,0.4495540059567855
 'Lauren Boebert',en,USA,#18e8e8,#18e8e8,3,0.4492875562147727
 'Jared Kushner',en,unknown,#111111,#111111,3,0.4484448370507912
