@@ -43,6 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leonard Bernstein',en,unknown,#111111,#111111,3,0.4621559586661052
 'Gisele Bündchen',en,unknown,#111111,#111111,3,0.4619710402406853
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.4611618314598204
+'Andy Cohen',en,unknown,#111111,#111111,3,0.4611345096244235
 'Carter Reum',en,unknown,#111111,#111111,3,0.460785640088339
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.4601925355227271
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4596751122788323
@@ -236,7 +237,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robin Wall Kimmerer',en,unknown,#111111,#111111,1,0.4101896359642857
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.4093215636799238
 'Kemal Klçdarolu',en,Türkei,#111111,#111111,3,0.408591592181818
-'Andy Cohen',en,unknown,#111111,#111111,3,0.4083371888629581
 'Finnegan Biden',en,USA,#18e8e8,#18e8e8,2,0.408326584215557
 'Chip Somodevilla',en,USA,#18e8e8,#18e8e8,3,0.4082480452806819
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,3,0.408133560326986
@@ -282,11 +282,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Cameron',en,USA,#18e8e8,#18e8e8,3,0.3993062787741476
 'Ed McVey',en,UK,#e838e8,#e838e8,2,0.3979297214326258
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.3974688483452221
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.397375
-'Hans Joosten',en,unknown,#111111,#111111,1,0.397375
-'Claudia Kempfert',en,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.397375
+'Hans Joosten',en,unknown,#111111,#111111,1,0.397375
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.397375
 'Minka Indigena',en,unknown,#111111,#111111,1,0.397375
+'Claudia Kempfert',en,unknown,#111111,#111111,1,0.397375
 'Sam H',en,unknown,#111111,#111111,2,0.3973205540488556
 'Sultan al-Jaber',en,VAE,#111111,#111111,3,0.397003494840909
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.396635537565398
@@ -295,7 +295,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Jong Un',en,NordKorea,#e85858,#e85858,3,0.3962718770781857
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.395841266130685
 'Robert De Niro',en,USA,#18e8e8,#18e8e8,2,0.395685211192784
-'Ahmed Al Jaber',en,unknown,#111111,#111111,2,0.39559223688409084
+'Ahmed Al Jaber',en,unknown,#111111,#111111,2,0.3955922368840908
 'Napoleon Bonaparte',en,Frankreich,#e8e808,#e8e808,3,0.3946983927847404
 'Oprah Winfrey',en,USA,#18e8e8,#18e8e8,3,0.3944945193115747
 'nan nan',en,unknown,#111111,#111111,2,0.3942603856382875
