@@ -272,7 +272,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.4019525259399968
 'Evan Gershkovich',en,USA,#18e8e8,#18e8e8,3,0.4018516894283713
 'Camille Etienne',en,Frankreich,#e8e808,#e8e808,2,0.401821122864035
-'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.4015275375888352
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.40141514063
 'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,1,0.4007751275
 'Greta Gerwig',en,unknown,#111111,#111111,2,0.4004360537482884
@@ -282,11 +281,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Cameron',en,USA,#18e8e8,#18e8e8,3,0.3993062787741476
 'Ed McVey',en,UK,#e838e8,#e838e8,2,0.3979297214326258
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.3974688483452221
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.397375
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.397375
 'Minka Indigena',en,unknown,#111111,#111111,1,0.397375
-'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.397375
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.397375
 'Hans Joosten',en,unknown,#111111,#111111,1,0.397375
+'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.397375
 'Sam H',en,unknown,#111111,#111111,2,0.3973205540488556
 'Sultan al-Jaber',en,VAE,#111111,#111111,3,0.397003494840909
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.396635537565398
@@ -348,6 +347,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.374587953775
 'Karim Benzema',en,Frankreich,#e8e808,#e8e808,3,0.3744024619420454
 'Jeanne du Barry',en,Frankreich,#e8e808,#e8e808,1,0.3738395672162831
+'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.37353749922323715
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,1,0.3724918396875
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.3709641794664772
 'Kemal Kiliçdaroglu',en,Türkei,#111111,#111111,1,0.3697498615410713
@@ -623,7 +623,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jürgen Grässlin',en,Deutschland,#1818e8,#1818e8,1,0.1278282964372896
 'Otmar Issing',en,EU,#111111,#111111,1,0.12778560651524
 'Volker Wissing',en,Deutschland,#1818e8,#1818e8,1,0.127782699349555
-'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.12738932045576157
+'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.1273893204557615
 'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.1273893204557615
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.1265313572958776
 'Miriam Adelson',en,USA,#18e8e8,#18e8e8,2,0.1262511865351177
