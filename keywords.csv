@@ -167,7 +167,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joaquim Valente',en,unknown,#111111,#111111,1,0.4263506247683148
 'Peregrine Pearson',en,unknown,#111111,#111111,2,0.4258255468424355
 'Mark Cuban',en,unknown,#111111,#111111,3,0.42575876917349
-'Laura Ingraham',en,USA,#18e8e8,#18e8e8,3,0.4254903000333462
 'Al Pacino',en,USA,#18e8e8,#18e8e8,3,0.4254551174298109
 'Reinhard Marx',en,Deutschland,#1818e8,#1818e8,1,0.42500009
 'Kim Reynolds',en,unknown,#111111,#111111,3,0.4249248055578872
@@ -282,10 +281,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ed McVey',en,UK,#e838e8,#e838e8,2,0.3979297214326258
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.3974688483452221
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.397375
+'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.397375
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.397375
 'Minka Indigena',en,unknown,#111111,#111111,1,0.397375
 'Hans Joosten',en,unknown,#111111,#111111,1,0.397375
-'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.397375
 'Sam H',en,unknown,#111111,#111111,2,0.3973205540488556
 'Sultan al-Jaber',en,VAE,#111111,#111111,3,0.397003494840909
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.396635537565398
@@ -300,6 +299,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'nan nan',en,unknown,#111111,#111111,2,0.3942603856382875
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.394226217909091
 'John Rawls',en,USA,#18e8e8,#18e8e8,2,0.3940639599285711
+'Laura Ingraham',en,USA,#18e8e8,#18e8e8,3,0.39389462730107155
 'Bruno Le Maire',en,Frankreich,#e8e808,#e8e808,3,0.393471683189784
 'Geoffrey Hinton',en,UK,#e838e8,#e838e8,3,0.3933352143676561
 'Michelle O\'Neill',en,Irland,#111111,#111111,3,0.3932782908448278
@@ -347,7 +347,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.374587953775
 'Karim Benzema',en,Frankreich,#e8e808,#e8e808,3,0.3744024619420454
 'Jeanne du Barry',en,Frankreich,#e8e808,#e8e808,1,0.3738395672162831
-'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.37353749922323715
+'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.3735374992232371
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,1,0.3724918396875
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.3709641794664772
 'Kemal Kiliçdaroglu',en,Türkei,#111111,#111111,1,0.3697498615410713
