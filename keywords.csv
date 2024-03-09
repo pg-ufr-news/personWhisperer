@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jack Antonoff',en,unknown,#111111,#111111,3,0.48775030350206355
+'Jack Antonoff',en,unknown,#111111,#111111,3,0.4877503035020635
 'Jennifer Lopez',en,unknown,#111111,#111111,3,0.4773494428894156
 'Nawaz Sharif',en,unknown,#111111,#111111,3,0.4771290044145105
 'Martha MacCallum',en,unknown,#111111,#111111,3,0.477050463792758
@@ -461,8 +461,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Sandel',en,USA,#18e8e8,#18e8e8,1,0.261860863398125
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.261362786800768
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
-'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2610031249999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
+'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2610031249999999
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.2572194954743593
 'Jeff Bezos',en,USA,#18e8e8,#18e8e8,3,0.2541353805609927
@@ -484,7 +484,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barack Obama',en,USA,#18e8e8,#18e8e8,3,0.236062309588674
 'Melinda Gates',en,USA,#18e8e8,#18e8e8,3,0.2351856092590902
 'Friedrich Merz',en,Deutschland,#1818e8,#1818e8,3,0.233134248070145
-'Viktor Orbán',en,Ungarn,#111111,#111111,3,0.2311095018222858
 'Karl Nehammer',en,Oesterreich,#111111,#111111,3,0.230585485509737
 'Jens Spahn',en,Deutschland,#1818e8,#1818e8,1,0.2288372092545312
 'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.2271903192814504
@@ -492,6 +491,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Zhang',en,China,#e88818,#e88818,2,0.2248482257443686
 'Karine Jean-Pierre',en,USA,#18e8e8,#18e8e8,3,0.2245664103292931
 'Thomas Bayes',en,UK,#e838e8,#e838e8,1,0.2241282651053749
+'Viktor Orbán',en,Ungarn,#111111,#111111,3,0.22412444427621564
 'Andreas Jung',en,Deutschland,#1818e8,#1818e8,1,0.2239148687678749
 'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,2,0.2238898789685879
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,3,0.223802778437948
