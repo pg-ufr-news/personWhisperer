@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Antonoff',en,unknown,#111111,#111111,3,0.4877503035020635
-'Jennifer Lopez',en,unknown,#111111,#111111,3,0.4773494428894156
 'Nawaz Sharif',en,unknown,#111111,#111111,3,0.4771290044145105
 'Martha MacCallum',en,unknown,#111111,#111111,3,0.477050463792758
 'Mike Johnson',en,unknown,#111111,#111111,3,0.4769461422204545
@@ -44,6 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.4611618314598204
 'Andy Cohen',en,unknown,#111111,#111111,3,0.4611345096244235
 'Carter Reum',en,unknown,#111111,#111111,3,0.460785640088339
+'Jennifer Lopez',en,unknown,#111111,#111111,3,0.46071309145600325
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.4601925355227271
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4596751122788323
 'Sam Bankman-Fried',en,unknown,#111111,#111111,3,0.4588445246775497
@@ -430,7 +430,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.3061546820885471
 'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.3030158487712762
 'Michael Kahle',en,Deutschland,#1818e8,#1818e8,1,0.301820589925
-'Bill Geddie',en,unknown,#111111,#111111,1,0.29931210245186907
+'Bill Geddie',en,unknown,#111111,#111111,1,0.299312102451869
 'Premier ministre',en,unknown,#111111,#111111,1,0.294332560596289
 'Mario Czaja',en,Deutschland,#1818e8,#1818e8,2,0.2938223625895234
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.293322933515939
