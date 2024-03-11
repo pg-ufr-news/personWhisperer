@@ -52,6 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.4572411853450169
 'Joe Jonas',en,unknown,#111111,#111111,3,0.457198676311973
 'Abraham Lincoln',en,unknown,#111111,#111111,3,0.4566506144556818
+'Nicolas Sarkozy',en,unknown,#111111,#111111,3,0.45660525817334496
 'Margot Robbie',en,unknown,#111111,#111111,3,0.4565902762256607
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.4565228139125148
 'Britney Spears',en,unknown,#111111,#111111,3,0.4561785992862651
@@ -91,7 +92,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sheryl Crow',en,unknown,#111111,#111111,3,0.4472369326147727
 'Bradley Cooper',en,unknown,#111111,#111111,3,0.4468093811171629
 'Cassidy Hutchinson',en,unknown,#111111,#111111,3,0.4461955797820728
-'Nicolas Sarkozy',en,unknown,#111111,#111111,3,0.4461229684392294
 'António Guterres',en,unknown,#111111,#111111,3,0.4460795038289204
 'Sam Altman',en,USA,#18e8e8,#18e8e8,3,0.4458403658995865
 'Akshata Murty',en,Indien,#111111,#111111,3,0.4457537965576809
