@@ -149,7 +149,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ainsley Earhardt',en,unknown,#111111,#111111,2,0.4295199856957521
 'Sherri Shepherd',en,unknown,#111111,#111111,1,0.4294847156921221
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.4293044143165618
-'Robert Badinter',en,unknown,#111111,#111111,1,0.4292800023345127
 'Missy Elliott',en,unknown,#111111,#111111,3,0.4292146048649106
 'Miley Cyrus',en,unknown,#111111,#111111,3,0.4291094575521357
 'Noor Alfallah',en,USA,#18e8e8,#18e8e8,3,0.4288197912919074
@@ -168,6 +167,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leah McSweeney',en,unknown,#111111,#111111,3,0.425893991927622
 'Peregrine Pearson',en,unknown,#111111,#111111,2,0.4258255468424355
 'Mark Cuban',en,unknown,#111111,#111111,3,0.42575876917349
+'Robert Badinter',en,unknown,#111111,#111111,1,0.4256380769843358
 'Al Pacino',en,USA,#18e8e8,#18e8e8,3,0.4254551174298109
 'Reinhard Marx',en,Deutschland,#1818e8,#1818e8,1,0.42500009
 'Kim Reynolds',en,unknown,#111111,#111111,3,0.4249248055578872
@@ -283,11 +283,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Cameron',en,USA,#18e8e8,#18e8e8,3,0.3993062787741476
 'Ed McVey',en,UK,#e838e8,#e838e8,2,0.3979297214326258
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.3974688483452221
-'Claudia Kempfert',en,unknown,#111111,#111111,1,0.397375
-'Minka Indigena',en,unknown,#111111,#111111,1,0.397375
-'Hans Joosten',en,unknown,#111111,#111111,1,0.397375
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.397375
+'Minka Indigena',en,unknown,#111111,#111111,1,0.397375
+'Claudia Kempfert',en,unknown,#111111,#111111,1,0.397375
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.397375
+'Hans Joosten',en,unknown,#111111,#111111,1,0.397375
 'Sam H',en,unknown,#111111,#111111,2,0.3973205540488556
 'Sultan al-Jaber',en,VAE,#111111,#111111,3,0.397003494840909
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.396635537565398
@@ -373,10 +373,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.361565435094065
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.3615500554999999
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3614000149999999
-'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
 'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.358678357602557
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.3580522669973862
 'Boris Johnson',en,UK,#e838e8,#e838e8,3,0.3574162960158356
