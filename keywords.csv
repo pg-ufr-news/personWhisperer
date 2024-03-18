@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Prince Archie',en,UK,#e838e8,#e838e8,3,0.4878491676499382
 'Nawaz Sharif',en,unknown,#111111,#111111,3,0.4771290044145105
 'Martha MacCallum',en,unknown,#111111,#111111,3,0.477050463792758
 'Mike Johnson',en,unknown,#111111,#111111,3,0.4769461422204545
@@ -120,6 +119,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paris Hilton',en,unknown,#111111,#111111,3,0.4380209259148452
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.4379319410079543
 'Bill Barr',en,unknown,#111111,#111111,3,0.4378941280382932
+'Prince Archie',en,UK,#e838e8,#e838e8,3,0.4378062206842656
 'Jack Antonoff',en,unknown,#111111,#111111,3,0.4377214061585721
 'Tasneem Essop',en,unknown,#111111,#111111,1,0.43667518
 'Sergei Surovikin',en,Russland,#e81818,#e81818,3,0.4360936749318181
@@ -373,10 +373,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.3615500554999999
 'Reinhard Marx',en,Deutschland,#1818e8,#1818e8,1,0.3614000914999999
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3614000149999999
-'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
 'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.358678357602557
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.3580522669973862
 'Boris Johnson',en,UK,#e838e8,#e838e8,3,0.3574162960158356
