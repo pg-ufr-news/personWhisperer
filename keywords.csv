@@ -407,7 +407,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.3380939075124999
 'Gorbatschow',en,unknown,#111111,#111111,1,0.3380462777499999
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.3378962627499999
-'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.33776874999999995
+'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.3377687499999999
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.3377687499999999
 'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.3377687499999999
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,2,0.3366240018700734
@@ -466,9 +466,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,1,0.2622734876795746
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.261362786800768
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
-'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2610031249999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
+'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.2572194954743593
 'Jeff Bezos',en,USA,#18e8e8,#18e8e8,3,0.2541353805609927
@@ -664,7 +664,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexej Kudrin',en,Russland,#e81818,#e81818,1,0.1118888387080861
 'Mojib Latif',en,Deutschland,#1818e8,#1818e8,1,0.1114190632112487
 'Paul Ronzheimer',en,Deutschland,#1818e8,#1818e8,1,0.111028842616365
-'Sergej Schoigu',en,Russland,#e81818,#e81818,1,0.1110210582777458
 'Bodo Ramelow',en,Deutschland,#1818e8,#1818e8,1,0.1107022262281007
 'Gregor Gysi',en,Deutschland,#1818e8,#1818e8,1,0.1102734217539769
 'Michael Ballweg',en,Deutschland,#1818e8,#1818e8,1,0.1100016288819354
@@ -698,6 +697,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Valery Gerasimov',en,Russland,#e81818,#e81818,2,0.096913968798774
 'Igor Setschin',en,Russland,#e81818,#e81818,1,0.0956846050366814
 'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.0951639822180743
+'Sergej Schoigu',en,Russland,#e81818,#e81818,1,0.09436789953608393
 'Susanne Klatten',en,Deutschland,#1818e8,#1818e8,1,0.0938507755427247
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.0913472158764356
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.0903653515923918
