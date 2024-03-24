@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Mike Johnson',en,unknown,#111111,#111111,3,0.4769461422204545
 'James Biden',en,unknown,#111111,#111111,3,0.4768535285647239
 'Elizabeth Warren',en,unknown,#111111,#111111,3,0.4768243307553503
 'Caroline Ellison',en,unknown,#111111,#111111,3,0.4761132464859906
@@ -58,6 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Britney Spears',en,unknown,#111111,#111111,3,0.4561785992862651
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.4560950718425012
 'Pap Ndiaye',en,unknown,#111111,#111111,2,0.4558660267035958
+'Mike Johnson',en,unknown,#111111,#111111,3,0.4558581013419318
 'Joy Behar',en,unknown,#111111,#111111,3,0.4547328068479624
 'Nancy Mace',en,unknown,#111111,#111111,3,0.4545136600872565
 'Cara Delevingne',en,unknown,#111111,#111111,3,0.4537459527297873
@@ -466,9 +466,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,1,0.2622734876795746
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.261362786800768
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
-'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2610031249999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
+'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2610031249999999
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.2572194954743593
 'Jeff Bezos',en,USA,#18e8e8,#18e8e8,3,0.2541353805609927
