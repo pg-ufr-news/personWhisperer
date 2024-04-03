@@ -87,7 +87,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gisele Bundchen',en,unknown,#111111,#111111,3,0.4473778304741422
 'Sheryl Crow',en,unknown,#111111,#111111,3,0.4472369326147727
 'Bradley Cooper',en,unknown,#111111,#111111,3,0.4468093811171629
-'António Guterres',en,unknown,#111111,#111111,3,0.4460795038289204
 'Sam Altman',en,USA,#18e8e8,#18e8e8,3,0.4458403658995865
 'Akshata Murty',en,Indien,#111111,#111111,3,0.4457537965576809
 'Jon Batiste',en,unknown,#111111,#111111,3,0.4451613063716539
@@ -98,6 +97,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Raphael Warnock',en,USA,#18e8e8,#18e8e8,2,0.443588088636364
 'Billie Eilish',en,unknown,#111111,#111111,3,0.4434186658419863
 'Cassidy Hutchinson',en,unknown,#111111,#111111,3,0.443308576905671
+'António Guterres',en,unknown,#111111,#111111,3,0.44321232734549143
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.4431206516772675
 'Robert Menendez',en,unknown,#111111,#111111,3,0.4426209319025027
 'Bret Baier',en,unknown,#111111,#111111,3,0.4416875937627561
@@ -468,9 +468,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,1,0.2622734876795746
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.261362786800768
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
-'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2610031249999999
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
+'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2610031249999999
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.2572194954743593
 'Jeff Bezos',en,USA,#18e8e8,#18e8e8,3,0.2541353805609927
