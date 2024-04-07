@@ -157,7 +157,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.427924836970838
 'Lionel Messi',en,Argentinien,#111111,#111111,3,0.4278877752318322
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4278545546098469
-'Billionaire Bunker',en,unknown,#111111,#111111,3,0.42695528387956033
+'Billionaire Bunker',en,unknown,#111111,#111111,3,0.4269552838795603
 'Tim Scott',en,USA,#18e8e8,#18e8e8,3,0.4269080810976704
 'Brad Pitt',en,unknown,#111111,#111111,3,0.4267868716460361
 'Joaquim Valente',en,unknown,#111111,#111111,1,0.4263506247683148
@@ -422,6 +422,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.3168237411740693
 'Robert Nozick',en,USA,#18e8e8,#18e8e8,2,0.3145020331079117
 'Marguerite Cazeneuve',en,unknown,#111111,#111111,1,0.3121541829667352
+'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3114531699999999
 'président de la République',en,unknown,#111111,#111111,1,0.3105553357272666
 'Steve Milloy',en,USA,#18e8e8,#18e8e8,1,0.3104475480099431
 'Jessy Wellmer',en,unknown,#111111,#111111,1,0.3102056854294208
@@ -430,7 +431,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean Jouzel',en,unknown,#111111,#111111,1,0.3083113060654888
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.307534387175
 'Julian Reichelt',en,Deutschland,#1818e8,#1818e8,2,0.3072114763998855
-'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3070624999999999
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.3061546820885471
