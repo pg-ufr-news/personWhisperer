@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Caroline Ellison',en,unknown,#111111,#111111,3,0.4761132464859906
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.4755548090681821
 'Carey Mulligan',en,unknown,#111111,#111111,2,0.4755420257112366
 'Javier Milei',en,unknown,#111111,#111111,3,0.4752782346238636
@@ -56,6 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Margot Robbie',en,unknown,#111111,#111111,3,0.4565902762256607
 'Britney Spears',en,unknown,#111111,#111111,3,0.4561785992862651
 'Mike Johnson',en,unknown,#111111,#111111,3,0.4558581013419318
+'Caroline Ellison',en,unknown,#111111,#111111,3,0.45510240996763746
 'Joy Behar',en,unknown,#111111,#111111,3,0.4547328068479624
 'Nancy Mace',en,unknown,#111111,#111111,3,0.4545136600872565
 'Cara Delevingne',en,unknown,#111111,#111111,3,0.4537459527297873
@@ -132,7 +132,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rand Paul',en,unknown,#111111,#111111,3,0.4337069361360604
 'John Fetterman',en,unknown,#111111,#111111,3,0.4336905141252785
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4328768925062534
-'François Bayrou',en,unknown,#111111,#111111,1,0.43152825907373243
+'François Bayrou',en,unknown,#111111,#111111,1,0.4315282590737324
 'Princess Diana',en,UK,#e838e8,#e838e8,3,0.4312251231124068
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,3,0.4310869115083519
 'James Comer',en,unknown,#111111,#111111,3,0.4310120514787025
