@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'America Ferrera',en,unknown,#111111,#111111,3,0.4719139751198186
 'Hazel Monét',en,unknown,#111111,#111111,2,0.4716709766451007
 'Victoria Monét',en,unknown,#111111,#111111,3,0.471456115974723
-'Sean Hannity',en,unknown,#111111,#111111,3,0.4712704249535305
 'Pat McAfee',en,unknown,#111111,#111111,3,0.4711743308845988
 'Derek Chauvin',en,unknown,#111111,#111111,2,0.4711561247732094
 'Travis Kelce',en,unknown,#111111,#111111,3,0.4709638092617361
@@ -55,7 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Margot Robbie',en,unknown,#111111,#111111,3,0.4565902762256607
 'Britney Spears',en,unknown,#111111,#111111,3,0.4561785992862651
 'Mike Johnson',en,unknown,#111111,#111111,3,0.4558581013419318
-'Caroline Ellison',en,unknown,#111111,#111111,3,0.45510240996763746
+'Caroline Ellison',en,unknown,#111111,#111111,3,0.4551024099676374
 'Joy Behar',en,unknown,#111111,#111111,3,0.4547328068479624
 'Nancy Mace',en,unknown,#111111,#111111,3,0.4545136600872565
 'Cara Delevingne',en,unknown,#111111,#111111,3,0.4537459527297873
@@ -117,6 +116,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.4378062206842656
 'Nawaz Sharif',en,unknown,#111111,#111111,3,0.4377856510250612
 'Jack Antonoff',en,unknown,#111111,#111111,3,0.4377214061585721
+'Sean Hannity',en,unknown,#111111,#111111,3,0.43735299302868275
 'Tasneem Essop',en,unknown,#111111,#111111,1,0.43667518
 'Sergei Surovikin',en,Russland,#e81818,#e81818,3,0.4360936749318181
 'Michael Cohen',en,USA,#18e8e8,#18e8e8,3,0.435627874407386
