@@ -104,7 +104,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jared Kushner',en,unknown,#111111,#111111,3,0.440677811038627
 'Gerald Darmanin',en,unknown,#111111,#111111,2,0.4406192349452916
 'Alexander Smirnov',en,unknown,#111111,#111111,3,0.4400738526472795
-'Nicolas Sarkozy',en,unknown,#111111,#111111,3,0.4398648444473432
 'Vassily Nebenzia',en,Russland,#e81818,#e81818,2,0.4395026223568181
 'Mary Robinson',en,unknown,#111111,#111111,3,0.4388121055227273
 'Tom Brady',en,unknown,#111111,#111111,3,0.4387286337938968
@@ -348,6 +347,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shahzada Dawood',en,Pakistan,#111111,#111111,2,0.3746937839772726
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.374587953775
 'Karim Benzema',en,Frankreich,#e8e808,#e8e808,3,0.3744024619420454
+'Nicolas Sarkozy',en,unknown,#111111,#111111,2,0.3738855527802417
 'Jeanne du Barry',en,Frankreich,#e8e808,#e8e808,1,0.3738395672162831
 'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.3735374992232371
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,1,0.3724918396875
