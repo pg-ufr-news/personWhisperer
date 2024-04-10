@@ -155,7 +155,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Stapleton',en,unknown,#111111,#111111,3,0.4279300115658773
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.427924836970838
 'Lionel Messi',en,Argentinien,#111111,#111111,3,0.4278877752318322
-'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4278545546098469
 'Billionaire Bunker',en,unknown,#111111,#111111,3,0.4269552838795603
 'Tim Scott',en,USA,#18e8e8,#18e8e8,3,0.4269080810976704
 'Brad Pitt',en,unknown,#111111,#111111,3,0.4267868716460361
@@ -271,6 +270,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.40141514063
 'Steve Scalise',en,unknown,#111111,#111111,3,0.4013552243347687
 'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,1,0.4007751275
+'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4004610982365516
 'Greta Gerwig',en,unknown,#111111,#111111,2,0.4004360537482884
 'Sergio Mattarella',en,Italien,#111111,#111111,2,0.4001925296022727
 'Martin Luther King',en,USA,#18e8e8,#18e8e8,3,0.4000114987193682
