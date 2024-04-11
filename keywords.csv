@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'America Ferrera',en,unknown,#111111,#111111,3,0.4719139751198186
 'Hazel Monét',en,unknown,#111111,#111111,2,0.4716709766451007
 'Victoria Monét',en,unknown,#111111,#111111,3,0.471456115974723
-'Pat McAfee',en,unknown,#111111,#111111,3,0.4711743308845988
 'Derek Chauvin',en,unknown,#111111,#111111,2,0.4711561247732094
 'Travis Kelce',en,unknown,#111111,#111111,3,0.4709638092617361
 'Brittany Mahomes',en,unknown,#111111,#111111,3,0.4704152061212402
@@ -71,6 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jordan Neely',en,USA,#18e8e8,#18e8e8,2,0.4518220526275976
 'Selena Gomez',en,unknown,#111111,#111111,3,0.4517653284159076
 'Indiana Jones',en,unknown,#111111,#111111,2,0.4514407505991244
+'Pat McAfee',en,unknown,#111111,#111111,3,0.45090571170645444
 'Jack Smith',en,USA,#18e8e8,#18e8e8,3,0.4507679783249999
 'Al Nassr',en,unknown,#111111,#111111,3,0.450377337781512
 'Jimmy Kimmel',en,unknown,#111111,#111111,3,0.4502173215960297
@@ -708,7 +708,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Carola Rackete',en,Deutschland,#1818e8,#1818e8,1,0.087961318565401
 'Kurt Krömer',en,Deutschland,#1818e8,#1818e8,1,0.085330596145521
 'Katalin Novak',en,Ungarn,#111111,#111111,1,0.084671230325276
-'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.08103939988536316
+'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.0810393998853631
 'Dmitry Peskov',en,Russland,#e81818,#e81818,2,0.066365762202661
 'Alexei Miller',en,Russland,#e81818,#e81818,1,0.0647260669685873
 'Bartholomäus',en,Türkei,#111111,#111111,1,0.0518042409271966
