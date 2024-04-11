@@ -700,7 +700,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Amin Nasser',en,SaudiArabien,#111111,#111111,1,0.09727380071405
 'Valery Gerasimov',en,Russland,#e81818,#e81818,2,0.096913968798774
 'Igor Setschin',en,Russland,#e81818,#e81818,1,0.0956846050366814
-'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.0951639822180743
 'Sergej Schoigu',en,Russland,#e81818,#e81818,1,0.0943678995360839
 'Susanne Klatten',en,Deutschland,#1818e8,#1818e8,1,0.0938507755427247
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.0913472158764356
@@ -709,6 +708,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Carola Rackete',en,Deutschland,#1818e8,#1818e8,1,0.087961318565401
 'Kurt Krömer',en,Deutschland,#1818e8,#1818e8,1,0.085330596145521
 'Katalin Novak',en,Ungarn,#111111,#111111,1,0.084671230325276
+'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.08103939988536316
 'Dmitry Peskov',en,Russland,#e81818,#e81818,2,0.066365762202661
 'Alexei Miller',en,Russland,#e81818,#e81818,1,0.0647260669685873
 'Bartholomäus',en,Türkei,#111111,#111111,1,0.0518042409271966
