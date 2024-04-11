@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.47735424588977293
+'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.4773542458897729
 'Carey Mulligan',en,unknown,#111111,#111111,2,0.4755420257112366
 'Javier Milei',en,unknown,#111111,#111111,3,0.4752782346238636
 'Ines de Ramon',en,unknown,#111111,#111111,1,0.4729230441782034
@@ -62,7 +62,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Berkshire Hathaway',en,USA,#18e8e8,#18e8e8,3,0.4535352367208433
 'Lara Trump',en,unknown,#111111,#111111,3,0.453278052340615
 'Phoebe Bridgers',en,unknown,#111111,#111111,3,0.4531571860119179
-'Heidi Klum',en,unknown,#111111,#111111,3,0.4526346065596976
 'George Santos',en,USA,#18e8e8,#18e8e8,3,0.4524897087943181
 'Jonathan Turley',en,unknown,#111111,#111111,3,0.4523920616910216
 'Ryan Gosling',en,unknown,#111111,#111111,3,0.4523822056022727
@@ -90,6 +89,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matt Gaetz',en,unknown,#111111,#111111,3,0.44480897516144
 'Zach Bryan',en,unknown,#111111,#111111,3,0.4446356072857889
 'Bob Menendez',en,unknown,#111111,#111111,3,0.4442720350812576
+'Heidi Klum',en,unknown,#111111,#111111,3,0.4442370601211975
 'Alexander De Croo',en,Belgien,#111111,#111111,2,0.4440416072045454
 'Raphael Warnock',en,USA,#18e8e8,#18e8e8,2,0.443588088636364
 'Billie Eilish',en,unknown,#111111,#111111,3,0.4434186658419863
