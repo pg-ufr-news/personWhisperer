@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.4773542458897729
 'Carey Mulligan',en,unknown,#111111,#111111,2,0.4755420257112366
 'Javier Milei',en,unknown,#111111,#111111,3,0.4752782346238636
 'Ines de Ramon',en,unknown,#111111,#111111,1,0.4729230441782034
@@ -53,6 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abraham Lincoln',en,unknown,#111111,#111111,3,0.4566506144556818
 'Margot Robbie',en,unknown,#111111,#111111,3,0.4565902762256607
 'Britney Spears',en,unknown,#111111,#111111,3,0.4561785992862651
+'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.4561565544608524
 'Mike Johnson',en,unknown,#111111,#111111,3,0.4558581013419318
 'Caroline Ellison',en,unknown,#111111,#111111,3,0.4551024099676374
 'Joy Behar',en,unknown,#111111,#111111,3,0.4547328068479624
