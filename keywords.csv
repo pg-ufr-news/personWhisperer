@@ -94,7 +94,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander De Croo',en,Belgien,#111111,#111111,2,0.4440416072045454
 'Raphael Warnock',en,USA,#18e8e8,#18e8e8,2,0.443588088636364
 'Billie Eilish',en,unknown,#111111,#111111,3,0.4434186658419863
-'Cassidy Hutchinson',en,unknown,#111111,#111111,3,0.443308576905671
 'António Guterres',en,unknown,#111111,#111111,3,0.4432123273454914
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.4431206516772675
 'Robert Menendez',en,unknown,#111111,#111111,3,0.4426209319025027
@@ -118,6 +117,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Antonoff',en,unknown,#111111,#111111,3,0.4377214061585721
 'Sean Hannity',en,unknown,#111111,#111111,3,0.4373529930286827
 'Tasneem Essop',en,unknown,#111111,#111111,1,0.43667518
+'Cassidy Hutchinson',en,unknown,#111111,#111111,3,0.43630925991527486
 'Sergei Surovikin',en,Russland,#e81818,#e81818,3,0.4360936749318181
 'Faith Birol',en,unknown,#111111,#111111,1,0.43547506
 'Jim Jordan',en,unknown,#111111,#111111,3,0.435244271053246
