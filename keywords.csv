@@ -88,7 +88,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akshata Murty',en,Indien,#111111,#111111,3,0.4457537965576809
 'Jon Batiste',en,unknown,#111111,#111111,3,0.4451613063716539
 'Matt Gaetz',en,unknown,#111111,#111111,3,0.44480897516144
-'Zach Bryan',en,unknown,#111111,#111111,3,0.4446356072857889
 'Bob Menendez',en,unknown,#111111,#111111,3,0.4442720350812576
 'Heidi Klum',en,unknown,#111111,#111111,3,0.4442370601211975
 'Alexander De Croo',en,Belgien,#111111,#111111,2,0.4440416072045454
@@ -117,7 +116,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Antonoff',en,unknown,#111111,#111111,3,0.4377214061585721
 'Sean Hannity',en,unknown,#111111,#111111,3,0.4373529930286827
 'Tasneem Essop',en,unknown,#111111,#111111,1,0.43667518
-'Cassidy Hutchinson',en,unknown,#111111,#111111,3,0.43630925991527486
+'Cassidy Hutchinson',en,unknown,#111111,#111111,3,0.4363092599152748
 'Sergei Surovikin',en,Russland,#e81818,#e81818,3,0.4360936749318181
 'Faith Birol',en,unknown,#111111,#111111,1,0.43547506
 'Jim Jordan',en,unknown,#111111,#111111,3,0.435244271053246
@@ -194,6 +193,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rupert Murdoch',en,unknown,#111111,#111111,3,0.4194892567117652
 'Kim Yo Jong',en,NordKorea,#111111,#111111,2,0.4194514519096409
 'Pedro Sánchez',en,Spanien,#111111,#111111,3,0.4193411537465908
+'Zach Bryan',en,unknown,#111111,#111111,3,0.4192594225565569
 'Robert Downey Jr',en,unknown,#111111,#111111,3,0.4187396650196033
 'Lady Gaga',en,USA,#18e8e8,#18e8e8,3,0.4187022339476163
 'Elisabeth Borne',en,Frankreich,#e8e808,#e8e808,2,0.4176855305227273
