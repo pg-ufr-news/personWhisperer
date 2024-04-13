@@ -26,6 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ana Navarro',en,unknown,#111111,#111111,3,0.4651853784944433
 'Sara Haines',en,unknown,#111111,#111111,3,0.4650267259940769
 'Martha MacCallum',en,unknown,#111111,#111111,3,0.4649901637692988
+'John Fetterman',en,unknown,#111111,#111111,3,0.4644988929155776
 'Jessica Biel',en,unknown,#111111,#111111,3,0.4644669443897264
 'Charlie Munger',en,unknown,#111111,#111111,3,0.4642698731529138
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.4639781919042149
@@ -127,7 +128,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Reed Richards',en,unknown,#111111,#111111,3,0.4340629553215029
 'Afida Turner',en,Frankreich,#e8e808,#e8e808,2,0.4338854198393749
 'Rand Paul',en,unknown,#111111,#111111,3,0.4337069361360604
-'John Fetterman',en,unknown,#111111,#111111,3,0.4336905141252785
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4328768925062534
 'Princess Diana',en,UK,#e838e8,#e838e8,3,0.4312251231124068
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,3,0.4310869115083519
