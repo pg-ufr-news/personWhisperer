@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Tim Malone',en,unknown,#111111,#111111,2,0.6065353804765494
 'Matt Lauer',en,unknown,#111111,#111111,2,0.6063890498569243
 'Joey Fatone',en,unknown,#111111,#111111,2,0.6053992058418977
 'Jason Kelce',en,unknown,#111111,#111111,2,0.6039258711064669
+'Tim Malone',en,unknown,#111111,#111111,3,0.561415214314158
 'Carey Mulligan',en,unknown,#111111,#111111,2,0.4755420257112366
 'Javier Milei',en,unknown,#111111,#111111,3,0.4752782346238636
 'Ines de Ramon',en,unknown,#111111,#111111,1,0.4729230441782034
@@ -428,7 +428,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'président de la République',en,unknown,#111111,#111111,1,0.3105553357272666
 'Steve Milloy',en,USA,#18e8e8,#18e8e8,1,0.3104475480099431
 'Jessy Wellmer',en,unknown,#111111,#111111,1,0.3102056854294208
-'Jacques Doriot',en,unknown,#111111,#111111,1,0.31002678381620186
+'Jacques Doriot',en,unknown,#111111,#111111,1,0.3100267838162018
 'Luc Terlinden',en,unknown,#111111,#111111,1,0.3092526788180066
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
 'Jean Jouzel',en,unknown,#111111,#111111,1,0.3083113060654888
