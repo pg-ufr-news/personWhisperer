@@ -61,7 +61,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nancy Mace',en,unknown,#111111,#111111,3,0.4545136600872565
 'Cara Delevingne',en,unknown,#111111,#111111,3,0.4537459527297873
 'Lance Bass',en,unknown,#111111,#111111,3,0.4537039003243569
-'Chelsea Handler',en,USA,#18e8e8,#18e8e8,3,0.4536008549999999
 'Berkshire Hathaway',en,USA,#18e8e8,#18e8e8,3,0.4535352367208433
 'Lara Trump',en,unknown,#111111,#111111,3,0.453278052340615
 'Phoebe Bridgers',en,unknown,#111111,#111111,3,0.4531571860119179
@@ -129,6 +128,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Afida Turner',en,Frankreich,#e8e808,#e8e808,2,0.4338854198393749
 'Rand Paul',en,unknown,#111111,#111111,3,0.4337069361360604
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4328768925062534
+'Chelsea Handler',en,USA,#18e8e8,#18e8e8,3,0.43222912380882345
 'Princess Diana',en,UK,#e838e8,#e838e8,3,0.4312251231124068
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,3,0.4310869115083519
 'James Comer',en,unknown,#111111,#111111,3,0.4310120514787025
