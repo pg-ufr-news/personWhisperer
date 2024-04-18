@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Matt Lauer',en,unknown,#111111,#111111,2,0.4975018729989005
 'Tim Malone',en,unknown,#111111,#111111,3,0.4952207238337009
 'Joey Fatone',en,unknown,#111111,#111111,1,0.484109254970771
 'Carey Mulligan',en,unknown,#111111,#111111,2,0.4755420257112366
@@ -118,6 +117,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nawaz Sharif',en,unknown,#111111,#111111,3,0.4377856510250612
 'Jack Antonoff',en,unknown,#111111,#111111,3,0.4377214061585721
 'Sean Hannity',en,unknown,#111111,#111111,3,0.4373529930286827
+'Matt Lauer',en,unknown,#111111,#111111,2,0.4369181011399745
 'Tasneem Essop',en,unknown,#111111,#111111,1,0.43667518
 'Cassidy Hutchinson',en,unknown,#111111,#111111,3,0.4363092599152748
 'Sergei Surovikin',en,Russland,#e81818,#e81818,3,0.4360936749318181
@@ -132,7 +132,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rand Paul',en,unknown,#111111,#111111,3,0.4337069361360604
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4328768925062534
 'Chelsea Handler',en,USA,#18e8e8,#18e8e8,3,0.4322291238088234
-'Jason Kelce',en,unknown,#111111,#111111,3,0.43144609687124014
+'Jason Kelce',en,unknown,#111111,#111111,3,0.4314460968712401
 'Princess Diana',en,UK,#e838e8,#e838e8,3,0.4312251231124068
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,3,0.4310869115083519
 'James Comer',en,unknown,#111111,#111111,3,0.4310120514787025
