@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jason Kelce',en,unknown,#111111,#111111,3,0.5017493492602825
 'Matt Lauer',en,unknown,#111111,#111111,2,0.4975018729989005
 'Tim Malone',en,unknown,#111111,#111111,3,0.4952207238337009
 'Joey Fatone',en,unknown,#111111,#111111,1,0.484109254970771
@@ -133,6 +132,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rand Paul',en,unknown,#111111,#111111,3,0.4337069361360604
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4328768925062534
 'Chelsea Handler',en,USA,#18e8e8,#18e8e8,3,0.4322291238088234
+'Jason Kelce',en,unknown,#111111,#111111,3,0.43144609687124014
 'Princess Diana',en,UK,#e838e8,#e838e8,3,0.4312251231124068
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,3,0.4310869115083519
 'James Comer',en,unknown,#111111,#111111,3,0.4310120514787025
