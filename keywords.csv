@@ -197,7 +197,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zach Bryan',en,unknown,#111111,#111111,3,0.4192594225565569
 'Robert Downey Jr',en,unknown,#111111,#111111,3,0.4187396650196033
 'Lady Gaga',en,USA,#18e8e8,#18e8e8,3,0.4187022339476163
-'António Guterres',en,unknown,#111111,#111111,3,0.41804900460730404
+'António Guterres',en,unknown,#111111,#111111,3,0.418049004607304
 'Elisabeth Borne',en,Frankreich,#e8e808,#e8e808,2,0.4176855305227273
 'Winston Churchill',en,UK,#e838e8,#e838e8,3,0.4175104403668492
 'Merrick Garland',en,unknown,#111111,#111111,3,0.4174160452572237
@@ -361,7 +361,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Sesselmann',en,Deutschland,#1818e8,#1818e8,2,0.3656082162499999
 'Jamie Spears',en,unknown,#111111,#111111,2,0.365303763290024
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,1,0.3643712204431447
-'Laura Maria Rypa',en,unknown,#111111,#111111,1,0.3641177810977575
 'Tina Turner',en,USA,#18e8e8,#18e8e8,3,0.3637510272556807
 'Marlène Schiappa',en,unknown,#111111,#111111,2,0.3624782710531116
 'Bettina Stark-Watzinger',en,Deutschland,#1818e8,#1818e8,1,0.3624502474999999
@@ -429,6 +428,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Milloy',en,USA,#18e8e8,#18e8e8,1,0.3104475480099431
 'Jessy Wellmer',en,unknown,#111111,#111111,1,0.3102056854294208
 'Jacques Doriot',en,unknown,#111111,#111111,1,0.3100267838162018
+'Laura Maria Rypa',en,unknown,#111111,#111111,1,0.30950011393309385
 'Luc Terlinden',en,unknown,#111111,#111111,1,0.3092526788180066
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
 'Jean Jouzel',en,unknown,#111111,#111111,1,0.3083113060654888
