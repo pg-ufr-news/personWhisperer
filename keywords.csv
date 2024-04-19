@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Tim Malone',en,unknown,#111111,#111111,3,0.4952207238337009
 'Joey Fatone',en,unknown,#111111,#111111,1,0.484109254970771
 'Carey Mulligan',en,unknown,#111111,#111111,2,0.4755420257112366
 'Javier Milei',en,unknown,#111111,#111111,3,0.4752782346238636
@@ -177,6 +176,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.4227859538826473
 'Rosa Parks',en,unknown,#111111,#111111,3,0.4227147079005344
 'Gavin Newsom',en,unknown,#111111,#111111,3,0.4226901412608101
+'Tim Malone',en,unknown,#111111,#111111,3,0.4225887702586458
 'Devon Archer',en,unknown,#111111,#111111,3,0.4220628390787838
 'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,3,0.4216432056998755
 'Cillian Murphy',en,Irland,#111111,#111111,2,0.4216313847406104
