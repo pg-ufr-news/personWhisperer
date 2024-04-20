@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.5333423123699738
 'Joey Fatone',en,unknown,#111111,#111111,1,0.484109254970771
 'Carey Mulligan',en,unknown,#111111,#111111,2,0.4755420257112366
 'Javier Milei',en,unknown,#111111,#111111,3,0.4752782346238636
@@ -37,7 +38,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Irina Shayk',en,unknown,#111111,#111111,2,0.4629874129466849
 'Leonard Bernstein',en,unknown,#111111,#111111,3,0.4621559586661052
 'Gisele Bündchen',en,unknown,#111111,#111111,3,0.4620678495656168
-'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.4611889600074558
 'Andy Cohen',en,unknown,#111111,#111111,3,0.4611345096244235
 'Maria Bartiromo',en,unknown,#111111,#111111,3,0.4610133648588671
 'Carter Reum',en,unknown,#111111,#111111,3,0.460785640088339
@@ -431,7 +431,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Luc Terlinden',en,unknown,#111111,#111111,1,0.3092526788180066
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
 'Jean Jouzel',en,unknown,#111111,#111111,1,0.3083113060654888
-'Marlène Schiappa',en,unknown,#111111,#111111,1,0.30810654539514487
+'Marlène Schiappa',en,unknown,#111111,#111111,1,0.3081065453951448
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.307534387175
 'Julian Reichelt',en,Deutschland,#1818e8,#1818e8,2,0.3072114763998855
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3070624999999999
