@@ -79,9 +79,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jimmy Kimmel',en,unknown,#111111,#111111,3,0.4502173215960297
 'Brian Kilmeade',en,unknown,#111111,#111111,3,0.4495540059567855
 'Lauren Boebert',en,USA,#18e8e8,#18e8e8,3,0.4492875562147727
-'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.44855964916574237
+'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.4485596491657423
 'Ivanka Trump',en,unknown,#111111,#111111,3,0.4484103857354088
-'Pablo Picasso',en,Spanien,#111111,#111111,2,0.4481342631818181
 'Billy Crystal',en,unknown,#111111,#111111,2,0.4478188171538063
 'Gisele Bundchen',en,unknown,#111111,#111111,3,0.4473778304741422
 'Sheryl Crow',en,unknown,#111111,#111111,3,0.4472369326147727
@@ -258,6 +257,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martin Scorsese',en,USA,#18e8e8,#18e8e8,2,0.4045932111613636
 'Roman Pacino',en,unknown,#111111,#111111,1,0.4044551468176358
 'Mathias Döpfner',en,Deutschland,#1818e8,#1818e8,1,0.404327780875
+'Pablo Picasso',en,Spanien,#111111,#111111,3,0.40404730688636353
 'Adolf Hitler',en,Deutschland,#1818e8,#1818e8,3,0.403899899035227
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.4038867128897727
 'Recep Tayyip Erdoan',en,Türkei,#111111,#111111,3,0.403731553867076
