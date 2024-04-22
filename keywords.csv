@@ -1,4 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Emma Stone',en,unknown,#111111,#111111,2,0.6050771945225116
+'Cameron Brink',en,unknown,#111111,#111111,2,0.6048590691468358
+'Kylie Kelce',en,unknown,#111111,#111111,2,0.6037409315744959
+'Kim Mulkey',en,unknown,#111111,#111111,2,0.6031546125860472
+'Willem Dafoe',en,unknown,#111111,#111111,2,0.6030549193648101
+'Chris Kirkpatrick',en,unknown,#111111,#111111,2,0.6016653731730788
+'Teresa Giudice',en,unknown,#111111,#111111,2,0.6009158673845095
 'Joey Fatone',en,unknown,#111111,#111111,1,0.484109254970771
 'Carey Mulligan',en,unknown,#111111,#111111,2,0.4755420257112366
 'Javier Milei',en,unknown,#111111,#111111,3,0.4752782346238636
@@ -233,6 +240,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wang Wentao',en,China,#e88818,#e88818,3,0.410295550379071
 'Robin Wall Kimmerer',en,unknown,#111111,#111111,1,0.4101896359642857
 'Kemal Klçdarolu',en,Türkei,#111111,#111111,3,0.408591592181818
+'Bettina Stark-Watzinger',en,Deutschland,#1818e8,#1818e8,2,0.4085327553749999
 'Vivek Ramaswamy',en,USA,#18e8e8,#18e8e8,3,0.4083684542315441
 'Finnegan Biden',en,USA,#18e8e8,#18e8e8,2,0.408326584215557
 'Chip Somodevilla',en,USA,#18e8e8,#18e8e8,3,0.4082480452806819
@@ -362,7 +370,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jamie Spears',en,unknown,#111111,#111111,2,0.365303763290024
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,1,0.3643712204431447
 'Tina Turner',en,USA,#18e8e8,#18e8e8,3,0.3637510272556807
-'Bettina Stark-Watzinger',en,Deutschland,#1818e8,#1818e8,1,0.3624502474999999
 'Moon Hyung-jin',en,USA,#18e8e8,#18e8e8,1,0.3624502092499999
 'Scott Morrison',en,Australien,#111111,#111111,3,0.3621097901615712
 'Jean-Denis Combrexelle',en,unknown,#111111,#111111,1,0.361936080884073
@@ -372,10 +379,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,2,0.36145317
 'Reinhard Marx',en,Deutschland,#1818e8,#1818e8,1,0.3614000914999999
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3614000149999999
-'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
 'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
+'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.358678357602557
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.3580522669973862
 'Boris Johnson',en,UK,#e838e8,#e838e8,3,0.3574162960158356
@@ -405,12 +412,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.3380939075124999
 'Gorbatschow',en,unknown,#111111,#111111,1,0.3380462777499999
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.3378962627499999
-'Claudia Kempfert',en,unknown,#111111,#111111,1,0.3377687499999999
-'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.3377687499999999
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.3377687499999999
-'Minka Indigena',en,unknown,#111111,#111111,1,0.3377687499999999
-'Hans Joosten',en,unknown,#111111,#111111,1,0.3377687499999999
 'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.3377687499999999
+'Hans Joosten',en,unknown,#111111,#111111,1,0.3377687499999999
+'Minka Indigena',en,unknown,#111111,#111111,1,0.3377687499999999
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.3377687499999999
+'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.3377687499999999
+'Claudia Kempfert',en,unknown,#111111,#111111,1,0.3377687499999999
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,2,0.3366240018700734
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.3316728748901354
 'Charles III',en,UK,#e838e8,#e838e8,3,0.327601171231922
@@ -472,8 +479,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,1,0.2622734876795746
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.261362786800768
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
-'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
+'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2610031249999999
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.2572194954743593
@@ -556,9 +563,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edward Snowden',en,USA,#18e8e8,#18e8e8,1,0.189299821846266
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.1889983512346281
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1885747578124999
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Roland Busch',en,Deutschland,#1818e8,#1818e8,2,0.1856639745592681
 'Vitali Klitschko',en,Ukraine,#e818e8,#e818e8,3,0.183834986344811
@@ -692,7 +699,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heinrich XIII. Prinz Reuß',en,Deutschland,#1818e8,#1818e8,1,0.102973299662835
 'Wolodimir Selenski',en,Ukraine,#e818e8,#e818e8,1,0.1021778158528351
 'Yanis Varoufakis',en,Griechenland,#1858e8,#1858e8,1,0.102105240474468
-'Louis Klamroth',en,Deutschland,#1818e8,#1818e8,1,0.10180239568729157
+'Louis Klamroth',en,Deutschland,#1818e8,#1818e8,1,0.1018023956872915
 'Jair Lapid',en,Israel,#111111,#111111,1,0.1017529169770823
 'Wolodymyr Selenski',en,Ukraine,#e818e8,#e818e8,1,0.1004537732075887
 'Ayatollah Ali Chamenei',en,Iran,#111111,#111111,1,0.100398524460988
