@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Teresa Giudice',en,unknown,#111111,#111111,2,0.4924470086743949
 'Willem Dafoe',en,unknown,#111111,#111111,3,0.4880508991728934
 'Joey Fatone',en,unknown,#111111,#111111,1,0.484109254970771
 'Kylie Kelce',en,unknown,#111111,#111111,3,0.4766297486615159
@@ -41,7 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Irina Shayk',en,unknown,#111111,#111111,2,0.4629874129466849
 'Leonard Bernstein',en,unknown,#111111,#111111,3,0.4621559586661052
 'Gisele Bündchen',en,unknown,#111111,#111111,3,0.4620678495656168
-'Emma Stone',en,unknown,#111111,#111111,3,0.46117223854068284
+'Emma Stone',en,unknown,#111111,#111111,3,0.4611722385406828
 'Andy Cohen',en,unknown,#111111,#111111,3,0.4611345096244235
 'Maria Bartiromo',en,unknown,#111111,#111111,3,0.4610133648588671
 'Carter Reum',en,unknown,#111111,#111111,3,0.460785640088339
@@ -198,6 +197,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lindsey Graham',en,USA,#18e8e8,#18e8e8,3,0.4196441722283064
 'Kemal Kılıçdaroğlu',en,Türkei,#111111,#111111,3,0.4195295045459323
 'Rupert Murdoch',en,unknown,#111111,#111111,3,0.4194892567117652
+'Teresa Giudice',en,unknown,#111111,#111111,2,0.4194805423732357
 'Kim Yo Jong',en,NordKorea,#111111,#111111,2,0.4194514519096409
 'Pedro Sánchez',en,Spanien,#111111,#111111,3,0.4193411537465908
 'Zach Bryan',en,unknown,#111111,#111111,3,0.4192594225565569
