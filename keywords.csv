@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dawn Staley',en,unknown,#111111,#111111,3,0.5998444831845791
+'Dawn Staley',en,unknown,#111111,#111111,3,0.6148262257068922
 'Hailey Van Lith',en,unknown,#111111,#111111,3,0.5878212417168409
 'Sarah Stier',en,unknown,#111111,#111111,3,0.5791146205167711
 'Yorgos Lanthimos',en,unknown,#111111,#111111,2,0.5678071118918095
@@ -384,10 +384,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,2,0.36145317
 'Reinhard Marx',en,Deutschland,#1818e8,#1818e8,1,0.3614000914999999
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3614000149999999
-'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
 'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.358678357602557
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.3580522669973862
 'Boris Johnson',en,UK,#e838e8,#e838e8,3,0.3574162960158356
@@ -417,12 +417,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.3380939075124999
 'Gorbatschow',en,unknown,#111111,#111111,1,0.3380462777499999
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.3378962627499999
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.3377687499999999
-'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.3377687499999999
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.3377687499999999
-'Minka Indigena',en,unknown,#111111,#111111,1,0.3377687499999999
-'Hans Joosten',en,unknown,#111111,#111111,1,0.3377687499999999
+'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.3377687499999999
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.3377687499999999
 'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.3377687499999999
+'Hans Joosten',en,unknown,#111111,#111111,1,0.3377687499999999
+'Minka Indigena',en,unknown,#111111,#111111,1,0.3377687499999999
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,2,0.3366240018700734
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.3316728748901354
 'Charles III',en,UK,#e838e8,#e838e8,3,0.327601171231922
@@ -568,9 +568,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edward Snowden',en,USA,#18e8e8,#18e8e8,1,0.189299821846266
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.1889983512346281
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
+'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1885747578124999
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
-'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1885747578124999
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Roland Busch',en,Deutschland,#1818e8,#1818e8,2,0.1856639745592681
 'Vitali Klitschko',en,Ukraine,#e818e8,#e818e8,3,0.183834986344811
