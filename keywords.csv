@@ -48,7 +48,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andy Cohen',en,unknown,#111111,#111111,3,0.4611345096244235
 'Maria Bartiromo',en,unknown,#111111,#111111,3,0.4610133648588671
 'Carter Reum',en,unknown,#111111,#111111,3,0.460785640088339
-'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.4607524698078411
 'Jennifer Lopez',en,unknown,#111111,#111111,3,0.4607130914560032
 'Elizabeth Warren',en,unknown,#111111,#111111,3,0.4602566511420478
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.4601925355227271
@@ -108,6 +107,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Billie Eilish',en,unknown,#111111,#111111,3,0.4434186658419863
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.4431206516772675
 'Robert Menendez',en,unknown,#111111,#111111,3,0.4426209319025027
+'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.44204649979121036
 'Bret Baier',en,unknown,#111111,#111111,3,0.4416875937627561
 'Ronna McDaniel',en,unknown,#111111,#111111,3,0.4412639044708203
 'Lewis Kaplan',en,unknown,#111111,#111111,3,0.4410972971488674
@@ -384,10 +384,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,2,0.36145317
 'Reinhard Marx',en,Deutschland,#1818e8,#1818e8,1,0.3614000914999999
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3614000149999999
-'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3612499999999999
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3612499999999999
 'König Felipe VI',en,Spanien,#111111,#111111,1,0.3612499999999999
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.358678357602557
 'Leonardo da Vinci',en,Italien,#111111,#111111,3,0.3580522669973862
 'Boris Johnson',en,UK,#e838e8,#e838e8,3,0.3574162960158356
@@ -417,12 +417,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.3380939075124999
 'Gorbatschow',en,unknown,#111111,#111111,1,0.3380462777499999
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.3378962627499999
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.3377687499999999
-'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.3377687499999999
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.3377687499999999
-'Minka Indigena',en,unknown,#111111,#111111,1,0.3377687499999999
-'Hans Joosten',en,unknown,#111111,#111111,1,0.3377687499999999
+'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.3377687499999999
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.3377687499999999
 'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.3377687499999999
+'Hans Joosten',en,unknown,#111111,#111111,1,0.3377687499999999
+'Minka Indigena',en,unknown,#111111,#111111,1,0.3377687499999999
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,2,0.3366240018700734
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.3316728748901354
 'Charles III',en,UK,#e838e8,#e838e8,3,0.327601171231922
@@ -568,9 +568,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edward Snowden',en,USA,#18e8e8,#18e8e8,1,0.189299821846266
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.1889983512346281
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1885747578124999
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Roland Busch',en,Deutschland,#1818e8,#1818e8,2,0.1856639745592681
 'Vitali Klitschko',en,Ukraine,#e818e8,#e818e8,3,0.183834986344811
@@ -721,7 +721,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.0903653515923918
 'Dimitry Peskov',en,Russland,#e81818,#e81818,1,0.089436513672263
 'Carola Rackete',en,Deutschland,#1818e8,#1818e8,1,0.087961318565401
-'Jair Lapid',en,Israel,#111111,#111111,1,0.08648997943051996
+'Jair Lapid',en,Israel,#111111,#111111,1,0.0864899794305199
 'Kurt Krömer',en,Deutschland,#1818e8,#1818e8,1,0.085330596145521
 'Katalin Novak',en,Ungarn,#111111,#111111,1,0.084671230325276
 'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.0810393998853631
