@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Tom Brady',en,unknown,#111111,#111111,3,0.5097054155429941
 'Joey Fatone',en,unknown,#111111,#111111,1,0.484109254970771
 'Kylie Kelce',en,unknown,#111111,#111111,3,0.4766297486615159
 'Carey Mulligan',en,unknown,#111111,#111111,2,0.4755420257112366
@@ -116,7 +117,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander Smirnov',en,unknown,#111111,#111111,3,0.4400738526472795
 'Vassily Nebenzia',en,Russland,#e81818,#e81818,2,0.4395026223568181
 'Mary Robinson',en,unknown,#111111,#111111,3,0.4388121055227273
-'Tom Brady',en,unknown,#111111,#111111,3,0.4387286337938968
 'Gayle King',en,unknown,#111111,#111111,3,0.4387218463145332
 'Paris Hilton',en,unknown,#111111,#111111,3,0.4380209259148452
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.4379319410079543
