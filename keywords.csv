@@ -102,7 +102,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jon Batiste',en,unknown,#111111,#111111,3,0.4451613063716539
 'Matt Gaetz',en,unknown,#111111,#111111,3,0.44480897516144
 'Bob Menendez',en,unknown,#111111,#111111,3,0.4442720350812576
-'Heidi Klum',en,unknown,#111111,#111111,3,0.4442370601211975
 'Alexander De Croo',en,Belgien,#111111,#111111,2,0.4440416072045454
 'Raphael Warnock',en,USA,#18e8e8,#18e8e8,2,0.443588088636364
 'Billie Eilish',en,unknown,#111111,#111111,3,0.4434186658419863
@@ -245,6 +244,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Meg Bellamy',en,UK,#e838e8,#e838e8,2,0.4105042349867608
 'Wang Wentao',en,China,#e88818,#e88818,3,0.410295550379071
 'Robin Wall Kimmerer',en,unknown,#111111,#111111,1,0.4101896359642857
+'Heidi Klum',en,unknown,#111111,#111111,3,0.4098252783757452
 'Kemal Klçdarolu',en,Türkei,#111111,#111111,3,0.408591592181818
 'Bettina Stark-Watzinger',en,Deutschland,#1818e8,#1818e8,2,0.4085327553749999
 'Vivek Ramaswamy',en,USA,#18e8e8,#18e8e8,3,0.4083684542315441
