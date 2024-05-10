@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joey Fatone',en,unknown,#111111,#111111,1,0.484109254970771
-'Tom Brady',en,unknown,#111111,#111111,3,0.48090901749031334
+'Tom Brady',en,unknown,#111111,#111111,3,0.4809090174903133
 'Kylie Kelce',en,unknown,#111111,#111111,3,0.4766297486615159
 'Carey Mulligan',en,unknown,#111111,#111111,2,0.4755420257112366
 'Javier Milei',en,unknown,#111111,#111111,3,0.4752782346238636
@@ -490,6 +490,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.2572194954743593
+'Mark Rutte',en,Niederlande,#111111,#111111,3,0.2562710888965846
 'Jeff Bezos',en,USA,#18e8e8,#18e8e8,3,0.2541353805609927
 'Frank-Walter Steinmeier',en,Deutschland,#1818e8,#1818e8,3,0.251492460588568
 'Mateusz Morawiecki',en,Polen,#111111,#111111,3,0.250372010575567
@@ -531,7 +532,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gerhard Schröder',en,Deutschland,#1818e8,#1818e8,1,0.217679995406422
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,2,0.2175058004450625
 'Charles Michel',en,EU,#111111,#111111,3,0.2156023514033326
-'Mark Rutte',en,Niederlande,#111111,#111111,3,0.215456271429137
 'Katarina Barley',en,EU,#111111,#111111,2,0.215162706941163
 'Warren Buffett',en,USA,#18e8e8,#18e8e8,2,0.2142821766320331
 'Dalai Lama',en,Tibet,#111111,#111111,3,0.2137038424105146
