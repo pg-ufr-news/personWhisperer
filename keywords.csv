@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Francis Ford Coppola',en,unknown,#111111,#111111,3,0.655668019096719
+'Francis Ford Coppola',en,unknown,#111111,#111111,3,0.653183792141302
 'Sabrina Carpenter',en,unknown,#111111,#111111,3,0.5987511900989033
 'Bridget Moynahan',en,unknown,#111111,#111111,3,0.5924385063304851
 'Jeff Ross',en,unknown,#111111,#111111,3,0.5834775730361021
@@ -426,12 +426,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.3380939075124999
 'Gorbatschow',en,unknown,#111111,#111111,1,0.3380462777499999
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.3378962627499999
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.3377687499999999
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.3377687499999999
 'Minka Indigena',en,unknown,#111111,#111111,1,0.3377687499999999
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.3377687499999999
-'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.3377687499999999
 'Hans Joosten',en,unknown,#111111,#111111,1,0.3377687499999999
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.3377687499999999
+'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.3377687499999999
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,2,0.3366240018700734
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.3316728748901354
 'Charles III',en,UK,#e838e8,#e838e8,3,0.327601171231922
