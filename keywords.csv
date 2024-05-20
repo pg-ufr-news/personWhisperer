@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Andrew Schulz',en,unknown,#111111,#111111,2,0.6085341286557078
 'Jake Gyllenhaal',en,unknown,#111111,#111111,2,0.6079853858105553
 'Aubrey Plaza',en,unknown,#111111,#111111,2,0.6073034575184268
 'Barry Keoghan',en,unknown,#111111,#111111,2,0.6070862270875245
@@ -11,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Antonio Brown',en,unknown,#111111,#111111,2,0.6024636776538747
 'LeBron James',en,unknown,#111111,#111111,2,0.6019082864863947
 'Roger Corman',en,unknown,#111111,#111111,2,0.6014127181987791
+'Andrew Schulz',en,unknown,#111111,#111111,2,0.5540238261755334
 'Bridget Moynahan',en,unknown,#111111,#111111,3,0.5539794508354577
 'Bill Belichick',en,unknown,#111111,#111111,3,0.5536829300035768
 'Kevin Hart',en,unknown,#111111,#111111,2,0.5493219126238326
