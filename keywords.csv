@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nathalie Emmanuel',en,unknown,#111111,#111111,2,0.6046706247115994
 'Adam Driver',en,unknown,#111111,#111111,2,0.6036750713061604
 'Peyton Manning',en,unknown,#111111,#111111,2,0.6033445738207168
 'Maya Rudolph',en,unknown,#111111,#111111,2,0.6029460140879572
@@ -14,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kevin Hart',en,unknown,#111111,#111111,2,0.5493219126238326
 'Jeff Ross',en,unknown,#111111,#111111,3,0.5463676675352322
 'Nikki Glaser',en,unknown,#111111,#111111,2,0.5454463566362907
+'Nathalie Emmanuel',en,unknown,#111111,#111111,2,0.5416502887321323
 'Chris Hemsworth',en,unknown,#111111,#111111,3,0.5404876681002658
 'Robert Kraft',en,unknown,#111111,#111111,3,0.5387864553231517
 'Francis Ford Coppola',en,unknown,#111111,#111111,3,0.5356974956305952
