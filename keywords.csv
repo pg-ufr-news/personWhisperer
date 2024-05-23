@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Barry Keoghan',en,unknown,#111111,#111111,3,0.6061930777298273
 'Nathalie Emmanuel',en,unknown,#111111,#111111,2,0.6046706247115994
 'Adam Driver',en,unknown,#111111,#111111,2,0.6036750713061604
 'Peyton Manning',en,unknown,#111111,#111111,2,0.6033445738207168
@@ -20,6 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Francis Ford Coppola',en,unknown,#111111,#111111,3,0.5356974956305952
 'Sabrina Carpenter',en,unknown,#111111,#111111,3,0.5354008542328212
 'Matty Healy',en,unknown,#111111,#111111,3,0.5256666258750392
+'Barry Keoghan',en,unknown,#111111,#111111,3,0.5247630656158078
 'Jason Whitlock',en,unknown,#111111,#111111,2,0.5163736142274791
 'Tom Brady',en,unknown,#111111,#111111,3,0.4809090174903133
 'Kylie Kelce',en,unknown,#111111,#111111,3,0.4766297486615159
