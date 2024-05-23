@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Chris Hemsworth',en,unknown,#111111,#111111,3,0.6300253801179598
 'Barry Keoghan',en,unknown,#111111,#111111,3,0.6061930777298273
 'Nathalie Emmanuel',en,unknown,#111111,#111111,2,0.6046706247115994
 'Adam Driver',en,unknown,#111111,#111111,2,0.6036750713061604
@@ -16,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kevin Hart',en,unknown,#111111,#111111,2,0.5493219126238326
 'Jeff Ross',en,unknown,#111111,#111111,3,0.5463676675352322
 'Nikki Glaser',en,unknown,#111111,#111111,2,0.5454463566362907
+'Chris Hemsworth',en,unknown,#111111,#111111,3,0.5404876681002658
 'Robert Kraft',en,unknown,#111111,#111111,3,0.5387864553231517
 'Francis Ford Coppola',en,unknown,#111111,#111111,3,0.5356974956305952
 'Sabrina Carpenter',en,unknown,#111111,#111111,3,0.5354008542328212
