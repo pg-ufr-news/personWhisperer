@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dwayne Johnson',en,unknown,#111111,#111111,3,0.5641768228480102
 'Demi Moore',en,unknown,#111111,#111111,3,0.5570242596727094
 'Emily Blunt',en,unknown,#111111,#111111,3,0.5495389129752752
 'Kevin Hart',en,unknown,#111111,#111111,2,0.5493219126238326
@@ -17,6 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Kraft',en,unknown,#111111,#111111,3,0.5387864553231517
 'Francis Ford Coppola',en,unknown,#111111,#111111,3,0.5356974956305952
 'Sabrina Carpenter',en,unknown,#111111,#111111,3,0.5354008542328212
+'Dwayne Johnson',en,unknown,#111111,#111111,3,0.5345058194208087
 'Aubrey Plaza',en,unknown,#111111,#111111,3,0.5290921810473675
 'Matty Healy',en,unknown,#111111,#111111,3,0.5256666258750392
 'Barry Keoghan',en,unknown,#111111,#111111,3,0.5247630656158078
@@ -454,12 +454,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.3380939075124999
 'Gorbatschow',en,unknown,#111111,#111111,1,0.3380462777499999
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.3378962627499999
+'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.3377687499999999
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.3377687499999999
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.3377687499999999
-'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.3377687499999999
-'Hans Joosten',en,unknown,#111111,#111111,1,0.3377687499999999
 'Minka Indigena',en,unknown,#111111,#111111,1,0.3377687499999999
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.3377687499999999
+'Hans Joosten',en,unknown,#111111,#111111,1,0.3377687499999999
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,2,0.3366240018700734
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.3316728748901354
 'Charles III',en,UK,#e838e8,#e838e8,3,0.327601171231922
