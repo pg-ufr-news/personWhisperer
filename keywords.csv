@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Matt Winkelmeyer',en,unknown,#111111,#111111,3,0.5141416598087071
 'Lily Gladstone',en,unknown,#111111,#111111,3,0.5131242362586332
 'Demi Moore',en,unknown,#111111,#111111,3,0.5123042752953507
 'Emily Blunt',en,unknown,#111111,#111111,3,0.5116615630791819
@@ -183,6 +182,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nawaz Sharif',en,unknown,#111111,#111111,3,0.4377856510250612
 'Jack Antonoff',en,unknown,#111111,#111111,3,0.4377214061585721
 'Sean Hannity',en,unknown,#111111,#111111,3,0.4373529930286827
+'Matt Winkelmeyer',en,unknown,#111111,#111111,2,0.437021235837401
 'Matt Lauer',en,unknown,#111111,#111111,2,0.4369181011399745
 'Tasneem Essop',en,unknown,#111111,#111111,1,0.43667518
 'Cassidy Hutchinson',en,unknown,#111111,#111111,3,0.4363092599152748
@@ -543,9 +543,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eva Kaili',en,EU,#111111,#111111,3,0.2625054479876908
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.261362786800768
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
-'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2610031249999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
+'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.2572194954743593
 'Mark Rutte',en,Niederlande,#111111,#111111,3,0.2562710888965846
