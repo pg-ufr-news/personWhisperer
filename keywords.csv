@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jon Hamm',en,unknown,#111111,#111111,3,0.4882202597899581
 'Roger Corman',en,unknown,#111111,#111111,3,0.4866516017873852
 'Oleksandr Usyk',en,unknown,#111111,#111111,3,0.4865123710743644
 'Dwayne Johnson',en,unknown,#111111,#111111,3,0.4860270994633524
@@ -94,6 +93,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kevin Hart',en,unknown,#111111,#111111,3,0.4569975127840944
 'Abraham Lincoln',en,unknown,#111111,#111111,3,0.4566506144556818
 'Margot Robbie',en,unknown,#111111,#111111,3,0.4565902762256607
+'Jon Hamm',en,unknown,#111111,#111111,3,0.45630243218510075
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.4562365785327139
 'Britney Spears',en,unknown,#111111,#111111,3,0.4561785992862651
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.4561565544608524
@@ -543,9 +543,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eva Kaili',en,EU,#111111,#111111,3,0.2625054479876908
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.261362786800768
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
-'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2610031249999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
+'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.2572194954743593
 'Mark Rutte',en,Niederlande,#111111,#111111,3,0.2562710888965846
@@ -780,7 +780,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.0903653515923918
 'Dimitry Peskov',en,Russland,#e81818,#e81818,1,0.089436513672263
 'Carola Rackete',en,Deutschland,#1818e8,#1818e8,1,0.087961318565401
-'Wolodimir Selenski',en,Ukraine,#e818e8,#e818e8,1,0.08685114347490983
+'Wolodimir Selenski',en,Ukraine,#e818e8,#e818e8,1,0.0868511434749098
 'Jair Lapid',en,Israel,#111111,#111111,1,0.0864899794305199
 'Kurt Krömer',en,Deutschland,#1818e8,#1818e8,1,0.085330596145521
 'Katalin Novak',en,Ungarn,#111111,#111111,1,0.084671230325276
