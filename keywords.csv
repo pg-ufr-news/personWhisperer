@@ -48,7 +48,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emily Blunt',en,unknown,#111111,#111111,3,0.4671376658900318
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.466893276818182
 'Tony Bobulinski',en,unknown,#111111,#111111,3,0.4668919208235507
-'George Miller',en,unknown,#111111,#111111,3,0.4663522249295648
 'Joe Jonas',en,unknown,#111111,#111111,3,0.4662981875924498
 'Leandro De Niro-Rodriguez',en,unknown,#111111,#111111,1,0.4658745126568189
 'Dua Lipa',en,unknown,#111111,#111111,2,0.4655688056643171
@@ -93,7 +92,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kevin Hart',en,unknown,#111111,#111111,3,0.4569975127840944
 'Abraham Lincoln',en,unknown,#111111,#111111,3,0.4566506144556818
 'Margot Robbie',en,unknown,#111111,#111111,3,0.4565902762256607
-'Jon Hamm',en,unknown,#111111,#111111,3,0.45630243218510075
+'Jon Hamm',en,unknown,#111111,#111111,3,0.4563024321851007
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.4562365785327139
 'Britney Spears',en,unknown,#111111,#111111,3,0.4561785992862651
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.4561565544608524
@@ -322,6 +321,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Greg Brockman',en,unknown,#111111,#111111,1,0.4062128307391993
 'Mark Meadows',en,unknown,#111111,#111111,3,0.406076974211334
 'Alvin Bragg',en,USA,#18e8e8,#18e8e8,3,0.4059719168387483
+'George Miller',en,unknown,#111111,#111111,3,0.4059020607355846
 'Linda Yaccarino',en,USA,#18e8e8,#18e8e8,3,0.405806780336
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.4056129521175
 'Kyle Pope',en,unknown,#111111,#111111,2,0.4048110251568181
@@ -543,9 +543,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eva Kaili',en,EU,#111111,#111111,3,0.2625054479876908
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.261362786800768
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
-'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2610031249999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
+'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2610031249999999
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.2572194954743593
 'Mark Rutte',en,Niederlande,#111111,#111111,3,0.2562710888965846
