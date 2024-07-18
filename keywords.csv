@@ -543,9 +543,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eva Kaili',en,EU,#111111,#111111,3,0.2625054479876908
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.261362786800768
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
+'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2610031249999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
-'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2610031249999999
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.2572194954743593
 'Mark Rutte',en,Niederlande,#111111,#111111,3,0.2562710888965846
@@ -574,7 +574,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Malpass',en,USA,#18e8e8,#18e8e8,2,0.22632552833199
 'Daniel Zhang',en,China,#e88818,#e88818,2,0.2248482257443686
 'Karine Jean-Pierre',en,USA,#18e8e8,#18e8e8,3,0.2245664103292931
-'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,1,0.2242825995276384
 'Thomas Bayes',en,UK,#e838e8,#e838e8,1,0.2241282651053749
 'Viktor Orbán',en,Ungarn,#111111,#111111,3,0.2241244442762156
 'Andreas Jung',en,Deutschland,#1818e8,#1818e8,1,0.2239148687678749
@@ -606,6 +605,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katja Krasavice',en,Deutschland,#1818e8,#1818e8,1,0.2075105556725027
 'Sundar Pichai',en,USA,#18e8e8,#18e8e8,2,0.2071275569691835
 'Rafael Grossi',en,UN,#e888e8,#e888e8,3,0.206302208699169
+'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,1,0.2059267382348563
 'Jack Ma',en,China,#e88818,#e88818,3,0.2056546227271782
 'Mark Zuckerberg',en,USA,#18e8e8,#18e8e8,3,0.202991931793682
 'Nancy Faeser',en,Deutschland,#1818e8,#1818e8,2,0.2025913901087565
@@ -628,8 +628,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edward Snowden',en,USA,#18e8e8,#18e8e8,1,0.189299821846266
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.1889983512346281
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Roland Busch',en,Deutschland,#1818e8,#1818e8,2,0.1856639745592681
 'Vitali Klitschko',en,Ukraine,#e818e8,#e818e8,3,0.183834986344811
