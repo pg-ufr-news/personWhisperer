@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'LeBron James',en,unknown,#111111,#111111,3,0.528902723844012
 'Matty Healy',en,unknown,#111111,#111111,3,0.4816837384219884
 'Nathalie Emmanuel',en,unknown,#111111,#111111,3,0.481653405313511
 'Meryl Streep',en,unknown,#111111,#111111,3,0.4815975625111716
@@ -9,7 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Howard Stern',en,unknown,#111111,#111111,3,0.4794603568507426
 'Jacoby Brissett',en,unknown,#111111,#111111,3,0.4791966464176931
 'Bill Belichick',en,unknown,#111111,#111111,3,0.4787495807230388
-'LeBron James',en,unknown,#111111,#111111,3,0.4773437066614046
 'Kylie Kelce',en,unknown,#111111,#111111,3,0.4766297486615159
 'Antonio Brown',en,unknown,#111111,#111111,3,0.475581102991288
 'Carey Mulligan',en,unknown,#111111,#111111,2,0.4755420257112366
@@ -146,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Billie Eilish',en,unknown,#111111,#111111,3,0.4434186658419863
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.4431206516772675
 'Radical Optimism',en,unknown,#111111,#111111,3,0.4430482022650428
-'Maya Rudolph',en,unknown,#111111,#111111,3,0.44273829264002446
+'Maya Rudolph',en,unknown,#111111,#111111,3,0.4427382926400244
 'Robert Menendez',en,unknown,#111111,#111111,3,0.4426209319025027
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.4420464997912103
 'Joey Fatone',en,unknown,#111111,#111111,1,0.441936908466382
@@ -543,9 +543,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eva Kaili',en,EU,#111111,#111111,3,0.2625054479876908
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.261362786800768
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
-'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2610031249999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
+'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.2572194954743593
 'Mark Rutte',en,Niederlande,#111111,#111111,3,0.2562710888965846
