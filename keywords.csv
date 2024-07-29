@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Sunny Hostin',en,unknown,#111111,#111111,3,0.5138082767805825
 'Nathalie Emmanuel',en,unknown,#111111,#111111,3,0.481653405313511
 'Meryl Streep',en,unknown,#111111,#111111,3,0.4815975625111716
 'Aubrey Plaza',en,unknown,#111111,#111111,3,0.4814510874616909
@@ -31,7 +32,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Travis Kelce',en,unknown,#111111,#111111,3,0.4709638092617361
 'Kim Mulkey',en,unknown,#111111,#111111,3,0.4705420368055691
 'Brittany Mahomes',en,unknown,#111111,#111111,3,0.4704152061212402
-'Sunny Hostin',en,unknown,#111111,#111111,3,0.4703125561054982
 'Mark Kerr',en,unknown,#111111,#111111,3,0.4701796886592804
 'James Biden',en,unknown,#111111,#111111,3,0.4693969483709244
 'Ron Johnson',en,unknown,#111111,#111111,3,0.4684132476341114
@@ -543,9 +543,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eva Kaili',en,EU,#111111,#111111,3,0.2625054479876908
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.261362786800768
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
-'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2610031249999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
+'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2610031249999999
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.2572194954743593
 'Mark Rutte',en,Niederlande,#111111,#111111,3,0.2562710888965846
