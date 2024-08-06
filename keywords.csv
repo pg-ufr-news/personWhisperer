@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Lily Gladstone',en,unknown,#111111,#111111,3,0.4813410764071058
 'Tom Brady',en,unknown,#111111,#111111,3,0.4809090174903133
 'Benny Safdie',en,unknown,#111111,#111111,3,0.4801678789958845
 'Jerry Seinfeld',en,unknown,#111111,#111111,3,0.4797563867974981
@@ -210,6 +209,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Stapleton',en,unknown,#111111,#111111,3,0.4279300115658773
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.427924836970838
 'Lionel Messi',en,Argentinien,#111111,#111111,3,0.4278877752318322
+'Lily Gladstone',en,unknown,#111111,#111111,3,0.42772855858240355
 'Billionaire Bunker',en,unknown,#111111,#111111,3,0.4269552838795603
 'Tim Scott',en,USA,#18e8e8,#18e8e8,3,0.4269080810976704
 'Brad Pitt',en,unknown,#111111,#111111,3,0.4267868716460361
@@ -543,9 +543,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean-Denis Combrexelle',en,unknown,#111111,#111111,1,0.2614988184387427
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.261362786800768
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
-'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2610031249999999
+'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.2572194954743593
 'Mark Rutte',en,Niederlande,#111111,#111111,3,0.2562710888965846
