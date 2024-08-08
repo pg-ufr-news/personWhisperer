@@ -31,7 +31,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Jonas',en,unknown,#111111,#111111,3,0.4694881126354004
 'James Biden',en,unknown,#111111,#111111,3,0.4693969483709244
 'Charlize Theron',en,unknown,#111111,#111111,2,0.4684077534498301
-'Joe Alwyn',en,unknown,#111111,#111111,3,0.4682192953481159
 'Emily Blunt',en,unknown,#111111,#111111,3,0.4671376658900318
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.466893276818182
 'Tony Bobulinski',en,unknown,#111111,#111111,3,0.4668919208235507
@@ -345,6 +344,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Willie Nelson',en,unknown,#111111,#111111,3,0.3994828434199897
 'James Cameron',en,USA,#18e8e8,#18e8e8,3,0.3993062787741476
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.3983445095824807
+'Joe Alwyn',en,unknown,#111111,#111111,2,0.39798713604589847
 'Michael Cohen',en,USA,#18e8e8,#18e8e8,3,0.3979750659735508
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.3974688483452221
 'Sam H',en,unknown,#111111,#111111,2,0.3973205540488556
@@ -543,9 +543,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean-Denis Combrexelle',en,unknown,#111111,#111111,1,0.2614988184387427
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.261362786800768
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
-'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2610031249999999
+'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.2572194954743593
 'Mark Rutte',en,Niederlande,#111111,#111111,3,0.2562710888965846
