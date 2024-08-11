@@ -468,10 +468,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.3380939075124999
 'Gorbatschow',en,unknown,#111111,#111111,1,0.3380462777499999
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.3378962627499999
-'Claudia Kempfert',en,unknown,#111111,#111111,1,0.3377687499999999
 'Hans Joosten',en,unknown,#111111,#111111,1,0.3377687499999999
-'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.3377687499999999
+'Claudia Kempfert',en,unknown,#111111,#111111,1,0.3377687499999999
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.3377687499999999
+'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.3377687499999999
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,2,0.3366240018700734
 'John Rawls',en,USA,#18e8e8,#18e8e8,1,0.3349546959392854
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.327800639565706
@@ -490,7 +490,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jessy Wellmer',en,unknown,#111111,#111111,1,0.3102056854294208
 'Jacques Doriot',en,unknown,#111111,#111111,1,0.3100267838162018
 'Moon Hyung-jin',en,USA,#18e8e8,#18e8e8,1,0.3097328428624998
-'Sophia Chikirou',en,unknown,#111111,#111111,1,0.30971664868476756
+'Sophia Chikirou',en,unknown,#111111,#111111,1,0.3097166486847675
 'Laura Maria Rypa',en,unknown,#111111,#111111,1,0.3095001139330938
 'Luc Terlinden',en,unknown,#111111,#111111,1,0.3092526788180066
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
@@ -543,9 +543,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean-Denis Combrexelle',en,unknown,#111111,#111111,1,0.2614988184387427
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.261362786800768
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
-'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2610031249999999
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
+'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2610031249999999
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.2572194954743593
 'Mark Rutte',en,Niederlande,#111111,#111111,3,0.2562710888965846
@@ -720,7 +720,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steffen Große',en,Deutschland,#1818e8,#1818e8,1,0.12222690613538
 'Martin Schirdewan',en,Deutschland,#1818e8,#1818e8,1,0.1221393562164923
 'Julia Koch',en,USA,#18e8e8,#18e8e8,1,0.1218270041996362
-'Jitzchak Herzog',en,Israel,#111111,#111111,1,0.121758564796411
 'Steffi Lemke',en,Deutschland,#1818e8,#1818e8,1,0.1215248687136141
 'Jan Böhmermann',en,Deutschland,#1818e8,#1818e8,1,0.1201410888172818
 'Winfried Kretschmann',en,Deutschland,#1818e8,#1818e8,1,0.1198495487826529
@@ -756,6 +755,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hans Joachim Schellnhuber',en,Deutschland,#1818e8,#1818e8,1,0.105138702101878
 'Kardinal Woelki',en,Deutschland,#1818e8,#1818e8,1,0.1049609090552047
 'Andreas Baum',en,Deutschland,#1818e8,#1818e8,1,0.103971744406791
+'Jitzchak Herzog',en,Israel,#111111,#111111,1,0.10349478007694936
 'Rainer Maria Woelki',en,Deutschland,#1818e8,#1818e8,1,0.1030533041554525
 'Jochen Thewes',en,Deutschland,#1818e8,#1818e8,1,0.103044076814963
 'Klaus Hasselmann',en,Deutschland,#1818e8,#1818e8,1,0.1030335215037614
