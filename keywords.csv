@@ -23,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sandy Hook',en,unknown,#111111,#111111,3,0.4722558298324228
 'Eric Trump',en,unknown,#111111,#111111,3,0.4721300526043329
 'America Ferrera',en,unknown,#111111,#111111,3,0.4719139751198186
-'Hazel Monét',en,unknown,#111111,#111111,2,0.4716709766451007
 'Victoria Monét',en,unknown,#111111,#111111,3,0.471456115974723
 'Derek Chauvin',en,unknown,#111111,#111111,2,0.4711561247732094
 'Travis Kelce',en,unknown,#111111,#111111,3,0.4709638092617361
@@ -231,7 +230,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gavin Newsom',en,unknown,#111111,#111111,3,0.4226901412608101
 'Andrea Arnold',en,unknown,#111111,#111111,2,0.422514492651765
 'Devon Archer',en,unknown,#111111,#111111,3,0.4220628390787838
-'Patrick Mahomes',en,unknown,#111111,#111111,3,0.42170307217452385
+'Patrick Mahomes',en,unknown,#111111,#111111,3,0.4217030721745238
 'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,3,0.4216432056998755
 'Cillian Murphy',en,Irland,#111111,#111111,2,0.4216313847406104
 'Recep Tayyip Erdogan',en,Türkei,#111111,#111111,3,0.421579288654781
@@ -333,6 +332,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Camille Etienne',en,Frankreich,#e8e808,#e8e808,2,0.401821122864035
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.40141514063
 'Steve Scalise',en,unknown,#111111,#111111,3,0.4013552243347687
+'Hazel Monét',en,unknown,#111111,#111111,1,0.4009203301483356
 'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,1,0.4007751275
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4004610982365516
 'Greta Gerwig',en,unknown,#111111,#111111,2,0.4004360537482884
@@ -543,9 +543,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean-Denis Combrexelle',en,unknown,#111111,#111111,1,0.2614988184387427
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.261362786800768
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
-'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2610031249999999
+'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.2572194954743593
 'Mark Rutte',en,Niederlande,#111111,#111111,3,0.2562710888965846
