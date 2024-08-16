@@ -513,7 +513,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mario Czaja',en,Deutschland,#1818e8,#1818e8,2,0.2938223625895234
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.293322933515939
 'Joseph Ratzinger',en,Vatikan,#58b8e8,#58b8e8,2,0.2923608971105702
-'Sophia Kianni',en,unknown,#111111,#111111,1,0.2904091185441249
 'Jens Stoltenberg',en,Norwegen,#e818e8,#e818e8,3,0.2902723797470035
 'Olivier Marleix',en,Frankreich,#e8e808,#e8e808,1,0.2902067868125268
 'Liz Truss',en,UK,#e838e8,#e838e8,3,0.288453085811433
@@ -554,6 +553,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mateusz Morawiecki',en,Polen,#111111,#111111,3,0.250372010575567
 'Christine Lambrecht',en,Deutschland,#1818e8,#1818e8,1,0.249283962031489
 'Steven Milloy',en,USA,#18e8e8,#18e8e8,1,0.248178230154469
+'Sophia Kianni',en,unknown,#111111,#111111,1,0.24684775076250615
 'Paul Ronzheimer',en,Deutschland,#1818e8,#1818e8,2,0.2448245612239102
 'Tamim Hamad Thani',en,Katar,#111111,#111111,3,0.243702483793426
 'Ursula von der Leyen',en,EU,#111111,#111111,3,0.241279307607689
@@ -781,7 +781,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Carola Rackete',en,Deutschland,#1818e8,#1818e8,1,0.087961318565401
 'Wolodimir Selenski',en,Ukraine,#e818e8,#e818e8,1,0.0868511434749098
 'Jair Lapid',en,Israel,#111111,#111111,1,0.0864899794305199
-'Wolodymyr Selenski',en,Ukraine,#e818e8,#e818e8,1,0.08538570722645039
+'Wolodymyr Selenski',en,Ukraine,#e818e8,#e818e8,1,0.0853857072264503
 'Kurt Krömer',en,Deutschland,#1818e8,#1818e8,1,0.085330596145521
 'Katalin Novak',en,Ungarn,#111111,#111111,1,0.084671230325276
 'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.0810393998853631
