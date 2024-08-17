@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Benny Safdie',en,unknown,#111111,#111111,3,0.4801678789958845
 'Jerry Seinfeld',en,unknown,#111111,#111111,3,0.4797563867974981
 'Howard Stern',en,unknown,#111111,#111111,3,0.4794603568507426
 'Bill Belichick',en,unknown,#111111,#111111,3,0.4787495807230388
@@ -298,6 +297,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vivek Ramaswamy',en,USA,#18e8e8,#18e8e8,3,0.4083684542315441
 'Finnegan Biden',en,USA,#18e8e8,#18e8e8,2,0.408326584215557
 'Chip Somodevilla',en,USA,#18e8e8,#18e8e8,3,0.4082480452806819
+'Benny Safdie',en,unknown,#111111,#111111,2,0.4081430721465018
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,3,0.408133560326986
 'Mary Lou McDonald',en,Irland,#111111,#111111,3,0.407910047
 'Adolf Hitler',en,Deutschland,#1818e8,#1818e8,3,0.407361853270852
@@ -611,7 +611,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yoon Suk-yeol',en,SüdKorea,#111111,#111111,3,0.201339918829886
 'Aleksandar Vucic',en,Serbien,#111111,#111111,3,0.2000764247801457
 'Mohammed bin Salman',en,SaudiArabien,#111111,#111111,2,0.199302301329668
-'Lael Brainard',en,USA,#18e8e8,#18e8e8,2,0.19922824168547704
+'Lael Brainard',en,USA,#18e8e8,#18e8e8,2,0.199228241685477
 'Antony Blinken',en,USA,#18e8e8,#18e8e8,3,0.199068191882527
 'Joko Widodo',en,Indonesien,#111111,#111111,3,0.1973649177227948
 'Kim Jong-un',en,NordKorea,#e85858,#e85858,3,0.1966427331566715
