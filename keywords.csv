@@ -466,10 +466,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.3380939075124999
 'Gorbatschow',en,unknown,#111111,#111111,1,0.3380462777499999
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.3378962627499999
-'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.3377687499999999
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.3377687499999999
 'Hans Joosten',en,unknown,#111111,#111111,1,0.3377687499999999
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.3377687499999999
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.3377687499999999
+'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.3377687499999999
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,2,0.3366240018700734
 'John Rawls',en,USA,#18e8e8,#18e8e8,1,0.3349546959392854
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.327800639565706
@@ -541,10 +541,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean-Denis Combrexelle',en,unknown,#111111,#111111,1,0.2614988184387427
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.261362786800768
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
-'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2610031249999999
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
+'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2610031249999999
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
+'König Charles III',en,UK,#e838e8,#e838e8,2,0.2595776789925278
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.2572194954743593
 'Mark Rutte',en,Niederlande,#111111,#111111,3,0.2562710888965846
@@ -629,8 +630,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.1889983512346281
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.1869514162126785
 'Roland Busch',en,Deutschland,#1818e8,#1818e8,2,0.1856639745592681
@@ -659,8 +660,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saskia Esken',en,Deutschland,#1818e8,#1818e8,2,0.1633994968660552
 'Markus Söder',en,Deutschland,#1818e8,#1818e8,1,0.162508839523399
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
-'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
 'Ramsan Kadyrow',en,Russland,#e81818,#e81818,1,0.160288544140625
+'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
 'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
@@ -701,12 +702,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holger Münch',en,Deutschland,#1818e8,#1818e8,1,0.1307398420517795
 'Sandra Maischberger',en,Deutschland,#1818e8,#1818e8,1,0.1299532325140539
 'Alexei Nawalny',en,Russland,#e81818,#e81818,1,0.129347072944707
-'König Charles III',en,UK,#e838e8,#e838e8,1,0.1287384282265033
 'Jürgen Grässlin',en,Deutschland,#1818e8,#1818e8,1,0.1278282964372896
 'Otmar Issing',en,EU,#111111,#111111,1,0.12778560651524
 'Volker Wissing',en,Deutschland,#1818e8,#1818e8,1,0.127782699349555
-'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.1273893204557615
 'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.1273893204557615
+'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.1273893204557615
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.1265313572958776
 'Miriam Adelson',en,USA,#18e8e8,#18e8e8,2,0.1262511865351177
 'Pietro Lombardi',en,Deutschland,#1818e8,#1818e8,1,0.1255426230976032
