@@ -166,10 +166,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Akshata Murty',en,Indien,#111111,#111111,3,0.4350868416194833
 'David Koch',en,unknown,#111111,#111111,3,0.434998753317899
 'Aaron Rodgers',en,unknown,#111111,#111111,3,0.434834502691415
-'Bradley Cooper',en,unknown,#111111,#111111,3,0.43474035894958846
+'Bradley Cooper',en,unknown,#111111,#111111,3,0.4347403589495884
 'Melania Trump',en,unknown,#111111,#111111,3,0.4340676270875954
 'Reed Richards',en,unknown,#111111,#111111,3,0.4340629553215029
-'Afida Turner',en,Frankreich,#e8e808,#e8e808,2,0.4338854198393749
 'Rand Paul',en,unknown,#111111,#111111,3,0.4337069361360604
 'Petro Poroshenko',en,unknown,#111111,#111111,2,0.4335744853587228
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4328768925062534
@@ -423,6 +422,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergei Surovikin',en,Russland,#e81818,#e81818,2,0.3706796236920454
 'Kemal Kiliçdaroglu',en,Türkei,#111111,#111111,1,0.3697498615410713
 'Drena De Niro',en,USA,#18e8e8,#18e8e8,2,0.3693221098636363
+'Afida Turner',en,Frankreich,#e8e808,#e8e808,1,0.36880260686346866
 'King Charles',en,UK,#e838e8,#e838e8,3,0.3687029340082495
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.3667259496198617
 'Robert Sesselmann',en,Deutschland,#1818e8,#1818e8,2,0.3656082162499999
@@ -468,8 +468,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.3378962627499999
 'Hans Joosten',en,unknown,#111111,#111111,1,0.3377687499999999
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.3377687499999999
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.3377687499999999
 'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.3377687499999999
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.3377687499999999
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,2,0.3366240018700734
 'John Rawls',en,USA,#18e8e8,#18e8e8,1,0.3349546959392854
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.327800639565706
@@ -628,10 +628,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yannick Morez',en,Frankreich,#e8e808,#e8e808,1,0.1897150566899561
 'Edward Snowden',en,USA,#18e8e8,#18e8e8,1,0.189299821846266
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.1889983512346281
-'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
+'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.1869514162126785
 'Roland Busch',en,Deutschland,#1818e8,#1818e8,2,0.1856639745592681
