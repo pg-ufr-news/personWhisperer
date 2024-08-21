@@ -20,6 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eric Trump',en,unknown,#111111,#111111,3,0.4721300526043329
 'America Ferrera',en,unknown,#111111,#111111,3,0.4719139751198186
 'Victoria Monét',en,unknown,#111111,#111111,3,0.471456115974723
+'Irina Shayk',en,unknown,#111111,#111111,3,0.4712174287319549
 'Derek Chauvin',en,unknown,#111111,#111111,2,0.4711561247732094
 'Travis Kelce',en,unknown,#111111,#111111,3,0.4709638092617361
 'Kim Mulkey',en,unknown,#111111,#111111,3,0.4705420368055691
@@ -42,7 +43,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Doocy',en,unknown,#111111,#111111,3,0.4638996567045677
 'Angelina Jolie',en,unknown,#111111,#111111,3,0.4638931129544543
 'George Floyd',en,USA,#18e8e8,#18e8e8,3,0.4631799932272725
-'Irina Shayk',en,unknown,#111111,#111111,2,0.4629874129466849
 'Chuck Schumer',en,unknown,#111111,#111111,3,0.4622383556305056
 'Leonard Bernstein',en,unknown,#111111,#111111,3,0.4621559586661052
 'Gisele Bündchen',en,unknown,#111111,#111111,3,0.4620678495656168
@@ -466,10 +466,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.3380939075124999
 'Gorbatschow',en,unknown,#111111,#111111,1,0.3380462777499999
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.3378962627499999
-'Hans Joosten',en,unknown,#111111,#111111,1,0.3377687499999999
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.3377687499999999
-'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.3377687499999999
+'Hans Joosten',en,unknown,#111111,#111111,1,0.3377687499999999
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.3377687499999999
+'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.3377687499999999
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,2,0.3366240018700734
 'John Rawls',en,USA,#18e8e8,#18e8e8,1,0.3349546959392854
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.327800639565706
