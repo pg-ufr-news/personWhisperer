@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Alexander Smirnov',en,unknown,#111111,#111111,3,0.5243632997501876
 'Bill Belichick',en,unknown,#111111,#111111,3,0.4787495807230388
 'Jacoby Brissett',en,unknown,#111111,#111111,3,0.4778591881733111
 'Kylie Kelce',en,unknown,#111111,#111111,3,0.4766297486615159
@@ -117,6 +116,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Billy Crystal',en,unknown,#111111,#111111,2,0.4478188171538063
 'Jerod Mayo',en,unknown,#111111,#111111,3,0.4476249983589299
 'Gisele Bundchen',en,unknown,#111111,#111111,3,0.4473778304741422
+'Alexander Smirnov',en,unknown,#111111,#111111,3,0.44600932978765945
 'Robert Kraft',en,unknown,#111111,#111111,3,0.4458149637185123
 'Eliot Wolf',en,unknown,#111111,#111111,3,0.4453004334225487
 'Jon Batiste',en,unknown,#111111,#111111,3,0.4451613063716539
@@ -466,10 +466,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.3380939075124999
 'Gorbatschow',en,unknown,#111111,#111111,1,0.3380462777499999
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.3378962627499999
-'Hans Joosten',en,unknown,#111111,#111111,1,0.3377687499999999
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.3377687499999999
-'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.3377687499999999
+'Hans Joosten',en,unknown,#111111,#111111,1,0.3377687499999999
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.3377687499999999
+'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.3377687499999999
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,2,0.3366240018700734
 'John Rawls',en,USA,#18e8e8,#18e8e8,1,0.3349546959392854
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.327800639565706
