@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Alexander Smirnov',en,unknown,#111111,#111111,3,0.5243632997501876
 'Bill Belichick',en,unknown,#111111,#111111,3,0.4787495807230388
 'Jacoby Brissett',en,unknown,#111111,#111111,3,0.4778591881733111
 'Kylie Kelce',en,unknown,#111111,#111111,3,0.4766297486615159
@@ -28,7 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Jonas',en,unknown,#111111,#111111,3,0.4694881126354004
 'James Biden',en,unknown,#111111,#111111,3,0.4693969483709244
 'Charlize Theron',en,unknown,#111111,#111111,2,0.4684077534498301
-'Howard Stern',en,unknown,#111111,#111111,3,0.46703852786858574
+'Howard Stern',en,unknown,#111111,#111111,3,0.4670385278685857
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.466893276818182
 'Tony Bobulinski',en,unknown,#111111,#111111,3,0.4668919208235507
 'Emily Blunt',en,unknown,#111111,#111111,3,0.4656559746428906
@@ -139,7 +140,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jared Kushner',en,unknown,#111111,#111111,3,0.440677811038627
 'Gerald Darmanin',en,unknown,#111111,#111111,2,0.4406192349452916
 'Sam Bankman-Fried',en,unknown,#111111,#111111,3,0.4404235014304627
-'Alexander Smirnov',en,unknown,#111111,#111111,3,0.4400738526472795
 'Vassily Nebenzia',en,Russland,#e81818,#e81818,2,0.4395026223568181
 'Andrew Schulz',en,unknown,#111111,#111111,3,0.43941453268455
 'Jason Whitlock',en,unknown,#111111,#111111,1,0.4389178420933572
@@ -466,10 +466,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.3380939075124999
 'Gorbatschow',en,unknown,#111111,#111111,1,0.3380462777499999
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.3378962627499999
-'Claudia Kempfert',en,unknown,#111111,#111111,1,0.3377687499999999
 'Hans Joosten',en,unknown,#111111,#111111,1,0.3377687499999999
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.3377687499999999
+'Claudia Kempfert',en,unknown,#111111,#111111,1,0.3377687499999999
 'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.3377687499999999
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.3377687499999999
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,2,0.3366240018700734
 'John Rawls',en,USA,#18e8e8,#18e8e8,1,0.3349546959392854
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.327800639565706
