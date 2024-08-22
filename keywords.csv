@@ -144,6 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Schulz',en,unknown,#111111,#111111,3,0.43941453268455
 'Jason Whitlock',en,unknown,#111111,#111111,1,0.4389178420933572
 'Mary Robinson',en,unknown,#111111,#111111,3,0.4388121055227273
+'Hunter Biden',en,USA,#18e8e8,#18e8e8,3,0.43805824643409086
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.4379319410079543
 'Bill Barr',en,unknown,#111111,#111111,3,0.4378941280382932
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.4378062206842656
@@ -367,7 +368,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lionel Richie',en,USA,#18e8e8,#18e8e8,3,0.3927705735558462
 'Drew Bledsoe',en,unknown,#111111,#111111,2,0.3921962339689507
 'Mick Jagger',en,unknown,#111111,#111111,3,0.3921206818706264
-'Hunter Biden',en,USA,#18e8e8,#18e8e8,3,0.3918777428636363
 'George Bush',en,USA,#18e8e8,#18e8e8,3,0.391088631845454
 'Billy Graham',en,USA,#18e8e8,#18e8e8,3,0.3908345415784092
 'Michael Walzer',en,USA,#18e8e8,#18e8e8,1,0.3900818735987499
@@ -466,10 +466,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.3380939075124999
 'Gorbatschow',en,unknown,#111111,#111111,1,0.3380462777499999
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.3378962627499999
-'Claudia Kempfert',en,unknown,#111111,#111111,1,0.3377687499999999
 'Hans Joosten',en,unknown,#111111,#111111,1,0.3377687499999999
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.3377687499999999
+'Claudia Kempfert',en,unknown,#111111,#111111,1,0.3377687499999999
 'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.3377687499999999
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.3377687499999999
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,2,0.3366240018700734
 'John Rawls',en,USA,#18e8e8,#18e8e8,1,0.3349546959392854
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.327800639565706
