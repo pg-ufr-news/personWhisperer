@@ -25,7 +25,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Travis Kelce',en,unknown,#111111,#111111,3,0.4709638092617361
 'Kim Mulkey',en,unknown,#111111,#111111,3,0.4705420368055691
 'Brittany Mahomes',en,unknown,#111111,#111111,3,0.4704152061212402
-'Mark Kerr',en,unknown,#111111,#111111,3,0.4701796886592804
 'Joe Jonas',en,unknown,#111111,#111111,3,0.4694881126354004
 'James Biden',en,unknown,#111111,#111111,3,0.4693969483709244
 'Charlize Theron',en,unknown,#111111,#111111,2,0.4684077534498301
@@ -173,6 +172,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4328768925062534
 'Meryl Streep',en,unknown,#111111,#111111,3,0.432493571316314
 'Chelsea Handler',en,USA,#18e8e8,#18e8e8,3,0.4322291238088234
+'Mark Kerr',en,unknown,#111111,#111111,3,0.4318780426331156
 'Jason Kelce',en,unknown,#111111,#111111,3,0.4314460968712401
 'Princess Diana',en,UK,#e838e8,#e838e8,3,0.4312251231124068
 'Mindy Kaling',en,unknown,#111111,#111111,3,0.4311760757400937
@@ -628,9 +628,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.1889983512346281
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.1870042734688708
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.1869514162126785
