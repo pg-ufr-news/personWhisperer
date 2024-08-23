@@ -463,12 +463,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paul-Henry Nargeolet',en,Frankreich,#e8e808,#e8e808,3,0.3391518067977272
 'Bruno Retailleau',en,Frankreich,#e8e808,#e8e808,2,0.3390892955819233
 'Ed McVey',en,UK,#e838e8,#e838e8,1,0.3382402632177319
-'Gorbatschow',en,unknown,#111111,#111111,1,0.3380462777499999
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.3378962627499999
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.3377687499999999
 'Hans Joosten',en,unknown,#111111,#111111,1,0.3377687499999999
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.3377687499999999
 'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.3377687499999999
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.3377687499999999
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,2,0.3366240018700734
 'John Rawls',en,USA,#18e8e8,#18e8e8,1,0.3349546959392854
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.327800639565706
@@ -515,6 +514,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Liz Truss',en,UK,#e838e8,#e838e8,3,0.288453085811433
 'Vanessa Nakate',en,unknown,#111111,#111111,1,0.287467023863125
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.2873798213856249
+'Gorbatschow',en,unknown,#111111,#111111,1,0.2873393360874999
 'Minka Indigena',en,unknown,#111111,#111111,1,0.2871034374999999
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2871034374999999
 'Tim Müller',en,Deutschland,#1818e8,#1818e8,1,0.2868081261231731
@@ -541,8 +541,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean-Denis Combrexelle',en,unknown,#111111,#111111,1,0.2614988184387427
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.261362786800768
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
-'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2610031249999999
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
+'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2610031249999999
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'König Charles III',en,UK,#e838e8,#e838e8,2,0.2595776789925278
@@ -628,9 +628,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.1889983512346281
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
+'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
-'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.1870042734688708
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.1869514162126785
