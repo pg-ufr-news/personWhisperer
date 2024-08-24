@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.4959703886979395
 'Jacoby Brissett',en,unknown,#111111,#111111,3,0.4778591881733111
 'Kylie Kelce',en,unknown,#111111,#111111,3,0.4766297486615159
 'Lara Trump',en,unknown,#111111,#111111,3,0.4766055158531591
@@ -109,7 +110,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerry Seinfeld',en,unknown,#111111,#111111,3,0.4491079001415097
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.4485596491657423
 'Ivanka Trump',en,unknown,#111111,#111111,3,0.4484103857354088
-'Bill Belichick',en,unknown,#111111,#111111,3,0.44825511497821935
+'Bill Belichick',en,unknown,#111111,#111111,3,0.4482551149782193
 'Adam Driver',en,unknown,#111111,#111111,3,0.4479414521079411
 'Billy Crystal',en,unknown,#111111,#111111,2,0.4478188171538063
 'Jerod Mayo',en,unknown,#111111,#111111,3,0.4476249983589299
@@ -196,7 +197,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benny Blanco',en,unknown,#111111,#111111,2,0.4285603641580055
 'Harrison Ford',en,unknown,#111111,#111111,3,0.4285263131238636
 'Chris Stapleton',en,unknown,#111111,#111111,3,0.4279300115658773
-'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.427924836970838
 'Lionel Messi',en,Argentinien,#111111,#111111,3,0.4278877752318322
 'Lily Gladstone',en,unknown,#111111,#111111,3,0.4277285585824035
 'Billionaire Bunker',en,unknown,#111111,#111111,3,0.4269552838795603
@@ -628,9 +628,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.1889983512346281
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.1870042734688708
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.1869514162126785
