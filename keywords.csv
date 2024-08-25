@@ -628,9 +628,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.1889983512346281
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.1870042734688708
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.1869514162126785
@@ -758,7 +758,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jitzchak Herzog',en,Israel,#111111,#111111,1,0.1034947800769493
 'Rainer Maria Woelki',en,Deutschland,#1818e8,#1818e8,1,0.1030533041554525
 'Jochen Thewes',en,Deutschland,#1818e8,#1818e8,1,0.103044076814963
-'Klaus Hasselmann',en,Deutschland,#1818e8,#1818e8,1,0.1030335215037614
 'Heinrich XIII. Prinz Reuß',en,Deutschland,#1818e8,#1818e8,1,0.102973299662835
 'Yanis Varoufakis',en,Griechenland,#1858e8,#1858e8,1,0.102105240474468
 'Ayatollah Ali Chamenei',en,Iran,#111111,#111111,1,0.100398524460988
@@ -777,6 +776,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.0903653515923918
 'Dimitry Peskov',en,Russland,#e81818,#e81818,1,0.089436513672263
 'Carola Rackete',en,Deutschland,#1818e8,#1818e8,1,0.087961318565401
+'Klaus Hasselmann',en,Deutschland,#1818e8,#1818e8,1,0.08757849327819718
 'Wolodimir Selenski',en,Ukraine,#e818e8,#e818e8,1,0.0868511434749098
 'Louis Klamroth',en,Deutschland,#1818e8,#1818e8,1,0.0865320363341977
 'Jair Lapid',en,Israel,#111111,#111111,1,0.0864899794305199
