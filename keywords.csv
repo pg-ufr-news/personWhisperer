@@ -163,7 +163,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.4351695357219586
 'Akshata Murty',en,Indien,#111111,#111111,3,0.4350868416194833
 'David Koch',en,unknown,#111111,#111111,3,0.434998753317899
-'Ryan Gosling',en,unknown,#111111,#111111,3,0.43493246521647727
+'Ryan Gosling',en,unknown,#111111,#111111,3,0.4349324652164772
 'Aaron Rodgers',en,unknown,#111111,#111111,3,0.434834502691415
 'Bradley Cooper',en,unknown,#111111,#111111,3,0.4347403589495884
 'Melania Trump',en,unknown,#111111,#111111,3,0.4340676270875954
@@ -250,6 +250,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Downey Jr',en,unknown,#111111,#111111,3,0.4187396650196033
 'Charles Barkley',en,unknown,#111111,#111111,3,0.4187080674395769
 'Lady Gaga',en,USA,#18e8e8,#18e8e8,3,0.4187022339476163
+'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4185255871961323
 'António Guterres',en,unknown,#111111,#111111,3,0.418049004607304
 'Elisabeth Borne',en,Frankreich,#e8e808,#e8e808,2,0.4176855305227273
 'Merrick Garland',en,unknown,#111111,#111111,3,0.4174160452572237
@@ -277,7 +278,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lady Di',en,UK,#e838e8,#e838e8,2,0.411773791363636
 'Harry Belafonte',en,USA,#18e8e8,#18e8e8,2,0.411744230016534
 'Ben Affleck',en,unknown,#111111,#111111,3,0.4117119794444336
-'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4116815571291397
 'Justin Timberlake',en,unknown,#111111,#111111,3,0.4116264205879065
 'David Weiss',en,unknown,#111111,#111111,3,0.4114737730950015
 'Roger Federer',en,unknown,#111111,#111111,3,0.4110227449726381
@@ -628,9 +628,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.1889983512346281
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
+'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
-'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.1870042734688708
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.1869514162126785
