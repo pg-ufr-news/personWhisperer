@@ -279,7 +279,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ben Affleck',en,unknown,#111111,#111111,3,0.4117119794444336
 'Justin Timberlake',en,unknown,#111111,#111111,3,0.4116264205879065
 'David Weiss',en,unknown,#111111,#111111,3,0.4114737730950015
-'Roger Federer',en,unknown,#111111,#111111,3,0.4110227449726381
 'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.4106860113030421
 'Barbara Walters',en,USA,#18e8e8,#18e8e8,3,0.4106310323468179
 'Meg Bellamy',en,UK,#e838e8,#e838e8,2,0.4105042349867608
@@ -430,6 +429,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Evan Gershkovich',en,USA,#18e8e8,#18e8e8,3,0.3647094591959337
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,1,0.3643712204431447
 'Tina Turner',en,USA,#18e8e8,#18e8e8,3,0.3637510272556807
+'Roger Federer',en,unknown,#111111,#111111,3,0.36341279231765145
 'Yaël Braun-Pivet',en,unknown,#111111,#111111,1,0.3632146771003845
 'Fabien Roussel',en,unknown,#111111,#111111,1,0.3631513284213319
 'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.3621648873060311
@@ -629,8 +629,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.1870042734688708
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.1869514162126785
