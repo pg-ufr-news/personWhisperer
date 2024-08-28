@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Jennifer Lopez',en,unknown,#111111,#111111,3,0.49657279273760274
 'Jacoby Brissett',en,unknown,#111111,#111111,3,0.4778591881733111
 'Kylie Kelce',en,unknown,#111111,#111111,3,0.4766297486615159
 'Lara Trump',en,unknown,#111111,#111111,3,0.4766055158531591
@@ -52,7 +53,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drake Maye',en,unknown,#111111,#111111,3,0.4609442513953192
 'Jack Smith',en,USA,#18e8e8,#18e8e8,3,0.4608509643035226
 'Carter Reum',en,unknown,#111111,#111111,3,0.460785640088339
-'Jennifer Lopez',en,unknown,#111111,#111111,3,0.4607130914560032
 'Elizabeth Warren',en,unknown,#111111,#111111,3,0.4602566511420478
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.4601925355227271
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4596751122788323
@@ -402,7 +402,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,3,0.3796395312578797
 'John Paul II',en,Vatikan,#58b8e8,#58b8e8,3,0.3788385944090909
 'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.3788150966689651
-'Jon Batiste',en,unknown,#111111,#111111,2,0.37838778541590584
+'Jon Batiste',en,unknown,#111111,#111111,2,0.3783877854159058
 'Anne Will',en,Deutschland,#1818e8,#1818e8,2,0.377750428514773
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,1,0.3776195878504714
 'Herschel Walker',en,USA,#18e8e8,#18e8e8,2,0.3766604086611476
@@ -628,9 +628,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.1889983512346281
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
+'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
-'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.1870042734688708
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.1869514162126785
