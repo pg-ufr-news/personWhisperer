@@ -56,7 +56,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elizabeth Warren',en,unknown,#111111,#111111,3,0.4602566511420478
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.4601925355227271
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4596751122788323
-'Oleksandr Usyk',en,unknown,#111111,#111111,3,0.4593965263223006
 'LeBron James',en,unknown,#111111,#111111,3,0.4590915998128648
 'Sabrina Carpenter',en,unknown,#111111,#111111,3,0.4589897931228038
 'Alyssa Farah Griffin',en,unknown,#111111,#111111,3,0.4586778390815507
@@ -367,6 +366,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lionel Richie',en,USA,#18e8e8,#18e8e8,3,0.3927705735558462
 'Drew Bledsoe',en,unknown,#111111,#111111,2,0.3921962339689507
 'Mick Jagger',en,unknown,#111111,#111111,3,0.3921206818706264
+'Oleksandr Usyk',en,unknown,#111111,#111111,3,0.3912381123739555
 'George Bush',en,USA,#18e8e8,#18e8e8,3,0.391088631845454
 'Billy Graham',en,USA,#18e8e8,#18e8e8,3,0.3908345415784092
 'Michael Walzer',en,USA,#18e8e8,#18e8e8,1,0.3900818735987499
@@ -628,9 +628,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.1889983512346281
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.1870042734688708
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.1869514162126785
@@ -781,7 +781,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jair Lapid',en,Israel,#111111,#111111,1,0.0864899794305199
 'Wolodymyr Selenski',en,Ukraine,#e818e8,#e818e8,1,0.0853857072264503
 'Kurt Krömer',en,Deutschland,#1818e8,#1818e8,1,0.085330596145521
-'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.08510545819923161
+'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.0851054581992316
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.0849069413850298
 'Katalin Novak',en,Ungarn,#111111,#111111,1,0.084671230325276
 'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.0810393998853631
