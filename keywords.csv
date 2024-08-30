@@ -628,9 +628,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.1889983512346281
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
+'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
-'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.1870042734688708
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.1869514162126785
@@ -739,7 +739,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexej Kudrin',en,Russland,#e81818,#e81818,1,0.1118888387080861
 'Mojib Latif',en,Deutschland,#1818e8,#1818e8,1,0.1114190632112487
 'Bodo Ramelow',en,Deutschland,#1818e8,#1818e8,1,0.1107022262281007
-'Gregor Gysi',en,Deutschland,#1818e8,#1818e8,1,0.1102734217539769
 'Michael Ballweg',en,Deutschland,#1818e8,#1818e8,1,0.1100016288819354
 'Wolfgang Schäuble',en,Deutschland,#1818e8,#1818e8,1,0.1099819358340184
 'Generalbundesanwalt Peter Frank',en,Deutschland,#1818e8,#1818e8,1,0.1097436855807431
@@ -770,6 +769,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Igor Setschin',en,Russland,#e81818,#e81818,1,0.0956846050366814
 'Sergej Schoigu',en,Russland,#e81818,#e81818,1,0.0943678995360839
 'Susanne Klatten',en,Deutschland,#1818e8,#1818e8,1,0.0938507755427247
+'Gregor Gysi',en,Deutschland,#1818e8,#1818e8,1,0.09373240849088037
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.0913472158764356
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.0903653515923918
 'Dimitry Peskov',en,Russland,#e81818,#e81818,1,0.089436513672263
