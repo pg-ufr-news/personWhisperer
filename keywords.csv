@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jacoby Brissett',en,unknown,#111111,#111111,3,0.5431939284248992
 'Kylie Kelce',en,unknown,#111111,#111111,3,0.4766297486615159
 'Lara Trump',en,unknown,#111111,#111111,3,0.4766055158531591
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.4761468602770742
@@ -21,6 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'America Ferrera',en,unknown,#111111,#111111,3,0.4719139751198186
 'Victoria Monét',en,unknown,#111111,#111111,3,0.471456115974723
 'Irina Shayk',en,unknown,#111111,#111111,3,0.4712174287319549
+'Jacoby Brissett',en,unknown,#111111,#111111,3,0.4712172537066189
 'Derek Chauvin',en,unknown,#111111,#111111,2,0.4711561247732094
 'Travis Kelce',en,unknown,#111111,#111111,3,0.4709638092617361
 'Kim Mulkey',en,unknown,#111111,#111111,3,0.4705420368055691
@@ -628,9 +628,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.1889983512346281
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.1870042734688708
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.1869514162126785
