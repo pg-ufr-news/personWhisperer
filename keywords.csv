@@ -475,6 +475,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karl Jenkins',en,UK,#e838e8,#e838e8,2,0.3221342235926135
 'Salvador Dali',en,Spanien,#111111,#111111,3,0.3215048976304346
 'Shahzada Dawood',en,Pakistan,#111111,#111111,1,0.3184901513806817
+'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.3176171254583893
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027019743
 'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.3168237411740693
 'Robert Nozick',en,USA,#18e8e8,#18e8e8,2,0.3145020331079117
@@ -489,7 +490,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sophia Chikirou',en,unknown,#111111,#111111,1,0.3097166486847675
 'Laura Maria Rypa',en,unknown,#111111,#111111,1,0.3095001139330938
 'Luc Terlinden',en,unknown,#111111,#111111,1,0.3092526788180066
-'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.309018153480458
 'Jean Jouzel',en,unknown,#111111,#111111,1,0.3083113060654888
 'Marlène Schiappa',en,unknown,#111111,#111111,1,0.3081065453951448
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.3079176071749999
@@ -628,9 +628,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.1889983512346281
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.1870042734688708
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.1869514162126785
