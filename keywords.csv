@@ -211,6 +211,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.4244766828843078
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,3,0.4244367217363634
 'Alex Jones',en,unknown,#111111,#111111,3,0.4244235022548079
+'Meg Bellamy',en,UK,#e838e8,#e838e8,2,0.4242286297387467
 'Amber Heard',en,USA,#18e8e8,#18e8e8,3,0.4240519771363635
 'Chris Christie',en,USA,#18e8e8,#18e8e8,3,0.4238905916168142
 'Sophie Turner',en,unknown,#111111,#111111,3,0.423425345005767
@@ -278,7 +279,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Weiss',en,unknown,#111111,#111111,3,0.4114737730950015
 'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.4106860113030421
 'Barbara Walters',en,USA,#18e8e8,#18e8e8,3,0.4106310323468179
-'Meg Bellamy',en,UK,#e838e8,#e838e8,2,0.4105042349867608
 'Bruce Springsteen',en,USA,#18e8e8,#18e8e8,3,0.410391674187148
 'Wang Wentao',en,China,#e88818,#e88818,3,0.410295550379071
 'Robin Wall Kimmerer',en,unknown,#111111,#111111,1,0.4101896359642857
@@ -417,7 +417,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.3735374992232371
 'Bridget Moynahan',en,unknown,#111111,#111111,1,0.3733481441511436
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,1,0.3724918396875
-'Helena Gualinga',en,unknown,#111111,#111111,1,0.37175757758687483
+'Helena Gualinga',en,unknown,#111111,#111111,1,0.3717575775868748
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.3709641794664772
 'Sergei Surovikin',en,Russland,#e81818,#e81818,2,0.3706796236920454
 'Kemal Kiliçdaroglu',en,Türkei,#111111,#111111,1,0.3697498615410713
@@ -628,9 +628,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.1889983512346281
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
+'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
-'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.1870042734688708
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.1869514162126785
