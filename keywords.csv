@@ -145,7 +145,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nawaz Sharif',en,unknown,#111111,#111111,3,0.4377856510250612
 'Jack Antonoff',en,unknown,#111111,#111111,3,0.4377214061585721
 'Jake Gyllenhaal',en,unknown,#111111,#111111,3,0.437475615461558
-'Helena Gualinga',en,unknown,#111111,#111111,2,0.4373618383374998
 'Sean Hannity',en,unknown,#111111,#111111,3,0.4373529930286827
 'Ron Johnson',en,unknown,#111111,#111111,3,0.4371466317111
 'Matt Winkelmeyer',en,unknown,#111111,#111111,2,0.437021235837401
@@ -418,6 +417,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.3735374992232371
 'Bridget Moynahan',en,unknown,#111111,#111111,1,0.3733481441511436
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,1,0.3724918396875
+'Helena Gualinga',en,unknown,#111111,#111111,1,0.37175757758687483
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.3709641794664772
 'Sergei Surovikin',en,Russland,#e81818,#e81818,2,0.3706796236920454
 'Kemal Kiliçdaroglu',en,Türkei,#111111,#111111,1,0.3697498615410713
@@ -629,8 +629,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
-'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
+'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.1870042734688708
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.1869514162126785
