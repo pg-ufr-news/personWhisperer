@@ -49,7 +49,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barry Keoghan',en,unknown,#111111,#111111,3,0.4619312813667625
 'Margaret Qualley',en,unknown,#111111,#111111,3,0.4614933035035954
 'Yorgos Lanthimos',en,unknown,#111111,#111111,3,0.4614481633872869
-'Kamilla Cardoso',en,unknown,#111111,#111111,3,0.4613271814284381
 'Drake Maye',en,unknown,#111111,#111111,3,0.4609442513953192
 'Jack Smith',en,USA,#18e8e8,#18e8e8,3,0.4608509643035226
 'Carter Reum',en,unknown,#111111,#111111,3,0.460785640088339
@@ -74,6 +73,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jon Hamm',en,unknown,#111111,#111111,3,0.4563024321851007
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.4562365785327139
 'Britney Spears',en,unknown,#111111,#111111,3,0.4561785992862651
+'Kamilla Cardoso',en,unknown,#111111,#111111,3,0.4561703333050815
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.4561565544608524
 'Andy Cohen',en,unknown,#111111,#111111,3,0.456010447271669
 'Mike Johnson',en,unknown,#111111,#111111,3,0.4558581013419318
@@ -628,9 +628,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.1889983512346281
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.1870042734688708
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.1869514162126785
