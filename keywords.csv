@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Lara Trump',en,unknown,#111111,#111111,3,0.4766055158531591
+'Lara Trump',en,unknown,#111111,#111111,3,0.5055213189297307
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.4761468602770742
 'Antonio Brown',en,unknown,#111111,#111111,3,0.475581102991288
 'Carey Mulligan',en,unknown,#111111,#111111,2,0.4755420257112366
@@ -477,7 +477,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.3176171254583893
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027019743
 'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.3168237411740693
-'Helena Gualinga',en,unknown,#111111,#111111,1,0.31614395594884354
+'Helena Gualinga',en,unknown,#111111,#111111,1,0.3161439559488435
 'Robert Nozick',en,USA,#18e8e8,#18e8e8,2,0.3145020331079117
 'Marguerite Cazeneuve',en,unknown,#111111,#111111,1,0.3121541829667352
 'François Bayrou',en,unknown,#111111,#111111,1,0.3117791671807716
