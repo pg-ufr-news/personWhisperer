@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Charlie Munger',en,unknown,#111111,#111111,3,0.5041256567254313
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.4761468602770742
 'Antonio Brown',en,unknown,#111111,#111111,3,0.475581102991288
 'Carey Mulligan',en,unknown,#111111,#111111,2,0.4755420257112366
@@ -36,7 +37,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martha MacCallum',en,unknown,#111111,#111111,3,0.4649901637692988
 'Leandro De Niro-Rodriguez',en,unknown,#111111,#111111,2,0.4646493908945516
 'Jessica Biel',en,unknown,#111111,#111111,3,0.4644669443897264
-'Charlie Munger',en,unknown,#111111,#111111,3,0.4642698731529138
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.4639781919042149
 'Steve Doocy',en,unknown,#111111,#111111,3,0.4638996567045677
 'Angelina Jolie',en,unknown,#111111,#111111,3,0.4638931129544543
@@ -453,7 +453,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Helmut Kohl',en,Deutschland,#1818e8,#1818e8,1,0.3511438589262379
 'Johan Rockström',en,unknown,#111111,#111111,1,0.3499910154699999
 'Queen Camilla',en,UK,#e838e8,#e838e8,3,0.3494038458196475
-'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.34706639945451917
+'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.3470663994545191
 'Margaret Thatcher',en,UK,#e838e8,#e838e8,3,0.3459014514086916
 'Tim Malone',en,unknown,#111111,#111111,3,0.344133652966417
 'Isaac Newton',en,UK,#e838e8,#e838e8,3,0.343819546867272
