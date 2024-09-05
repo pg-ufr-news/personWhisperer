@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Lara Trump',en,unknown,#111111,#111111,3,0.491445966972185
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.4761468602770742
 'Antonio Brown',en,unknown,#111111,#111111,3,0.475581102991288
 'Carey Mulligan',en,unknown,#111111,#111111,2,0.4755420257112366
@@ -196,6 +195,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Stapleton',en,unknown,#111111,#111111,3,0.4279300115658773
 'Lionel Messi',en,Argentinien,#111111,#111111,3,0.4278877752318322
 'Lily Gladstone',en,unknown,#111111,#111111,3,0.4277285585824035
+'Lara Trump',en,unknown,#111111,#111111,3,0.42722668647181183
 'Billionaire Bunker',en,unknown,#111111,#111111,3,0.4269552838795603
 'Tim Scott',en,USA,#18e8e8,#18e8e8,3,0.4269080810976704
 'Brad Pitt',en,unknown,#111111,#111111,3,0.4267868716460361
