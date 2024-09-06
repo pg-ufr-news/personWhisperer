@@ -24,7 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Mulkey',en,unknown,#111111,#111111,3,0.4705420368055691
 'Brittany Mahomes',en,unknown,#111111,#111111,3,0.4704152061212402
 'Joe Jonas',en,unknown,#111111,#111111,3,0.4694881126354004
-'Charlize Theron',en,unknown,#111111,#111111,2,0.4684077534498301
 'Howard Stern',en,unknown,#111111,#111111,3,0.4670385278685857
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.466893276818182
 'Tony Bobulinski',en,unknown,#111111,#111111,3,0.4668919208235507
@@ -39,7 +38,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Doocy',en,unknown,#111111,#111111,3,0.4638996567045677
 'Angelina Jolie',en,unknown,#111111,#111111,3,0.4638931129544543
 'George Floyd',en,USA,#18e8e8,#18e8e8,3,0.4631799932272725
-'James Biden',en,unknown,#111111,#111111,3,0.46304573020619477
+'James Biden',en,unknown,#111111,#111111,3,0.4630457302061947
 'Chuck Schumer',en,unknown,#111111,#111111,3,0.4622383556305056
 'Leonard Bernstein',en,unknown,#111111,#111111,3,0.4621559586661052
 'Gisele Bündchen',en,unknown,#111111,#111111,3,0.4620678495656168
@@ -271,6 +270,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patti LaBelle',en,USA,#18e8e8,#18e8e8,2,0.4127878852662877
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.4126357303181815
 'Stephen Hawking',en,UK,#e838e8,#e838e8,3,0.4124868845994316
+'Charlize Theron',en,unknown,#111111,#111111,2,0.41218904452326466
 'Ted Cruz',en,USA,#18e8e8,#18e8e8,2,0.411995574559091
 'Michelle Williams',en,unknown,#111111,#111111,3,0.4119893034131498
 'Lady Di',en,UK,#e838e8,#e838e8,2,0.411773791363636
