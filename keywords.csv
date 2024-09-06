@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.48694905850824033
+'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.4869490585082403
 'Antonio Brown',en,unknown,#111111,#111111,3,0.475581102991288
 'Carey Mulligan',en,unknown,#111111,#111111,2,0.4755420257112366
 'Javier Milei',en,unknown,#111111,#111111,3,0.4752782346238636
@@ -24,7 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Mulkey',en,unknown,#111111,#111111,3,0.4705420368055691
 'Brittany Mahomes',en,unknown,#111111,#111111,3,0.4704152061212402
 'Joe Jonas',en,unknown,#111111,#111111,3,0.4694881126354004
-'James Biden',en,unknown,#111111,#111111,3,0.4693969483709244
 'Charlize Theron',en,unknown,#111111,#111111,2,0.4684077534498301
 'Howard Stern',en,unknown,#111111,#111111,3,0.4670385278685857
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.466893276818182
@@ -40,6 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Doocy',en,unknown,#111111,#111111,3,0.4638996567045677
 'Angelina Jolie',en,unknown,#111111,#111111,3,0.4638931129544543
 'George Floyd',en,USA,#18e8e8,#18e8e8,3,0.4631799932272725
+'James Biden',en,unknown,#111111,#111111,3,0.46304573020619477
 'Chuck Schumer',en,unknown,#111111,#111111,3,0.4622383556305056
 'Leonard Bernstein',en,unknown,#111111,#111111,3,0.4621559586661052
 'Gisele Bündchen',en,unknown,#111111,#111111,3,0.4620678495656168
