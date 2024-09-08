@@ -47,6 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Margaret Qualley',en,unknown,#111111,#111111,3,0.4614933035035954
 'Yorgos Lanthimos',en,unknown,#111111,#111111,3,0.4614481633872869
 'Drake Maye',en,unknown,#111111,#111111,3,0.4609442513953192
+'Britney Spears',en,unknown,#111111,#111111,3,0.4608879475751435
 'Jack Smith',en,USA,#18e8e8,#18e8e8,3,0.4608509643035226
 'Carter Reum',en,unknown,#111111,#111111,3,0.460785640088339
 'Elizabeth Warren',en,unknown,#111111,#111111,3,0.4602566511420478
@@ -68,7 +69,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abraham Lincoln',en,unknown,#111111,#111111,3,0.4566506144556818
 'Jon Hamm',en,unknown,#111111,#111111,3,0.4563024321851007
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.4562365785327139
-'Britney Spears',en,unknown,#111111,#111111,3,0.4561785992862651
 'Kamilla Cardoso',en,unknown,#111111,#111111,3,0.4561703333050815
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.4561565544608524
 'Andy Cohen',en,unknown,#111111,#111111,3,0.456010447271669
@@ -205,7 +205,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aubrey Plaza',en,unknown,#111111,#111111,3,0.4256459928274352
 'Robert Badinter',en,unknown,#111111,#111111,1,0.4256380769843358
 'Camille Cottin',en,unknown,#111111,#111111,1,0.4252999137320862
-'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.42527302689094026
+'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.4252730268909402
 'Kim Reynolds',en,unknown,#111111,#111111,3,0.4249248055578872
 'Lawrence Jones',en,unknown,#111111,#111111,3,0.4246391726466429
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.4244766828843078
@@ -495,9 +495,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.307534387175
 'Julian Reichelt',en,Deutschland,#1818e8,#1818e8,2,0.3072114763998855
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3071900127499999
-'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3070624999999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3070624999999999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3070624999999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.3061546820885471
 'Richard Ferrand',en,Frankreich,#e8e808,#e8e808,1,0.3035283507051021
 'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.3030158487712762
@@ -540,10 +540,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean-Denis Combrexelle',en,unknown,#111111,#111111,1,0.2614988184387427
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.261362786800768
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
-'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2610031249999999
-'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
+'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
+'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'König Charles III',en,UK,#e838e8,#e838e8,2,0.2595776789925278
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.2572194954743593
