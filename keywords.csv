@@ -22,6 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Derek Chauvin',en,unknown,#111111,#111111,2,0.4711561247732094
 'Travis Kelce',en,unknown,#111111,#111111,3,0.4709638092617361
 'Kim Mulkey',en,unknown,#111111,#111111,3,0.4705420368055691
+'Jason Whitlock',en,unknown,#111111,#111111,3,0.4704305257793536
 'Brittany Mahomes',en,unknown,#111111,#111111,3,0.4704152061212402
 'Joe Jonas',en,unknown,#111111,#111111,3,0.4694881126354004
 'Howard Stern',en,unknown,#111111,#111111,3,0.4670385278685857
@@ -133,7 +134,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gerald Darmanin',en,unknown,#111111,#111111,2,0.4406192349452916
 'Sam Bankman-Fried',en,unknown,#111111,#111111,3,0.4404235014304627
 'Vassily Nebenzia',en,Russland,#e81818,#e81818,2,0.4395026223568181
-'Jason Whitlock',en,unknown,#111111,#111111,1,0.4389178420933572
 'Mary Robinson',en,unknown,#111111,#111111,3,0.4388121055227273
 'Hunter Biden',en,USA,#18e8e8,#18e8e8,3,0.4380582464340908
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.4379319410079543
@@ -498,7 +498,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3070624999999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3070624999999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.3061546820885471
-'Melinda Gates',en,USA,#18e8e8,#18e8e8,3,0.30486153287022666
+'Melinda Gates',en,USA,#18e8e8,#18e8e8,3,0.3048615328702266
 'Richard Ferrand',en,Frankreich,#e8e808,#e8e808,1,0.3035283507051021
 'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.3030158487712762
 'Michael Kahle',en,Deutschland,#1818e8,#1818e8,1,0.301820589925
