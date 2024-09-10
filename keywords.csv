@@ -99,6 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Francis Ford Coppola',en,unknown,#111111,#111111,3,0.4505403524859047
 'Al Nassr',en,unknown,#111111,#111111,3,0.450377337781512
 'Ron Howard',en,unknown,#111111,#111111,3,0.4500378556827774
+'Linda Yaccarino',en,USA,#18e8e8,#18e8e8,3,0.4498876982856
 'Brian Kilmeade',en,unknown,#111111,#111111,3,0.4495540059567855
 'Lauren Boebert',en,USA,#18e8e8,#18e8e8,3,0.4492875562147727
 'Jerry Seinfeld',en,unknown,#111111,#111111,3,0.4491079001415097
@@ -309,7 +310,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Meadows',en,unknown,#111111,#111111,3,0.406076974211334
 'Alvin Bragg',en,USA,#18e8e8,#18e8e8,3,0.4059719168387483
 'George Miller',en,unknown,#111111,#111111,3,0.4059020607355846
-'Linda Yaccarino',en,USA,#18e8e8,#18e8e8,3,0.405806780336
 'Kyle Pope',en,unknown,#111111,#111111,2,0.4048110251568181
 'Martin Scorsese',en,USA,#18e8e8,#18e8e8,2,0.4045932111613636
 'Roman Pacino',en,unknown,#111111,#111111,1,0.4044551468176358
