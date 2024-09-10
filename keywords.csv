@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.4824945183683679
 'Antonio Brown',en,unknown,#111111,#111111,3,0.475581102991288
 'Carey Mulligan',en,unknown,#111111,#111111,2,0.4755420257112366
 'Javier Milei',en,unknown,#111111,#111111,3,0.4752782346238636
@@ -110,6 +109,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Billy Crystal',en,unknown,#111111,#111111,2,0.4478188171538063
 'Jerod Mayo',en,unknown,#111111,#111111,3,0.4476249983589299
 'Gisele Bundchen',en,unknown,#111111,#111111,3,0.4473778304741422
+'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.4468898724312945
 'Dua Lipa',en,unknown,#111111,#111111,2,0.446140040269215
 'Alexander Smirnov',en,unknown,#111111,#111111,3,0.4460093297876594
 'Robert Kraft',en,unknown,#111111,#111111,3,0.4458149637185123
@@ -632,7 +632,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.1870042734688708
-'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.18658782150804942
+'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.1865878215080494
 'Roland Busch',en,Deutschland,#1818e8,#1818e8,2,0.1856639745592681
 'Vitali Klitschko',en,Ukraine,#e818e8,#e818e8,3,0.183834986344811
 'Subrahmanyam Jaishankar',en,Indien,#111111,#111111,2,0.18212654954468
