@@ -154,7 +154,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Julian Edelman',en,unknown,#111111,#111111,3,0.435189613398157
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.4351695357219586
 'David Koch',en,unknown,#111111,#111111,3,0.434998753317899
-'Ryan Gosling',en,unknown,#111111,#111111,3,0.4349324652164772
 'Aaron Rodgers',en,unknown,#111111,#111111,3,0.434834502691415
 'Bradley Cooper',en,unknown,#111111,#111111,3,0.4347403589495884
 'Melania Trump',en,unknown,#111111,#111111,3,0.4340676270875954
@@ -278,6 +277,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ben Affleck',en,unknown,#111111,#111111,3,0.4117119794444336
 'Justin Timberlake',en,unknown,#111111,#111111,3,0.4116264205879065
 'David Weiss',en,unknown,#111111,#111111,3,0.4114737730950015
+'Ryan Gosling',en,unknown,#111111,#111111,3,0.41101005679764196
 'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.4106860113030421
 'Barbara Walters',en,USA,#18e8e8,#18e8e8,3,0.4106310323468179
 'Bruce Springsteen',en,USA,#18e8e8,#18e8e8,3,0.410391674187148
@@ -423,7 +423,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Afida Turner',en,Frankreich,#e8e808,#e8e808,1,0.3688026068634686
 'King Charles',en,UK,#e838e8,#e838e8,3,0.3687029340082495
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.3667259496198617
-'Sarah Stier',en,unknown,#111111,#111111,3,0.36645066315283725
+'Sarah Stier',en,unknown,#111111,#111111,3,0.3664506631528372
 'Robert Sesselmann',en,Deutschland,#1818e8,#1818e8,2,0.3656082162499999
 'Jamie Spears',en,unknown,#111111,#111111,2,0.365303763290024
 'Evan Gershkovich',en,USA,#18e8e8,#18e8e8,3,0.3647094591959337
@@ -493,9 +493,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.307534387175
 'Julian Reichelt',en,Deutschland,#1818e8,#1818e8,2,0.3072114763998855
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3071900127499999
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3070624999999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3070624999999999
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.3061546820885471
 'Melinda Gates',en,USA,#18e8e8,#18e8e8,3,0.3048615328702266
 'Richard Ferrand',en,Frankreich,#e8e808,#e8e808,1,0.3035283507051021
