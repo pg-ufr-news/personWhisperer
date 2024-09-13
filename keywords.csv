@@ -25,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jason Whitlock',en,unknown,#111111,#111111,3,0.4704305257793536
 'Brittany Mahomes',en,unknown,#111111,#111111,3,0.4704152061212402
 'Joe Jonas',en,unknown,#111111,#111111,3,0.4694881126354004
+'Jerod Mayo',en,unknown,#111111,#111111,3,0.4672568104232722
 'Howard Stern',en,unknown,#111111,#111111,3,0.4670385278685857
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.466893276818182
 'Tony Bobulinski',en,unknown,#111111,#111111,3,0.4668919208235507
@@ -106,7 +107,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bill Belichick',en,unknown,#111111,#111111,3,0.4482551149782193
 'Adam Driver',en,unknown,#111111,#111111,3,0.4479414521079411
 'Billy Crystal',en,unknown,#111111,#111111,2,0.4478188171538063
-'Jerod Mayo',en,unknown,#111111,#111111,3,0.4476249983589299
 'Gisele Bundchen',en,unknown,#111111,#111111,3,0.4473778304741422
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.4468898724312945
 'Dua Lipa',en,unknown,#111111,#111111,2,0.446140040269215
@@ -493,9 +493,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.307534387175
 'Julian Reichelt',en,Deutschland,#1818e8,#1818e8,2,0.3072114763998855
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3071900127499999
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3070624999999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3070624999999999
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.3061546820885471
 'Melinda Gates',en,USA,#18e8e8,#18e8e8,3,0.3048615328702266
 'Richard Ferrand',en,Frankreich,#e8e808,#e8e808,1,0.3035283507051021
