@@ -63,7 +63,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kate Hudson',en,unknown,#111111,#111111,3,0.4573204626677308
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.4572411853450169
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,2,0.4572125149999999
-'Sunny Hostin',en,unknown,#111111,#111111,3,0.4572050200421526
 'Kevin Hart',en,unknown,#111111,#111111,3,0.4569975127840944
 'Margot Robbie',en,unknown,#111111,#111111,3,0.4566917734281752
 'Abraham Lincoln',en,unknown,#111111,#111111,3,0.4566506144556818
@@ -371,6 +370,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Narendra Modi',en,Indien,#111111,#111111,3,0.389458846228051
 'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.3888551212491367
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.3887876495125001
+'Sunny Hostin',en,unknown,#111111,#111111,2,0.3886251820358297
 'Gérard Larcher',en,unknown,#111111,#111111,2,0.388331725401323
 'George Washington',en,USA,#18e8e8,#18e8e8,3,0.3880506678617044
 'Pap Ndiaye',en,unknown,#111111,#111111,1,0.3874861226980564
@@ -493,9 +493,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.307534387175
 'Julian Reichelt',en,Deutschland,#1818e8,#1818e8,2,0.3072114763998855
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3071900127499999
-'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3070624999999999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3070624999999999
+'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3070624999999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.3061546820885471
 'Melinda Gates',en,USA,#18e8e8,#18e8e8,3,0.3048615328702266
 'Richard Ferrand',en,Frankreich,#e8e808,#e8e808,1,0.3035283507051021
@@ -747,7 +747,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergej Lavrov',en,Russland,#e81818,#e81818,1,0.1082433628360953
 'Veronika Grimm',en,Deutschland,#1818e8,#1818e8,1,0.1080870857369795
 'Tamim bin Hamad Al-Thani',en,Katar,#111111,#111111,2,0.107216081078123
-'Pope Benedikt XVI',en,Vatikan,#58b8e8,#58b8e8,1,0.10585002267718079
+'Pope Benedikt XVI',en,Vatikan,#58b8e8,#58b8e8,1,0.1058500226771807
 'Badri Hosseini Chamenei',en,Iran,#111111,#111111,1,0.1058051268146648
 'Franziska Giffey',en,Deutschland,#1818e8,#1818e8,1,0.1056907368276234
 'Herman Gref',en,Russland,#e81818,#e81818,1,0.10523043450444
