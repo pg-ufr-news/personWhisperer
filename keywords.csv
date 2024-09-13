@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kylie Kelce',en,unknown,#111111,#111111,3,0.4827066380104222
 'Antonio Brown',en,unknown,#111111,#111111,3,0.475581102991288
 'Carey Mulligan',en,unknown,#111111,#111111,2,0.4755420257112366
 'Javier Milei',en,unknown,#111111,#111111,3,0.4752782346238636
@@ -259,6 +258,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Wozniak',en,USA,#18e8e8,#18e8e8,2,0.4156387612272727
 'Milo Yiannopoulos',en,UK,#e838e8,#e838e8,2,0.4155084217102929
 'Pedro Pascal',en,unknown,#111111,#111111,3,0.4154405684136471
+'Kylie Kelce',en,unknown,#111111,#111111,3,0.4152522173088588
 'Laurent Berger',en,Frankreich,#e8e808,#e8e808,1,0.4144545539451922
 'Mohammed Bin Salman',en,SaudiArabien,#111111,#111111,3,0.414341075039034
 'Gigi Hadid',en,unknown,#111111,#111111,3,0.4142287554851864
@@ -493,9 +493,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.307534387175
 'Julian Reichelt',en,Deutschland,#1818e8,#1818e8,2,0.3072114763998855
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3071900127499999
-'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3070624999999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3070624999999999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3070624999999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.3061546820885471
 'Melinda Gates',en,USA,#18e8e8,#18e8e8,3,0.3048615328702266
 'Richard Ferrand',en,Frankreich,#e8e808,#e8e808,1,0.3035283507051021
