@@ -20,7 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jacoby Brissett',en,unknown,#111111,#111111,3,0.4712172537066189
 'Derek Chauvin',en,unknown,#111111,#111111,2,0.4711561247732094
 'Travis Kelce',en,unknown,#111111,#111111,3,0.4709638092617361
-'Kim Mulkey',en,unknown,#111111,#111111,3,0.4705420368055691
 'Jason Whitlock',en,unknown,#111111,#111111,3,0.4704305257793536
 'Brittany Mahomes',en,unknown,#111111,#111111,3,0.4704152061212402
 'Joe Jonas',en,unknown,#111111,#111111,3,0.4694881126354004
@@ -322,13 +321,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Camille Etienne',en,Frankreich,#e8e808,#e8e808,2,0.401821122864035
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.40141514063
 'Steve Scalise',en,unknown,#111111,#111111,3,0.4013552243347687
-'George Bush',en,USA,#18e8e8,#18e8e8,3,0.40103399070499957
+'George Bush',en,USA,#18e8e8,#18e8e8,3,0.4010339907049995
 'Hazel Monét',en,unknown,#111111,#111111,1,0.4009203301483356
 'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,1,0.4007751275
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4004610982365516
 'Greta Gerwig',en,unknown,#111111,#111111,2,0.4004360537482884
 'Sergio Mattarella',en,Italien,#111111,#111111,2,0.4001925296022727
 'Martin Luther King',en,USA,#18e8e8,#18e8e8,3,0.4000114987193682
+'Kim Mulkey',en,unknown,#111111,#111111,2,0.39996115128473375
 'Katy Perry',en,USA,#18e8e8,#18e8e8,3,0.3995796965434094
 'Willie Nelson',en,unknown,#111111,#111111,3,0.3994828434199897
 'James Cameron',en,USA,#18e8e8,#18e8e8,3,0.3993062787741476
@@ -493,9 +493,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.307534387175
 'Julian Reichelt',en,Deutschland,#1818e8,#1818e8,2,0.3072114763998855
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3071900127499999
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3070624999999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3070624999999999
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.3061546820885471
 'Melinda Gates',en,USA,#18e8e8,#18e8e8,3,0.3048615328702266
 'Richard Ferrand',en,Frankreich,#e8e808,#e8e808,1,0.3035283507051021
