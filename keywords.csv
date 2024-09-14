@@ -328,7 +328,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Greta Gerwig',en,unknown,#111111,#111111,2,0.4004360537482884
 'Sergio Mattarella',en,Italien,#111111,#111111,2,0.4001925296022727
 'Martin Luther King',en,USA,#18e8e8,#18e8e8,3,0.4000114987193682
-'Kim Mulkey',en,unknown,#111111,#111111,2,0.39996115128473375
+'Kim Mulkey',en,unknown,#111111,#111111,2,0.3999611512847337
 'Katy Perry',en,USA,#18e8e8,#18e8e8,3,0.3995796965434094
 'Willie Nelson',en,unknown,#111111,#111111,3,0.3994828434199897
 'James Cameron',en,USA,#18e8e8,#18e8e8,3,0.3993062787741476
@@ -493,7 +493,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.307534387175
 'Julian Reichelt',en,Deutschland,#1818e8,#1818e8,2,0.3072114763998855
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3071900127499999
-'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.3070624999999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3070624999999999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.3061546820885471
@@ -514,10 +513,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.2873798213856249
 'Gorbatschow',en,unknown,#111111,#111111,1,0.2873393360874999
 'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.2872534524999999
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2871034374999999
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2871034374999999
-'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2871034374999999
 'Minka Indigena',en,unknown,#111111,#111111,1,0.2871034374999999
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2871034374999999
+'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2871034374999999
 'Tim Müller',en,Deutschland,#1818e8,#1818e8,1,0.2868081261231731
 'Hamish Harding',en,UK,#e838e8,#e838e8,2,0.2866858959766135
 'Lars Klingbeil',en,Deutschland,#1818e8,#1818e8,2,0.286647458041668
@@ -541,6 +540,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean-Denis Combrexelle',en,unknown,#111111,#111111,1,0.2614988184387427
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.261362786800768
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
+'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.2610031249999999
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2610031249999999
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
