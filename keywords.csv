@@ -463,7 +463,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paul-Henry Nargeolet',en,Frankreich,#e8e808,#e8e808,3,0.3391518067977272
 'Bruno Retailleau',en,Frankreich,#e8e808,#e8e808,2,0.3390892955819233
 'Ed McVey',en,UK,#e838e8,#e838e8,1,0.3382402632177319
-'Hans Joosten',en,unknown,#111111,#111111,1,0.3377687499999999
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,2,0.3366240018700734
 'John Rawls',en,USA,#18e8e8,#18e8e8,1,0.3349546959392854
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.327800639565706
@@ -492,8 +491,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.307534387175
 'Julian Reichelt',en,Deutschland,#1818e8,#1818e8,2,0.3072114763998855
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3071900127499999
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3070624999999999
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.3061546820885471
 'Melinda Gates',en,USA,#18e8e8,#18e8e8,3,0.3048615328702266
 'Richard Ferrand',en,Frankreich,#e8e808,#e8e808,1,0.3035283507051021
@@ -512,10 +511,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.2873798213856249
 'Gorbatschow',en,unknown,#111111,#111111,1,0.2873393360874999
 'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.2872534524999999
-'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2871034374999999
-'Minka Indigena',en,unknown,#111111,#111111,1,0.2871034374999999
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2871034374999999
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2871034374999999
+'Hans Joosten',en,unknown,#111111,#111111,1,0.2871034374999999
+'Minka Indigena',en,unknown,#111111,#111111,1,0.2871034374999999
+'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2871034374999999
 'Tim Müller',en,Deutschland,#1818e8,#1818e8,1,0.2868081261231731
 'Hamish Harding',en,UK,#e838e8,#e838e8,2,0.2866858959766135
 'Lars Klingbeil',en,Deutschland,#1818e8,#1818e8,2,0.286647458041668
@@ -534,7 +534,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wagner-Chef Prigoschin',en,unknown,#111111,#111111,1,0.2656778011980566
 'Annalena Baerbock',en,Deutschland,#1818e8,#1818e8,3,0.2648909508118078
 'Aurélien Rousseau',en,unknown,#111111,#111111,1,0.2647651384950384
-'Luc Terlinden',en,unknown,#111111,#111111,1,0.26286477699530564
+'Luc Terlinden',en,unknown,#111111,#111111,1,0.2628647769953056
 'Eva Kaili',en,EU,#111111,#111111,3,0.2625054479876908
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.2615085546054619
 'Jean-Denis Combrexelle',en,unknown,#111111,#111111,1,0.2614988184387427
