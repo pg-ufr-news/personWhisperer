@@ -475,7 +475,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.3168237411740693
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.3161439559488435
 'Robert Nozick',en,USA,#18e8e8,#18e8e8,2,0.3145020331079117
-'Marguerite Cazeneuve',en,unknown,#111111,#111111,1,0.3121541829667352
 'François Bayrou',en,unknown,#111111,#111111,1,0.3117791671807716
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3114531699999999
 'président de la République',en,unknown,#111111,#111111,1,0.3105553357272666
@@ -491,8 +490,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.307534387175
 'Julian Reichelt',en,Deutschland,#1818e8,#1818e8,2,0.3072114763998855
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3071900127499999
-'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3070624999999999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3070624999999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.3061546820885471
 'Melinda Gates',en,USA,#18e8e8,#18e8e8,3,0.3048615328702266
 'Richard Ferrand',en,Frankreich,#e8e808,#e8e808,1,0.3035283507051021
@@ -511,10 +510,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.2873798213856249
 'Gorbatschow',en,unknown,#111111,#111111,1,0.2873393360874999
 'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.2872534524999999
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2871034374999999
-'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2871034374999999
-'Hans Joosten',en,unknown,#111111,#111111,1,0.2871034374999999
 'Minka Indigena',en,unknown,#111111,#111111,1,0.2871034374999999
+'Hans Joosten',en,unknown,#111111,#111111,1,0.2871034374999999
+'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2871034374999999
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2871034374999999
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2871034374999999
 'Tim Müller',en,Deutschland,#1818e8,#1818e8,1,0.2868081261231731
 'Hamish Harding',en,UK,#e838e8,#e838e8,2,0.2866858959766135
@@ -532,6 +531,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hun Sen',en,Kambodscha,#111111,#111111,3,0.265928065094144
 'Rishi Sunak',en,UK,#e838e8,#e838e8,3,0.265694943046221
 'Wagner-Chef Prigoschin',en,unknown,#111111,#111111,1,0.2656778011980566
+'Marguerite Cazeneuve',en,unknown,#111111,#111111,1,0.2653310555217249
 'Annalena Baerbock',en,Deutschland,#1818e8,#1818e8,3,0.2648909508118078
 'Aurélien Rousseau',en,unknown,#111111,#111111,1,0.2647651384950384
 'Luc Terlinden',en,unknown,#111111,#111111,1,0.2628647769953056
@@ -542,8 +542,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.2610031249999999
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
-'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2610031249999999
+'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'König Charles III',en,UK,#e838e8,#e838e8,2,0.2595776789925278
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
