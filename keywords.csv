@@ -541,9 +541,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.261362786800768
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.2610031249999999
+'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2610031249999999
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
-'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2610031249999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'König Charles III',en,UK,#e838e8,#e838e8,2,0.2595776789925278
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
@@ -705,8 +705,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jürgen Grässlin',en,Deutschland,#1818e8,#1818e8,1,0.1278282964372896
 'Otmar Issing',en,EU,#111111,#111111,1,0.12778560651524
 'Volker Wissing',en,Deutschland,#1818e8,#1818e8,1,0.127782699349555
-'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.1273893204557615
 'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.1273893204557615
+'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.1273893204557615
+'Larry Page',en,USA,#18e8e8,#18e8e8,2,0.1273604723593916
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.1265313572958776
 'Miriam Adelson',en,USA,#18e8e8,#18e8e8,2,0.1262511865351177
 'Pietro Lombardi',en,Deutschland,#1818e8,#1818e8,1,0.1255426230976032
@@ -734,7 +735,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lukaschenko',en,Belarus,#e81858,#e81858,1,0.1129277597797189
 'Alexander Lukaschenko',en,Belarus,#e81858,#e81858,1,0.1123693140891874
 'Andreas Jödecke',en,Deutschland,#1818e8,#1818e8,1,0.1120103528819716
-'Larry Page',en,USA,#18e8e8,#18e8e8,2,0.1119222942196051
 'Alexej Kudrin',en,Russland,#e81818,#e81818,1,0.1118888387080861
 'Mojib Latif',en,Deutschland,#1818e8,#1818e8,1,0.1114190632112487
 'Bodo Ramelow',en,Deutschland,#1818e8,#1818e8,1,0.1107022262281007
