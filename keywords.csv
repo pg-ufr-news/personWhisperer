@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Taylor Swift',en,unknown,#111111,#111111,3,0.4892766523109833
+'Taylor Swift',en,unknown,#111111,#111111,3,0.5118306153734267
 'Viktor Shokin',en,unknown,#111111,#111111,3,0.4796653542169138
 'Antonio Brown',en,unknown,#111111,#111111,3,0.475581102991288
 'Carey Mulligan',en,unknown,#111111,#111111,2,0.4755420257112366
@@ -249,7 +249,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince George',en,UK,#e838e8,#e838e8,3,0.4168681434386366
 'Matt Damon',en,USA,#18e8e8,#18e8e8,3,0.4167549400170453
 'Kim Kardashian',en,USA,#18e8e8,#18e8e8,3,0.4165108261528992
-'Selena Gomez',en,unknown,#111111,#111111,3,0.41623663642624875
+'Selena Gomez',en,unknown,#111111,#111111,3,0.4162366364262487
 'Jeff Ross',en,unknown,#111111,#111111,3,0.4161208121534835
 'Eric Adams',en,USA,#18e8e8,#18e8e8,3,0.4156645462272726
 'Steve Wozniak',en,USA,#18e8e8,#18e8e8,2,0.4156387612272727
