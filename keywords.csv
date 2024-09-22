@@ -47,7 +47,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tyson Fury',en,unknown,#111111,#111111,3,0.461957155111715
 'Barry Keoghan',en,unknown,#111111,#111111,3,0.4619312813667625
 'Margaret Qualley',en,unknown,#111111,#111111,3,0.4614933035035954
-'Yorgos Lanthimos',en,unknown,#111111,#111111,3,0.4614481633872869
 'Drake Maye',en,unknown,#111111,#111111,3,0.4609442513953192
 'Britney Spears',en,unknown,#111111,#111111,3,0.4608879475751435
 'Jack Smith',en,USA,#18e8e8,#18e8e8,3,0.4608509643035226
@@ -202,6 +201,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Reynolds',en,unknown,#111111,#111111,3,0.4249248055578872
 'Lawrence Jones',en,unknown,#111111,#111111,3,0.4246391726466429
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.4244766828843078
+'Yorgos Lanthimos',en,unknown,#111111,#111111,3,0.4244549411519211
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,3,0.4244367217363634
 'Alex Jones',en,unknown,#111111,#111111,3,0.4244235022548079
 'Meg Bellamy',en,UK,#e838e8,#e838e8,2,0.4242286297387467
