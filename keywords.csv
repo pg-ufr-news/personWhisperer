@@ -87,7 +87,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Valérie Hayer',en,unknown,#111111,#111111,2,0.4523000399147857
 'Ayo Edebiri',en,unknown,#111111,#111111,3,0.4520594651830971
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.4518583358437159
-'Selena Gomez',en,unknown,#111111,#111111,3,0.4517653284159076
 'Indiana Jones',en,unknown,#111111,#111111,2,0.4514407505991244
 'Pat McAfee',en,unknown,#111111,#111111,3,0.4509057117064544
 'Bronny James',en,unknown,#111111,#111111,3,0.4508947323006756
@@ -250,6 +249,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince George',en,UK,#e838e8,#e838e8,3,0.4168681434386366
 'Matt Damon',en,USA,#18e8e8,#18e8e8,3,0.4167549400170453
 'Kim Kardashian',en,USA,#18e8e8,#18e8e8,3,0.4165108261528992
+'Selena Gomez',en,unknown,#111111,#111111,3,0.41623663642624875
 'Jeff Ross',en,unknown,#111111,#111111,3,0.4161208121534835
 'Eric Adams',en,USA,#18e8e8,#18e8e8,3,0.4156645462272726
 'Steve Wozniak',en,USA,#18e8e8,#18e8e8,2,0.4156387612272727
