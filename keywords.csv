@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Taylor Swift',en,unknown,#111111,#111111,3,0.476452744431049
 'Antonio Brown',en,unknown,#111111,#111111,3,0.475581102991288
 'Carey Mulligan',en,unknown,#111111,#111111,2,0.4755420257112366
 'Javier Milei',en,unknown,#111111,#111111,3,0.4752782346238636
@@ -8,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dawn Staley',en,unknown,#111111,#111111,3,0.4743040565003953
 'Maria Bartiromo',en,unknown,#111111,#111111,3,0.4740857974027643
 'Jennifer Lopez',en,unknown,#111111,#111111,3,0.4736563752854347
+'Taylor Swift',en,unknown,#111111,#111111,3,0.47365396640275526
 'Ines de Ramon',en,unknown,#111111,#111111,1,0.4729230441782034
 'Mark Hertsgaard',en,unknown,#111111,#111111,2,0.47267511925
 'Robin Roberts',en,unknown,#111111,#111111,3,0.4725324572879813
