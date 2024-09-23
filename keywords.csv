@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Viktor Shokin',en,unknown,#111111,#111111,3,0.4796653542169138
 'Taylor Swift',en,unknown,#111111,#111111,3,0.476452744431049
 'Antonio Brown',en,unknown,#111111,#111111,3,0.475581102991288
 'Carey Mulligan',en,unknown,#111111,#111111,2,0.4755420257112366
@@ -290,6 +289,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benny Safdie',en,unknown,#111111,#111111,2,0.4081430721465018
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,3,0.408133560326986
 'Mary Lou McDonald',en,Irland,#111111,#111111,3,0.407910047
+'Viktor Shokin',en,unknown,#111111,#111111,1,0.4077155810843767
 'Adolf Hitler',en,Deutschland,#1818e8,#1818e8,3,0.407361853270852
 'Tom Hanks',en,unknown,#111111,#111111,3,0.407272907365672
 'Suleika Jaouad',en,unknown,#111111,#111111,1,0.4072412954154231
