@@ -98,7 +98,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.4485596491657423
 'Ivanka Trump',en,unknown,#111111,#111111,3,0.4484103857354088
 'Bill Belichick',en,unknown,#111111,#111111,3,0.4482551149782193
-'Adam Driver',en,unknown,#111111,#111111,3,0.4479414521079411
 'Billy Crystal',en,unknown,#111111,#111111,2,0.4478188171538063
 'Gisele Bundchen',en,unknown,#111111,#111111,3,0.4473778304741422
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.4468898724312945
@@ -242,6 +241,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4185255871961323
 'António Guterres',en,unknown,#111111,#111111,3,0.418049004607304
 'Elisabeth Borne',en,Frankreich,#e8e808,#e8e808,2,0.4176855305227273
+'Adam Driver',en,unknown,#111111,#111111,3,0.41752497110993175
 'Merrick Garland',en,unknown,#111111,#111111,3,0.4174160452572237
 'Pete Davidson',en,USA,#18e8e8,#18e8e8,3,0.417365238277812
 'Prince George',en,UK,#e838e8,#e838e8,3,0.4168681434386366
