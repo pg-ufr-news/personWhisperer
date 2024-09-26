@@ -89,7 +89,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bronny James',en,unknown,#111111,#111111,3,0.4508947323006756
 'Raphael Warnock',en,USA,#18e8e8,#18e8e8,3,0.4505824869111416
 'Al Nassr',en,unknown,#111111,#111111,3,0.450377337781512
-'Ron Howard',en,unknown,#111111,#111111,3,0.4500378556827774
 'Linda Yaccarino',en,USA,#18e8e8,#18e8e8,3,0.4498876982856
 'Brian Kilmeade',en,unknown,#111111,#111111,3,0.4495540059567855
 'Lauren Boebert',en,USA,#18e8e8,#18e8e8,3,0.4492875562147727
@@ -124,7 +123,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Radical Optimism',en,unknown,#111111,#111111,3,0.4406333960161955
 'Gerald Darmanin',en,unknown,#111111,#111111,2,0.4406192349452916
 'Sam Bankman-Fried',en,unknown,#111111,#111111,3,0.4404235014304627
-'Alexander Smirnov',en,unknown,#111111,#111111,3,0.43985800531951047
+'Alexander Smirnov',en,unknown,#111111,#111111,3,0.4398580053195104
 'Vassily Nebenzia',en,Russland,#e81818,#e81818,2,0.4395026223568181
 'Mary Robinson',en,unknown,#111111,#111111,3,0.4388121055227273
 'Hunter Biden',en,USA,#18e8e8,#18e8e8,3,0.4380582464340908
@@ -254,6 +253,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Milo Yiannopoulos',en,UK,#e838e8,#e838e8,2,0.4155084217102929
 'Pedro Pascal',en,unknown,#111111,#111111,3,0.4154405684136471
 'Kylie Kelce',en,unknown,#111111,#111111,3,0.4152522173088588
+'Ron Howard',en,unknown,#111111,#111111,3,0.41475836960308804
 'Laurent Berger',en,Frankreich,#e8e808,#e8e808,1,0.4144545539451922
 'Mohammed Bin Salman',en,SaudiArabien,#111111,#111111,3,0.414341075039034
 'Gigi Hadid',en,unknown,#111111,#111111,3,0.4142287554851864
@@ -503,11 +503,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.2873798213856249
 'Gorbatschow',en,unknown,#111111,#111111,1,0.2873393360874999
 'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.2872534524999999
+'Hans Joosten',en,unknown,#111111,#111111,1,0.2871034374999999
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2871034374999999
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2871034374999999
-'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2871034374999999
-'Hans Joosten',en,unknown,#111111,#111111,1,0.2871034374999999
 'Minka Indigena',en,unknown,#111111,#111111,1,0.2871034374999999
+'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2871034374999999
 'Tim Müller',en,Deutschland,#1818e8,#1818e8,1,0.2868081261231731
 'Hamish Harding',en,UK,#e838e8,#e838e8,2,0.2866858959766135
 'Lars Klingbeil',en,Deutschland,#1818e8,#1818e8,2,0.286647458041668
