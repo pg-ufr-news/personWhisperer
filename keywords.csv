@@ -253,7 +253,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Milo Yiannopoulos',en,UK,#e838e8,#e838e8,2,0.4155084217102929
 'Pedro Pascal',en,unknown,#111111,#111111,3,0.4154405684136471
 'Kylie Kelce',en,unknown,#111111,#111111,3,0.4152522173088588
-'Ron Howard',en,unknown,#111111,#111111,3,0.41475836960308804
+'Ron Howard',en,unknown,#111111,#111111,3,0.414758369603088
 'Laurent Berger',en,Frankreich,#e8e808,#e8e808,1,0.4144545539451922
 'Mohammed Bin Salman',en,SaudiArabien,#111111,#111111,3,0.414341075039034
 'Gigi Hadid',en,unknown,#111111,#111111,3,0.4142287554851864
@@ -475,7 +475,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Nozick',en,USA,#18e8e8,#18e8e8,2,0.3145020331079117
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3114531699999999
 'Steve Milloy',en,USA,#18e8e8,#18e8e8,1,0.3104475480099431
-'Jessy Wellmer',en,unknown,#111111,#111111,1,0.3102056854294208
 'Jacques Doriot',en,unknown,#111111,#111111,1,0.3100267838162018
 'Moon Hyung-jin',en,USA,#18e8e8,#18e8e8,1,0.3097328428624998
 'Sophia Chikirou',en,unknown,#111111,#111111,1,0.3097166486847675
@@ -503,11 +502,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.2873798213856249
 'Gorbatschow',en,unknown,#111111,#111111,1,0.2873393360874999
 'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.2872534524999999
+'Minka Indigena',en,unknown,#111111,#111111,1,0.2871034374999999
 'Hans Joosten',en,unknown,#111111,#111111,1,0.2871034374999999
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2871034374999999
-'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2871034374999999
-'Minka Indigena',en,unknown,#111111,#111111,1,0.2871034374999999
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2871034374999999
+'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2871034374999999
 'Tim Müller',en,Deutschland,#1818e8,#1818e8,1,0.2868081261231731
 'Hamish Harding',en,UK,#e838e8,#e838e8,2,0.2866858959766135
 'Lars Klingbeil',en,Deutschland,#1818e8,#1818e8,2,0.286647458041668
@@ -531,6 +530,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Annalena Baerbock',en,Deutschland,#1818e8,#1818e8,3,0.2648909508118078
 'Aurélien Rousseau',en,unknown,#111111,#111111,1,0.2647651384950384
 'président de la République',en,unknown,#111111,#111111,1,0.2642720653681766
+'Jessy Wellmer',en,unknown,#111111,#111111,1,0.2636748326150077
 'Luc Terlinden',en,unknown,#111111,#111111,1,0.2628647769953056
 'Eva Kaili',en,EU,#111111,#111111,3,0.2625054479876908
 'Jean-Denis Combrexelle',en,unknown,#111111,#111111,1,0.2614988184387427
