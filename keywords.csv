@@ -502,11 +502,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.2873798213856249
 'Gorbatschow',en,unknown,#111111,#111111,1,0.2873393360874999
 'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.2872534524999999
-'Minka Indigena',en,unknown,#111111,#111111,1,0.2871034374999999
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2871034374999999
-'Hans Joosten',en,unknown,#111111,#111111,1,0.2871034374999999
-'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2871034374999999
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2871034374999999
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2871034374999999
+'Minka Indigena',en,unknown,#111111,#111111,1,0.2871034374999999
+'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2871034374999999
+'Hans Joosten',en,unknown,#111111,#111111,1,0.2871034374999999
 'Tim Müller',en,Deutschland,#1818e8,#1818e8,1,0.2868081261231731
 'Hamish Harding',en,UK,#e838e8,#e838e8,2,0.2866858959766135
 'Lars Klingbeil',en,Deutschland,#1818e8,#1818e8,2,0.286647458041668
@@ -574,7 +574,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kevin Kühnert',en,Deutschland,#1818e8,#1818e8,2,0.2266686225201619
 'David Malpass',en,USA,#18e8e8,#18e8e8,2,0.22632552833199
 'Daniel Zhang',en,China,#e88818,#e88818,2,0.2248482257443686
-'Charles Michel',en,EU,#111111,#111111,3,0.22457682005646906
+'Charles Michel',en,EU,#111111,#111111,3,0.224576820056469
 'Karine Jean-Pierre',en,USA,#18e8e8,#18e8e8,3,0.2245664103292931
 'Thomas Bayes',en,UK,#e838e8,#e838e8,1,0.2241282651053749
 'Viktor Orbán',en,Ungarn,#111111,#111111,3,0.2241244442762156
@@ -596,6 +596,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.2117010450255964
 'Benjamin Netanyahu',en,Israel,#111111,#111111,3,0.211518893579839
 'Gautam Adani',en,Indien,#111111,#111111,3,0.2103223449988411
+'Thomas Haldenwang',en,Deutschland,#1818e8,#1818e8,2,0.21019286560907835
 'Charles Koch',en,USA,#18e8e8,#18e8e8,3,0.2088020656013379
 'Mukesh Ambani',en,Indien,#111111,#111111,2,0.207879378084222
 'Andrzej Duda',en,Polen,#111111,#111111,3,0.2077174021643019
@@ -629,8 +630,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.1889983512346281
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.187902604505712
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.1870042734688708
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.1865878215080494
@@ -668,7 +669,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1595440828683983
 'Roberta Metsola',en,EU,#111111,#111111,2,0.158833168910546
-'Thomas Haldenwang',en,Deutschland,#1818e8,#1818e8,1,0.1586974536577392
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.1581434948158253
 'Nicola Beer',en,EU,#111111,#111111,1,0.15777415006034
 'Tamim bin Hamad Al Thani',en,Katar,#111111,#111111,2,0.153885065978855
