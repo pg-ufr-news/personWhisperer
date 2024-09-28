@@ -62,7 +62,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kevin Hart',en,unknown,#111111,#111111,3,0.4569975127840944
 'Margot Robbie',en,unknown,#111111,#111111,3,0.4566917734281752
 'Abraham Lincoln',en,unknown,#111111,#111111,3,0.4566506144556818
-'Jon Hamm',en,unknown,#111111,#111111,3,0.4563024321851007
 'Kamilla Cardoso',en,unknown,#111111,#111111,3,0.4561703333050815
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.4561565544608524
 'Andy Cohen',en,unknown,#111111,#111111,3,0.456010447271669
@@ -196,6 +195,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.4252730268909402
 'Kim Reynolds',en,unknown,#111111,#111111,3,0.4249248055578872
 'Lawrence Jones',en,unknown,#111111,#111111,3,0.4246391726466429
+'Jon Hamm',en,unknown,#111111,#111111,3,0.42462907417551743
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.4244766828843078
 'Yorgos Lanthimos',en,unknown,#111111,#111111,3,0.4244549411519211
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,3,0.4244367217363634
@@ -502,11 +502,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.2873798213856249
 'Gorbatschow',en,unknown,#111111,#111111,1,0.2873393360874999
 'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.2872534524999999
-'Minka Indigena',en,unknown,#111111,#111111,1,0.2871034374999999
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2871034374999999
-'Hans Joosten',en,unknown,#111111,#111111,1,0.2871034374999999
-'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2871034374999999
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2871034374999999
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2871034374999999
+'Minka Indigena',en,unknown,#111111,#111111,1,0.2871034374999999
+'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2871034374999999
+'Hans Joosten',en,unknown,#111111,#111111,1,0.2871034374999999
 'Tim Müller',en,Deutschland,#1818e8,#1818e8,1,0.2868081261231731
 'Hamish Harding',en,UK,#e838e8,#e838e8,2,0.2866858959766135
 'Lars Klingbeil',en,Deutschland,#1818e8,#1818e8,2,0.286647458041668
