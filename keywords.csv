@@ -502,11 +502,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.2873798213856249
 'Gorbatschow',en,unknown,#111111,#111111,1,0.2873393360874999
 'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.2872534524999999
-'Minka Indigena',en,unknown,#111111,#111111,1,0.2871034374999999
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2871034374999999
-'Hans Joosten',en,unknown,#111111,#111111,1,0.2871034374999999
-'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2871034374999999
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2871034374999999
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2871034374999999
+'Minka Indigena',en,unknown,#111111,#111111,1,0.2871034374999999
+'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2871034374999999
+'Hans Joosten',en,unknown,#111111,#111111,1,0.2871034374999999
 'Tim Müller',en,Deutschland,#1818e8,#1818e8,1,0.2868081261231731
 'Hamish Harding',en,UK,#e838e8,#e838e8,2,0.2866858959766135
 'Lars Klingbeil',en,Deutschland,#1818e8,#1818e8,2,0.286647458041668
@@ -727,7 +727,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergej Lawrow',en,Russland,#e81818,#e81818,1,0.1167551274848404
 'Patrick Pouyanné',en,Frankreich,#e8e808,#e8e808,2,0.1167028995116516
 'Michael Kretschmer',en,Deutschland,#1818e8,#1818e8,1,0.116524999003359
-'Maria Kolesnikowa',en,Belarus,#e81858,#e81858,1,0.1146984650477564
 'Alice Schwarzer',en,Deutschland,#1818e8,#1818e8,1,0.1140316459044485
 'Frank Bainimarama',en,Fidschi,#111111,#111111,1,0.113346782585109
 'Lukaschenko',en,Belarus,#e81858,#e81858,1,0.1129277597797189
@@ -762,6 +761,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nina Gummich',en,Deutschland,#1818e8,#1818e8,1,0.099224699787724
 'Erik Marquardt',en,EU,#111111,#111111,1,0.0982724945986338
 'Ulf Poschardt',en,Deutschland,#1818e8,#1818e8,1,0.0975387758866539
+'Maria Kolesnikowa',en,Belarus,#e81858,#e81858,1,0.09749369529059293
 'Valery Gerasimov',en,Russland,#e81818,#e81818,2,0.096913968798774
 'Schellnhuber',en,Deutschland,#1818e8,#1818e8,1,0.0961698236312604
 'Igor Setschin',en,Russland,#e81818,#e81818,1,0.0956846050366814
