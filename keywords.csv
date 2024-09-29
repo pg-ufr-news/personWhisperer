@@ -456,6 +456,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Margaret Thatcher',en,UK,#e838e8,#e838e8,3,0.3459014514086916
 'Tim Malone',en,unknown,#111111,#111111,3,0.344133652966417
 'Isaac Newton',en,UK,#e838e8,#e838e8,3,0.343819546867272
+'Jeff Bezos',en,USA,#18e8e8,#18e8e8,3,0.3437010912041165
 'Rudolf Steiner',en,Oesterreich,#111111,#111111,1,0.3435430331076918
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,1,0.3430846826913157
 'Jan Lipavský',en,Tschechien,#111111,#111111,1,0.3410184166481249
@@ -485,8 +486,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.307534387175
 'Julian Reichelt',en,Deutschland,#1818e8,#1818e8,2,0.3072114763998855
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.3071900127499999
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.3070624999999999
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.3061546820885471
 'Melinda Gates',en,USA,#18e8e8,#18e8e8,3,0.3048615328702266
 'Richard Ferrand',en,Frankreich,#e8e808,#e8e808,1,0.3035283507051021
@@ -502,11 +503,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.2873798213856249
 'Gorbatschow',en,unknown,#111111,#111111,1,0.2873393360874999
 'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.2872534524999999
-'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2871034374999999
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2871034374999999
 'Minka Indigena',en,unknown,#111111,#111111,1,0.2871034374999999
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2871034374999999
 'Hans Joosten',en,unknown,#111111,#111111,1,0.2871034374999999
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2871034374999999
+'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2871034374999999
 'Tim Müller',en,Deutschland,#1818e8,#1818e8,1,0.2868081261231731
 'Hamish Harding',en,UK,#e838e8,#e838e8,2,0.2866858959766135
 'Lars Klingbeil',en,Deutschland,#1818e8,#1818e8,2,0.286647458041668
@@ -546,7 +547,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.2572194954743593
 'Michael Kahle',en,Deutschland,#1818e8,#1818e8,1,0.25669751643625
 'Mark Rutte',en,Niederlande,#111111,#111111,3,0.2562710888965846
-'Jeff Bezos',en,USA,#18e8e8,#18e8e8,3,0.2541353805609927
 'Frank-Walter Steinmeier',en,Deutschland,#1818e8,#1818e8,3,0.251492460588568
 'Mateusz Morawiecki',en,Polen,#111111,#111111,3,0.250372010575567
 'Christine Lambrecht',en,Deutschland,#1818e8,#1818e8,1,0.249283962031489
@@ -761,7 +761,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nina Gummich',en,Deutschland,#1818e8,#1818e8,1,0.099224699787724
 'Erik Marquardt',en,EU,#111111,#111111,1,0.0982724945986338
 'Ulf Poschardt',en,Deutschland,#1818e8,#1818e8,1,0.0975387758866539
-'Maria Kolesnikowa',en,Belarus,#e81858,#e81858,1,0.09749369529059293
+'Maria Kolesnikowa',en,Belarus,#e81858,#e81858,1,0.0974936952905929
 'Valery Gerasimov',en,Russland,#e81818,#e81818,2,0.096913968798774
 'Schellnhuber',en,Deutschland,#1818e8,#1818e8,1,0.0961698236312604
 'Igor Setschin',en,Russland,#e81818,#e81818,1,0.0956846050366814
