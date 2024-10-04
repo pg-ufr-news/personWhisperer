@@ -60,7 +60,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'König Felipe VI',en,Spanien,#111111,#111111,2,0.4578125749999999
 'Kate Hudson',en,unknown,#111111,#111111,3,0.4573204626677308
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.4572411853450169
-'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,2,0.4572125149999999
 'Kevin Hart',en,unknown,#111111,#111111,3,0.4569975127840944
 'Abraham Lincoln',en,unknown,#111111,#111111,3,0.4566506144556818
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.4561565544608524
@@ -363,6 +362,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Narendra Modi',en,Indien,#111111,#111111,3,0.389458846228051
 'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.3888551212491367
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.3887876495125001
+'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3886306377499999
 'Sunny Hostin',en,unknown,#111111,#111111,2,0.3886251820358297
 'Gérard Larcher',en,unknown,#111111,#111111,2,0.388331725401323
 'George Washington',en,USA,#18e8e8,#18e8e8,3,0.3880506678617044
@@ -664,10 +664,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
 'Ramsan Kadyrow',en,Russland,#e81818,#e81818,1,0.160288544140625
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
-'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
+'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1595440828683983
 'Roberta Metsola',en,EU,#111111,#111111,2,0.158833168910546
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.1581434948158253
