@@ -14,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sandy Hook',en,unknown,#111111,#111111,3,0.4722558298324228
 'Eric Trump',en,unknown,#111111,#111111,3,0.4721300526043329
 'America Ferrera',en,unknown,#111111,#111111,3,0.4719139751198186
+'Jason Kelce',en,unknown,#111111,#111111,3,0.47168629234055404
 'Victoria Monét',en,unknown,#111111,#111111,3,0.471456115974723
 'Irina Shayk',en,unknown,#111111,#111111,3,0.4712174287319549
 'Derek Chauvin',en,unknown,#111111,#111111,2,0.4711561247732094
@@ -145,7 +146,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chelsea Handler',en,USA,#18e8e8,#18e8e8,3,0.4322291238088234
 'Lewis Kaplan',en,unknown,#111111,#111111,3,0.4319915042001844
 'Mark Kerr',en,unknown,#111111,#111111,3,0.4318780426331156
-'Jason Kelce',en,unknown,#111111,#111111,3,0.4314460968712401
 'Princess Diana',en,UK,#e838e8,#e838e8,3,0.4312251231124068
 'Mindy Kaling',en,unknown,#111111,#111111,3,0.4311760757400937
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,3,0.4310869115083519
@@ -664,10 +664,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
 'Ramsan Kadyrow',en,Russland,#e81818,#e81818,1,0.160288544140625
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
-'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
-'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
+'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
 'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
+'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1595440828683983
 'Roberta Metsola',en,EU,#111111,#111111,2,0.158833168910546
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.1581434948158253
