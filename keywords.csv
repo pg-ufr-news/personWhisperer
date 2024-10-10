@@ -663,11 +663,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
 'Ramsan Kadyrow',en,Russland,#e81818,#e81818,1,0.160288544140625
-'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
-'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
-'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
+'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
+'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1595440828683983
 'Roberta Metsola',en,EU,#111111,#111111,2,0.158833168910546
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.1581434948158253
@@ -737,7 +737,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bodo Ramelow',en,Deutschland,#1818e8,#1818e8,1,0.1107022262281007
 'Michael Ballweg',en,Deutschland,#1818e8,#1818e8,1,0.1100016288819354
 'Wolfgang Schäuble',en,Deutschland,#1818e8,#1818e8,1,0.1099819358340184
-'Generalbundesanwalt Peter Frank',en,Deutschland,#1818e8,#1818e8,1,0.1097436855807431
 'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.108730976863306
 'Benjamin Netanjahu',en,Israel,#111111,#111111,1,0.1084347203837064
 'Sergej Lavrov',en,Russland,#e81818,#e81818,1,0.1082433628360953
@@ -767,6 +766,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergej Schoigu',en,Russland,#e81818,#e81818,1,0.0943678995360839
 'Susanne Klatten',en,Deutschland,#1818e8,#1818e8,1,0.0938507755427247
 'Gregor Gysi',en,Deutschland,#1818e8,#1818e8,1,0.0937324084908803
+'Generalbundesanwalt Peter Frank',en,Deutschland,#1818e8,#1818e8,1,0.09328213274363163
 'Luisa Neubauer',en,Deutschland,#1818e8,#1818e8,1,0.0931822937867453
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.0913472158764356
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.0903653515923918
