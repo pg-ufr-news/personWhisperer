@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Julia Louis-Dreyfus',en,unknown,#111111,#111111,3,0.4724107257034282
 'Sandy Hook',en,unknown,#111111,#111111,3,0.4722558298324228
 'Eric Trump',en,unknown,#111111,#111111,3,0.4721300526043329
-'America Ferrera',en,unknown,#111111,#111111,3,0.4719139751198186
 'Jason Kelce',en,unknown,#111111,#111111,3,0.471686292340554
 'Victoria Monét',en,unknown,#111111,#111111,3,0.471456115974723
 'Irina Shayk',en,unknown,#111111,#111111,3,0.4712174287319549
@@ -307,6 +306,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Camille Etienne',en,Frankreich,#e8e808,#e8e808,2,0.401821122864035
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.40141514063
 'Steve Scalise',en,unknown,#111111,#111111,3,0.4013552243347687
+'America Ferrera',en,unknown,#111111,#111111,2,0.4011272088518458
 'George Bush',en,USA,#18e8e8,#18e8e8,3,0.4010339907049995
 'Hazel Monét',en,unknown,#111111,#111111,1,0.4009203301483356
 'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,1,0.4007751275
@@ -339,7 +339,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ahmed Al Jaber',en,unknown,#111111,#111111,2,0.3955922368840908
 'Paris Hilton',en,unknown,#111111,#111111,3,0.3954547952094366
 'Leandro De Niro-Rodriguez',en,unknown,#111111,#111111,1,0.3949519822603689
-'Jessica Biel',en,unknown,#111111,#111111,2,0.39479750273126746
+'Jessica Biel',en,unknown,#111111,#111111,2,0.3947975027312674
 'Oprah Winfrey',en,USA,#18e8e8,#18e8e8,3,0.3944945193115747
 'nan nan',en,unknown,#111111,#111111,2,0.3942603856382875
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.394226217909091
@@ -663,11 +663,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
 'Ramsan Kadyrow',en,Russland,#e81818,#e81818,1,0.160288544140625
-'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
-'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
-'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
+'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
+'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1595440828683983
 'Roberta Metsola',en,EU,#111111,#111111,2,0.158833168910546
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.1581434948158253
