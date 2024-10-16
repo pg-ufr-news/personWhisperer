@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Sabrina Carpenter',en,unknown,#111111,#111111,3,0.526917305972565
 'Javier Milei',en,unknown,#111111,#111111,3,0.4771215426121022
 "'Dwayne ""The Rock"" Johnson'",en,unknown,#111111,#111111,3,0.474889092049445
 'Hugh Grant',en,unknown,#111111,#111111,3,0.4743634211726575
@@ -47,7 +48,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.4601925355227271
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4596751122788323
 'LeBron James',en,unknown,#111111,#111111,3,0.4590915998128648
-'Sabrina Carpenter',en,unknown,#111111,#111111,3,0.4589897931228038
 'Sheryl Crow',en,unknown,#111111,#111111,3,0.4578293554498295
 'König Felipe VI',en,Spanien,#111111,#111111,2,0.4578125749999999
 'Kate Hudson',en,unknown,#111111,#111111,3,0.4573204626677308
@@ -663,11 +663,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
 'Ramsan Kadyrow',en,Russland,#e81818,#e81818,1,0.160288544140625
-'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
-'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
+'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1595440828683983
 'Roberta Metsola',en,EU,#111111,#111111,2,0.158833168910546
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.1581434948158253
