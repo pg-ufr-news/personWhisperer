@@ -663,11 +663,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
 'Ramsan Kadyrow',en,Russland,#e81818,#e81818,1,0.160288544140625
-'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
-'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
-'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
+'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
+'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1595440828683983
 'Roberta Metsola',en,EU,#111111,#111111,2,0.158833168910546
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.1581434948158253
@@ -730,7 +730,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alice Schwarzer',en,Deutschland,#1818e8,#1818e8,1,0.1140316459044485
 'Frank Bainimarama',en,Fidschi,#111111,#111111,1,0.113346782585109
 'Lukaschenko',en,Belarus,#e81858,#e81858,1,0.1129277597797189
-'Alexander Lukaschenko',en,Belarus,#e81858,#e81858,1,0.1123693140891874
 'Andreas Jödecke',en,Deutschland,#1818e8,#1818e8,1,0.1120103528819716
 'Alexej Kudrin',en,Russland,#e81818,#e81818,1,0.1118888387080861
 'Mojib Latif',en,Deutschland,#1818e8,#1818e8,1,0.1114190632112487
@@ -763,6 +762,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Valery Gerasimov',en,Russland,#e81818,#e81818,2,0.096913968798774
 'Schellnhuber',en,Deutschland,#1818e8,#1818e8,1,0.0961698236312604
 'Igor Setschin',en,Russland,#e81818,#e81818,1,0.0956846050366814
+'Alexander Lukaschenko',en,Belarus,#e81858,#e81858,1,0.0955139169758093
 'Sergej Schoigu',en,Russland,#e81818,#e81818,1,0.0943678995360839
 'Susanne Klatten',en,Deutschland,#1818e8,#1818e8,1,0.0938507755427247
 'Gregor Gysi',en,Deutschland,#1818e8,#1818e8,1,0.0937324084908803
