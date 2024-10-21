@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ines de Ramon',en,unknown,#111111,#111111,3,0.5240421504086157
 'Hugh Grant',en,unknown,#111111,#111111,3,0.4743634211726575
 'Dawn Staley',en,unknown,#111111,#111111,3,0.4743040565003953
 'Maria Bartiromo',en,unknown,#111111,#111111,3,0.4740857974027643
@@ -91,6 +90,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jonathan Turley',en,unknown,#111111,#111111,3,0.4461080049858377
 'Robert Kraft',en,unknown,#111111,#111111,3,0.4458149637185123
 'Ana Navarro',en,unknown,#111111,#111111,3,0.4458141871748222
+'Ines de Ramon',en,unknown,#111111,#111111,2,0.44543624784732333
 'Eliot Wolf',en,unknown,#111111,#111111,3,0.4453004334225487
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.4452690707634439
 'Matt Gaetz',en,unknown,#111111,#111111,3,0.44480897516144
@@ -663,11 +663,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Söder',en,Deutschland,#1818e8,#1818e8,1,0.162508839523399
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
-'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
-'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
+'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1595440828683983
 'Roberta Metsola',en,EU,#111111,#111111,2,0.158833168910546
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.1581434948158253
