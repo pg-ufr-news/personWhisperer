@@ -50,7 +50,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nathalie Emmanuel',en,unknown,#111111,#111111,3,0.4574921301344661
 'Kate Hudson',en,unknown,#111111,#111111,3,0.4573204626677308
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.4572411853450169
-'Kevin Hart',en,unknown,#111111,#111111,3,0.4569975127840944
 'Abraham Lincoln',en,unknown,#111111,#111111,3,0.4566506144556818
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.4561565544608524
 'Andy Cohen',en,unknown,#111111,#111111,3,0.456010447271669
@@ -255,6 +254,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harry Belafonte',en,USA,#18e8e8,#18e8e8,2,0.411744230016534
 'Ben Affleck',en,unknown,#111111,#111111,3,0.4117119794444336
 'Justin Timberlake',en,unknown,#111111,#111111,3,0.4116264205879065
+'Kevin Hart',en,unknown,#111111,#111111,3,0.4115828390482984
 'David Weiss',en,unknown,#111111,#111111,3,0.4114737730950015
 'Ryan Gosling',en,unknown,#111111,#111111,3,0.4110100567976419
 'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.4106860113030421
@@ -526,12 +526,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.26170425909875
 'Jean-Denis Combrexelle',en,unknown,#111111,#111111,1,0.2614988184387427
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
-'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
-'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.2610031249999999
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
-'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
+'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.2610031249999999
+'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.2610031249999999
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
+'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.260231479775265
 'König Charles III',en,UK,#e838e8,#e838e8,2,0.2595776789925278
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
