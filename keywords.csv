@@ -501,6 +501,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.2770164947351135
 'Péter Szijjártó',en,Ungarn,#111111,#111111,1,0.2744471456198213
 'Salvador Dali',en,Spanien,#111111,#111111,2,0.2732796879858694
+'Joschka Fischer',en,Deutschland,#1818e8,#1818e8,2,0.2720941264588069
 'Jacinda Ardern',en,Neuseeland,#1818e8,#1818e8,3,0.269779643191242
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.2690223925565169
 'Giorgia Meloni',en,Italien,#111111,#111111,3,0.268923953740093
@@ -526,11 +527,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.26170425909875
 'Jean-Denis Combrexelle',en,unknown,#111111,#111111,1,0.2614988184387427
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
-'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.2610031249999999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.2610031249999999
+'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.260231479775265
 'König Charles III',en,UK,#e838e8,#e838e8,2,0.2595776789925278
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
@@ -683,7 +684,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gabor Steingart',en,Deutschland,#1818e8,#1818e8,1,0.1445835769285881
 'Patriarch Kyrill',en,Ukraine,#e818e8,#e818e8,1,0.143922702418574
 'Klaus-Michael Kühne',en,Deutschland,#1818e8,#1818e8,1,0.143665233328073
-'Joschka Fischer',en,Deutschland,#1818e8,#1818e8,1,0.1434636605397728
 'Stephan Harbarth',en,Deutschland,#1818e8,#1818e8,1,0.138699496181964
 'Ali Chamenei',en,Iran,#111111,#111111,1,0.138380438888226
 'Christoph Heusgen',en,Deutschland,#1818e8,#1818e8,1,0.138367905115676
