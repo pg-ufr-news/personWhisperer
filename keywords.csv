@@ -527,11 +527,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.26170425909875
 'Jean-Denis Combrexelle',en,unknown,#111111,#111111,1,0.2614988184387427
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
-'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
-'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.2610031249999999
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
-'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.2610031249999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
+'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.2610031249999999
+'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
+'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.2610031249999999
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.260231479775265
 'König Charles III',en,UK,#e838e8,#e838e8,2,0.2595776789925278
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
@@ -663,11 +663,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Söder',en,Deutschland,#1818e8,#1818e8,1,0.162508839523399
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
-'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
-'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
+'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1595440828683983
 'Roberta Metsola',en,EU,#111111,#111111,2,0.158833168910546
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.1581434948158253
@@ -711,7 +711,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lula sa Silva',en,Brasilien,#58e838,#58e838,1,0.1242233115322763
 'Macky Sall',en,Senegal,#111111,#111111,1,0.123426671058894
 'Selenskyj',en,Ukraine,#e818e8,#e818e8,1,0.1233248047386064
-'Gabor Steingart',en,Deutschland,#1818e8,#1818e8,1,0.12289604038929987
+'Gabor Steingart',en,Deutschland,#1818e8,#1818e8,1,0.1228960403892998
 'Nikos Androulakis',en,Griechenland,#1858e8,#1858e8,1,0.1222390264341151
 'Steffen Große',en,Deutschland,#1818e8,#1818e8,1,0.12222690613538
 'Martin Schirdewan',en,Deutschland,#1818e8,#1818e8,1,0.1221393562164923
@@ -760,7 +760,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maria Kolesnikowa',en,Belarus,#e81858,#e81858,1,0.0974936952905929
 'Valery Gerasimov',en,Russland,#e81818,#e81818,2,0.096913968798774
 'Schellnhuber',en,Deutschland,#1818e8,#1818e8,1,0.0961698236312604
-'Igor Setschin',en,Russland,#e81818,#e81818,1,0.0956846050366814
 'Alexander Lukaschenko',en,Belarus,#e81858,#e81858,1,0.0955139169758093
 'Sergej Schoigu',en,Russland,#e81818,#e81818,1,0.0943678995360839
 'Susanne Klatten',en,Deutschland,#1818e8,#1818e8,1,0.0938507755427247
@@ -783,6 +782,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.0851054581992316
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.0849069413850298
 'Katalin Novak',en,Ungarn,#111111,#111111,1,0.084671230325276
+'Igor Setschin',en,Russland,#e81818,#e81818,1,0.08133191428117918
 'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.0810393998853631
 'Heinrich XIII. Prinz Reuß',en,Deutschland,#1818e8,#1818e8,1,0.0743982090063982
 'Dmitry Peskov',en,Russland,#e81818,#e81818,2,0.066365762202661
