@@ -45,7 +45,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'König Felipe VI',en,Spanien,#111111,#111111,2,0.4578125749999999
 'Nathalie Emmanuel',en,unknown,#111111,#111111,3,0.4574921301344661
 'Kate Hudson',en,unknown,#111111,#111111,3,0.4573204626677308
-'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.4572411853450169
 'Jared Kushner',en,unknown,#111111,#111111,3,0.4568016566555602
 'Abraham Lincoln',en,unknown,#111111,#111111,3,0.4566506144556818
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.4561565544608524
@@ -81,6 +80,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerry Seinfeld',en,unknown,#111111,#111111,3,0.4491079001415097
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.4485596491657423
 'Ivanka Trump',en,unknown,#111111,#111111,3,0.4484103857354088
+'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.4482064720887189
 'Jonathan Turley',en,unknown,#111111,#111111,3,0.4480103261687457
 'Billy Crystal',en,unknown,#111111,#111111,2,0.4478188171538063
 'Howard Stern',en,unknown,#111111,#111111,3,0.4473899041428432
@@ -663,11 +663,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Söder',en,Deutschland,#1818e8,#1818e8,1,0.162508839523399
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
-'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
-'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
+'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1595440828683983
 'Roberta Metsola',en,EU,#111111,#111111,2,0.158833168910546
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.1581434948158253
