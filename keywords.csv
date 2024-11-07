@@ -663,11 +663,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Söder',en,Deutschland,#1818e8,#1818e8,1,0.162508839523399
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
-'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
-'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
 'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
+'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1595440828683983
 'Roberta Metsola',en,EU,#111111,#111111,2,0.158833168910546
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.1581434948158253
@@ -781,10 +781,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.0851054581992316
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.0849069413850298
 'Katalin Novak',en,Ungarn,#111111,#111111,1,0.084671230325276
-'Valery Gerasimov',en,Russland,#e81818,#e81818,1,0.08237697847895789
+'Valery Gerasimov',en,Russland,#e81818,#e81818,1,0.0823769784789578
 'Igor Setschin',en,Russland,#e81818,#e81818,1,0.0813319142811791
-'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.0810393998853631
 'Heinrich XIII. Prinz Reuß',en,Deutschland,#1818e8,#1818e8,1,0.0743982090063982
+'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.06888348990255863
 'Dmitry Peskov',en,Russland,#e81818,#e81818,2,0.066365762202661
 'Alexei Miller',en,Russland,#e81818,#e81818,1,0.0647260669685873
 'Bartholomäus',en,Türkei,#111111,#111111,1,0.0518042409271966
