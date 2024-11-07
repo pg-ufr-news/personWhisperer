@@ -406,7 +406,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.3735374992232371
 'Bridget Moynahan',en,unknown,#111111,#111111,1,0.3733481441511436
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,1,0.3724918396875
-'Michelle O\'Neill',en,Irland,#111111,#111111,3,0.37213091986516245
+'Michelle O\'Neill',en,Irland,#111111,#111111,3,0.3721309198651624
 'Tasneem Essop',en,unknown,#111111,#111111,1,0.371473933
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.3709641794664772
 'Cassidy Hutchinson',en,unknown,#111111,#111111,2,0.3708635759279836
@@ -663,11 +663,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Söder',en,Deutschland,#1818e8,#1818e8,1,0.162508839523399
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
-'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
-'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
+'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1595440828683983
 'Roberta Metsola',en,EU,#111111,#111111,2,0.158833168910546
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.1581434948158253
@@ -758,7 +758,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erik Marquardt',en,EU,#111111,#111111,1,0.0982724945986338
 'Ulf Poschardt',en,Deutschland,#1818e8,#1818e8,1,0.0975387758866539
 'Maria Kolesnikowa',en,Belarus,#e81858,#e81858,1,0.0974936952905929
-'Valery Gerasimov',en,Russland,#e81818,#e81818,2,0.096913968798774
 'Schellnhuber',en,Deutschland,#1818e8,#1818e8,1,0.0961698236312604
 'Alexander Lukaschenko',en,Belarus,#e81858,#e81858,1,0.0955139169758093
 'Sergej Schoigu',en,Russland,#e81818,#e81818,1,0.0943678995360839
@@ -782,6 +781,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.0851054581992316
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.0849069413850298
 'Katalin Novak',en,Ungarn,#111111,#111111,1,0.084671230325276
+'Valery Gerasimov',en,Russland,#e81818,#e81818,1,0.08237697847895789
 'Igor Setschin',en,Russland,#e81818,#e81818,1,0.0813319142811791
 'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.0810393998853631
 'Heinrich XIII. Prinz Reuß',en,Deutschland,#1818e8,#1818e8,1,0.0743982090063982
