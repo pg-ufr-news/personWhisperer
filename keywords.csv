@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jimmy Kimmel',en,unknown,#111111,#111111,3,0.4764790340315883
 'Jennifer Lopez',en,unknown,#111111,#111111,3,0.4736563752854347
 'Taylor Swift',en,unknown,#111111,#111111,3,0.4736539664027552
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4729535177097347
@@ -257,6 +256,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bruce Springsteen',en,USA,#18e8e8,#18e8e8,3,0.410391674187148
 'Robin Wall Kimmerer',en,unknown,#111111,#111111,1,0.4101896359642857
 'Kim Jong Un',en,NordKorea,#e85858,#e85858,3,0.409979728698276
+'Jimmy Kimmel',en,unknown,#111111,#111111,3,0.40996404892685007
 'Heidi Klum',en,unknown,#111111,#111111,3,0.4098252783757452
 'Matty Healy',en,unknown,#111111,#111111,2,0.4094319576586901
 'Kemal Klçdarolu',en,Türkei,#111111,#111111,3,0.408591592181818
@@ -663,11 +663,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Söder',en,Deutschland,#1818e8,#1818e8,1,0.162508839523399
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
-'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
-'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
-'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
+'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
+'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1595440828683983
 'Roberta Metsola',en,EU,#111111,#111111,2,0.158833168910546
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.1581434948158253
