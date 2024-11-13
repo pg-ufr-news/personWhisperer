@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LeBron James',en,unknown,#111111,#111111,3,0.4861055357500259
-'Ana Navarro',en,unknown,#111111,#111111,3,0.47480362500768974
+'Ana Navarro',en,unknown,#111111,#111111,3,0.4748036250076897
 'Jennifer Lopez',en,unknown,#111111,#111111,3,0.4736563752854347
 'Taylor Swift',en,unknown,#111111,#111111,3,0.4736539664027552
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4729535177097347
@@ -663,11 +663,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Söder',en,Deutschland,#1818e8,#1818e8,1,0.162508839523399
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
-'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
-'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
+'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1595440828683983
 'Roberta Metsola',en,EU,#111111,#111111,2,0.158833168910546
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.1581434948158253
@@ -752,7 +752,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jochen Thewes',en,Deutschland,#1818e8,#1818e8,1,0.103044076814963
 'Amin Nasser',en,SaudiArabien,#111111,#111111,1,0.1026328506069425
 'Yanis Varoufakis',en,Griechenland,#1858e8,#1858e8,1,0.102105240474468
-'Ayatollah Ali Chamenei',en,Iran,#111111,#111111,1,0.100398524460988
 'Joana Cotar',en,Deutschland,#1818e8,#1818e8,1,0.099983010454798
 'Nina Gummich',en,Deutschland,#1818e8,#1818e8,1,0.099224699787724
 'Erik Marquardt',en,EU,#111111,#111111,1,0.0982724945986338
@@ -777,6 +776,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Louis Klamroth',en,Deutschland,#1818e8,#1818e8,1,0.0865320363341977
 'Jair Lapid',en,Israel,#111111,#111111,1,0.0864899794305199
 'Wolodymyr Selenski',en,Ukraine,#e818e8,#e818e8,1,0.0853857072264503
+'Ayatollah Ali Chamenei',en,Iran,#111111,#111111,1,0.0853387457918398
 'Kurt Krömer',en,Deutschland,#1818e8,#1818e8,1,0.085330596145521
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.0851054581992316
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.0849069413850298
