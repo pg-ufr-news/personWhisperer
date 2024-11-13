@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'LeBron James',en,unknown,#111111,#111111,3,0.48610553575002596
+'LeBron James',en,unknown,#111111,#111111,3,0.4861055357500259
+'Ana Navarro',en,unknown,#111111,#111111,3,0.47480362500768974
 'Jennifer Lopez',en,unknown,#111111,#111111,3,0.4736563752854347
 'Taylor Swift',en,unknown,#111111,#111111,3,0.4736539664027552
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4729535177097347
@@ -88,7 +89,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Howard Stern',en,unknown,#111111,#111111,3,0.4473899041428432
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.4468898724312945
 'Robert Kraft',en,unknown,#111111,#111111,3,0.4458149637185123
-'Ana Navarro',en,unknown,#111111,#111111,3,0.4458141871748222
 'Ines de Ramon',en,unknown,#111111,#111111,2,0.4454362478473233
 'Eliot Wolf',en,unknown,#111111,#111111,3,0.4453004334225487
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.4452690707634439
@@ -663,11 +663,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Söder',en,Deutschland,#1818e8,#1818e8,1,0.162508839523399
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
-'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
-'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
-'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
+'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
+'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1595440828683983
 'Roberta Metsola',en,EU,#111111,#111111,2,0.158833168910546
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.1581434948158253
