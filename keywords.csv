@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.4928570145528947
 'LeBron James',en,unknown,#111111,#111111,3,0.4861055357500259
 'Ana Navarro',en,unknown,#111111,#111111,3,0.4748036250076897
 'Jennifer Lopez',en,unknown,#111111,#111111,3,0.4736563752854347
@@ -112,6 +111,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.4379319410079543
 'Nawaz Sharif',en,unknown,#111111,#111111,3,0.4377856510250612
 'Jack Antonoff',en,unknown,#111111,#111111,3,0.4377214061585721
+'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.43751776600632414
 'Sean Hannity',en,unknown,#111111,#111111,3,0.4373529930286827
 'Nancy Mace',en,unknown,#111111,#111111,3,0.437237691074168
 'Ron Johnson',en,unknown,#111111,#111111,3,0.4371466317111
@@ -663,11 +663,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Söder',en,Deutschland,#1818e8,#1818e8,1,0.162508839523399
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
-'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
-'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
+'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1595440828683983
 'Roberta Metsola',en,EU,#111111,#111111,2,0.158833168910546
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.1581434948158253
