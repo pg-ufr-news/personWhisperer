@@ -505,7 +505,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Sandel',en,USA,#18e8e8,#18e8e8,1,0.2664889817455491
 'Hun Sen',en,Kambodscha,#111111,#111111,3,0.265928065094144
 'Rishi Sunak',en,UK,#e838e8,#e838e8,3,0.265694943046221
-'Wagner-Chef Prigoschin',en,unknown,#111111,#111111,1,0.2656778011980566
 'Marguerite Cazeneuve',en,unknown,#111111,#111111,1,0.2653310555217249
 'François Bayrou',en,unknown,#111111,#111111,1,0.2650122921036558
 'Annalena Baerbock',en,Deutschland,#1818e8,#1818e8,3,0.2648909508118078
@@ -568,6 +567,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jens Spahn',en,Deutschland,#1818e8,#1818e8,1,0.2288372092545312
 'Kevin Kühnert',en,Deutschland,#1818e8,#1818e8,2,0.2266686225201619
 'David Malpass',en,USA,#18e8e8,#18e8e8,2,0.22632552833199
+'Wagner-Chef Prigoschin',en,unknown,#111111,#111111,1,0.22582613101834811
 'Saskia Esken',en,Deutschland,#1818e8,#1818e8,2,0.2256539630504326
 'Charles Michel',en,EU,#111111,#111111,3,0.224576820056469
 'Karine Jean-Pierre',en,USA,#18e8e8,#18e8e8,3,0.2245664103292931
