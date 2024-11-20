@@ -140,7 +140,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matteo Salvini',en,Italien,#111111,#111111,3,0.4300419827744754
 'Sherri Shepherd',en,unknown,#111111,#111111,1,0.4294847156921221
 'Missy Elliott',en,unknown,#111111,#111111,3,0.4292146048649106
-'Miley Cyrus',en,unknown,#111111,#111111,3,0.4291094575521357
 'Noor Alfallah',en,USA,#18e8e8,#18e8e8,3,0.4288197912919074
 'Tony Bennett',en,USA,#18e8e8,#18e8e8,3,0.4287838598920453
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.428754301195194
@@ -248,6 +247,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ryan Gosling',en,unknown,#111111,#111111,3,0.4110100567976419
 'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.4106860113030421
 'Barbara Walters',en,USA,#18e8e8,#18e8e8,3,0.4106310323468179
+'Miley Cyrus',en,unknown,#111111,#111111,3,0.4106048148284062
 'Axel Springer',en,Deutschland,#1818e8,#1818e8,3,0.4105437684598294
 'Bruce Springsteen',en,USA,#18e8e8,#18e8e8,3,0.410391674187148
 'Robin Wall Kimmerer',en,unknown,#111111,#111111,1,0.4101896359642857
@@ -625,7 +625,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Immanuel Kant',en,Deutschland,#1818e8,#1818e8,2,0.1919915532618756
 'Jair Bolsonaro',en,Brasilien,#58e838,#58e848,3,0.191220077650967
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.1908240405545692
-'Thomas Bayes',en,UK,#e838e8,#e838e8,1,0.19080905533956866
+'Thomas Bayes',en,UK,#e838e8,#e838e8,1,0.1908090553395686
 'Andrés Manuel López Obrador',en,Mexiko,#111111,#111111,3,0.190780487341999
 'Wolfgang Kubicki',en,Deutschland,#1818e8,#1818e8,1,0.1906644489643312
 'Andreas Jung',en,Deutschland,#1818e8,#1818e8,1,0.1904776534526936
