@@ -567,7 +567,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jens Spahn',en,Deutschland,#1818e8,#1818e8,1,0.2288372092545312
 'Kevin Kühnert',en,Deutschland,#1818e8,#1818e8,2,0.2266686225201619
 'David Malpass',en,USA,#18e8e8,#18e8e8,2,0.22632552833199
-'Wagner-Chef Prigoschin',en,unknown,#111111,#111111,1,0.22582613101834811
+'Wagner-Chef Prigoschin',en,unknown,#111111,#111111,1,0.2258261310183481
 'Saskia Esken',en,Deutschland,#1818e8,#1818e8,2,0.2256539630504326
 'Charles Michel',en,EU,#111111,#111111,3,0.224576820056469
 'Karine Jean-Pierre',en,USA,#18e8e8,#18e8e8,3,0.2245664103292931
@@ -746,7 +746,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pope Benedikt XVI',en,Vatikan,#58b8e8,#58b8e8,1,0.1058500226771807
 'Franziska Giffey',en,Deutschland,#1818e8,#1818e8,1,0.1056907368276234
 'Herman Gref',en,Russland,#e81818,#e81818,1,0.10523043450444
-'Hans Joachim Schellnhuber',en,Deutschland,#1818e8,#1818e8,1,0.105138702101878
 'Kardinal Woelki',en,Deutschland,#1818e8,#1818e8,1,0.1049609090552047
 'Andreas Baum',en,Deutschland,#1818e8,#1818e8,1,0.103971744406791
 'Jitzchak Herzog',en,Israel,#111111,#111111,1,0.1034947800769493
@@ -768,6 +767,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Muhammad bin Zayid Al Nahyan',en,VAE,#111111,#111111,1,0.0905975055526118
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.0903653515923918
 'Badri Hosseini Chamenei',en,Iran,#111111,#111111,1,0.089934357792465
+'Hans Joachim Schellnhuber',en,Deutschland,#1818e8,#1818e8,1,0.08951791178659631
 'Dimitry Peskov',en,Russland,#e81818,#e81818,1,0.089436513672263
 'Carola Rackete',en,Deutschland,#1818e8,#1818e8,1,0.087961318565401
 'Rainer Maria Woelki',en,Deutschland,#1818e8,#1818e8,1,0.0875953085321346
