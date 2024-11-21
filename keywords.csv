@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eric Trump',en,unknown,#111111,#111111,3,0.4721300526043329
 'Jason Kelce',en,unknown,#111111,#111111,3,0.471686292340554
 'Victoria Monét',en,unknown,#111111,#111111,3,0.471456115974723
-'Derek Chauvin',en,unknown,#111111,#111111,2,0.4711561247732094
 'Travis Kelce',en,unknown,#111111,#111111,3,0.4709638092617361
 'Jason Whitlock',en,unknown,#111111,#111111,3,0.4704305257793536
 'Brittany Mahomes',en,unknown,#111111,#111111,3,0.4704152061212402
@@ -50,6 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nathalie Emmanuel',en,unknown,#111111,#111111,3,0.4574921301344661
 'Kate Hudson',en,unknown,#111111,#111111,3,0.4573204626677308
 'Jonathan Turley',en,unknown,#111111,#111111,3,0.4573099172434338
+'Derek Chauvin',en,unknown,#111111,#111111,2,0.456845686057228
 'Jared Kushner',en,unknown,#111111,#111111,3,0.4568016566555602
 'Abraham Lincoln',en,unknown,#111111,#111111,3,0.4566506144556818
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.4561565544608524
