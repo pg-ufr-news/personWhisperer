@@ -5,7 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4729535177097347
 'LeBron James',en,unknown,#111111,#111111,3,0.4727042549329766
 'Robin Roberts',en,unknown,#111111,#111111,3,0.4725324572879813
-'Julia Louis-Dreyfus',en,unknown,#111111,#111111,3,0.4724107257034282
 'Sandy Hook',en,unknown,#111111,#111111,3,0.4722558298324228
 'Eric Trump',en,unknown,#111111,#111111,3,0.4721300526043329
 'Jason Kelce',en,unknown,#111111,#111111,3,0.471686292340554
@@ -86,6 +85,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.4482064720887189
 'Billy Crystal',en,unknown,#111111,#111111,2,0.4478188171538063
 'Prince Harry',en,UK,#e838e8,#e838e8,3,0.4475723459219523
+'Julia Louis-Dreyfus',en,unknown,#111111,#111111,3,0.44740984275700485
 'Howard Stern',en,unknown,#111111,#111111,3,0.4473899041428432
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.4468898724312945
 'Robert Kraft',en,unknown,#111111,#111111,3,0.4458149637185123
