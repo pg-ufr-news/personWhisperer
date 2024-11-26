@@ -15,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brittany Mahomes',en,unknown,#111111,#111111,3,0.4704152061212402
 'Margot Robbie',en,unknown,#111111,#111111,3,0.4704141696866761
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.4703038408182102
+'Pat McAfee',en,unknown,#111111,#111111,3,0.4694919830033678
 'Joe Jonas',en,unknown,#111111,#111111,3,0.4694881126354004
 'Jacoby Brissett',en,unknown,#111111,#111111,3,0.4693941850757593
 'Mark Hertsgaard',en,unknown,#111111,#111111,2,0.469285301408125
@@ -38,7 +39,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Margaret Qualley',en,unknown,#111111,#111111,3,0.4614933035035954
 'Dua Lipa',en,unknown,#111111,#111111,3,0.46144555650156
 'Zach Bryan',en,unknown,#111111,#111111,3,0.4613249341730733
-'Pat McAfee',en,unknown,#111111,#111111,3,0.4609530826777589
 'Drake Maye',en,unknown,#111111,#111111,3,0.4609442513953192
 'Carter Reum',en,unknown,#111111,#111111,3,0.460785640088339
 'Martha MacCallum',en,unknown,#111111,#111111,3,0.4589351934361841
