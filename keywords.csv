@@ -115,6 +115,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nancy Mace',en,unknown,#111111,#111111,3,0.437237691074168
 'Ron Johnson',en,unknown,#111111,#111111,3,0.4371466317111
 'Matt Winkelmeyer',en,unknown,#111111,#111111,2,0.437021235837401
+'Brad Pitt',en,unknown,#111111,#111111,3,0.4359059540809489
 'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,2,0.4356129013892499
 'John Fetterman',en,unknown,#111111,#111111,3,0.4356010926790462
 'Julian Edelman',en,unknown,#111111,#111111,3,0.435189613398157
@@ -154,7 +155,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lara Trump',en,unknown,#111111,#111111,3,0.4272266864718118
 'Billionaire Bunker',en,unknown,#111111,#111111,3,0.4269552838795603
 'Tim Scott',en,USA,#18e8e8,#18e8e8,3,0.4269080810976704
-'Brad Pitt',en,unknown,#111111,#111111,3,0.4267868716460361
 'Lewis Kaplan',en,unknown,#111111,#111111,3,0.4266894931156113
 'Joaquim Valente',en,unknown,#111111,#111111,1,0.4263506247683148
 'George Floyd',en,USA,#18e8e8,#18e8e8,3,0.4259347665159089
