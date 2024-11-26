@@ -97,6 +97,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nikki Glaser',en,unknown,#111111,#111111,2,0.4447428422861836
 'Colin Farrell',en,unknown,#111111,#111111,3,0.4441114270835474
 'Alexander De Croo',en,Belgien,#111111,#111111,2,0.4440416072045454
+'James Biden',en,unknown,#111111,#111111,3,0.44351313134670295
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.4431206516772675
 'Robert Menendez',en,unknown,#111111,#111111,3,0.4426209319025027
 'Gayle King',en,unknown,#111111,#111111,3,0.4415021830037168
@@ -136,7 +137,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,3,0.4310869115083519
 'Rachida Dati',en,unknown,#111111,#111111,2,0.4308745824890267
 'Olivia Rodrigo',en,unknown,#111111,#111111,3,0.430670276907992
-'James Biden',en,unknown,#111111,#111111,3,0.4303737924934473
 'Mindy Kaling',en,unknown,#111111,#111111,3,0.4302618176994904
 'Matteo Salvini',en,Italien,#111111,#111111,3,0.4300419827744754
 'Sherri Shepherd',en,unknown,#111111,#111111,1,0.4294847156921221
