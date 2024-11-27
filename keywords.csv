@@ -762,7 +762,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gregor Gysi',en,Deutschland,#1818e8,#1818e8,1,0.0937324084908803
 'Generalbundesanwalt Peter Frank',en,Deutschland,#1818e8,#1818e8,1,0.0932821327436316
 'Luisa Neubauer',en,Deutschland,#1818e8,#1818e8,1,0.0931822937867453
-'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.0913472158764356
 'Muhammad bin Zayid Al Nahyan',en,VAE,#111111,#111111,1,0.0905975055526118
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.0903653515923918
 'Badri Hosseini Chamenei',en,Iran,#111111,#111111,1,0.089934357792465
@@ -782,6 +781,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katalin Novak',en,Ungarn,#111111,#111111,1,0.084671230325276
 'Valery Gerasimov',en,Russland,#e81818,#e81818,1,0.0823769784789578
 'Igor Setschin',en,Russland,#e81818,#e81818,1,0.0813319142811791
+'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.07794516349497027
 'Heinrich XIII. Prinz Reuß',en,Deutschland,#1818e8,#1818e8,1,0.0743982090063982
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.0721709001772753
 'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.0688834899025586
