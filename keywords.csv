@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bronny James',en,unknown,#111111,#111111,3,0.49892470962182395
 'Jennifer Lopez',en,unknown,#111111,#111111,3,0.4736563752854347
 'Taylor Swift',en,unknown,#111111,#111111,3,0.4736539664027552
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4729535177097347
@@ -39,6 +38,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dua Lipa',en,unknown,#111111,#111111,3,0.46144555650156
 'Zach Bryan',en,unknown,#111111,#111111,3,0.4613249341730733
 'Drake Maye',en,unknown,#111111,#111111,3,0.4609442513953192
+'Bronny James',en,unknown,#111111,#111111,3,0.4608577549967321
 'Carter Reum',en,unknown,#111111,#111111,3,0.460785640088339
 'Martha MacCallum',en,unknown,#111111,#111111,3,0.4589351934361841
 'Maya Rudolph',en,unknown,#111111,#111111,3,0.458553921016748
