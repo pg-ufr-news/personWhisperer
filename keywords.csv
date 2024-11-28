@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.4861519834711319
 'Jennifer Lopez',en,unknown,#111111,#111111,3,0.4736563752854347
 'Taylor Swift',en,unknown,#111111,#111111,3,0.4736539664027552
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4729535177097347
@@ -97,7 +98,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Colin Farrell',en,unknown,#111111,#111111,3,0.4441114270835474
 'Alexander De Croo',en,Belgien,#111111,#111111,2,0.4440416072045454
 'James Biden',en,unknown,#111111,#111111,3,0.4435131313467029
-'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.4431206516772675
 'Robert Menendez',en,unknown,#111111,#111111,3,0.4426209319025027
 'Gayle King',en,unknown,#111111,#111111,3,0.4415021830037168
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.4410324932402883
@@ -781,7 +781,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katalin Novak',en,Ungarn,#111111,#111111,1,0.084671230325276
 'Valery Gerasimov',en,Russland,#e81818,#e81818,1,0.0823769784789578
 'Igor Setschin',en,Russland,#e81818,#e81818,1,0.0813319142811791
-'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.07794516349497027
+'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.0779451634949702
 'Heinrich XIII. Prinz Reuß',en,Deutschland,#1818e8,#1818e8,1,0.0743982090063982
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.0721709001772753
 'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.0688834899025586
