@@ -46,7 +46,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'König Felipe VI',en,Spanien,#111111,#111111,2,0.4585471131874999
 'Sheryl Crow',en,unknown,#111111,#111111,3,0.4578293554498295
 'Bret Baier',en,unknown,#111111,#111111,3,0.4576705769710699
-'Nathalie Emmanuel',en,unknown,#111111,#111111,3,0.4574921301344661
 'Kate Hudson',en,unknown,#111111,#111111,3,0.4573204626677308
 'Jonathan Turley',en,unknown,#111111,#111111,3,0.4573099172434338
 'Derek Chauvin',en,unknown,#111111,#111111,2,0.456845686057228
@@ -350,6 +349,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vassily Nebenzia',en,Russland,#e81818,#e81818,3,0.3900715472641649
 'Lauren Sánchez',en,USA,#18e8e8,#18e8e8,2,0.3895290462227273
 'Narendra Modi',en,Indien,#111111,#111111,3,0.389458846228051
+'Nathalie Emmanuel',en,unknown,#111111,#111111,2,0.3888686106142962
 'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.3888551212491367
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.3886306377499999
 'Sunny Hostin',en,unknown,#111111,#111111,2,0.3886251820358297
@@ -666,11 +666,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Söder',en,Deutschland,#1818e8,#1818e8,1,0.162508839523399
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
-'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
-'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
+'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1595440828683983
 'Roberta Metsola',en,EU,#111111,#111111,2,0.158833168910546
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.1581434948158253
