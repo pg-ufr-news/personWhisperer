@@ -121,7 +121,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aaron Rodgers',en,unknown,#111111,#111111,3,0.434834502691415
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.4344798704308434
 'Melania Trump',en,unknown,#111111,#111111,3,0.4340676270875954
-'Reed Richards',en,unknown,#111111,#111111,3,0.4340629553215029
 'Tyson Fury',en,unknown,#111111,#111111,3,0.433980998208594
 'Charlie Munger',en,unknown,#111111,#111111,3,0.4334576032166166
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4328768925062534
@@ -226,6 +225,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pedro Pascal',en,unknown,#111111,#111111,3,0.4154405684136471
 'Bill Belichick',en,unknown,#111111,#111111,3,0.4153031150944907
 'Kylie Kelce',en,unknown,#111111,#111111,3,0.4152522173088588
+'Reed Richards',en,unknown,#111111,#111111,3,0.41481380293236836
 'Ron Howard',en,unknown,#111111,#111111,3,0.414758369603088
 'Laurent Berger',en,Frankreich,#e8e808,#e8e808,1,0.4144545539451922
 'Mohammed Bin Salman',en,SaudiArabien,#111111,#111111,3,0.414341075039034
@@ -666,11 +666,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Söder',en,Deutschland,#1818e8,#1818e8,1,0.162508839523399
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
-'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
 'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
-'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
+'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1595440828683983
 'Roberta Metsola',en,EU,#111111,#111111,2,0.158833168910546
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.1581434948158253
