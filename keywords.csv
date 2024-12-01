@@ -154,7 +154,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lewis Kaplan',en,unknown,#111111,#111111,3,0.4266894931156113
 'Joaquim Valente',en,unknown,#111111,#111111,1,0.4263506247683148
 'George Floyd',en,USA,#18e8e8,#18e8e8,3,0.4259347665159089
-'Leah McSweeney',en,unknown,#111111,#111111,3,0.425893991927622
 'Demi Moore',en,unknown,#111111,#111111,3,0.4258937657417999
 'Peregrine Pearson',en,unknown,#111111,#111111,2,0.4258255468424355
 'Mark Cuban',en,unknown,#111111,#111111,3,0.42575876917349
@@ -426,6 +425,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jim Jordan',en,unknown,#111111,#111111,3,0.3624987646996065
 'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.3621648873060311
 'Scott Morrison',en,Australien,#111111,#111111,3,0.3621097901615712
+'Leah McSweeney',en,unknown,#111111,#111111,2,0.3620099681384787
 'Camille Cottin',en,unknown,#111111,#111111,1,0.3618049566722732
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,2,0.36145317
 'Reinhard Marx',en,Deutschland,#1818e8,#1818e8,1,0.3614000914999999
@@ -517,10 +517,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean Jouzel',en,unknown,#111111,#111111,1,0.2620646101556654
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.26170425909875
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
-'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.2610031249999999
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.2610031249999999
-'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
+'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.2610031249999999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
+'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.260231479775265
 'König Charles III',en,UK,#e838e8,#e838e8,2,0.2595776789925278
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
@@ -543,10 +543,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.2442728481777811
 'Gorbatschow',en,unknown,#111111,#111111,1,0.2442384356743749
 'Hans Joosten',en,unknown,#111111,#111111,1,0.2441879368749999
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2440379218749999
-'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2440379218749999
 'Minka Indigena',en,unknown,#111111,#111111,1,0.2440379218749999
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2440379218749999
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2440379218749999
+'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2440379218749999
 'François Braun',en,unknown,#111111,#111111,1,0.2423645035258981
 'Fumio Kishida',en,Japan,#111111,#111111,3,0.241218987042182
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.2410446124357694
@@ -666,10 +666,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Söder',en,Deutschland,#1818e8,#1818e8,1,0.162508839523399
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
-'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
+'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
 'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1595440828683983
 'Roberta Metsola',en,EU,#111111,#111111,2,0.158833168910546
@@ -781,7 +781,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Valery Gerasimov',en,Russland,#e81818,#e81818,1,0.0823769784789578
 'Igor Setschin',en,Russland,#e81818,#e81818,1,0.0813319142811791
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.0779451634949702
-'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.07681054885353303
+'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.076810548853533
 'Heinrich XIII. Prinz Reuß',en,Deutschland,#1818e8,#1818e8,1,0.0743982090063982
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.0721709001772753
 'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.0688834899025586
