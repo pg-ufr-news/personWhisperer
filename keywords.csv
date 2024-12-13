@@ -1,12 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.6548192627272728
 'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,2,0.6
-'Robert Kennedy',en,USA,#18e8e8,#18e8e8,2,0.6
-'Merrill McCollum',en,USA,#18e8e8,#18e8e8,2,0.6
-'Marco Rubio',en,USA,#18e8e8,#18e8e8,2,0.6
-'Arno Antlitz',en,Deutschland,#1818e8,#1818e8,2,0.6
 'Matthias Müller',en,Deutschland,#1818e8,#1818e8,2,0.6
-'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,2,0.6
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,2,0.6
+'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,2,0.6
+'Robert Kennedy',en,USA,#18e8e8,#18e8e8,2,0.6
+'Arno Antlitz',en,Deutschland,#1818e8,#1818e8,2,0.6
+'Marco Rubio',en,USA,#18e8e8,#18e8e8,2,0.6
+'Merrill McCollum',en,USA,#18e8e8,#18e8e8,2,0.6
 'Chris Wright',en,USA,#18e8e8,#18e8e8,2,0.5604132154545455
 'Sabrina Carpenter',en,unknown,#111111,#111111,3,0.4745461104794251
 'Jennifer Lopez',en,unknown,#111111,#111111,3,0.4736563752854347
@@ -484,7 +485,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shahzada Dawood',en,Pakistan,#111111,#111111,1,0.3184901513806817
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.3176171254583893
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027019743
-'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.62
 'Sergei Surovikin',en,Russland,#e81818,#e81818,1,0.3150776801382385
 'Robert Nozick',en,USA,#18e8e8,#18e8e8,2,0.3145020331079117
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3114531699999999
@@ -524,10 +524,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eva Kaili',en,EU,#111111,#111111,3,0.2625054479876908
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.26170425909875
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
-'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.2610031249999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.2610031249999999
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
+'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.260231479775265
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
 'Richard Ferrand',en,Frankreich,#e8e808,#e8e808,1,0.2581491130993367
@@ -549,10 +549,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.2442728481777811
 'Gorbatschow',en,unknown,#111111,#111111,1,0.2442384356743749
 'Hans Joosten',en,unknown,#111111,#111111,1,0.2441879368749999
-'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2440379218749999
-'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2440379218749999
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2440379218749999
 'Minka Indigena',en,unknown,#111111,#111111,1,0.2440379218749999
+'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2440379218749999
+'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2440379218749999
 'François Braun',en,unknown,#111111,#111111,1,0.2423645035258981
 'Fumio Kishida',en,Japan,#111111,#111111,3,0.241218987042182
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.2410446124357694
