@@ -1,13 +1,14 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.6548192627272728
+'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.6253247419545455
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.61
+'Arno Antlitz',en,Deutschland,#1818e8,#1818e8,2,0.6
+'Merrill McCollum',en,USA,#18e8e8,#18e8e8,2,0.6
+'Marco Rubio',en,USA,#18e8e8,#18e8e8,2,0.6
 'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,2,0.6
+'Robert Kennedy',en,USA,#18e8e8,#18e8e8,2,0.6
+'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,2,0.6
 'Matthias Müller',en,Deutschland,#1818e8,#1818e8,2,0.6
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,2,0.6
-'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,2,0.6
-'Robert Kennedy',en,USA,#18e8e8,#18e8e8,2,0.6
-'Arno Antlitz',en,Deutschland,#1818e8,#1818e8,2,0.6
-'Marco Rubio',en,USA,#18e8e8,#18e8e8,2,0.6
-'Merrill McCollum',en,USA,#18e8e8,#18e8e8,2,0.6
 'Chris Wright',en,USA,#18e8e8,#18e8e8,2,0.5604132154545455
 'Sabrina Carpenter',en,unknown,#111111,#111111,3,0.4745461104794251
 'Jennifer Lopez',en,unknown,#111111,#111111,3,0.4736563752854347
@@ -275,7 +276,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'William Shakespeare',en,UK,#e838e8,#e838e8,2,0.406575647129545
 'Jane Fonda',en,unknown,#111111,#111111,3,0.4065702511529833
 'Bradley Cooper',en,unknown,#111111,#111111,3,0.406299856925332
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.61
 'Greg Brockman',en,unknown,#111111,#111111,1,0.4062128307391993
 'Alvin Bragg',en,USA,#18e8e8,#18e8e8,3,0.4059719168387483
 'George Miller',en,unknown,#111111,#111111,3,0.4059020607355846
