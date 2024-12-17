@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Merrill McCollum',en,USA,#18e8e8,#18e8e8,2,0.58530003
 'Robert Kennedy',en,USA,#18e8e8,#18e8e8,3,0.5751795704284091
 'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.5739476275394317
 'Chris Wright',en,USA,#18e8e8,#18e8e8,2,0.5604132154545455
@@ -10,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.51
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.51
 'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.51
+'Merrill McCollum',en,USA,#18e8e8,#18e8e8,2,0.4978050555
 'Sabrina Carpenter',en,unknown,#111111,#111111,3,0.4745461104794251
 'Jennifer Lopez',en,unknown,#111111,#111111,3,0.4736563752854347
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4729535177097347
