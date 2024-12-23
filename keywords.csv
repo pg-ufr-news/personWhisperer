@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.51
 'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.51
 'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.5047372439407437
 'Merrill McCollum',en,USA,#18e8e8,#18e8e8,2,0.4978050555
@@ -125,6 +124,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Melania Trump',en,unknown,#111111,#111111,3,0.4340676270875954
 'Tyson Fury',en,unknown,#111111,#111111,3,0.433980998208594
 'Matthias Müller',en,Deutschland,#1818e8,#1818e8,1,0.4336500405
+'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.433650015
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.4335
 'Charlie Munger',en,unknown,#111111,#111111,3,0.4334576032166166
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4328768925062534
