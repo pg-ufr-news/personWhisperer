@@ -605,7 +605,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benjamin Netanyahu',en,Israel,#111111,#111111,3,0.211518893579839
 'Volker Wissing',en,Deutschland,#1818e8,#1818e8,3,0.2105926075240448
 'Gautam Adani',en,Indien,#111111,#111111,3,0.2103223449988411
-'Thomas Haldenwang',en,Deutschland,#1818e8,#1818e8,2,0.2101928656090783
 'Charles Koch',en,USA,#18e8e8,#18e8e8,3,0.2088020656013379
 'Mukesh Ambani',en,Indien,#111111,#111111,2,0.207879378084222
 'Andrzej Duda',en,Polen,#111111,#111111,3,0.2077174021643019
@@ -654,6 +653,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karl Lauterbach',en,Deutschland,#1818e8,#1818e8,2,0.180625893135617
 'Antonio Guterres',en,UN,#e888e8,#e888e8,3,0.1804727461714048
 'Kyrill',en,Ukraine,#e818e8,#e818e8,2,0.1792841824974189
+'Thomas Haldenwang',en,Deutschland,#1818e8,#1818e8,1,0.17866402576771656
 'Andrew Forrest',en,Australien,#111111,#111111,2,0.1780635727259072
 'Björn Höcke',en,Deutschland,#1818e8,#1818e8,1,0.1770581120310153
 'Christian Drosten',en,Deutschland,#1818e8,#1818e8,2,0.1764376674725316
