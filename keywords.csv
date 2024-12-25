@@ -163,7 +163,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kristen Wiig',en,unknown,#111111,#111111,3,0.425587255227619
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.4252730268909402
 'Kim Reynolds',en,unknown,#111111,#111111,3,0.4249248055578872
-'Lawrence Jones',en,unknown,#111111,#111111,3,0.4246391726466429
 'Jon Hamm',en,unknown,#111111,#111111,3,0.4246290741755174
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.4244766828843078
 'Yorgos Lanthimos',en,unknown,#111111,#111111,3,0.4244549411519211
@@ -401,6 +400,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Faith Birol',en,unknown,#111111,#111111,1,0.3762829483975
 'Putin',en,Russland,#e81818,#e81818,3,0.3755934272303734
 'Ronna McDaniel',en,unknown,#111111,#111111,2,0.3752414916230247
+'Lawrence Jones',en,unknown,#111111,#111111,3,0.3749910308405556
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.374587953775
 'Karim Benzema',en,Frankreich,#e8e808,#e8e808,3,0.3744024619420454
 'Nicolas Sarkozy',en,unknown,#111111,#111111,2,0.3738855527802417
@@ -543,7 +543,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Salvador Dali',en,Spanien,#111111,#111111,2,0.248038109787989
 'Tamim Hamad Thani',en,Katar,#111111,#111111,3,0.2477044427761362
 'Sophia Kianni',en,unknown,#111111,#111111,1,0.2468477507625061
-'Mark Zuckerberg',en,USA,#18e8e8,#18e8e8,3,0.24568870020644787
+'Mark Zuckerberg',en,USA,#18e8e8,#18e8e8,3,0.2456887002064478
 'Paul Ronzheimer',en,Deutschland,#1818e8,#1818e8,2,0.2448245612239102
 'Vanessa Nakate',en,unknown,#111111,#111111,1,0.2444969852836562
 'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.2443154496249999
