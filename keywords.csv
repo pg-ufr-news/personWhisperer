@@ -338,7 +338,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.394226217909091
 'Laura Ingraham',en,USA,#18e8e8,#18e8e8,3,0.3938946273010715
 'Brad Pitt',en,unknown,#111111,#111111,3,0.3936576091506247
-'Bruno Le Maire',en,Frankreich,#e8e808,#e8e808,3,0.393471683189784
 'Geoffrey Hinton',en,UK,#e838e8,#e838e8,3,0.3933352143676561
 'Leonardo DiCaprio',en,USA,#18e8e8,#18e8e8,3,0.3932127394749063
 'Alex Jones',en,unknown,#111111,#111111,3,0.392996174189314
@@ -475,6 +474,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ed McVey',en,UK,#e838e8,#e838e8,1,0.3382402632177319
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,2,0.3366240018700734
 'John Rawls',en,USA,#18e8e8,#18e8e8,1,0.3349546959392854
+'Bruno Le Maire',en,Frankreich,#e8e808,#e8e808,2,0.33445103571131635
 'Pap Ndiaye',en,unknown,#111111,#111111,1,0.3293632042933479
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.327800639565706
 'Charles III',en,UK,#e838e8,#e838e8,3,0.327601171231922
