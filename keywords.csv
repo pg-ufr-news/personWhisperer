@@ -106,7 +106,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gerald Darmanin',en,unknown,#111111,#111111,2,0.4406192349452916
 'Alexander Smirnov',en,unknown,#111111,#111111,3,0.4398580053195104
 'Hunter Biden',en,USA,#18e8e8,#18e8e8,3,0.4380582464340908
-'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.4379319410079543
 'Nawaz Sharif',en,unknown,#111111,#111111,3,0.4377856510250612
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.4375177660063241
 'Sean Hannity',en,unknown,#111111,#111111,3,0.4373529930286827
@@ -121,8 +120,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Melania Trump',en,unknown,#111111,#111111,3,0.4340676270875954
 'Tyson Fury',en,unknown,#111111,#111111,3,0.433980998208594
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.433650015
-'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.4335
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.4335
+'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.4335
 'Charlie Munger',en,unknown,#111111,#111111,3,0.4334576032166166
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4328768925062534
 'Bob Menendez',en,unknown,#111111,#111111,3,0.432581949819069
@@ -209,6 +208,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Barkley',en,unknown,#111111,#111111,3,0.4187080674395769
 'Lady Gaga',en,USA,#18e8e8,#18e8e8,3,0.4187022339476163
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4185255871961323
+'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,2,0.41810824576585204
 'Bill Barr',en,unknown,#111111,#111111,3,0.4180706747416401
 'António Guterres',en,unknown,#111111,#111111,3,0.418049004607304
 'Jake Gyllenhaal',en,unknown,#111111,#111111,3,0.4177145040514152
