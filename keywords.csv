@@ -88,7 +88,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Howard Stern',en,unknown,#111111,#111111,3,0.4473899041428432
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.4468898724312945
 'Robert Kraft',en,unknown,#111111,#111111,3,0.4458149637185123
-'Ines de Ramon',en,unknown,#111111,#111111,2,0.4454362478473233
 'Eliot Wolf',en,unknown,#111111,#111111,3,0.4453004334225487
 'Britney Spears',en,unknown,#111111,#111111,3,0.4448861076003138
 'Matt Gaetz',en,unknown,#111111,#111111,3,0.44480897516144
@@ -388,6 +387,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Helena Gualinga',en,unknown,#111111,#111111,2,0.3789690636730393
 'John Paul II',en,Vatikan,#58b8e8,#58b8e8,3,0.3788385944090909
 'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.3788150966689651
+'Ines de Ramon',en,unknown,#111111,#111111,1,0.3786210356702248
 'Jon Batiste',en,unknown,#111111,#111111,2,0.3783877854159058
 'Anne Will',en,Deutschland,#1818e8,#1818e8,2,0.377750428514773
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,1,0.3776195878504714
