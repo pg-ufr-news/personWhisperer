@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.487106494397675
+'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.48676078523564914
 'Arno Antlitz',en,Deutschland,#1818e8,#1818e8,1,0.4844001665
 'Chris Wright',en,USA,#18e8e8,#18e8e8,2,0.4813097231363636
 'Robert Kennedy',en,USA,#18e8e8,#18e8e8,3,0.4796821480041194
@@ -13,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jason Kelce',en,unknown,#111111,#111111,3,0.471686292340554
 'Victoria Monét',en,unknown,#111111,#111111,3,0.471456115974723
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.4707294301489273
-'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.470569792255844
 'Jason Whitlock',en,unknown,#111111,#111111,3,0.4704305257793536
 'Brittany Mahomes',en,unknown,#111111,#111111,3,0.4704152061212402
 'Margot Robbie',en,unknown,#111111,#111111,3,0.4704141696866761
