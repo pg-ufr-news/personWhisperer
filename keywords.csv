@@ -4,13 +4,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Arno Antlitz',en,Deutschland,#1818e8,#1818e8,1,0.4844001665
 'Chris Wright',en,USA,#18e8e8,#18e8e8,2,0.4813097231363636
 'Robert Kennedy',en,USA,#18e8e8,#18e8e8,3,0.4796821480041194
+'Eric Trump',en,unknown,#111111,#111111,3,0.47900827744095564
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.4745674120469041
 'Sabrina Carpenter',en,unknown,#111111,#111111,3,0.4745461104794251
 'Jennifer Lopez',en,unknown,#111111,#111111,3,0.4736563752854347
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4729535177097347
 'LeBron James',en,unknown,#111111,#111111,3,0.4727042549329766
 'Robin Roberts',en,unknown,#111111,#111111,3,0.4725324572879813
-'Eric Trump',en,unknown,#111111,#111111,3,0.4721300526043329
 'Jason Kelce',en,unknown,#111111,#111111,3,0.471686292340554
 'Victoria Monét',en,unknown,#111111,#111111,3,0.471456115974723
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.4707294301489273
@@ -791,7 +791,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.0779451634949702
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.076810548853533
 'Heinrich XIII. Prinz Reuß',en,Deutschland,#1818e8,#1818e8,1,0.0743982090063982
-'Louis Klamroth',en,Deutschland,#1818e8,#1818e8,1,0.07355223088406805
+'Louis Klamroth',en,Deutschland,#1818e8,#1818e8,1,0.073552230884068
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.0721709001772753
 'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.0688834899025586
 'Dmitry Peskov',en,Russland,#e81818,#e81818,2,0.066365762202661
