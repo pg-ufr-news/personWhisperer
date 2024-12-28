@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.487106494397675
-'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.48676078523564914
+'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.4867607852356491
 'Arno Antlitz',en,Deutschland,#1818e8,#1818e8,1,0.4844001665
 'Chris Wright',en,USA,#18e8e8,#18e8e8,2,0.4813097231363636
 'Robert Kennedy',en,USA,#18e8e8,#18e8e8,3,0.4796821480041194
@@ -326,8 +326,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Millie Mackintosh',en,UK,#e838e8,#e838e8,1,0.395864945181818
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.395841266130685
 'Jennifer Garner',en,unknown,#111111,#111111,3,0.3957842128569512
+'Paris Hilton',en,unknown,#111111,#111111,3,0.39563810547347567
 'Ahmed Al Jaber',en,unknown,#111111,#111111,2,0.3955922368840908
-'Paris Hilton',en,unknown,#111111,#111111,3,0.3954547952094366
 'Tony Bobulinski',en,unknown,#111111,#111111,2,0.3953409144632629
 'Leandro De Niro-Rodriguez',en,unknown,#111111,#111111,1,0.3949519822603689
 'Jessica Biel',en,unknown,#111111,#111111,2,0.3947975027312674
