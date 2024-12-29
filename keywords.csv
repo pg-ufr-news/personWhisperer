@@ -118,7 +118,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.4344798704308434
 'Melania Trump',en,unknown,#111111,#111111,3,0.4340676270875954
 'Tyson Fury',en,unknown,#111111,#111111,3,0.433980998208594
-'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.4335
 'Charlie Munger',en,unknown,#111111,#111111,3,0.4334576032166166
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4328768925062534
 'Bob Menendez',en,unknown,#111111,#111111,3,0.432581949819069
@@ -419,6 +418,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'King Charles',en,UK,#e838e8,#e838e8,3,0.3687029340082495
 'Petro Poroshenko',en,unknown,#111111,#111111,1,0.3685384025549144
 'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.368475
+'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.368475
 'David Weiss',en,unknown,#111111,#111111,3,0.3683413957671149
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.3667259496198617
 'Sarah Stier',en,unknown,#111111,#111111,3,0.3664506631528372
@@ -671,7 +671,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Krebber',en,Deutschland,#1818e8,#1818e8,1,0.1650890194429076
 'Dmitri Medwedew',en,Russland,#e81818,#e81818,1,0.1634943150234374
 'Markus Söder',en,Deutschland,#1818e8,#1818e8,1,0.162508839523399
-'Missy Motown',en,Deutschland,#1818e8,#1818e8,1,0.16230731442062332
+'Missy Motown',en,Deutschland,#1818e8,#1818e8,1,0.1623073144206233
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
