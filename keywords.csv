@@ -589,7 +589,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.2224322864146426
 'Jean-Denis Combrexelle',en,unknown,#111111,#111111,1,0.2222739956729312
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.2220026712499999
-'Gilbert Plass',en,Kanada,#111111,#111111,1,0.2219447842118749
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.22185265625
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2218526562499999
@@ -639,6 +638,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andreas Jung',en,Deutschland,#1818e8,#1818e8,1,0.1904776534526936
 'Jean Jouzel',en,unknown,#111111,#111111,1,0.1893416808374681
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.1889983512346281
+'Gilbert Plass',en,Kanada,#111111,#111111,1,0.18865306658009368
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
