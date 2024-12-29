@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Arno Antlitz',en,Deutschland,#1818e8,#1818e8,1,0.4844001665
 'Chris Wright',en,USA,#18e8e8,#18e8e8,2,0.4813097231363636
 'Robert Kennedy',en,USA,#18e8e8,#18e8e8,3,0.4796821480041194
-'Eric Trump',en,unknown,#111111,#111111,3,0.47900827744095564
+'Eric Trump',en,unknown,#111111,#111111,3,0.4790082774409556
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.4745674120469041
 'Sabrina Carpenter',en,unknown,#111111,#111111,3,0.4745461104794251
 'Jennifer Lopez',en,unknown,#111111,#111111,3,0.4736563752854347
@@ -637,7 +637,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrés Manuel López Obrador',en,Mexiko,#111111,#111111,3,0.190780487341999
 'Wolfgang Kubicki',en,Deutschland,#1818e8,#1818e8,1,0.1906644489643312
 'Andreas Jung',en,Deutschland,#1818e8,#1818e8,1,0.1904776534526936
-'Missy Motown',en,Deutschland,#1818e8,#1818e8,1,0.1902438287301451
 'Jean Jouzel',en,unknown,#111111,#111111,1,0.1893416808374681
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.1889983512346281
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
@@ -672,6 +671,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Krebber',en,Deutschland,#1818e8,#1818e8,1,0.1650890194429076
 'Dmitri Medwedew',en,Russland,#e81818,#e81818,1,0.1634943150234374
 'Markus Söder',en,Deutschland,#1818e8,#1818e8,1,0.162508839523399
+'Missy Motown',en,Deutschland,#1818e8,#1818e8,1,0.16230731442062332
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
