@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Jason Kelce',en,unknown,#111111,#111111,3,0.5240703566712891
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.487106494397675
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.4867607852356491
 'Arno Antlitz',en,Deutschland,#1818e8,#1818e8,1,0.4844001665
@@ -11,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4729535177097347
 'LeBron James',en,unknown,#111111,#111111,3,0.4727042549329766
 'Robin Roberts',en,unknown,#111111,#111111,3,0.4725324572879813
-'Jason Kelce',en,unknown,#111111,#111111,3,0.471686292340554
 'Victoria Monét',en,unknown,#111111,#111111,3,0.471456115974723
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.4707294301489273
 'Jason Whitlock',en,unknown,#111111,#111111,3,0.4704305257793536
