@@ -16,6 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brittany Mahomes',en,unknown,#111111,#111111,3,0.4704152061212402
 'Margot Robbie',en,unknown,#111111,#111111,3,0.4704141696866761
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.4703038408182102
+'Robert Kraft',en,unknown,#111111,#111111,3,0.47025769052437183
 'Sandy Hook',en,unknown,#111111,#111111,3,0.470008918993923
 'Pat McAfee',en,unknown,#111111,#111111,3,0.4694919830033678
 'Joe Jonas',en,unknown,#111111,#111111,3,0.4694881126354004
@@ -83,7 +84,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Julia Louis-Dreyfus',en,unknown,#111111,#111111,3,0.4474098427570048
 'Howard Stern',en,unknown,#111111,#111111,3,0.4473899041428432
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.4468898724312945
-'Robert Kraft',en,unknown,#111111,#111111,3,0.4458149637185123
 'Eliot Wolf',en,unknown,#111111,#111111,3,0.4453004334225487
 'Britney Spears',en,unknown,#111111,#111111,3,0.4448861076003138
 'Matt Gaetz',en,unknown,#111111,#111111,3,0.44480897516144
@@ -705,7 +705,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wladimir Putin',en,Russland,#e81818,#e81818,1,0.1358791656501874
 'John Roberts',en,USA,#18e8e8,#18e8e8,1,0.134786905615324
 'Ebrahim Raisi',en,Iran,#111111,#111111,3,0.134674092572129
-'Julia Koch',en,USA,#18e8e8,#18e8e8,1,0.13430302856969076
+'Julia Koch',en,USA,#18e8e8,#18e8e8,1,0.1343030285696907
 'Andrea Lindholz',en,Deutschland,#1818e8,#1818e8,1,0.1316530860999728
 'Holger Münch',en,Deutschland,#1818e8,#1818e8,1,0.1307398420517795
 'Sandra Maischberger',en,Deutschland,#1818e8,#1818e8,1,0.1299532325140539
