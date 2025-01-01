@@ -705,14 +705,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wladimir Putin',en,Russland,#e81818,#e81818,1,0.1358791656501874
 'John Roberts',en,USA,#18e8e8,#18e8e8,1,0.134786905615324
 'Ebrahim Raisi',en,Iran,#111111,#111111,3,0.134674092572129
+'Julia Koch',en,USA,#18e8e8,#18e8e8,1,0.13430302856969076
 'Andrea Lindholz',en,Deutschland,#1818e8,#1818e8,1,0.1316530860999728
 'Holger Münch',en,Deutschland,#1818e8,#1818e8,1,0.1307398420517795
 'Sandra Maischberger',en,Deutschland,#1818e8,#1818e8,1,0.1299532325140539
 'Alexei Nawalny',en,Russland,#e81818,#e81818,1,0.129347072944707
 'Jürgen Grässlin',en,Deutschland,#1818e8,#1818e8,1,0.1278282964372896
 'Otmar Issing',en,EU,#111111,#111111,1,0.12778560651524
-'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.1273893204557615
 'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.1273893204557615
+'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.1273893204557615
 'Larry Page',en,USA,#18e8e8,#18e8e8,2,0.1273604723593916
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.1265313572958776
 'Macky Sall',en,Senegal,#111111,#111111,1,0.123426671058894
@@ -721,7 +722,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nikos Androulakis',en,Griechenland,#1858e8,#1858e8,1,0.1222390264341151
 'Steffen Große',en,Deutschland,#1818e8,#1818e8,1,0.12222690613538
 'Martin Schirdewan',en,Deutschland,#1818e8,#1818e8,1,0.1221393562164923
-'Julia Koch',en,USA,#18e8e8,#18e8e8,1,0.1218270041996362
 'Steffi Lemke',en,Deutschland,#1818e8,#1818e8,1,0.1215248687136141
 'Frank Plasberg',en,Deutschland,#1818e8,#1818e8,1,0.1201960062284159
 'Jan Böhmermann',en,Deutschland,#1818e8,#1818e8,1,0.1201410888172818
