@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.487106494397675
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.4867607852356491
 'Arno Antlitz',en,Deutschland,#1818e8,#1818e8,1,0.4844001665
 'Chris Wright',en,USA,#18e8e8,#18e8e8,2,0.4813097231363636
@@ -105,6 +104,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jason Kelce',en,unknown,#111111,#111111,3,0.4398561631572002
 'Hunter Biden',en,USA,#18e8e8,#18e8e8,3,0.4380582464340908
 'Nawaz Sharif',en,unknown,#111111,#111111,3,0.4377856510250612
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.43766907841984193
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.4375177660063241
 'Sean Hannity',en,unknown,#111111,#111111,3,0.4373529930286827
 'Nancy Mace',en,unknown,#111111,#111111,3,0.437237691074168
