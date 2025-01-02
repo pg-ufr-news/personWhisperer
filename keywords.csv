@@ -14,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.4707294301489273
 'Jason Whitlock',en,unknown,#111111,#111111,3,0.4704305257793536
 'Brittany Mahomes',en,unknown,#111111,#111111,3,0.4704152061212402
-'Margot Robbie',en,unknown,#111111,#111111,3,0.4704141696866761
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.4703038408182102
 'Robert Kraft',en,unknown,#111111,#111111,3,0.4702576905243718
 'Sandy Hook',en,unknown,#111111,#111111,3,0.470008918993923
@@ -31,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sara Haines',en,unknown,#111111,#111111,3,0.4650267259940769
 'Billie Eilish',en,unknown,#111111,#111111,3,0.4643460591720645
 'Steve Doocy',en,unknown,#111111,#111111,3,0.4638996567045677
+'Margot Robbie',en,unknown,#111111,#111111,3,0.4638953233245837
 'Jack Antonoff',en,unknown,#111111,#111111,3,0.4633782865984226
 'Hugh Grant',en,unknown,#111111,#111111,3,0.4627063125422134
 'Chuck Schumer',en,unknown,#111111,#111111,3,0.4622383556305056
@@ -789,7 +789,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Igor Setschin',en,Russland,#e81818,#e81818,1,0.0813319142811791
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.0779451634949702
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.076810548853533
-'Badri Hosseini Chamenei',en,Iran,#111111,#111111,1,0.07644420412359525
+'Badri Hosseini Chamenei',en,Iran,#111111,#111111,1,0.0764442041235952
 'Heinrich XIII. Prinz Reuß',en,Deutschland,#1818e8,#1818e8,1,0.0743982090063982
 'Louis Klamroth',en,Deutschland,#1818e8,#1818e8,1,0.073552230884068
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.0721709001772753
