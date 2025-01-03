@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ferdinand Dudenhöffer',en,Deutschland,#1818e8,#1818e8,1,0.61
 'Ottmar Edenhofer',en,Deutschland,#1818e8,#1818e8,1,0.61
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.61
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.61
 'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.61
 'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.61
-'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.61 
+'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.61
 'Friederike Otto',en,Deutschland,#1818e8,#1818e8,1,0.61
 'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.61
+'Ferdinand Dudenhöffer',en,Deutschland,#1818e8,#1818e8,1,0.55660006
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.4867607852356491
 'Arno Antlitz',en,Deutschland,#1818e8,#1818e8,1,0.4844001665
 'Chris Wright',en,USA,#18e8e8,#18e8e8,2,0.4813097231363636
@@ -50,7 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barry Keoghan',en,unknown,#111111,#111111,3,0.4619312813667625
 'Margaret Qualley',en,unknown,#111111,#111111,3,0.4614933035035954
 'Dua Lipa',en,unknown,#111111,#111111,3,0.46144555650156
-'Javier Milei',en,unknown,#111111,#111111,3,0.46138516003724384
+'Javier Milei',en,unknown,#111111,#111111,3,0.4613851600372438
 'Zach Bryan',en,unknown,#111111,#111111,3,0.4613249341730733
 'Drake Maye',en,unknown,#111111,#111111,3,0.4609442513953192
 'Bronny James',en,unknown,#111111,#111111,3,0.4608577549967321
