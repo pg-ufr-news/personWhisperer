@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ottmar Edenhofer',en,Deutschland,#1818e8,#1818e8,1,0.61
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.61
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.61
 'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.61
@@ -8,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Friederike Otto',en,Deutschland,#1818e8,#1818e8,1,0.61
 'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.61
 'Ferdinand Dudenhöffer',en,Deutschland,#1818e8,#1818e8,1,0.55660006
+'Ottmar Edenhofer',en,Deutschland,#1818e8,#1818e8,1,0.51880003
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.4867607852356491
 'Arno Antlitz',en,Deutschland,#1818e8,#1818e8,1,0.4844001665
 'Chris Wright',en,USA,#18e8e8,#18e8e8,2,0.4813097231363636
