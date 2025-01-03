@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Robert Kennedy',en,USA,#18e8e8,#18e8e8,3,0.5128260742284307
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.4867607852356491
 'Arno Antlitz',en,Deutschland,#1818e8,#1818e8,1,0.4844001665
 'Chris Wright',en,USA,#18e8e8,#18e8e8,2,0.4813097231363636
@@ -31,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Billie Eilish',en,unknown,#111111,#111111,3,0.4643460591720645
 'Steve Doocy',en,unknown,#111111,#111111,3,0.4638996567045677
 'Margot Robbie',en,unknown,#111111,#111111,3,0.4638953233245837
+'Robert Kennedy',en,USA,#18e8e8,#18e8e8,3,0.46360802582143884
 'Jack Antonoff',en,unknown,#111111,#111111,3,0.4633782865984226
 'Hugh Grant',en,unknown,#111111,#111111,3,0.4627063125422134
 'Chuck Schumer',en,unknown,#111111,#111111,3,0.4622383556305056
