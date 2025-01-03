@@ -30,7 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Billie Eilish',en,unknown,#111111,#111111,3,0.4643460591720645
 'Steve Doocy',en,unknown,#111111,#111111,3,0.4638996567045677
 'Margot Robbie',en,unknown,#111111,#111111,3,0.4638953233245837
-'Robert Kennedy',en,USA,#18e8e8,#18e8e8,3,0.46360802582143884
+'Robert Kennedy',en,USA,#18e8e8,#18e8e8,3,0.4636080258214388
 'Jack Antonoff',en,unknown,#111111,#111111,3,0.4633782865984226
 'Hugh Grant',en,unknown,#111111,#111111,3,0.4627063125422134
 'Chuck Schumer',en,unknown,#111111,#111111,3,0.4622383556305056
@@ -41,6 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barry Keoghan',en,unknown,#111111,#111111,3,0.4619312813667625
 'Margaret Qualley',en,unknown,#111111,#111111,3,0.4614933035035954
 'Dua Lipa',en,unknown,#111111,#111111,3,0.46144555650156
+'Javier Milei',en,unknown,#111111,#111111,3,0.46138516003724384
 'Zach Bryan',en,unknown,#111111,#111111,3,0.4613249341730733
 'Drake Maye',en,unknown,#111111,#111111,3,0.4609442513953192
 'Bronny James',en,unknown,#111111,#111111,3,0.4608577549967321
@@ -71,7 +72,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ayo Edebiri',en,unknown,#111111,#111111,3,0.4520594651830971
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.4518583358437159
 'Indiana Jones',en,unknown,#111111,#111111,2,0.4514407505991244
-'Javier Milei',en,unknown,#111111,#111111,3,0.4514157321293778
 'Jerry Seinfeld',en,unknown,#111111,#111111,3,0.4503296387566468
 'Ainsley Earhardt',en,unknown,#111111,#111111,2,0.4500970362744946
 'James Comer',en,unknown,#111111,#111111,3,0.4500836315745853
