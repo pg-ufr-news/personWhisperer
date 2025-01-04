@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.61
 'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.61
 'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.61
 'Friederike Otto',en,Deutschland,#1818e8,#1818e8,1,0.61
@@ -7,6 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,2,0.5944000899999999
 'Ferdinand Dudenhöffer',en,Deutschland,#1818e8,#1818e8,1,0.55660006
 'Ottmar Edenhofer',en,Deutschland,#1818e8,#1818e8,1,0.51880003
+'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.5185
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.5185
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.4867607852356491
 'Arno Antlitz',en,Deutschland,#1818e8,#1818e8,1,0.4844001665
