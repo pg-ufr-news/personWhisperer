@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ferdinand Dudenhöffer',en,Deutschland,#1818e8,#1818e8,1,0.55660006
 'Friederike Otto',en,Deutschland,#1818e8,#1818e8,2,0.5219503449999999
 'Ottmar Edenhofer',en,Deutschland,#1818e8,#1818e8,1,0.51880003
 'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.5185
@@ -14,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eric Trump',en,unknown,#111111,#111111,3,0.4790082774409556
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.4745674120469041
 'Sabrina Carpenter',en,unknown,#111111,#111111,3,0.4745461104794251
+'Ferdinand Dudenhöffer',en,Deutschland,#1818e8,#1818e8,1,0.47401014099999994
 'Jennifer Lopez',en,unknown,#111111,#111111,3,0.4736563752854347
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4729535177097347
 'LeBron James',en,unknown,#111111,#111111,3,0.4727042549329766
