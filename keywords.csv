@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ottmar Edenhofer',en,Deutschland,#1818e8,#1818e8,1,0.51880003
 'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.5185
 'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.5185
 'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.5185
@@ -91,7 +90,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sam Bankman-Fried',en,unknown,#111111,#111111,3,0.4474949743977114
 'Julia Louis-Dreyfus',en,unknown,#111111,#111111,3,0.4474098427570048
 'Howard Stern',en,unknown,#111111,#111111,3,0.4473899041428432
-'Friederike Otto',en,Deutschland,#1818e8,#1818e8,2,0.44710813824999995
+'Friederike Otto',en,Deutschland,#1818e8,#1818e8,2,0.4471081382499999
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.4468898724312945
 'Eliot Wolf',en,unknown,#111111,#111111,3,0.4453004334225487
 'Britney Spears',en,unknown,#111111,#111111,3,0.4448861076003138
@@ -103,6 +102,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Colin Farrell',en,unknown,#111111,#111111,3,0.4415396721119243
 'Gayle King',en,unknown,#111111,#111111,3,0.4415021830037168
 'Juliette Binoche',en,unknown,#111111,#111111,2,0.4413064710226806
+'Ottmar Edenhofer',en,Deutschland,#1818e8,#1818e8,1,0.4412800555
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.4410324932402883
 'Antonio Brown',en,unknown,#111111,#111111,3,0.4410158243607766
 'Chris Hemsworth',en,unknown,#111111,#111111,3,0.4408408853425302
