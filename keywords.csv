@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.5185
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.5185
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,2,0.5061401664999999
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.4867607852356491
@@ -103,9 +102,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.4410324932402883
 'Antonio Brown',en,unknown,#111111,#111111,3,0.4410158243607766
 'Chris Hemsworth',en,unknown,#111111,#111111,3,0.4408408853425302
-'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.440725
 'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.440725
 'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.440725
+'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.440725
+'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.440725
 'Radical Optimism',en,unknown,#111111,#111111,3,0.4406333960161955
 'Gerald Darmanin',en,unknown,#111111,#111111,2,0.4406192349452916
 'Alexander Smirnov',en,unknown,#111111,#111111,3,0.4398580053195104
