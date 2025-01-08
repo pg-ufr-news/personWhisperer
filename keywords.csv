@@ -100,11 +100,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.4410324932402883
 'Antonio Brown',en,unknown,#111111,#111111,3,0.4410158243607766
 'Chris Hemsworth',en,unknown,#111111,#111111,3,0.4408408853425302
-'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.440725
-'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.440725
-'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.440725
 'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.440725
 'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.440725
+'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.440725
+'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.440725
+'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.440725
 'Radical Optimism',en,unknown,#111111,#111111,3,0.4406333960161955
 'Gerald Darmanin',en,unknown,#111111,#111111,2,0.4406192349452916
 'Alexander Smirnov',en,unknown,#111111,#111111,3,0.4398580053195104
@@ -201,7 +201,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emma Stone',en,unknown,#111111,#111111,3,0.419678190486853
 'Hubert Aiwanger',en,unknown,#111111,#111111,2,0.4196570488150117
 'Lindsey Graham',en,USA,#18e8e8,#18e8e8,3,0.4196441722283064
-'Kemal Kılıçdaroğlu',en,Türkei,#111111,#111111,3,0.4195295045459323
 'Rupert Murdoch',en,unknown,#111111,#111111,3,0.4194892567117652
 'Teresa Giudice',en,unknown,#111111,#111111,2,0.4194805423732357
 'Kim Yo Jong',en,NordKorea,#111111,#111111,2,0.4194514519096409
@@ -426,8 +425,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.36875252775
 'King Charles',en,UK,#e838e8,#e838e8,3,0.3687029340082495
 'Petro Poroshenko',en,unknown,#111111,#111111,1,0.3685384025549144
-'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.368475
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.368475
+'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.368475
 'David Weiss',en,unknown,#111111,#111111,3,0.3683413957671149
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.3667259496198617
 'Sarah Stier',en,unknown,#111111,#111111,3,0.3664506631528372
@@ -452,6 +451,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boris Johnson',en,UK,#e838e8,#e838e8,3,0.3574162960158356
 'Lula da Silva',en,Brasilien,#58e838,#58e848,3,0.3567335879340463
 'Edouard Philippe',en,unknown,#111111,#111111,1,0.3567242377557477
+'Kemal Kılıçdaroğlu',en,Türkei,#111111,#111111,1,0.35660007886404244
 'Daniel Penny',en,USA,#18e8e8,#18e8e8,3,0.3560641137930571
 'Mark Rutte',en,Niederlande,#111111,#111111,3,0.3546075923802787
 'Andrew Tate',en,USA,#18e8e8,#18e8e8,2,0.35428939175
@@ -477,7 +477,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,1,0.3430846826913157
 'Cem Özdemir',en,Deutschland,#1818e8,#1818e8,2,0.3413336467196425
 'Jan Lipavský',en,Tschechien,#111111,#111111,1,0.3410184166481249
-'Yaël Braun-Pivet',en,unknown,#111111,#111111,1,0.33948255053532683
+'Yaël Braun-Pivet',en,unknown,#111111,#111111,1,0.3394825505353268
 'Paul-Henry Nargeolet',en,Frankreich,#e8e808,#e8e808,3,0.3391518067977272
 'Bruno Retailleau',en,Frankreich,#e8e808,#e8e808,2,0.3390892955819233
 'Ed McVey',en,UK,#e838e8,#e838e8,1,0.3382402632177319
