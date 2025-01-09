@@ -27,6 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerod Mayo',en,unknown,#111111,#111111,3,0.4672568104232722
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.4664087596135799
 'Emily Blunt',en,unknown,#111111,#111111,3,0.4656559746428906
+'Zach Bryan',en,unknown,#111111,#111111,3,0.46526093722893047
 'Francis Ford Coppola',en,unknown,#111111,#111111,3,0.4651871568857462
 'Sara Haines',en,unknown,#111111,#111111,3,0.4650267259940769
 'Billie Eilish',en,unknown,#111111,#111111,3,0.4643460591720645
@@ -44,7 +45,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Margaret Qualley',en,unknown,#111111,#111111,3,0.4614933035035954
 'Dua Lipa',en,unknown,#111111,#111111,3,0.46144555650156
 'Javier Milei',en,unknown,#111111,#111111,3,0.4613851600372438
-'Zach Bryan',en,unknown,#111111,#111111,3,0.4613249341730733
 'Drake Maye',en,unknown,#111111,#111111,3,0.4609442513953192
 'Bronny James',en,unknown,#111111,#111111,3,0.4608577549967321
 'Carter Reum',en,unknown,#111111,#111111,3,0.460785640088339
