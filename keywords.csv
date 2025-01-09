@@ -27,7 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerod Mayo',en,unknown,#111111,#111111,3,0.4672568104232722
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.4664087596135799
 'Emily Blunt',en,unknown,#111111,#111111,3,0.4656559746428906
-'Zach Bryan',en,unknown,#111111,#111111,3,0.46526093722893047
+'Zach Bryan',en,unknown,#111111,#111111,3,0.4652609372289304
 'Francis Ford Coppola',en,unknown,#111111,#111111,3,0.4651871568857462
 'Sara Haines',en,unknown,#111111,#111111,3,0.4650267259940769
 'Billie Eilish',en,unknown,#111111,#111111,3,0.4643460591720645
@@ -613,7 +613,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Éric Ciotti',en,Frankreich,#e8e808,#e8e808,1,0.2123938589332702
 'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.2117010450255964
 'Benjamin Netanyahu',en,Israel,#111111,#111111,3,0.211518893579839
-'Volker Wissing',en,Deutschland,#1818e8,#1818e8,3,0.2105926075240448
 'Gautam Adani',en,Indien,#111111,#111111,3,0.2103223449988411
 'Charles Koch',en,USA,#18e8e8,#18e8e8,3,0.2088020656013379
 'Mukesh Ambani',en,Indien,#111111,#111111,2,0.207879378084222
@@ -662,6 +661,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karl Lauterbach',en,Deutschland,#1818e8,#1818e8,2,0.180625893135617
 'Antonio Guterres',en,UN,#e888e8,#e888e8,3,0.1804727461714048
 'Kyrill',en,Ukraine,#e818e8,#e818e8,2,0.1792841824974189
+'Volker Wissing',en,Deutschland,#1818e8,#1818e8,2,0.17900392639543808
 'Thomas Haldenwang',en,Deutschland,#1818e8,#1818e8,1,0.1786640257677165
 'Andrew Forrest',en,Australien,#111111,#111111,2,0.1780635727259072
 'Björn Höcke',en,Deutschland,#1818e8,#1818e8,1,0.1770581120310153
