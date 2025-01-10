@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eric Trump',en,unknown,#111111,#111111,3,0.4790082774409556
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.4745674120469041
 'Sabrina Carpenter',en,unknown,#111111,#111111,3,0.4745461104794251
-'Ferdinand Dudenhöffer',en,Deutschland,#1818e8,#1818e8,1,0.4740101409999999
 'Jennifer Lopez',en,unknown,#111111,#111111,3,0.4736563752854347
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4729535177097347
 'LeBron James',en,unknown,#111111,#111111,3,0.4727042549329766
@@ -99,8 +98,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Antonio Brown',en,unknown,#111111,#111111,3,0.4410158243607766
 'Chris Hemsworth',en,unknown,#111111,#111111,3,0.4408408853425302
 'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.440725
-'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.440725
 'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.440725
+'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.440725
 'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.440725
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.440725
 'Radical Optimism',en,unknown,#111111,#111111,3,0.4406333960161955
@@ -285,6 +284,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Schulz',en,unknown,#111111,#111111,3,0.4040754100545948
 'Pablo Picasso',en,Spanien,#111111,#111111,3,0.4040473068863635
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.4038867128897727
+'Ferdinand Dudenhöffer',en,Deutschland,#1818e8,#1818e8,1,0.4036586948499999
 'Matt Lauer',en,unknown,#111111,#111111,2,0.4036037732417056
 'Elizabeth Warren',en,unknown,#111111,#111111,3,0.4032419324597965
 'Al Pacino',en,USA,#18e8e8,#18e8e8,3,0.4029518811789756
