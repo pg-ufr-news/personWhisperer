@@ -259,6 +259,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chip Somodevilla',en,USA,#18e8e8,#18e8e8,3,0.4082480452806819
 'Benny Safdie',en,unknown,#111111,#111111,2,0.4081430721465018
 'Mary Lou McDonald',en,Irland,#111111,#111111,3,0.407910047
+'Brad Pitt',en,unknown,#111111,#111111,3,0.4077473559598492
 'Viktor Shokin',en,unknown,#111111,#111111,1,0.4077155810843767
 'Adolf Hitler',en,Deutschland,#1818e8,#1818e8,3,0.407361853270852
 'Tom Hanks',en,unknown,#111111,#111111,3,0.407272907365672
@@ -338,7 +339,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'nan nan',en,unknown,#111111,#111111,2,0.3942603856382875
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.394226217909091
 'Laura Ingraham',en,USA,#18e8e8,#18e8e8,3,0.3938946273010715
-'Brad Pitt',en,unknown,#111111,#111111,3,0.3936576091506247
 'Geoffrey Hinton',en,UK,#e838e8,#e838e8,3,0.3933352143676561
 'Leonardo DiCaprio',en,USA,#18e8e8,#18e8e8,3,0.3932127394749063
 'Alex Jones',en,unknown,#111111,#111111,3,0.392996174189314
