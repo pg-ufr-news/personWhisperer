@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Arno Antlitz',en,Deutschland,#1818e8,#1818e8,1,0.4844001665
 'Chris Wright',en,USA,#18e8e8,#18e8e8,2,0.4813097231363636
 'Eric Trump',en,unknown,#111111,#111111,3,0.4790082774409556
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.4745674120469041
@@ -97,10 +96,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Antonio Brown',en,unknown,#111111,#111111,3,0.4410158243607766
 'Chris Hemsworth',en,unknown,#111111,#111111,3,0.4408408853425302
 'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.440725
-'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.440725
-'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.440725
-'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.440725
 'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.440725
+'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.440725
+'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.440725
+'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.440725
 'Radical Optimism',en,unknown,#111111,#111111,3,0.4406333960161955
 'Gerald Darmanin',en,unknown,#111111,#111111,2,0.4406192349452916
 'Alexander Smirnov',en,unknown,#111111,#111111,3,0.4398580053195104
@@ -239,6 +238,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michelle Williams',en,unknown,#111111,#111111,3,0.4119893034131498
 'Lady Di',en,UK,#e838e8,#e838e8,2,0.411773791363636
 'Harry Belafonte',en,USA,#18e8e8,#18e8e8,2,0.411744230016534
+'Arno Antlitz',en,Deutschland,#1818e8,#1818e8,1,0.411740141525
 'Ben Affleck',en,unknown,#111111,#111111,3,0.4117119794444336
 'Justin Timberlake',en,unknown,#111111,#111111,3,0.4116264205879065
 'Kevin Hart',en,unknown,#111111,#111111,3,0.4115828390482984
