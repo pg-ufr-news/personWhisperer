@@ -522,7 +522,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Giorgia Meloni',en,Italien,#111111,#111111,3,0.268923953740093
 'Georg Gänswein',en,Deutschland,#1818e8,#1818e8,1,0.268547120299375
 'Moon Hyung-jin',en,USA,#18e8e8,#18e8e8,1,0.2681992778252989
-'Michael Sandel',en,USA,#18e8e8,#18e8e8,1,0.2664889817455491
 'Hun Sen',en,Kambodscha,#111111,#111111,3,0.265928065094144
 'Rishi Sunak',en,UK,#e838e8,#e838e8,3,0.265694943046221
 'Annalena Baerbock',en,Deutschland,#1818e8,#1818e8,3,0.2648909508118078
@@ -579,6 +578,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dalai Lama',en,Tibet,#111111,#111111,3,0.2325493460489374
 'Joschka Fischer',en,Deutschland,#1818e8,#1818e8,1,0.2312800224899858
 'Jens Spahn',en,Deutschland,#1818e8,#1818e8,1,0.2288372092545312
+'Michael Sandel',en,USA,#18e8e8,#18e8e8,1,0.2274157244837167
 'Kevin Kühnert',en,Deutschland,#1818e8,#1818e8,2,0.2266686225201619
 'David Malpass',en,USA,#18e8e8,#18e8e8,2,0.22632552833199
 'Wagner-Chef Prigoschin',en,unknown,#111111,#111111,1,0.2258261310183481
