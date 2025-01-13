@@ -88,6 +88,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nikki Glaser',en,unknown,#111111,#111111,2,0.4447428422861836
 'Alexander De Croo',en,Belgien,#111111,#111111,2,0.4440416072045454
 'James Biden',en,unknown,#111111,#111111,3,0.4435131313467029
+'Emma Stone',en,unknown,#111111,#111111,3,0.44349875373200687
 'Robert Menendez',en,unknown,#111111,#111111,3,0.4426209319025027
 'Colin Farrell',en,unknown,#111111,#111111,3,0.4415396721119243
 'Gayle King',en,unknown,#111111,#111111,3,0.4415021830037168
@@ -124,7 +125,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Wright',en,USA,#18e8e8,#18e8e8,3,0.4322504078477273
 'Chelsea Handler',en,USA,#18e8e8,#18e8e8,3,0.4322291238088234
 'Mark Kerr',en,unknown,#111111,#111111,3,0.4318780426331156
-'Bob Menendez',en,unknown,#111111,#111111,3,0.43173765143711773
+'Bob Menendez',en,unknown,#111111,#111111,3,0.4317376514371177
 'Ana Navarro',en,unknown,#111111,#111111,3,0.431262963983809
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,3,0.4310869115083519
 'Olivia Rodrigo',en,unknown,#111111,#111111,3,0.430670276907992
@@ -191,7 +192,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leon Botstein',en,USA,#18e8e8,#18e8e8,2,0.419878784232641
 'Missy Elliott',en,unknown,#111111,#111111,3,0.4197834041351739
 'Jake Tapper',en,unknown,#111111,#111111,3,0.4197349803589802
-'Emma Stone',en,unknown,#111111,#111111,3,0.419678190486853
 'Hubert Aiwanger',en,unknown,#111111,#111111,2,0.4196570488150117
 'Lindsey Graham',en,USA,#18e8e8,#18e8e8,3,0.4196441722283064
 'Rupert Murdoch',en,unknown,#111111,#111111,3,0.4194892567117652
