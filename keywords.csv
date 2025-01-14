@@ -280,6 +280,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mathias Döpfner',en,Deutschland,#1818e8,#1818e8,1,0.404327780875
 'Carey Mulligan',en,unknown,#111111,#111111,1,0.4042111868545511
 'Andrew Schulz',en,unknown,#111111,#111111,3,0.4040754100545948
+'Martin Luther King',en,USA,#18e8e8,#18e8e8,3,0.4040586180023721
 'Pablo Picasso',en,Spanien,#111111,#111111,3,0.4040473068863635
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.4038867128897727
 'Ferdinand Dudenhöffer',en,Deutschland,#1818e8,#1818e8,1,0.4036586948499999
@@ -302,7 +303,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4004610982365516
 'Greta Gerwig',en,unknown,#111111,#111111,2,0.4004360537482884
 'Sergio Mattarella',en,Italien,#111111,#111111,2,0.4001925296022727
-'Martin Luther King',en,USA,#18e8e8,#18e8e8,3,0.4000114987193682
 'Kim Mulkey',en,unknown,#111111,#111111,2,0.3999611512847337
 'David Weiss',en,unknown,#111111,#111111,3,0.3998613382202295
 'Sam Altman',en,USA,#18e8e8,#18e8e8,3,0.3997137825215421
