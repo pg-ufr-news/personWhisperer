@@ -95,7 +95,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Antonio Brown',en,unknown,#111111,#111111,3,0.4410158243607766
 'Chris Hemsworth',en,unknown,#111111,#111111,3,0.4408408853425302
 'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.440725
-'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.440725
 'Radical Optimism',en,unknown,#111111,#111111,3,0.4406333960161955
 'Gerald Darmanin',en,unknown,#111111,#111111,2,0.4406192349452916
 'Alexander Smirnov',en,unknown,#111111,#111111,3,0.4398580053195104
@@ -401,9 +400,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ottmar Edenhofer',en,Deutschland,#1818e8,#1818e8,1,0.375538092175
 'Ronna McDaniel',en,unknown,#111111,#111111,2,0.3752414916230247
 'Lawrence Jones',en,unknown,#111111,#111111,3,0.3749910308405556
+'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.37461625
 'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.37461625
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.37461625
-'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.37461625
+'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.37461625
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.374587953775
 'Karim Benzema',en,Frankreich,#e8e808,#e8e808,3,0.3744024619420454
 'Nicolas Sarkozy',en,unknown,#111111,#111111,2,0.3738855527802417
