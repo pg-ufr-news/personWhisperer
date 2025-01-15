@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.48199754772122444
+'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4819975477212244
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.4745674120469041
 'Sabrina Carpenter',en,unknown,#111111,#111111,3,0.4745461104794251
 'Jennifer Lopez',en,unknown,#111111,#111111,3,0.4736563752854347
@@ -142,7 +142,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lionel Messi',en,Argentinien,#111111,#111111,3,0.4278877752318322
 'Lily Gladstone',en,unknown,#111111,#111111,3,0.4277285585824035
 'Mark Meadows',en,unknown,#111111,#111111,3,0.4273903153523611
-'Lara Trump',en,unknown,#111111,#111111,3,0.4272266864718118
 'Billionaire Bunker',en,unknown,#111111,#111111,3,0.4269552838795603
 'Lewis Kaplan',en,unknown,#111111,#111111,3,0.4266894931156113
 'Joaquim Valente',en,unknown,#111111,#111111,1,0.4263506247683148
@@ -170,6 +169,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eva Green',en,unknown,#111111,#111111,3,0.4227806444809336
 'Rosa Parks',en,unknown,#111111,#111111,3,0.4227147079005344
 'Gavin Newsom',en,unknown,#111111,#111111,3,0.4226901412608101
+'Lara Trump',en,unknown,#111111,#111111,3,0.42264053804649454
 'Lauren Boebert',en,USA,#18e8e8,#18e8e8,3,0.4226338377288096
 'Andrea Arnold',en,unknown,#111111,#111111,2,0.422514492651765
 'Devon Archer',en,unknown,#111111,#111111,3,0.4220628390787838
@@ -400,10 +400,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ottmar Edenhofer',en,Deutschland,#1818e8,#1818e8,1,0.375538092175
 'Ronna McDaniel',en,unknown,#111111,#111111,2,0.3752414916230247
 'Lawrence Jones',en,unknown,#111111,#111111,3,0.3749910308405556
-'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.37461625
 'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.37461625
-'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.37461625
+'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.37461625
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.37461625
+'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.37461625
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.374587953775
 'Karim Benzema',en,Frankreich,#e8e808,#e8e808,3,0.3744024619420454
 'Nicolas Sarkozy',en,unknown,#111111,#111111,2,0.3738855527802417
