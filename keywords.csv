@@ -400,10 +400,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ottmar Edenhofer',en,Deutschland,#1818e8,#1818e8,1,0.375538092175
 'Ronna McDaniel',en,unknown,#111111,#111111,2,0.3752414916230247
 'Lawrence Jones',en,unknown,#111111,#111111,3,0.3749910308405556
-'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.37461625
 'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.37461625
-'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.37461625
+'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.37461625
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.37461625
+'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.37461625
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.374587953775
 'Karim Benzema',en,Frankreich,#e8e808,#e8e808,3,0.3744024619420454
 'Nicolas Sarkozy',en,unknown,#111111,#111111,2,0.3738855527802417
@@ -705,7 +705,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boris Palmer',en,Deutschland,#1818e8,#1818e8,1,0.1449050835982684
 'Patriarch Kyrill',en,Ukraine,#e818e8,#e818e8,1,0.143922702418574
 'Klaus-Michael Kühne',en,Deutschland,#1818e8,#1818e8,1,0.143665233328073
-'Christoph Heusgen',en,Deutschland,#1818e8,#1818e8,1,0.138367905115676
 'Wolodymyr Selenskyj',en,Ukraine,#e818e8,#e818e8,1,0.137520488281903
 'Ulrich Reitz',en,Deutschland,#1818e8,#1818e8,1,0.1372127490946484
 'Yannick Morez',en,Frankreich,#e8e808,#e8e808,1,0.1370691284584932
@@ -721,8 +720,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexei Nawalny',en,Russland,#e81818,#e81818,1,0.129347072944707
 'Jürgen Grässlin',en,Deutschland,#1818e8,#1818e8,1,0.1278282964372896
 'Otmar Issing',en,EU,#111111,#111111,1,0.12778560651524
-'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.1273893204557615
 'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.1273893204557615
+'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.1273893204557615
 'Larry Page',en,USA,#18e8e8,#18e8e8,2,0.1273604723593916
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.1265313572958776
 'Macky Sall',en,Senegal,#111111,#111111,1,0.123426671058894
@@ -737,6 +736,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winfried Kretschmann',en,Deutschland,#1818e8,#1818e8,1,0.1198495487826529
 'Stephan Harbarth',en,Deutschland,#1818e8,#1818e8,1,0.1178945717546694
 'Faisal Kawusi',en,Deutschland,#1818e8,#1818e8,1,0.1178930256581501
+'Christoph Heusgen',en,Deutschland,#1818e8,#1818e8,1,0.11776273434832461
 'Chez Krömer',en,Deutschland,#1818e8,#1818e8,1,0.1176614087118674
 'Martin Sonneborn',en,Deutschland,#1818e8,#1818e8,1,0.117512603527464
 'Jewgenij Roisman',en,Russland,#e81818,#e81818,1,0.1171823143100562
