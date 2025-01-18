@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Joy Behar',en,unknown,#111111,#111111,3,0.4942842381749255
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4819975477212244
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.4745674120469041
 'Sabrina Carpenter',en,unknown,#111111,#111111,3,0.4745461104794251
@@ -126,6 +125,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mindy Kaling',en,unknown,#111111,#111111,3,0.4302618176994904
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.4302192465249999
 'Matteo Salvini',en,Italien,#111111,#111111,3,0.4300419827744754
+'Joy Behar',en,unknown,#111111,#111111,3,0.42989296744868666
 'Sherri Shepherd',en,unknown,#111111,#111111,1,0.4294847156921221
 'Taylor Swift',en,unknown,#111111,#111111,3,0.4294404379141304
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,3,0.4291410385506654
