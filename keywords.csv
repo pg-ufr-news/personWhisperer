@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Joy Behar',en,unknown,#111111,#111111,3,0.49012423582076803
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4819975477212244
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.4745674120469041
 'Sabrina Carpenter',en,unknown,#111111,#111111,3,0.4745461104794251
@@ -57,7 +58,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andy Cohen',en,unknown,#111111,#111111,3,0.456010447271669
 'Mike Johnson',en,unknown,#111111,#111111,3,0.4558581013419318
 'Cameron Brink',en,unknown,#111111,#111111,3,0.4550507333833645
-'Joy Behar',en,unknown,#111111,#111111,3,0.4547328068479624
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.4542750438453295
 'Cara Delevingne',en,unknown,#111111,#111111,3,0.4537459527297873
 'Dawn Staley',en,unknown,#111111,#111111,3,0.4535637134798814
@@ -517,7 +517,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jordan Bardella',en,Frankreich,#e8e808,#e8e808,1,0.28141566077404
 'Katalin Novák',en,Ungarn,#111111,#111111,2,0.280633382133125
 'Jacinda Ardern',en,Neuseeland,#1818e8,#1818e8,3,0.2802132817125556
-'Moon Hyung-jin',en,USA,#18e8e8,#18e8e8,1,0.27886947615150404
+'Moon Hyung-jin',en,USA,#18e8e8,#18e8e8,1,0.278869476151504
 'Christian Lindner',en,Deutschland,#1818e8,#1818e8,3,0.277578331234168
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.2770164947351135
 'Giorgia Meloni',en,Italien,#111111,#111111,3,0.268923953740093
