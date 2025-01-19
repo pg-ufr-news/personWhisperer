@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.53787726668313
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.4745674120469041
 'Sabrina Carpenter',en,unknown,#111111,#111111,3,0.4745461104794251
 'Jennifer Lopez',en,unknown,#111111,#111111,3,0.4736563752854347
@@ -33,6 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Antonoff',en,unknown,#111111,#111111,3,0.4633782865984226
 'Hugh Grant',en,unknown,#111111,#111111,3,0.4627063125422134
 'Chuck Schumer',en,unknown,#111111,#111111,3,0.4622383556305056
+'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.46215715168066046
 'Leonard Bernstein',en,unknown,#111111,#111111,3,0.4621559586661052
 'Gisele Bündchen',en,unknown,#111111,#111111,3,0.4620678495656168
 'Angelina Jolie',en,unknown,#111111,#111111,3,0.4620264017996788
