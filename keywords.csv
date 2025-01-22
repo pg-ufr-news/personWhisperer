@@ -122,7 +122,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,3,0.4310869115083519
 'Olivia Rodrigo',en,unknown,#111111,#111111,3,0.430670276907992
 'Mindy Kaling',en,unknown,#111111,#111111,3,0.4302618176994904
-'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.4302192465249999
 'Matteo Salvini',en,Italien,#111111,#111111,3,0.4300419827744754
 'Joy Behar',en,unknown,#111111,#111111,3,0.4298929674486866
 'Sherri Shepherd',en,unknown,#111111,#111111,1,0.4294847156921221
@@ -398,11 +397,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ottmar Edenhofer',en,Deutschland,#1818e8,#1818e8,1,0.375538092175
 'Ronna McDaniel',en,unknown,#111111,#111111,2,0.3752414916230247
 'Lawrence Jones',en,unknown,#111111,#111111,3,0.3749910308405556
-'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.37461625
 'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.37461625
 'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.37461625
-'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.37461625
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.37461625
+'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.37461625
+'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.37461625
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.374587953775
 'Karim Benzema',en,Frankreich,#e8e808,#e8e808,3,0.3744024619420454
 'Nicolas Sarkozy',en,unknown,#111111,#111111,2,0.3738855527802417
@@ -426,6 +425,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.368475
 'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.368475
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.3667259496198617
+'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.3665864645462499
 'Sarah Stier',en,unknown,#111111,#111111,3,0.3664506631528372
 'Rachida Dati',en,unknown,#111111,#111111,1,0.3662435901156727
 'Robert Sesselmann',en,Deutschland,#1818e8,#1818e8,2,0.3656082162499999
