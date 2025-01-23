@@ -603,6 +603,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2218526562499999
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
+'Yoon Suk-yeol',en,SüdKorea,#111111,#111111,3,0.22156408645994854
 'König Charles III',en,UK,#e838e8,#e838e8,1,0.2206410271436486
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,1,0.2185231873055357
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,2,0.2175058004450625
@@ -625,7 +626,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.2036607384374999
 'Nancy Faeser',en,Deutschland,#1818e8,#1818e8,2,0.2025913901087565
 'Edward Snowden',en,USA,#18e8e8,#18e8e8,2,0.2022192049329624
-'Yoon Suk-yeol',en,SüdKorea,#111111,#111111,3,0.201339918829886
 'Greta Thunberg',en,Schweden,#111111,#111111,3,0.2011137111702722
 'Aleksandar Vucic',en,Serbien,#111111,#111111,3,0.2000764247801457
 'Mohammed bin Salman',en,SaudiArabien,#111111,#111111,2,0.199302301329668
