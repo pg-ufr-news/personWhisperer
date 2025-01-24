@@ -113,7 +113,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tyson Fury',en,unknown,#111111,#111111,3,0.433980998208594
 'Kim Yo Jong',en,NordKorea,#111111,#111111,2,0.4336339441231947
 'Charlie Munger',en,unknown,#111111,#111111,3,0.4334576032166166
-'Robert Kennedy',en,USA,#18e8e8,#18e8e8,3,0.43261232969015845
+'Robert Kennedy',en,USA,#18e8e8,#18e8e8,3,0.4326123296901584
 'Meryl Streep',en,unknown,#111111,#111111,3,0.432493571316314
 'Chris Wright',en,USA,#18e8e8,#18e8e8,3,0.4322504078477273
 'Chelsea Handler',en,USA,#18e8e8,#18e8e8,3,0.4322291238088234
@@ -464,7 +464,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Johan Rockström',en,unknown,#111111,#111111,1,0.3499910154699999
 'Queen Camilla',en,UK,#e838e8,#e838e8,3,0.3494038458196475
 'Bettina Stark-Watzinger',en,Deutschland,#1818e8,#1818e8,2,0.3475528720687499
-'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.3470663994545191
 'Margaret Thatcher',en,UK,#e838e8,#e838e8,3,0.3459014514086916
 'Henry Ford',en,USA,#18e8e8,#18e8e8,3,0.345432312287949
 'Tim Malone',en,unknown,#111111,#111111,3,0.344133652966417
@@ -475,6 +474,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,1,0.3430846826913157
 'Cem Özdemir',en,Deutschland,#1818e8,#1818e8,2,0.3413336467196425
 'Jan Lipavský',en,Tschechien,#111111,#111111,1,0.3410184166481249
+'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.34074771988116886
 'Yaël Braun-Pivet',en,unknown,#111111,#111111,1,0.3394825505353268
 'Paul-Henry Nargeolet',en,Frankreich,#e8e808,#e8e808,3,0.3391518067977272
 'Bruno Retailleau',en,Frankreich,#e8e808,#e8e808,2,0.3390892955819233
