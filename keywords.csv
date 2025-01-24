@@ -368,13 +368,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jimmy Carter',en,USA,#18e8e8,#18e8e8,3,0.3832220366334228
 'Willem Dafoe',en,unknown,#111111,#111111,3,0.3831414562660519
 'Raphael Warnock',en,USA,#18e8e8,#18e8e8,2,0.3829958488744703
-'Lachlan Murdoch',en,UK,#e838e8,#e838e8,3,0.3828496895702837
 'Rand Paul',en,unknown,#111111,#111111,3,0.3826937248065604
 'Linda Yaccarino',en,USA,#18e8e8,#18e8e8,1,0.38240500854276
 'Robert De Niro',en,USA,#18e8e8,#18e8e8,3,0.3821945654229572
 'Herbert Diess',en,Deutschland,#1818e8,#1818e8,2,0.381664652674242
 'Recep Tayyip Erdoan',en,Türkei,#111111,#111111,3,0.3815378881007805
 'Omar Sy',en,unknown,#111111,#111111,2,0.3813211340425897
+'Lachlan Murdoch',en,UK,#e838e8,#e838e8,3,0.3810464941782194
 'Gisele Bundchen',en,unknown,#111111,#111111,2,0.3802712009030208
 'Leni Klum',en,unknown,#111111,#111111,2,0.3800290619166819
 'Barbara Sturm',en,Deutschland,#1818e8,#1818e8,2,0.3800082493446827
@@ -804,6 +804,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.0688834899025586
 'Dmitry Peskov',en,Russland,#e81818,#e81818,2,0.066365762202661
 'Alexei Miller',en,Russland,#e81818,#e81818,1,0.0647260669685873
-'Louis Klamroth',en,Deutschland,#1818e8,#1818e8,1,0.06251939625145779
+'Louis Klamroth',en,Deutschland,#1818e8,#1818e8,1,0.0625193962514577
 'Bartholomäus',en,Türkei,#111111,#111111,1,0.0518042409271966
 'Ethan Bradley',en,USA,#18e8e8,#18e8e8,2,0.0508912293418
