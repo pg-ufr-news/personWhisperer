@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4729535177097347
+'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4911910550532745
 'LeBron James',en,unknown,#111111,#111111,3,0.4727042549329766
 'Robin Roberts',en,unknown,#111111,#111111,3,0.4725324572879813
 'Victoria Monét',en,unknown,#111111,#111111,3,0.471456115974723
@@ -766,7 +766,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jitzchak Herzog',en,Israel,#111111,#111111,1,0.1034947800769493
 'Amin Nasser',en,SaudiArabien,#111111,#111111,1,0.1026328506069425
 'Yanis Varoufakis',en,Griechenland,#1858e8,#1858e8,1,0.102105240474468
-'Chez Krömer',en,Deutschland,#1818e8,#1818e8,1,0.10001219740508728
+'Chez Krömer',en,Deutschland,#1818e8,#1818e8,1,0.1000121974050872
 'Ali Chamenei',en,Iran,#111111,#111111,1,0.0999798670967432
 'Nina Gummich',en,Deutschland,#1818e8,#1818e8,1,0.099224699787724
 'Erik Marquardt',en,EU,#111111,#111111,1,0.0982724945986338
