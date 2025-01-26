@@ -736,7 +736,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stephan Harbarth',en,Deutschland,#1818e8,#1818e8,1,0.1178945717546694
 'Faisal Kawusi',en,Deutschland,#1818e8,#1818e8,1,0.1178930256581501
 'Christoph Heusgen',en,Deutschland,#1818e8,#1818e8,1,0.1177627343483246
-'Chez Krömer',en,Deutschland,#1818e8,#1818e8,1,0.1176614087118674
 'Martin Sonneborn',en,Deutschland,#1818e8,#1818e8,1,0.117512603527464
 'Jewgenij Roisman',en,Russland,#e81818,#e81818,1,0.1171823143100562
 'Sergej Lawrow',en,Russland,#e81818,#e81818,1,0.1167551274848404
@@ -767,6 +766,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jitzchak Herzog',en,Israel,#111111,#111111,1,0.1034947800769493
 'Amin Nasser',en,SaudiArabien,#111111,#111111,1,0.1026328506069425
 'Yanis Varoufakis',en,Griechenland,#1858e8,#1858e8,1,0.102105240474468
+'Chez Krömer',en,Deutschland,#1818e8,#1818e8,1,0.10001219740508728
 'Ali Chamenei',en,Iran,#111111,#111111,1,0.0999798670967432
 'Nina Gummich',en,Deutschland,#1818e8,#1818e8,1,0.099224699787724
 'Erik Marquardt',en,EU,#111111,#111111,1,0.0982724945986338
