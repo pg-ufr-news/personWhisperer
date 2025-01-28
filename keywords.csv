@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Robin Roberts',en,unknown,#111111,#111111,3,0.4725324572879813
 'Victoria Monét',en,unknown,#111111,#111111,3,0.471456115974723
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.4707414951633359
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.4707294301489273
@@ -125,6 +124,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Behar',en,unknown,#111111,#111111,3,0.4298929674486866
 'Sherri Shepherd',en,unknown,#111111,#111111,1,0.4294847156921221
 'Taylor Swift',en,unknown,#111111,#111111,3,0.4294404379141304
+'Robin Roberts',en,unknown,#111111,#111111,3,0.4293322464220568
 'Noor Alfallah',en,USA,#18e8e8,#18e8e8,3,0.4288197912919074
 'Sergei Shoigu',en,unknown,#111111,#111111,3,0.4285670462508077
 'Benny Blanco',en,unknown,#111111,#111111,2,0.4285603641580055
@@ -412,7 +412,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tasneem Essop',en,unknown,#111111,#111111,1,0.371473933
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.3709641794664772
 'Cassidy Hutchinson',en,unknown,#111111,#111111,2,0.3708635759279836
-'Julian Edelman',en,unknown,#111111,#111111,2,0.36991133638843343
+'Julian Edelman',en,unknown,#111111,#111111,2,0.3699113363884334
 'Akshata Murty',en,Indien,#111111,#111111,2,0.3698238303765608
 'Kemal Kiliçdaroglu',en,Türkei,#111111,#111111,1,0.3697498615410713
 'Drena De Niro',en,USA,#18e8e8,#18e8e8,2,0.3693221098636363
