@@ -638,7 +638,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Miriam Adelson',en,USA,#18e8e8,#18e8e8,3,0.1940831153730318
 'Immanuel Kant',en,Deutschland,#1818e8,#1818e8,2,0.1919915532618756
 'Jair Bolsonaro',en,Brasilien,#58e838,#58e848,3,0.191220077650967
-'Charles Koch',en,USA,#18e8e8,#18e8e8,3,0.19097141729959877
+'Charles Koch',en,USA,#18e8e8,#18e8e8,3,0.1909714172995987
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.1908240405545692
 'Thomas Bayes',en,UK,#e838e8,#e838e8,1,0.1908090553395686
 'Andrés Manuel López Obrador',en,Mexiko,#111111,#111111,3,0.190780487341999
@@ -663,6 +663,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Volker Wissing',en,Deutschland,#1818e8,#1818e8,2,0.179003926395438
 'Thomas Haldenwang',en,Deutschland,#1818e8,#1818e8,1,0.1786640257677165
 'Andrew Forrest',en,Australien,#111111,#111111,2,0.1780635727259072
+'Roberta Metsola',en,EU,#111111,#111111,2,0.17794751746285298
 'Björn Höcke',en,Deutschland,#1818e8,#1818e8,1,0.1770581120310153
 'Christian Drosten',en,Deutschland,#1818e8,#1818e8,2,0.1764376674725316
 'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.1755231959929296
@@ -689,7 +690,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1595440828683983
-'Roberta Metsola',en,EU,#111111,#111111,2,0.158833168910546
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.1581434948158253
 'Nicola Beer',en,EU,#111111,#111111,1,0.15777415006034
 'Robin Li',en,China,#e88818,#e88818,3,0.1560396915070655
