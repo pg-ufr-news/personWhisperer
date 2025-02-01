@@ -18,7 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emily Blunt',en,unknown,#111111,#111111,3,0.4656559746428906
 'Jennifer Lopez',en,unknown,#111111,#111111,3,0.465438248030122
 'Zach Bryan',en,unknown,#111111,#111111,3,0.4652609372289304
-'Francis Ford Coppola',en,unknown,#111111,#111111,3,0.4651871568857462
 'Sara Haines',en,unknown,#111111,#111111,3,0.4650267259940769
 'Billie Eilish',en,unknown,#111111,#111111,3,0.4643460591720645
 'Margot Robbie',en,unknown,#111111,#111111,3,0.4638953233245837
@@ -216,6 +215,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laurent Berger',en,Frankreich,#e8e808,#e8e808,1,0.4144545539451922
 'Mohammed Bin Salman',en,SaudiArabien,#111111,#111111,3,0.414341075039034
 'Gigi Hadid',en,unknown,#111111,#111111,3,0.4142287554851864
+'Francis Ford Coppola',en,unknown,#111111,#111111,3,0.4139970819892479
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.413908894685469
 'Roger Corman',en,unknown,#111111,#111111,2,0.4136547915192774
 'Kristen Wiig',en,unknown,#111111,#111111,3,0.4135004419434761
@@ -797,7 +797,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.0779451634949702
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.076810548853533
 'Badri Hosseini Chamenei',en,Iran,#111111,#111111,1,0.0764442041235952
-'Hans Joachim Schellnhuber',en,Deutschland,#1818e8,#1818e8,1,0.07609022501860685
+'Hans Joachim Schellnhuber',en,Deutschland,#1818e8,#1818e8,1,0.0760902250186068
 'Carola Rackete',en,Deutschland,#1818e8,#1818e8,1,0.0752171657805908
 'Heinrich XIII. Prinz Reuß',en,Deutschland,#1818e8,#1818e8,1,0.0743982090063982
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.0721709001772753
