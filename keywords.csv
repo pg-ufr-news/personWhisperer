@@ -361,7 +361,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sam Asghari',en,unknown,#111111,#111111,1,0.3845684795212871
 'Prince Louis',en,UK,#e838e8,#e838e8,3,0.384201885729489
 'Jordan Neely',en,USA,#18e8e8,#18e8e8,1,0.3840488497334579
-'Friederike Otto',en,Deutschland,#1818e8,#1818e8,2,0.3836422775124999
 'Oisin Fanning',en,Irland,#111111,#111111,1,0.38350041625
 'Jimmy Carter',en,USA,#18e8e8,#18e8e8,3,0.3832220366334228
 'Willem Dafoe',en,unknown,#111111,#111111,3,0.3831414562660519
@@ -487,6 +486,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.327800639565706
 'Charles III',en,UK,#e838e8,#e838e8,3,0.327601171231922
 'Vo Van Thuong',en,unknown,#111111,#111111,1,0.3275534589805712
+'Friederike Otto',en,Deutschland,#1818e8,#1818e8,1,0.3260961458856249
 'Péter Szijjártó',en,Ungarn,#111111,#111111,2,0.3240301487768481
 'Karl Jenkins',en,UK,#e838e8,#e838e8,2,0.3221342235926135
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,2,0.3200087095195301
