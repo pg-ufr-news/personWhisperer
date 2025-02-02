@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.4926204343569681
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.4707294301489273
 'Jason Whitlock',en,unknown,#111111,#111111,3,0.4704305257793536
 'Brittany Mahomes',en,unknown,#111111,#111111,3,0.4704152061212402
@@ -37,6 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drake Maye',en,unknown,#111111,#111111,3,0.4609442513953192
 'Bronny James',en,unknown,#111111,#111111,3,0.4608577549967321
 'Carter Reum',en,unknown,#111111,#111111,3,0.460785640088339
+'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.45928993575514704
 "'Dwayne ""The Rock"" Johnson'",en,unknown,#111111,#111111,3,0.4590877023239058
 'Martha MacCallum',en,unknown,#111111,#111111,3,0.4589351934361841
 'König Felipe VI',en,Spanien,#111111,#111111,2,0.4585471131874999
