@@ -36,7 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drake Maye',en,unknown,#111111,#111111,3,0.4609442513953192
 'Bronny James',en,unknown,#111111,#111111,3,0.4608577549967321
 'Carter Reum',en,unknown,#111111,#111111,3,0.460785640088339
-'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.45928993575514704
+'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.459289935755147
 "'Dwayne ""The Rock"" Johnson'",en,unknown,#111111,#111111,3,0.4590877023239058
 'Martha MacCallum',en,unknown,#111111,#111111,3,0.4589351934361841
 'König Felipe VI',en,Spanien,#111111,#111111,2,0.4585471131874999
@@ -138,7 +138,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demi Moore',en,unknown,#111111,#111111,3,0.4258937657417999
 'Peregrine Pearson',en,unknown,#111111,#111111,2,0.4258255468424355
 'Mark Cuban',en,unknown,#111111,#111111,3,0.42575876917349
-'Colin Farrell',en,unknown,#111111,#111111,3,0.4257186217496811
 'Aubrey Plaza',en,unknown,#111111,#111111,3,0.4256459928274352
 'Robert Badinter',en,unknown,#111111,#111111,1,0.4256380769843358
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.4252730268909402
@@ -285,6 +284,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Camille Etienne',en,Frankreich,#e8e808,#e8e808,2,0.401821122864035
 'Maya Rudolph',en,unknown,#111111,#111111,3,0.4015470628642358
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.40141514063
+'Colin Farrell',en,unknown,#111111,#111111,3,0.40136550848722896
 'Steve Scalise',en,unknown,#111111,#111111,3,0.4013552243347687
 'America Ferrera',en,unknown,#111111,#111111,2,0.4011272088518458
 'George Bush',en,USA,#18e8e8,#18e8e8,3,0.4010339907049995
