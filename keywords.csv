@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Aubrey Plaza',en,unknown,#111111,#111111,3,0.48807589112554217
+'Aubrey Plaza',en,unknown,#111111,#111111,3,0.4880758911255421
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.4707294301489273
 'Jason Whitlock',en,unknown,#111111,#111111,3,0.4704305257793536
 'Brittany Mahomes',en,unknown,#111111,#111111,3,0.4704152061212402
@@ -747,7 +747,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frank Bainimarama',en,Fidschi,#111111,#111111,1,0.113346782585109
 'Andreas Jödecke',en,Deutschland,#1818e8,#1818e8,1,0.1120103528819716
 'Alexej Kudrin',en,Russland,#e81818,#e81818,1,0.1118888387080861
-'Mojib Latif',en,Deutschland,#1818e8,#1818e8,1,0.1114190632112487
 'Bodo Ramelow',en,Deutschland,#1818e8,#1818e8,1,0.1107022262281007
 'Michael Ballweg',en,Deutschland,#1818e8,#1818e8,1,0.1100016288819354
 'Wolfgang Schäuble',en,Deutschland,#1818e8,#1818e8,1,0.1099819358340184
@@ -774,6 +773,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schellnhuber',en,Deutschland,#1818e8,#1818e8,1,0.0961698236312604
 'Lukaschenko',en,Belarus,#e81858,#e81858,1,0.095988595812761
 'Alexander Lukaschenko',en,Belarus,#e81858,#e81858,1,0.0955139169758093
+'Mojib Latif',en,Deutschland,#1818e8,#1818e8,1,0.09470620372956139
 'Sergej Schoigu',en,Russland,#e81818,#e81818,1,0.0943678995360839
 'Susanne Klatten',en,Deutschland,#1818e8,#1818e8,1,0.0938507755427247
 'Gregor Gysi',en,Deutschland,#1818e8,#1818e8,1,0.0937324084908803
