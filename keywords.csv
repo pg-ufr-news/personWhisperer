@@ -392,7 +392,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Putin',en,Russland,#e81818,#e81818,3,0.3755934272303734
 'Ronna McDaniel',en,unknown,#111111,#111111,2,0.3752414916230247
 'Lawrence Jones',en,unknown,#111111,#111111,3,0.3749910308405556
-'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.37461625
 'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.37461625
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.37461625
 'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.37461625
@@ -492,6 +491,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ottmar Edenhofer',en,Deutschland,#1818e8,#1818e8,1,0.31950740834875
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,2,0.319230817680828
 'Shahzada Dawood',en,Pakistan,#111111,#111111,1,0.3184901513806817
+'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.31842381249999996
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.3176171254583893
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027019743
 'Sergei Surovikin',en,Russland,#e81818,#e81818,1,0.3150776801382385
@@ -773,7 +773,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schellnhuber',en,Deutschland,#1818e8,#1818e8,1,0.0961698236312604
 'Lukaschenko',en,Belarus,#e81858,#e81858,1,0.095988595812761
 'Alexander Lukaschenko',en,Belarus,#e81858,#e81858,1,0.0955139169758093
-'Mojib Latif',en,Deutschland,#1818e8,#1818e8,1,0.09470620372956139
+'Mojib Latif',en,Deutschland,#1818e8,#1818e8,1,0.0947062037295613
 'Sergej Schoigu',en,Russland,#e81818,#e81818,1,0.0943678995360839
 'Susanne Klatten',en,Deutschland,#1818e8,#1818e8,1,0.0938507755427247
 'Gregor Gysi',en,Deutschland,#1818e8,#1818e8,1,0.0937324084908803
