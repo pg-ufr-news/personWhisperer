@@ -390,10 +390,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Putin',en,Russland,#e81818,#e81818,3,0.3755934272303734
 'Ronna McDaniel',en,unknown,#111111,#111111,2,0.3752414916230247
 'Lawrence Jones',en,unknown,#111111,#111111,3,0.3749910308405556
-'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.37461625
 'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.37461625
-'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.37461625
+'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.37461625
 'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.37461625
+'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.37461625
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.374587953775
 'Karim Benzema',en,Frankreich,#e8e808,#e8e808,3,0.3744024619420454
 'Nicolas Sarkozy',en,unknown,#111111,#111111,2,0.3738855527802417
@@ -606,7 +606,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'König Charles III',en,UK,#e838e8,#e838e8,1,0.2206410271436486
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,1,0.2185231873055357
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,2,0.2175058004450625
-'Katarina Barley',en,EU,#111111,#111111,2,0.215162706941163
 'Larry Ellison',en,USA,#18e8e8,#18e8e8,3,0.2151524799069186
 'Ursula von der Leyen',en,EU,#111111,#111111,3,0.2145914610119902
 'Warren Buffett',en,USA,#18e8e8,#18e8e8,2,0.2142821766320331
@@ -655,6 +654,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Roland Busch',en,Deutschland,#1818e8,#1818e8,2,0.1856639745592681
 'Gerhard Schröder',en,Deutschland,#1818e8,#1818e8,1,0.1853280260954587
 'Vitali Klitschko',en,Ukraine,#e818e8,#e818e8,3,0.183834986344811
+'Katarina Barley',en,EU,#111111,#111111,1,0.18288830089998853
 'Subrahmanyam Jaishankar',en,Indien,#111111,#111111,2,0.18212654954468
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,1,0.1806899971796935
 'Karl Lauterbach',en,Deutschland,#1818e8,#1818e8,2,0.180625893135617
