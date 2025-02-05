@@ -155,7 +155,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.4227859538826473
 'Eva Green',en,unknown,#111111,#111111,3,0.4227806444809336
 'Rosa Parks',en,unknown,#111111,#111111,3,0.4227147079005344
-'Gavin Newsom',en,unknown,#111111,#111111,3,0.4226901412608101
 'Lara Trump',en,unknown,#111111,#111111,3,0.4226405380464945
 'Lauren Boebert',en,USA,#18e8e8,#18e8e8,3,0.4226338377288096
 'Andrea Arnold',en,unknown,#111111,#111111,2,0.422514492651765
@@ -260,6 +259,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Miller',en,unknown,#111111,#111111,3,0.4059020607355846
 'Mary Robinson',en,unknown,#111111,#111111,3,0.4052165719670454
 'Maria Bartiromo',en,unknown,#111111,#111111,3,0.4052025361605165
+'Gavin Newsom',en,unknown,#111111,#111111,3,0.4051900359807795
 'Antonio Brown',en,unknown,#111111,#111111,3,0.4050791796721773
 'Martin Scorsese',en,USA,#18e8e8,#18e8e8,2,0.4045932111613636
 'Roman Pacino',en,unknown,#111111,#111111,1,0.4044551468176358
@@ -390,10 +390,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Putin',en,Russland,#e81818,#e81818,3,0.3755934272303734
 'Ronna McDaniel',en,unknown,#111111,#111111,2,0.3752414916230247
 'Lawrence Jones',en,unknown,#111111,#111111,3,0.3749910308405556
-'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.37461625
 'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.37461625
-'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.37461625
+'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.37461625
 'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.37461625
+'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.37461625
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.374587953775
 'Karim Benzema',en,Frankreich,#e8e808,#e8e808,3,0.3744024619420454
 'Nicolas Sarkozy',en,unknown,#111111,#111111,2,0.3738855527802417
