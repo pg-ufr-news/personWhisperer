@@ -390,10 +390,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Putin',en,Russland,#e81818,#e81818,3,0.3755934272303734
 'Ronna McDaniel',en,unknown,#111111,#111111,2,0.3752414916230247
 'Lawrence Jones',en,unknown,#111111,#111111,3,0.3749910308405556
-'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.37461625
 'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.37461625
-'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.37461625
+'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.37461625
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.37461625
+'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.37461625
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.374587953775
 'Karim Benzema',en,Frankreich,#e8e808,#e8e808,3,0.3744024619420454
 'Nicolas Sarkozy',en,unknown,#111111,#111111,2,0.3738855527802417
@@ -534,7 +534,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
-'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.2610031249999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.2610031249999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.260231479775265
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
@@ -599,9 +598,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.2224322864146426
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.2220026712499999
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.22185265625
-'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2218526562499999
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
+'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.2218526562499999
+'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2218526562499999
 'Yoon Suk-yeol',en,SüdKorea,#111111,#111111,3,0.2215640864599485
 'König Charles III',en,UK,#e838e8,#e838e8,1,0.2206410271436486
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,1,0.2185231873055357
