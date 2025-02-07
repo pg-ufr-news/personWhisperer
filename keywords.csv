@@ -2,6 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aubrey Plaza',en,unknown,#111111,#111111,3,0.4880758911255421
 'Mark Hertsgaard',en,unknown,#111111,#111111,2,0.4744925661969063
 'LeBron James',en,unknown,#111111,#111111,3,0.4743516730754392
+'Barry Keoghan',en,unknown,#111111,#111111,3,0.4721443941617481
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.4707294301489273
 'Jason Whitlock',en,unknown,#111111,#111111,3,0.4704305257793536
 'Brittany Mahomes',en,unknown,#111111,#111111,3,0.4704152061212402
@@ -30,7 +31,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gisele Bündchen',en,unknown,#111111,#111111,3,0.4620678495656168
 'Angelina Jolie',en,unknown,#111111,#111111,3,0.4620264017996788
 'Tom Brady',en,unknown,#111111,#111111,3,0.4619499078591072
-'Barry Keoghan',en,unknown,#111111,#111111,3,0.4619312813667625
 'Margaret Qualley',en,unknown,#111111,#111111,3,0.4614933035035954
 'Dua Lipa',en,unknown,#111111,#111111,3,0.46144555650156
 'Javier Milei',en,unknown,#111111,#111111,3,0.4613851600372438
@@ -490,7 +490,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ottmar Edenhofer',en,Deutschland,#1818e8,#1818e8,1,0.31950740834875
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,2,0.319230817680828
 'Shahzada Dawood',en,Pakistan,#111111,#111111,1,0.3184901513806817
-'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.31842381249999996
+'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
 'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.3184238124999999
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.3176171254583893
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027019743
