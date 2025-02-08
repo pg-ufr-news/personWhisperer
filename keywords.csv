@@ -74,6 +74,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sam Bankman-Fried',en,unknown,#111111,#111111,3,0.4474949743977114
 'Julia Louis-Dreyfus',en,unknown,#111111,#111111,3,0.4474098427570048
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.4468898724312945
+'Juliette Binoche',en,unknown,#111111,#111111,2,0.4456108153692785
 'Eliot Wolf',en,unknown,#111111,#111111,3,0.4453004334225487
 'Britney Spears',en,unknown,#111111,#111111,3,0.4448861076003138
 'Matt Gaetz',en,unknown,#111111,#111111,3,0.44480897516144
@@ -84,7 +85,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emma Stone',en,unknown,#111111,#111111,3,0.4434987537320068
 'Dawn Staley',en,unknown,#111111,#111111,3,0.4418929764578991
 'Gayle King',en,unknown,#111111,#111111,3,0.4415021830037168
-'Juliette Binoche',en,unknown,#111111,#111111,2,0.4413064710226806
 'Victoria Monét',en,unknown,#111111,#111111,3,0.4412379985785145
 'Chris Hemsworth',en,unknown,#111111,#111111,3,0.4408408853425302
 'Radical Optimism',en,unknown,#111111,#111111,3,0.4406333960161955
