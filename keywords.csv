@@ -750,7 +750,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bodo Ramelow',en,Deutschland,#1818e8,#1818e8,1,0.1107022262281007
 'Michael Ballweg',en,Deutschland,#1818e8,#1818e8,1,0.1100016288819354
 'Wolfgang Schäuble',en,Deutschland,#1818e8,#1818e8,1,0.1099819358340184
-'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.108730976863306
 'Jürgen Grässlin',en,Deutschland,#1818e8,#1818e8,1,0.1086540519716961
 'Benjamin Netanjahu',en,Israel,#111111,#111111,1,0.1084347203837064
 'Sergej Lavrov',en,Russland,#e81818,#e81818,1,0.1082433628360953
@@ -779,6 +778,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gregor Gysi',en,Deutschland,#1818e8,#1818e8,1,0.0937324084908803
 'Generalbundesanwalt Peter Frank',en,Deutschland,#1818e8,#1818e8,1,0.0932821327436316
 'Luisa Neubauer',en,Deutschland,#1818e8,#1818e8,1,0.0931822937867453
+'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.0924213303338101
 'Pietro Lombardi',en,Deutschland,#1818e8,#1818e8,1,0.0908545601880183
 'Muhammad bin Zayid Al Nahyan',en,VAE,#111111,#111111,1,0.0905975055526118
 'Dimitry Peskov',en,Russland,#e81818,#e81818,1,0.089436513672263
