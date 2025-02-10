@@ -18,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jennifer Lopez',en,unknown,#111111,#111111,3,0.465438248030122
 'Zach Bryan',en,unknown,#111111,#111111,3,0.4652609372289304
 'Sara Haines',en,unknown,#111111,#111111,3,0.4650267259940769
+'Sean Hannity',en,unknown,#111111,#111111,3,0.46469665796326914
 'Billie Eilish',en,unknown,#111111,#111111,3,0.4643460591720645
 'Margot Robbie',en,unknown,#111111,#111111,3,0.4638953233245837
 'Jack Antonoff',en,unknown,#111111,#111111,3,0.4633782865984226
@@ -95,7 +96,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nawaz Sharif',en,unknown,#111111,#111111,3,0.4377856510250612
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.4376690784198419
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.4375177660063241
-'Sean Hannity',en,unknown,#111111,#111111,3,0.4373529930286827
 'Nancy Mace',en,unknown,#111111,#111111,3,0.437237691074168
 'Ron Johnson',en,unknown,#111111,#111111,3,0.4371466317111
 'Matt Winkelmeyer',en,unknown,#111111,#111111,2,0.437021235837401
@@ -134,7 +134,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Billionaire Bunker',en,unknown,#111111,#111111,3,0.4269552838795603
 'Lewis Kaplan',en,unknown,#111111,#111111,3,0.4266894931156113
 'Peyton Manning',en,unknown,#111111,#111111,3,0.4264708754729812
-'LeBron James',en,unknown,#111111,#111111,3,0.42635121529594144
+'LeBron James',en,unknown,#111111,#111111,3,0.4263512152959414
 'Joaquim Valente',en,unknown,#111111,#111111,1,0.4263506247683148
 'Demi Moore',en,unknown,#111111,#111111,3,0.4258937657417999
 'Mark Cuban',en,unknown,#111111,#111111,3,0.42575876917349
