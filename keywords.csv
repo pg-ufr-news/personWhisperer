@@ -500,7 +500,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Milloy',en,USA,#18e8e8,#18e8e8,1,0.3104475480099431
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.3089373655988346
 'Julian Reichelt',en,Deutschland,#1818e8,#1818e8,2,0.3072114763998855
-'Giorgia Meloni',en,Italien,#111111,#111111,3,0.30627085340635174
+'Giorgia Meloni',en,Italien,#111111,#111111,3,0.3062708534063517
 'Melinda Gates',en,USA,#18e8e8,#18e8e8,3,0.3048615328702266
 'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.3030158487712762
 'Bill Geddie',en,unknown,#111111,#111111,1,0.299312102451869
@@ -740,7 +740,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jewgenij Roisman',en,Russland,#e81818,#e81818,1,0.1171823143100562
 'Sergej Lawrow',en,Russland,#e81818,#e81818,1,0.1167551274848404
 'Patrick Pouyanné',en,Frankreich,#e8e808,#e8e808,2,0.1167028995116516
-'Michael Kretschmer',en,Deutschland,#1818e8,#1818e8,1,0.116524999003359
 'Ramsan Kadyrow',en,Russland,#e81818,#e81818,1,0.1158084731416015
 'Alice Schwarzer',en,Deutschland,#1818e8,#1818e8,1,0.1140316459044485
 'Stefan Rahmstorf',en,Deutschland,#1818e8,#1818e8,1,0.113661468343624
@@ -765,6 +764,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yanis Varoufakis',en,Griechenland,#1858e8,#1858e8,1,0.102105240474468
 'Chez Krömer',en,Deutschland,#1818e8,#1818e8,1,0.1000121974050872
 'Ali Chamenei',en,Iran,#111111,#111111,1,0.0999798670967432
+'Michael Kretschmer',en,Deutschland,#1818e8,#1818e8,1,0.09934627915285515
 'Nina Gummich',en,Deutschland,#1818e8,#1818e8,1,0.099224699787724
 'Erik Marquardt',en,EU,#111111,#111111,1,0.0982724945986338
 'Ulf Poschardt',en,Deutschland,#1818e8,#1818e8,1,0.0975387758866539
