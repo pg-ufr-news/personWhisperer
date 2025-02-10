@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jennifer Lopez',en,unknown,#111111,#111111,3,0.465438248030122
 'Zach Bryan',en,unknown,#111111,#111111,3,0.4652609372289304
 'Sara Haines',en,unknown,#111111,#111111,3,0.4650267259940769
-'Sean Hannity',en,unknown,#111111,#111111,3,0.46469665796326914
+'Sean Hannity',en,unknown,#111111,#111111,3,0.4646966579632691
 'Billie Eilish',en,unknown,#111111,#111111,3,0.4643460591720645
 'Margot Robbie',en,unknown,#111111,#111111,3,0.4638953233245837
 'Jack Antonoff',en,unknown,#111111,#111111,3,0.4633782865984226
@@ -500,6 +500,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Milloy',en,USA,#18e8e8,#18e8e8,1,0.3104475480099431
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.3089373655988346
 'Julian Reichelt',en,Deutschland,#1818e8,#1818e8,2,0.3072114763998855
+'Giorgia Meloni',en,Italien,#111111,#111111,3,0.30627085340635174
 'Melinda Gates',en,USA,#18e8e8,#18e8e8,3,0.3048615328702266
 'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.3030158487712762
 'Bill Geddie',en,unknown,#111111,#111111,1,0.299312102451869
@@ -519,7 +520,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jacinda Ardern',en,Neuseeland,#1818e8,#1818e8,3,0.2802132817125556
 'Moon Hyung-jin',en,USA,#18e8e8,#18e8e8,1,0.278869476151504
 'Christian Lindner',en,Deutschland,#1818e8,#1818e8,3,0.277578331234168
-'Giorgia Meloni',en,Italien,#111111,#111111,3,0.268923953740093
 'Georg Gänswein',en,Deutschland,#1818e8,#1818e8,1,0.268547120299375
 'Hun Sen',en,Kambodscha,#111111,#111111,3,0.265928065094144
 'Rishi Sunak',en,UK,#e838e8,#e838e8,3,0.265694943046221
