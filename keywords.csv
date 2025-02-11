@@ -390,7 +390,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Putin',en,Russland,#e81818,#e81818,3,0.3755934272303734
 'Ronna McDaniel',en,unknown,#111111,#111111,2,0.3752414916230247
 'Lawrence Jones',en,unknown,#111111,#111111,3,0.3749910308405556
-'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.37461625
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.374587953775
 'Karim Benzema',en,Frankreich,#e8e808,#e8e808,3,0.3744024619420454
 'Nicolas Sarkozy',en,unknown,#111111,#111111,2,0.3738855527802417
@@ -488,6 +487,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ottmar Edenhofer',en,Deutschland,#1818e8,#1818e8,1,0.31950740834875
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,2,0.319230817680828
 'Shahzada Dawood',en,Pakistan,#111111,#111111,1,0.3184901513806817
+'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.31842381249999996
 'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.3184238124999999
 'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
@@ -764,7 +764,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yanis Varoufakis',en,Griechenland,#1858e8,#1858e8,1,0.102105240474468
 'Chez Krömer',en,Deutschland,#1818e8,#1818e8,1,0.1000121974050872
 'Ali Chamenei',en,Iran,#111111,#111111,1,0.0999798670967432
-'Michael Kretschmer',en,Deutschland,#1818e8,#1818e8,1,0.09934627915285515
+'Michael Kretschmer',en,Deutschland,#1818e8,#1818e8,1,0.0993462791528551
 'Nina Gummich',en,Deutschland,#1818e8,#1818e8,1,0.099224699787724
 'Erik Marquardt',en,EU,#111111,#111111,1,0.0982724945986338
 'Ulf Poschardt',en,Deutschland,#1818e8,#1818e8,1,0.0975387758866539
