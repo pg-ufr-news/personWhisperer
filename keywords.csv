@@ -487,7 +487,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ottmar Edenhofer',en,Deutschland,#1818e8,#1818e8,1,0.31950740834875
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,2,0.319230817680828
 'Shahzada Dawood',en,Pakistan,#111111,#111111,1,0.3184901513806817
-'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.31842381249999996
+'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.3184238124999999
 'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.3184238124999999
 'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
@@ -661,7 +661,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Antonio Guterres',en,UN,#e888e8,#e888e8,3,0.1804727461714048
 'Kyrill',en,Ukraine,#e818e8,#e818e8,2,0.1792841824974189
 'Volker Wissing',en,Deutschland,#1818e8,#1818e8,2,0.179003926395438
-'Thomas Haldenwang',en,Deutschland,#1818e8,#1818e8,1,0.1786640257677165
 'Andrew Forrest',en,Australien,#111111,#111111,2,0.1780635727259072
 'Roberta Metsola',en,EU,#111111,#111111,2,0.1779475174628529
 'Björn Höcke',en,Deutschland,#1818e8,#1818e8,1,0.1770581120310153
@@ -694,6 +693,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicola Beer',en,EU,#111111,#111111,1,0.15777415006034
 'Robin Li',en,China,#e88818,#e88818,3,0.1560396915070655
 'Tamim bin Hamad Al Thani',en,Katar,#111111,#111111,2,0.153885065978855
+'Thomas Haldenwang',en,Deutschland,#1818e8,#1818e8,1,0.15231446690255904
 'Anthony Fauci',en,USA,#18e8e8,#18e8e8,1,0.151941997910852
 'Daniel Freund',en,EU,#111111,#111111,1,0.1508721704192686
 'John Kerry',en,USA,#18e8e8,#18e8e8,2,0.1496125709152069
