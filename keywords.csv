@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kamilla Cardoso',en,unknown,#111111,#111111,3,0.5107181230023468
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.4799216356265882
 'Jason Whitlock',en,unknown,#111111,#111111,3,0.4704305257793536
 'Brittany Mahomes',en,unknown,#111111,#111111,3,0.4704152061212402
@@ -102,6 +101,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Floyd',en,USA,#18e8e8,#18e8e8,3,0.4351820397203407
 'Aaron Rodgers',en,unknown,#111111,#111111,3,0.434834502691415
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.4344798704308434
+'Kamilla Cardoso',en,unknown,#111111,#111111,2,0.43411091455199474
 'Mark Hertsgaard',en,unknown,#111111,#111111,2,0.4340687562673703
 'Melania Trump',en,unknown,#111111,#111111,3,0.4340676270875954
 'Tyson Fury',en,unknown,#111111,#111111,3,0.433980998208594
