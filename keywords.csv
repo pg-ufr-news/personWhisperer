@@ -407,7 +407,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kemal Kiliçdaroglu',en,Türkei,#111111,#111111,1,0.3697498615410713
 'Drena De Niro',en,USA,#18e8e8,#18e8e8,2,0.3693221098636363
 'Afida Turner',en,Frankreich,#e8e808,#e8e808,1,0.3688026068634686
-'Matthias Müller',en,Deutschland,#1818e8,#1818e8,1,0.368752549425
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.36875252775
 'King Charles',en,UK,#e838e8,#e838e8,3,0.3687029340082495
 'Petro Poroshenko',en,unknown,#111111,#111111,1,0.3685384025549144
@@ -496,6 +495,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027019743
 'Sergei Surovikin',en,Russland,#e81818,#e81818,1,0.3150776801382385
 'Robert Nozick',en,USA,#18e8e8,#18e8e8,2,0.3145020331079117
+'Matthias Müller',en,Deutschland,#1818e8,#1818e8,1,0.31388971201125004
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3114531699999999
 'Steve Milloy',en,USA,#18e8e8,#18e8e8,1,0.3104475480099431
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.3089373655988346
