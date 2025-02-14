@@ -117,7 +117,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,3,0.4305101877680655
 'Mindy Kaling',en,unknown,#111111,#111111,3,0.4302618176994904
 'Matteo Salvini',en,Italien,#111111,#111111,3,0.4300419827744754
-'Joy Behar',en,unknown,#111111,#111111,3,0.4298929674486866
 'Sherri Shepherd',en,unknown,#111111,#111111,1,0.4294847156921221
 'Robin Roberts',en,unknown,#111111,#111111,3,0.4293322464220568
 'Noor Alfallah',en,USA,#18e8e8,#18e8e8,3,0.4288197912919074
@@ -327,6 +326,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laura Ingraham',en,USA,#18e8e8,#18e8e8,3,0.3938946273010715
 'Geoffrey Hinton',en,UK,#e838e8,#e838e8,3,0.3933352143676561
 'Leonardo DiCaprio',en,USA,#18e8e8,#18e8e8,3,0.3932127394749063
+'Joy Behar',en,unknown,#111111,#111111,3,0.3930882600586563
 'Alex Jones',en,unknown,#111111,#111111,3,0.392996174189314
 'Lionel Richie',en,USA,#18e8e8,#18e8e8,3,0.3927705735558462
 'Jeff Bezos',en,USA,#18e8e8,#18e8e8,3,0.3925879429780445
