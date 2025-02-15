@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jason Whitlock',en,unknown,#111111,#111111,3,0.4641666219124506
 'Margot Robbie',en,unknown,#111111,#111111,3,0.4638953233245837
 'Jack Antonoff',en,unknown,#111111,#111111,3,0.4633782865984226
-'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,3,0.46244790984489414
+'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,3,0.4624479098448941
 'Chuck Schumer',en,unknown,#111111,#111111,3,0.4622383556305056
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4621571516806604
 'Gisele Bündchen',en,unknown,#111111,#111111,3,0.4620678495656168
@@ -407,7 +407,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kemal Kiliçdaroglu',en,Türkei,#111111,#111111,1,0.3697498615410713
 'Drena De Niro',en,USA,#18e8e8,#18e8e8,2,0.3693221098636363
 'Afida Turner',en,Frankreich,#e8e808,#e8e808,1,0.3688026068634686
-'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.36875252775
 'King Charles',en,UK,#e838e8,#e838e8,3,0.3687029340082495
 'Petro Poroshenko',en,unknown,#111111,#111111,1,0.3685384025549144
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.368475
@@ -496,6 +495,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergei Surovikin',en,Russland,#e81818,#e81818,1,0.3150776801382385
 'Robert Nozick',en,USA,#18e8e8,#18e8e8,2,0.3145020331079117
 'Matthias Müller',en,Deutschland,#1818e8,#1818e8,1,0.31388971201125
+'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3114531699999999
 'Steve Milloy',en,USA,#18e8e8,#18e8e8,1,0.3104475480099431
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.3089373655988346
