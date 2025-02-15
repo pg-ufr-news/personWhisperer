@@ -79,7 +79,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emma Stone',en,unknown,#111111,#111111,3,0.4434987537320068
 'Dawn Staley',en,unknown,#111111,#111111,3,0.4418929764578991
 'Gayle King',en,unknown,#111111,#111111,3,0.4415021830037168
-'Julia Louis-Dreyfus',en,unknown,#111111,#111111,3,0.441350391343454
 'Victoria Monét',en,unknown,#111111,#111111,3,0.4412379985785145
 'Chris Hemsworth',en,unknown,#111111,#111111,3,0.4408408853425302
 'Radical Optimism',en,unknown,#111111,#111111,3,0.4406333960161955
@@ -129,6 +128,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Meadows',en,unknown,#111111,#111111,3,0.4273903153523611
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.427101229314858
 'Billionaire Bunker',en,unknown,#111111,#111111,3,0.4269552838795603
+'Julia Louis-Dreyfus',en,unknown,#111111,#111111,3,0.4268248126419359
 'Lewis Kaplan',en,unknown,#111111,#111111,3,0.4266894931156113
 'Peyton Manning',en,unknown,#111111,#111111,3,0.4264708754729812
 'LeBron James',en,unknown,#111111,#111111,3,0.4263512152959414
@@ -495,7 +495,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027019743
 'Sergei Surovikin',en,Russland,#e81818,#e81818,1,0.3150776801382385
 'Robert Nozick',en,USA,#18e8e8,#18e8e8,2,0.3145020331079117
-'Matthias Müller',en,Deutschland,#1818e8,#1818e8,1,0.31388971201125004
+'Matthias Müller',en,Deutschland,#1818e8,#1818e8,1,0.31388971201125
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3114531699999999
 'Steve Milloy',en,USA,#18e8e8,#18e8e8,1,0.3104475480099431
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.3089373655988346
