@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.4703038408182102
-'Robert Kraft',en,unknown,#111111,#111111,3,0.4702576905243718
 'Sandy Hook',en,unknown,#111111,#111111,3,0.470008918993923
 'Pat McAfee',en,unknown,#111111,#111111,3,0.4694919830033678
 'Joe Jonas',en,unknown,#111111,#111111,3,0.4694881126354004
@@ -147,6 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harrison Ford',en,unknown,#111111,#111111,3,0.4237516707007385
 'Travis Kelce',en,unknown,#111111,#111111,3,0.4235636955325134
 'Sophie Turner',en,unknown,#111111,#111111,3,0.423425345005767
+'Robert Kraft',en,unknown,#111111,#111111,3,0.423270836945716
 'Chris Stapleton',en,unknown,#111111,#111111,3,0.4232389493764502
 'Tiffany Chen',en,USA,#18e8e8,#18e8e8,3,0.423160413597989
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.4227859538826473
