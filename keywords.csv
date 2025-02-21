@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.487716208823565
-'Gisele Bündchen',en,unknown,#111111,#111111,3,0.48513465303843084
+'Gisele Bündchen',en,unknown,#111111,#111111,3,0.4851346530384308
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.4703038408182102
 'Sandy Hook',en,unknown,#111111,#111111,3,0.470008918993923
 'Pat McAfee',en,unknown,#111111,#111111,3,0.4694919830033678
@@ -90,7 +90,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.4375177660063241
 'Nancy Mace',en,unknown,#111111,#111111,3,0.437237691074168
 'Ron Johnson',en,unknown,#111111,#111111,3,0.4371466317111
-'Matt Winkelmeyer',en,unknown,#111111,#111111,2,0.437021235837401
 'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,2,0.4356129013892499
 'George Floyd',en,USA,#18e8e8,#18e8e8,3,0.4351820397203407
 'Aaron Rodgers',en,unknown,#111111,#111111,3,0.434834502691415
@@ -319,6 +318,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tony Bobulinski',en,unknown,#111111,#111111,2,0.3953409144632629
 'Leandro De Niro-Rodriguez',en,unknown,#111111,#111111,1,0.3949519822603689
 'Jessica Biel',en,unknown,#111111,#111111,2,0.3947975027312674
+'Matt Winkelmeyer',en,unknown,#111111,#111111,2,0.394601458643609
 'Oprah Winfrey',en,USA,#18e8e8,#18e8e8,3,0.3944945193115747
 'nan nan',en,unknown,#111111,#111111,2,0.3942603856382875
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.394226217909091
