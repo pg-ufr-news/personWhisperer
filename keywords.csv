@@ -788,7 +788,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolodimir Selenski',en,Ukraine,#e818e8,#e818e8,1,0.0868511434749098
 'Jair Lapid',en,Israel,#111111,#111111,1,0.0864899794305199
 'Wolodymyr Selenski',en,Ukraine,#e818e8,#e818e8,1,0.0853857072264503
-'Ayatollah Ali Chamenei',en,Iran,#111111,#111111,1,0.0853387457918398
 'Kurt Krömer',en,Deutschland,#1818e8,#1818e8,1,0.085330596145521
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.0851054581992316
 'Katalin Novak',en,Ungarn,#111111,#111111,1,0.084671230325276
@@ -800,6 +799,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hans Joachim Schellnhuber',en,Deutschland,#1818e8,#1818e8,1,0.0760902250186068
 'Carola Rackete',en,Deutschland,#1818e8,#1818e8,1,0.0752171657805908
 'Heinrich XIII. Prinz Reuß',en,Deutschland,#1818e8,#1818e8,1,0.0743982090063982
+'Ayatollah Ali Chamenei',en,Iran,#111111,#111111,1,0.07253793392306382
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.0721709001772753
 'Dmitry Peskov',en,Russland,#e81818,#e81818,2,0.066365762202661
 'Alexei Miller',en,Russland,#e81818,#e81818,1,0.0647260669685873
