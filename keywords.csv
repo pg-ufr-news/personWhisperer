@@ -142,7 +142,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harrison Ford',en,unknown,#111111,#111111,3,0.4237516707007385
 'Travis Kelce',en,unknown,#111111,#111111,3,0.4235636955325134
 'Sophie Turner',en,unknown,#111111,#111111,3,0.423425345005767
-'Robert Kraft',en,unknown,#111111,#111111,3,0.423270836945716
 'Chris Stapleton',en,unknown,#111111,#111111,3,0.4232389493764502
 'Tiffany Chen',en,USA,#18e8e8,#18e8e8,3,0.423160413597989
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.4227859538826473
@@ -310,6 +309,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yoon Suk Yeol',en,SüdKorea,#111111,#111111,3,0.396587234843372
 'Kanye West',en,USA,#18e8e8,#18e8e8,3,0.3965520218991236
 'Winston Churchill',en,UK,#e838e8,#e838e8,3,0.3962021906754582
+'Robert Kraft',en,unknown,#111111,#111111,3,0.3961248685467157
 'Millie Mackintosh',en,UK,#e838e8,#e838e8,1,0.395864945181818
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.395841266130685
 'Jennifer Garner',en,unknown,#111111,#111111,3,0.3957842128569512
@@ -804,6 +804,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dmitry Peskov',en,Russland,#e81818,#e81818,2,0.066365762202661
 'Alexei Miller',en,Russland,#e81818,#e81818,1,0.0647260669685873
 'Louis Klamroth',en,Deutschland,#1818e8,#1818e8,1,0.0625193962514577
-'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.058700981417174815
+'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.0587009814171748
 'Bartholomäus',en,Türkei,#111111,#111111,1,0.0518042409271966
 'Ethan Bradley',en,USA,#18e8e8,#18e8e8,2,0.0508912293418
