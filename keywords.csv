@@ -57,7 +57,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerry Seinfeld',en,unknown,#111111,#111111,3,0.4503296387566468
 'Andy Cohen',en,unknown,#111111,#111111,3,0.4503285563099509
 'Ainsley Earhardt',en,unknown,#111111,#111111,2,0.4500970362744946
-'James Comer',en,unknown,#111111,#111111,3,0.4500836315745853
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4500019455589806
 'Brian Kilmeade',en,unknown,#111111,#111111,3,0.4495540059567855
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.4485596491657423
@@ -200,6 +199,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Reed Richards',en,unknown,#111111,#111111,3,0.4148138029323683
 'Ron Howard',en,unknown,#111111,#111111,3,0.414758369603088
 'Laurent Berger',en,Frankreich,#e8e808,#e8e808,1,0.4144545539451922
+'James Comer',en,unknown,#111111,#111111,3,0.4144020296161753
 'Gigi Hadid',en,unknown,#111111,#111111,3,0.4142287554851864
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.413908894685469
 'Roger Corman',en,unknown,#111111,#111111,2,0.4136547915192774
@@ -222,7 +222,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robin Wall Kimmerer',en,unknown,#111111,#111111,1,0.4101896359642857
 'Kim Jong Un',en,NordKorea,#e85858,#e85858,3,0.409979728698276
 'Jimmy Kimmel',en,unknown,#111111,#111111,3,0.40996404892685
-'Mohammed Bin Salman',en,SaudiArabien,#111111,#111111,3,0.40994712878317885
+'Mohammed Bin Salman',en,SaudiArabien,#111111,#111111,3,0.4099471287831788
 'Heidi Klum',en,unknown,#111111,#111111,3,0.4098252783757452
 'Jake Gyllenhaal',en,unknown,#111111,#111111,3,0.4095590984437029
 'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,3,0.4094714433873795
