@@ -127,7 +127,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peyton Manning',en,unknown,#111111,#111111,3,0.4264708754729812
 'LeBron James',en,unknown,#111111,#111111,3,0.4263512152959414
 'Joaquim Valente',en,unknown,#111111,#111111,1,0.4263506247683148
-'Demi Moore',en,unknown,#111111,#111111,3,0.4258937657417999
 'Mark Cuban',en,unknown,#111111,#111111,3,0.42575876917349
 'Robert Badinter',en,unknown,#111111,#111111,1,0.4256380769843358
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.4252730268909402
@@ -257,6 +256,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martin Scorsese',en,USA,#18e8e8,#18e8e8,2,0.4045932111613636
 'Roman Pacino',en,unknown,#111111,#111111,1,0.4044551468176358
 'Mathias Döpfner',en,Deutschland,#1818e8,#1818e8,1,0.404327780875
+'Demi Moore',en,unknown,#111111,#111111,3,0.4043202758805299
 'Carey Mulligan',en,unknown,#111111,#111111,1,0.4042111868545511
 'Andrew Schulz',en,unknown,#111111,#111111,3,0.4040754100545948
 'Martin Luther King',en,USA,#18e8e8,#18e8e8,3,0.4040586180023721
