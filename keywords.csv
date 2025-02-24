@@ -114,7 +114,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sherri Shepherd',en,unknown,#111111,#111111,1,0.4294847156921221
 'Robin Roberts',en,unknown,#111111,#111111,3,0.4293322464220568
 'Noor Alfallah',en,USA,#18e8e8,#18e8e8,3,0.4288197912919074
-'Sergei Shoigu',en,unknown,#111111,#111111,3,0.4285670462508077
 'Benny Blanco',en,unknown,#111111,#111111,2,0.4285603641580055
 'Anya Taylor-Joy',en,unknown,#111111,#111111,3,0.4282951832065316
 'Lionel Messi',en,Argentinien,#111111,#111111,3,0.4278877752318322
@@ -418,6 +417,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matteo Salvini',en,Italien,#111111,#111111,2,0.3655365853583041
 'Jamie Spears',en,unknown,#111111,#111111,2,0.365303763290024
 'Evan Gershkovich',en,USA,#18e8e8,#18e8e8,3,0.3647094591959337
+'Sergei Shoigu',en,unknown,#111111,#111111,1,0.36428215431318656
 'Joey Fatone',en,unknown,#111111,#111111,2,0.3642161816789622
 'Tina Turner',en,USA,#18e8e8,#18e8e8,3,0.3637510272556807
 'Roger Federer',en,unknown,#111111,#111111,3,0.3634127923176514
