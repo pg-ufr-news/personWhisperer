@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.487716208823565
 'Gisele Bündchen',en,unknown,#111111,#111111,3,0.4851346530384308
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.4703038408182102
 'Sandy Hook',en,unknown,#111111,#111111,3,0.470008918993923
@@ -61,6 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.4485596491657423
 'Eric Trump',en,unknown,#111111,#111111,3,0.4484881171884486
 'Ivanka Trump',en,unknown,#111111,#111111,3,0.4484103857354088
+'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.4482446505645464
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.4482064720887189
 'Prince Harry',en,UK,#e838e8,#e838e8,3,0.4475723459219523
 'Sam Bankman-Fried',en,unknown,#111111,#111111,3,0.4474949743977114
@@ -575,7 +575,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Friedrich Merz',en,Deutschland,#1818e8,#1818e8,3,0.233134248070145
 'Dalai Lama',en,Tibet,#111111,#111111,3,0.2325493460489374
 'Joschka Fischer',en,Deutschland,#1818e8,#1818e8,1,0.2312800224899858
-'Gautam Adani',en,Indien,#111111,#111111,3,0.22918152370356037
+'Gautam Adani',en,Indien,#111111,#111111,3,0.2291815237035603
 'Jens Spahn',en,Deutschland,#1818e8,#1818e8,1,0.2288372092545312
 'Michael Sandel',en,USA,#18e8e8,#18e8e8,1,0.2274157244837167
 'Kevin Kühnert',en,Deutschland,#1818e8,#1818e8,2,0.2266686225201619
