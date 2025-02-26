@@ -76,7 +76,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dawn Staley',en,unknown,#111111,#111111,3,0.4418929764578991
 'Gayle King',en,unknown,#111111,#111111,3,0.4415021830037168
 'Kamilla Cardoso',en,unknown,#111111,#111111,2,0.4414011220138161
-'Victoria Monét',en,unknown,#111111,#111111,3,0.4412379985785145
 'Chris Hemsworth',en,unknown,#111111,#111111,3,0.4408408853425302
 'Radical Optimism',en,unknown,#111111,#111111,3,0.4406333960161955
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.4401643720580503
@@ -252,6 +251,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gavin Newsom',en,unknown,#111111,#111111,3,0.4051900359807795
 'Antonio Brown',en,unknown,#111111,#111111,3,0.4050791796721773
 'Martin Scorsese',en,USA,#18e8e8,#18e8e8,2,0.4045932111613636
+'Victoria Monét',en,unknown,#111111,#111111,3,0.40455334879173727
 'Roman Pacino',en,unknown,#111111,#111111,1,0.4044551468176358
 'Mathias Döpfner',en,Deutschland,#1818e8,#1818e8,1,0.404327780875
 'Demi Moore',en,unknown,#111111,#111111,3,0.4043202758805299
