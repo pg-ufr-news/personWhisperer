@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gisele Bündchen',en,unknown,#111111,#111111,3,0.4851346530384308
 'Matt Gaetz',en,unknown,#111111,#111111,3,0.4807173309561895
 'Chuck Schumer',en,unknown,#111111,#111111,3,0.4774179622859297
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.4703038408182102
@@ -88,6 +87,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.4375177660063241
 'Nancy Mace',en,unknown,#111111,#111111,3,0.437237691074168
 'Ron Johnson',en,unknown,#111111,#111111,3,0.4371466317111
+'Gisele Bündchen',en,unknown,#111111,#111111,3,0.43637041879234356
 'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,2,0.4356129013892499
 'George Floyd',en,USA,#18e8e8,#18e8e8,3,0.4351820397203407
 'Aaron Rodgers',en,unknown,#111111,#111111,3,0.434834502691415
@@ -531,9 +531,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eva Kaili',en,EU,#111111,#111111,3,0.2625054479876908
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.2613641105248465
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.2610031249999999
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.260231479775265
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
 'Richard Ferrand',en,Frankreich,#e8e808,#e8e808,1,0.2581491130993367
