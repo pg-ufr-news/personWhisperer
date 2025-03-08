@@ -531,9 +531,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eva Kaili',en,EU,#111111,#111111,3,0.2625054479876908
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.2613641105248465
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
+'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.2610031249999999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
-'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.260231479775265
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
 'Richard Ferrand',en,Frankreich,#e8e808,#e8e808,1,0.2581491130993367
@@ -555,10 +555,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.2442728481777811
 'Gorbatschow',en,unknown,#111111,#111111,1,0.2442384356743749
 'Hans Joosten',en,unknown,#111111,#111111,1,0.2441879368749999
-'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2440379218749999
-'Minka Indigena',en,unknown,#111111,#111111,1,0.2440379218749999
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2440379218749999
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2440379218749999
+'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2440379218749999
+'Minka Indigena',en,unknown,#111111,#111111,1,0.2440379218749999
 'François Braun',en,unknown,#111111,#111111,1,0.2423645035258981
 'Fumio Kishida',en,Japan,#111111,#111111,3,0.241218987042182
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.2410446124357694
@@ -592,7 +592,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,2,0.2238898789685879
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,3,0.223802778437948
 'Daniel Zhang',en,China,#e88818,#e88818,3,0.2233448591554405
-'Edir Macedo',en,Brasilien,#58e838,#58e848,1,0.2228367593884062
 'Marlène Schiappa',en,unknown,#111111,#111111,1,0.2226069790479921
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.2225986352339375
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.2220026712499999
@@ -637,14 +636,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thomas Bayes',en,UK,#e838e8,#e838e8,1,0.1908090553395686
 'Andrés Manuel López Obrador',en,Mexiko,#111111,#111111,3,0.190780487341999
 'Wolfgang Kubicki',en,Deutschland,#1818e8,#1818e8,1,0.1906644489643312
+'Edir Macedo',en,Brasilien,#58e838,#58e848,1,0.18941124548014526
 'Jean Jouzel',en,unknown,#111111,#111111,1,0.1893416808374681
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.1890674434524462
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.1889983512346281
 'Jean-Denis Combrexelle',en,unknown,#111111,#111111,1,0.1889328963219915
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.1887247728125
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.1886530665800936
-'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
+'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'König Charles III',en,UK,#e838e8,#e838e8,1,0.1875448730721013
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.1874174838298552
@@ -680,11 +680,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Missy Motown',en,Deutschland,#1818e8,#1818e8,1,0.1623073144206233
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
-'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
-'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
-'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
+'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
+'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1595440828683983
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.1581434948158253
 'Roland Busch',en,Deutschland,#1818e8,#1818e8,1,0.1578144533753779
