@@ -6,6 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pat McAfee',en,unknown,#111111,#111111,3,0.4694919830033678
 'Joe Jonas',en,unknown,#111111,#111111,3,0.4694881126354004
 'Jacoby Brissett',en,unknown,#111111,#111111,3,0.4693941850757593
+'Jennifer Garner',en,unknown,#111111,#111111,3,0.4686425332011358
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.4678592201147728
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.4675158013004009
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.4657611804516616
@@ -104,8 +105,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.43377752775
 'Kim Yo Jong',en,NordKorea,#111111,#111111,2,0.4336339441231947
 'Hans-Werner Sinn',en,unknown,#111111,#111111,1,0.43362751275
-'Henning Jeschke',en,unknown,#111111,#111111,1,0.4335
 'Maria Sacharowa',en,unknown,#111111,#111111,1,0.4335
+'Henning Jeschke',en,unknown,#111111,#111111,1,0.4335
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.4335
 'Charlie Munger',en,unknown,#111111,#111111,3,0.4334576032166166
 'Robert Kennedy',en,USA,#18e8e8,#18e8e8,3,0.4326123296901584
@@ -314,7 +315,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Kraft',en,unknown,#111111,#111111,3,0.3961248685467157
 'Millie Mackintosh',en,UK,#e838e8,#e838e8,1,0.395864945181818
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.395841266130685
-'Jennifer Garner',en,unknown,#111111,#111111,3,0.3957842128569512
 'Paris Hilton',en,unknown,#111111,#111111,3,0.3956381054734756
 'Ahmed Al Jaber',en,unknown,#111111,#111111,2,0.3955922368840908
 'George Santos',en,USA,#18e8e8,#18e8e8,3,0.3953617993172756
@@ -496,11 +496,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ottmar Edenhofer',en,Deutschland,#1818e8,#1818e8,1,0.31950740834875
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,2,0.319230817680828
 'Shahzada Dawood',en,Pakistan,#111111,#111111,1,0.3184901513806817
-'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.3184238124999999
-'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.3184238124999999
-'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.3184238124999999
-'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
 'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
+'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.3184238124999999
+'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.3184238124999999
+'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
+'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.3184238124999999
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.3176171254583893
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027019743
 'Sergei Surovikin',en,Russland,#e81818,#e81818,1,0.3150776801382385
@@ -693,10 +693,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Missy Motown',en,Deutschland,#1818e8,#1818e8,1,0.1623073144206233
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1595440828683983
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.1581434948158253
