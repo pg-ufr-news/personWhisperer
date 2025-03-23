@@ -49,6 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cara Delevingne',en,unknown,#111111,#111111,3,0.4537459527297873
 'Aubrey Plaza',en,unknown,#111111,#111111,3,0.4532516126563859
 'Phoebe Bridgers',en,unknown,#111111,#111111,3,0.4531571860119179
+'Rupert Murdoch',en,unknown,#111111,#111111,3,0.45315333207596814
 'Chuck Schumer',en,unknown,#111111,#111111,3,0.4524172997288569
 'Valérie Hayer',en,unknown,#111111,#111111,2,0.4523000399147857
 'Ayo Edebiri',en,unknown,#111111,#111111,3,0.4520594651830971
@@ -168,7 +169,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cameron Brink',en,unknown,#111111,#111111,3,0.4197191283758598
 'Hubert Aiwanger',en,unknown,#111111,#111111,2,0.4196570488150117
 'Lindsey Graham',en,USA,#18e8e8,#18e8e8,3,0.4196441722283064
-'Rupert Murdoch',en,unknown,#111111,#111111,3,0.4194892567117652
 'Teresa Giudice',en,unknown,#111111,#111111,2,0.4194805423732357
 'Jack Smith',en,USA,#18e8e8,#18e8e8,3,0.4194195823852669
 'Pedro Sánchez',en,Spanien,#111111,#111111,3,0.4193411537465908
@@ -496,11 +496,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ottmar Edenhofer',en,Deutschland,#1818e8,#1818e8,1,0.31950740834875
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,2,0.319230817680828
 'Shahzada Dawood',en,Pakistan,#111111,#111111,1,0.3184901513806817
-'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
-'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.3184238124999999
-'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.3184238124999999
-'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.3184238124999999
+'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.3184238124999999
+'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
+'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
+'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.3184238124999999
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.3176171254583893
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027019743
 'Sergei Surovikin',en,Russland,#e81818,#e81818,1,0.3150776801382385
