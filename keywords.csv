@@ -23,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4621571516806604
 'Angelina Jolie',en,unknown,#111111,#111111,3,0.4620264017996788
 'Tom Brady',en,unknown,#111111,#111111,3,0.4619499078591072
+'Nikki Haley',en,USA,#18e8e8,#18e8e8,3,0.4617935155119466
 'Gayle King',en,unknown,#111111,#111111,3,0.4616019921623793
 'Dua Lipa',en,unknown,#111111,#111111,3,0.46144555650156
 'Javier Milei',en,unknown,#111111,#111111,3,0.4613851600372438
@@ -49,7 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cara Delevingne',en,unknown,#111111,#111111,3,0.4537459527297873
 'Aubrey Plaza',en,unknown,#111111,#111111,3,0.4532516126563859
 'Phoebe Bridgers',en,unknown,#111111,#111111,3,0.4531571860119179
-'Rupert Murdoch',en,unknown,#111111,#111111,3,0.45315333207596814
+'Rupert Murdoch',en,unknown,#111111,#111111,3,0.4531533320759681
 'Chuck Schumer',en,unknown,#111111,#111111,3,0.4524172997288569
 'Valérie Hayer',en,unknown,#111111,#111111,2,0.4523000399147857
 'Ayo Edebiri',en,unknown,#111111,#111111,3,0.4520594651830971
@@ -114,7 +115,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4315208880259907
 'Ana Navarro',en,unknown,#111111,#111111,3,0.431262963983809
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,3,0.4310869115083519
-'Nikki Haley',en,USA,#18e8e8,#18e8e8,3,0.4305101877680655
 'Mindy Kaling',en,unknown,#111111,#111111,3,0.4302618176994904
 'Brittany Mahomes',en,unknown,#111111,#111111,3,0.4298013190336567
 'Sherri Shepherd',en,unknown,#111111,#111111,1,0.4294847156921221
@@ -496,11 +496,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ottmar Edenhofer',en,Deutschland,#1818e8,#1818e8,1,0.31950740834875
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,2,0.319230817680828
 'Shahzada Dawood',en,Pakistan,#111111,#111111,1,0.3184901513806817
-'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.3184238124999999
-'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.3184238124999999
-'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
-'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
 'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.3184238124999999
+'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.3184238124999999
+'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.3184238124999999
+'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
+'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.3176171254583893
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027019743
 'Sergei Surovikin',en,Russland,#e81818,#e81818,1,0.3150776801382385
