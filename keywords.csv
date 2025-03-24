@@ -99,7 +99,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerod Mayo',en,unknown,#111111,#111111,3,0.4347820188597814
 'Britney Spears',en,unknown,#111111,#111111,3,0.4345190814602667
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.4344798704308434
-'Kara Hurst',en,unknown,#111111,#111111,1,0.43433258325
 'Mark Hertsgaard',en,unknown,#111111,#111111,2,0.4340687562673703
 'Melania Trump',en,unknown,#111111,#111111,3,0.4340676270875954
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.43377752775
@@ -411,6 +410,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cassidy Hutchinson',en,unknown,#111111,#111111,2,0.3708635759279836
 'Julian Edelman',en,unknown,#111111,#111111,2,0.3699113363884334
 'Akshata Murty',en,Indien,#111111,#111111,2,0.3698238303765608
+'Kara Hurst',en,unknown,#111111,#111111,1,0.3697827557625
 'Kemal Kiliçdaroglu',en,Türkei,#111111,#111111,1,0.3697498615410713
 'Drena De Niro',en,USA,#18e8e8,#18e8e8,2,0.3693221098636363
 'Afida Turner',en,Frankreich,#e8e808,#e8e808,1,0.3688026068634686
@@ -496,11 +496,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ottmar Edenhofer',en,Deutschland,#1818e8,#1818e8,1,0.31950740834875
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,2,0.319230817680828
 'Shahzada Dawood',en,Pakistan,#111111,#111111,1,0.3184901513806817
+'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
 'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.3184238124999999
 'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.3184238124999999
-'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.3184238124999999
 'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
-'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
+'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.3184238124999999
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.3176171254583893
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027019743
 'Sergei Surovikin',en,Russland,#e81818,#e81818,1,0.3150776801382385
