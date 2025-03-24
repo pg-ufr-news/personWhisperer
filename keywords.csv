@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Margaret Qualley',en,unknown,#111111,#111111,3,0.4835871443416925
 'Jennifer Morgan',en,unknown,#111111,#111111,2,0.4774342337727273
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.4703038408182102
 'Sandy Hook',en,unknown,#111111,#111111,3,0.470008918993923
@@ -36,6 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 "'Dwayne ""The Rock"" Johnson'",en,unknown,#111111,#111111,3,0.4590877023239058
 'Martha MacCallum',en,unknown,#111111,#111111,3,0.4589351934361841
 'König Felipe VI',en,Spanien,#111111,#111111,2,0.4585471131874999
+'Margaret Qualley',en,unknown,#111111,#111111,3,0.4580406676904386
 'Jonathan Turley',en,unknown,#111111,#111111,3,0.4573099172434338
 'Keith Kellogg',en,unknown,#111111,#111111,3,0.4570114620156308
 'Derek Chauvin',en,unknown,#111111,#111111,2,0.456845686057228
@@ -496,11 +496,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ottmar Edenhofer',en,Deutschland,#1818e8,#1818e8,1,0.31950740834875
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,2,0.319230817680828
 'Shahzada Dawood',en,Pakistan,#111111,#111111,1,0.3184901513806817
-'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.3184238124999999
-'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.3184238124999999
-'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
-'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
 'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.3184238124999999
+'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.3184238124999999
+'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.3184238124999999
+'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
+'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.3176171254583893
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027019743
 'Sergei Surovikin',en,Russland,#e81818,#e81818,1,0.3150776801382385
@@ -648,7 +648,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thomas Bayes',en,UK,#e838e8,#e838e8,1,0.1908090553395686
 'Andrés Manuel López Obrador',en,Mexiko,#111111,#111111,3,0.190780487341999
 'Wolfgang Kubicki',en,Deutschland,#1818e8,#1818e8,1,0.1906644489643312
-'Jessy Wellmer',en,unknown,#111111,#111111,1,0.19050506656434302
+'Jessy Wellmer',en,unknown,#111111,#111111,1,0.190505066564343
 'Edir Macedo',en,Brasilien,#58e838,#58e848,1,0.1894112454801452
 'Jean Jouzel',en,unknown,#111111,#111111,1,0.1893416808374681
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.1890674434524462
