@@ -496,11 +496,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ottmar Edenhofer',en,Deutschland,#1818e8,#1818e8,1,0.31950740834875
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,2,0.319230817680828
 'Shahzada Dawood',en,Pakistan,#111111,#111111,1,0.3184901513806817
-'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
-'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.3184238124999999
-'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.3184238124999999
-'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.3184238124999999
+'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.3184238124999999
+'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
+'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
+'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.3184238124999999
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.3176171254583893
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027019743
 'Sergei Surovikin',en,Russland,#e81818,#e81818,1,0.3150776801382385
@@ -600,7 +600,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Michel',en,EU,#111111,#111111,3,0.224576820056469
 'Karine Jean-Pierre',en,USA,#18e8e8,#18e8e8,3,0.2245664103292931
 'Viktor Orbán',en,Ungarn,#111111,#111111,3,0.2241244442762156
-'Jessy Wellmer',en,unknown,#111111,#111111,1,0.2241236077227565
 'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,2,0.2238898789685879
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,3,0.223802778437948
 'Daniel Zhang',en,China,#e88818,#e88818,3,0.2233448591554405
@@ -649,6 +648,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thomas Bayes',en,UK,#e838e8,#e838e8,1,0.1908090553395686
 'Andrés Manuel López Obrador',en,Mexiko,#111111,#111111,3,0.190780487341999
 'Wolfgang Kubicki',en,Deutschland,#1818e8,#1818e8,1,0.1906644489643312
+'Jessy Wellmer',en,unknown,#111111,#111111,1,0.19050506656434302
 'Edir Macedo',en,Brasilien,#58e838,#58e848,1,0.1894112454801452
 'Jean Jouzel',en,unknown,#111111,#111111,1,0.1893416808374681
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.1890674434524462
@@ -656,8 +656,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean-Denis Combrexelle',en,unknown,#111111,#111111,1,0.1889328963219915
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.1887247728125
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.1886530665800936
-'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
+'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.1885747578125
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'König Charles III',en,UK,#e838e8,#e838e8,1,0.1875448730721013
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.1874174838298552
