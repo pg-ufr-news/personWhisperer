@@ -290,7 +290,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.3995331546075857
 'Willie Nelson',en,unknown,#111111,#111111,3,0.3994828434199897
 'James Cameron',en,USA,#18e8e8,#18e8e8,3,0.3993062787741476
-'Billy Crystal',en,unknown,#111111,#111111,3,0.399233393217099
 'Chris Kirkpatrick',en,unknown,#111111,#111111,1,0.3990792051999169
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.398684223158772
 'Jeffrey Donaldson',en,Irland,#111111,#111111,2,0.3984304012259471
@@ -398,6 +397,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gerald Darmanin',en,unknown,#111111,#111111,1,0.3745266047034978
 'Karim Benzema',en,Frankreich,#e8e808,#e8e808,3,0.3744024619420454
 'Nicolas Sarkozy',en,unknown,#111111,#111111,2,0.3738855527802417
+'Billy Crystal',en,unknown,#111111,#111111,3,0.3738501692345341
 'Jeanne du Barry',en,Frankreich,#e8e808,#e8e808,1,0.3738395672162831
 'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.3735374992232371
 'Bridget Moynahan',en,unknown,#111111,#111111,1,0.3733481441511436
@@ -496,11 +496,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ottmar Edenhofer',en,Deutschland,#1818e8,#1818e8,1,0.31950740834875
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,2,0.319230817680828
 'Shahzada Dawood',en,Pakistan,#111111,#111111,1,0.3184901513806817
-'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.3184238124999999
-'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.3184238124999999
-'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.3184238124999999
-'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
 'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
+'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.3184238124999999
+'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.3184238124999999
+'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
+'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.3184238124999999
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.3176171254583893
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027019743
 'Sergei Surovikin',en,Russland,#e81818,#e81818,1,0.3150776801382385
