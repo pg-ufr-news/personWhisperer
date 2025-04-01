@@ -55,7 +55,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Valérie Hayer',en,unknown,#111111,#111111,2,0.4523000399147857
 'Ayo Edebiri',en,unknown,#111111,#111111,3,0.4520594651830971
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.4518887827960129
-'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.4518583358437159
 'Indiana Jones',en,unknown,#111111,#111111,2,0.4514407505991244
 'Andy Cohen',en,unknown,#111111,#111111,3,0.4503285563099509
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4500019455589806
@@ -284,6 +283,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.398684223158772
 'Jeffrey Donaldson',en,Irland,#111111,#111111,2,0.3984304012259471
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.3983445095824807
+'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.3981463995580676
 'Joe Alwyn',en,unknown,#111111,#111111,2,0.3979871360458984
 'Michael Cohen',en,USA,#18e8e8,#18e8e8,3,0.3979750659735508
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.3974688483452221
@@ -693,10 +693,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Missy Motown',en,Deutschland,#1818e8,#1818e8,1,0.1623073144206233
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
-'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
-'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
 'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
+'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1595440828683983
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.1581434948158253
