@@ -407,9 +407,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Afida Turner',en,Frankreich,#e8e808,#e8e808,1,0.3688026068634686
 'Hans-Werner Sinn',en,unknown,#111111,#111111,1,0.3685833858375
 'Petro Poroshenko',en,unknown,#111111,#111111,1,0.3685384025549144
+'Melanie Guttmann',en,unknown,#111111,#111111,1,0.368475
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.368475
 'Maria Sacharowa',en,unknown,#111111,#111111,1,0.368475
-'Melanie Guttmann',en,unknown,#111111,#111111,1,0.368475
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.3667259496198617
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.3665864645462499
 'Rachida Dati',en,unknown,#111111,#111111,1,0.3662435901156727
@@ -480,7 +480,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Konrad Adenauer',en,Deutschland,#1818e8,#1818e8,2,0.3366240018700734
 'John Rawls',en,USA,#18e8e8,#18e8e8,1,0.3349546959392854
 'Bruno Le Maire',en,Frankreich,#e8e808,#e8e808,2,0.3344510357113163
-'Sarah Stier',en,unknown,#111111,#111111,3,0.33175540725134023
+'Sarah Stier',en,unknown,#111111,#111111,3,0.3317554072513402
 'Billy Graham',en,USA,#18e8e8,#18e8e8,3,0.3294569666085824
 'Pap Ndiaye',en,unknown,#111111,#111111,1,0.3293632042933479
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,1,0.3293629239209089
@@ -691,10 +691,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Missy Motown',en,Deutschland,#1818e8,#1818e8,1,0.1623073144206233
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1602885441406249
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1595440828683983
 'König Charles III',en,UK,#e838e8,#e838e8,1,0.1594131421112861
@@ -713,7 +713,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Julian Assange',en,Australien,#111111,#111111,2,0.149083180581724
 'Ola Källenius',en,Deutschland,#1818e8,#1818e8,1,0.1487102663900673
 'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.1471448835210936
-'Selenski',en,Ukraine,#e818e8,#e818e8,1,0.1460265211134415
 'Boris Palmer',en,Deutschland,#1818e8,#1818e8,1,0.1449050835982684
 'Patriarch Kyrill',en,Ukraine,#e818e8,#e818e8,1,0.143922702418574
 'Klaus-Michael Kühne',en,Deutschland,#1818e8,#1818e8,1,0.143665233328073
@@ -735,6 +734,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nadja Abd el Farrag',en,Deutschland,#1818e8,#1818e8,1,0.1273893204557615
 'Larry Page',en,USA,#18e8e8,#18e8e8,2,0.1273604723593916
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.1265313572958776
+'Selenski',en,Ukraine,#e818e8,#e818e8,1,0.12412254294642527
 'Macky Sall',en,Senegal,#111111,#111111,1,0.123426671058894
 'Selenskyj',en,Ukraine,#e818e8,#e818e8,1,0.1233248047386064
 'Gabor Steingart',en,Deutschland,#1818e8,#1818e8,1,0.1228960403892998
