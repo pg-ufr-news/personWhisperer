@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sandy Hook',en,unknown,#111111,#111111,3,0.470008918993923
 'Pat McAfee',en,unknown,#111111,#111111,3,0.4694919830033678
 'Joe Jonas',en,unknown,#111111,#111111,3,0.4694881126354004
-'Jennifer Lopez',en,unknown,#111111,#111111,3,0.46947283796846084
+'Jennifer Lopez',en,unknown,#111111,#111111,3,0.4694728379684608
 'Jacoby Brissett',en,unknown,#111111,#111111,3,0.4693941850757593
 'Jennifer Garner',en,unknown,#111111,#111111,3,0.4686425332011358
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.4686009903766109
@@ -58,6 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Indiana Jones',en,unknown,#111111,#111111,2,0.4514407505991244
 'Andy Cohen',en,unknown,#111111,#111111,3,0.4503285563099509
 'Vinod Khosla',en,unknown,#111111,#111111,1,0.4499341433863636
+'Ryan Gosling',en,unknown,#111111,#111111,3,0.4497674587325411
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.4496395649117746
 'Gérald Darmanin',en,Frankreich,#e8e808,#e8e808,2,0.4489284486125
 'Eric Trump',en,unknown,#111111,#111111,3,0.4484881171884486
@@ -201,7 +202,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Arno Antlitz',en,Deutschland,#1818e8,#1818e8,1,0.411740141525
 'Ben Affleck',en,unknown,#111111,#111111,3,0.4117119794444336
 'Justin Timberlake',en,unknown,#111111,#111111,3,0.4116264205879065
-'Ryan Gosling',en,unknown,#111111,#111111,3,0.4110100567976419
 'Barbara Walters',en,USA,#18e8e8,#18e8e8,3,0.4106310323468179
 'Axel Springer',en,Deutschland,#1818e8,#1818e8,3,0.4105437684598294
 'Bruce Springsteen',en,USA,#18e8e8,#18e8e8,3,0.410391674187148
@@ -692,10 +692,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Missy Motown',en,Deutschland,#1818e8,#1818e8,1,0.1623073144206233
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
-'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1595440828683983
 'König Charles III',en,UK,#e838e8,#e838e8,1,0.1594131421112861
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.1581434948158253
