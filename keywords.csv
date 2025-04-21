@@ -88,7 +88,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nancy Mace',en,unknown,#111111,#111111,3,0.437237691074168
 'Ron Johnson',en,unknown,#111111,#111111,3,0.4371466317111
 'Gisele Bündchen',en,unknown,#111111,#111111,3,0.4363704187923435
-'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.43596878121108223
+'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.4359687812110822
 'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,2,0.4356129013892499
 'Hugh Grant',en,unknown,#111111,#111111,3,0.4354646311530504
 'Aaron Rodgers',en,unknown,#111111,#111111,3,0.434834502691415
@@ -421,7 +421,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peregrine Pearson',en,unknown,#111111,#111111,1,0.3619517298160702
 'Camille Cottin',en,unknown,#111111,#111111,1,0.3618049566722732
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,2,0.36145317
-'Reinhard Marx',en,Deutschland,#1818e8,#1818e8,1,0.3614000914999999
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,2,0.3607716484759088
 'Merrill McCollum',en,USA,#18e8e8,#18e8e8,1,0.3601141975987499
 'Robert Menendez',en,unknown,#111111,#111111,2,0.3597930317281296
@@ -511,6 +510,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Milloy',en,USA,#18e8e8,#18e8e8,1,0.3104475480099431
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.3089373655988346
 'Julian Reichelt',en,Deutschland,#1818e8,#1818e8,2,0.3072114763998855
+'Reinhard Marx',en,Deutschland,#1818e8,#1818e8,1,0.3071900777749999
 'Giorgia Meloni',en,Italien,#111111,#111111,3,0.3062708534063517
 'Melinda Gates',en,USA,#18e8e8,#18e8e8,3,0.3048615328702266
 'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.3030158487712762
@@ -692,10 +692,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Missy Motown',en,Deutschland,#1818e8,#1818e8,1,0.1623073144206233
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
-'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1595440828683983
 'König Charles III',en,UK,#e838e8,#e838e8,1,0.1594131421112861
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.1581434948158253
