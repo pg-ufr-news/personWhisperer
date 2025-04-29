@@ -692,10 +692,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Missy Motown',en,Deutschland,#1818e8,#1818e8,1,0.1623073144206233
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
-'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1602885441406249
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1595440828683983
 'König Charles III',en,UK,#e838e8,#e838e8,1,0.1594131421112861
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.1581434948158253
@@ -768,7 +768,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steffen Große',en,Deutschland,#1818e8,#1818e8,1,0.103892870215073
 'Jitzchak Herzog',en,Israel,#111111,#111111,1,0.1034947800769493
 'Amin Nasser',en,SaudiArabien,#111111,#111111,1,0.1026328506069425
-'Frank Plasberg',en,Deutschland,#1818e8,#1818e8,1,0.10216660529415351
+'Frank Plasberg',en,Deutschland,#1818e8,#1818e8,1,0.1021666052941535
 'Yanis Varoufakis',en,Griechenland,#1858e8,#1858e8,1,0.102105240474468
 'Faisal Kawusi',en,Deutschland,#1818e8,#1818e8,1,0.1002090718094275
 'Chez Krömer',en,Deutschland,#1818e8,#1818e8,1,0.1000121974050872
@@ -807,13 +807,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Igor Setschin',en,Russland,#e81818,#e81818,1,0.0813319142811791
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.0779451634949702
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.076810548853533
-'Badri Hosseini Chamenei',en,Iran,#111111,#111111,1,0.0764442041235952
 'Hans Joachim Schellnhuber',en,Deutschland,#1818e8,#1818e8,1,0.0760902250186068
 'Carola Rackete',en,Deutschland,#1818e8,#1818e8,1,0.0752171657805908
 'Heinrich XIII. Prinz Reuß',en,Deutschland,#1818e8,#1818e8,1,0.0743982090063982
 'Kurt Krömer',en,Deutschland,#1818e8,#1818e8,1,0.0725310067236928
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.0721709001772753
 'Dmitry Peskov',en,Russland,#e81818,#e81818,2,0.066365762202661
+'Badri Hosseini Chamenei',en,Iran,#111111,#111111,1,0.06497757350505592
 'Alexei Miller',en,Russland,#e81818,#e81818,1,0.0647260669685873
 'Louis Klamroth',en,Deutschland,#1818e8,#1818e8,1,0.0625193962514577
 'Ayatollah Ali Chamenei',en,Iran,#111111,#111111,1,0.0616572438346042
