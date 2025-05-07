@@ -510,7 +510,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.3089373655988346
 'Julian Reichelt',en,Deutschland,#1818e8,#1818e8,2,0.3072114763998855
 'Reinhard Marx',en,Deutschland,#1818e8,#1818e8,1,0.3071900777749999
-'Merrill McCollum',en,USA,#18e8e8,#18e8e8,1,0.30639709795893744
+'Merrill McCollum',en,USA,#18e8e8,#18e8e8,1,0.3063970979589374
 'Giorgia Meloni',en,Italien,#111111,#111111,3,0.3062708534063517
 'Melinda Gates',en,USA,#18e8e8,#18e8e8,3,0.3048615328702266
 'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.3030158487712762
@@ -602,10 +602,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marlène Schiappa',en,unknown,#111111,#111111,1,0.2226069790479921
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.2225986352339375
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.2220026712499999
-'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
-'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2218526562499999
+'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.2218526562499999
+'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2218526562499999
 'Yoon Suk-yeol',en,SüdKorea,#111111,#111111,3,0.2215640864599485
 'Richard Ferrand',en,Frankreich,#e8e808,#e8e808,1,0.2198767911344362
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,1,0.2185231873055357
@@ -681,6 +681,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fidel Castro',en,Kuba,#111111,#111111,2,0.1718684397276514
 'Tino Chrupalla',en,Deutschland,#1818e8,#1818e8,2,0.1709994491436198
 'Lula sa Silva',en,Brasilien,#58e838,#58e838,1,0.1709256340881491
+'Bodo Ramelow',en,Deutschland,#1818e8,#1818e8,2,0.1693969222938856
 'Lael Brainard',en,USA,#18e8e8,#18e8e8,1,0.1693440504326554
 'Sahra Wagenknecht',en,Deutschland,#1818e8,#1818e8,1,0.1690026935783271
 'Bill Gates',en,USA,#18e8e8,#18e8e8,3,0.169000396353472
@@ -753,7 +754,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andreas Jödecke',en,Deutschland,#1818e8,#1818e8,1,0.1120103528819716
 'Alexej Kudrin',en,Russland,#e81818,#e81818,1,0.1118888387080861
 'Holger Münch',en,Deutschland,#1818e8,#1818e8,1,0.1114288957440125
-'Bodo Ramelow',en,Deutschland,#1818e8,#1818e8,1,0.1107022262281007
 'Michael Ballweg',en,Deutschland,#1818e8,#1818e8,1,0.1100016288819354
 'Wolfgang Schäuble',en,Deutschland,#1818e8,#1818e8,1,0.1099819358340184
 'Benjamin Netanjahu',en,Israel,#111111,#111111,1,0.1084347203837064
