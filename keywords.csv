@@ -496,11 +496,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
 'Hans-Werner Sinn',en,unknown,#111111,#111111,1,0.3132958779618749
-'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
-'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
-'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
-'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
+'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
+'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
+'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
+'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.3126485998643124
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3114531699999999
@@ -693,9 +693,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Missy Motown',en,Deutschland,#1818e8,#1818e8,1,0.1623073144206233
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1595440828683983
 'König Charles III',en,UK,#e838e8,#e838e8,1,0.1594131421112861
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.1581434948158253
@@ -724,7 +724,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yannick Morez',en,Frankreich,#e8e808,#e8e808,1,0.1370691284584932
 'Marco Buschmann',en,Deutschland,#1818e8,#1818e8,1,0.1363091408916048
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.1362452625195312
-'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.13624526251953117
+'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1362452625195311
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1362452625195311
 'John Roberts',en,USA,#18e8e8,#18e8e8,1,0.134786905615324
 'Ebrahim Raisi',en,Iran,#111111,#111111,3,0.134674092572129
@@ -806,7 +806,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.076810548853533
 'Hans Joachim Schellnhuber',en,Deutschland,#1818e8,#1818e8,1,0.0760902250186068
 'Carola Rackete',en,Deutschland,#1818e8,#1818e8,1,0.0752171657805908
-'Heinrich XIII. Prinz Reuß',en,Deutschland,#1818e8,#1818e8,1,0.0743982090063982
 'Kurt Krömer',en,Deutschland,#1818e8,#1818e8,1,0.0725310067236928
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.0721709001772753
 'Katalin Novak',en,Ungarn,#111111,#111111,1,0.0721205607764846
@@ -815,6 +814,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dmitry Peskov',en,Russland,#e81818,#e81818,2,0.066365762202661
 'Badri Hosseini Chamenei',en,Iran,#111111,#111111,1,0.0649775735050559
 'Alexei Miller',en,Russland,#e81818,#e81818,1,0.0647260669685873
+'Heinrich XIII. Prinz Reuß',en,Deutschland,#1818e8,#1818e8,1,0.06323847765543847
 'Louis Klamroth',en,Deutschland,#1818e8,#1818e8,1,0.0625193962514577
 'Ayatollah Ali Chamenei',en,Iran,#111111,#111111,1,0.0616572438346042
 'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.0587009814171748
