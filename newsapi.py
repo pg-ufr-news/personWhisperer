@@ -422,6 +422,7 @@ def filterNewAndArchive(articles, language, keyWord):
             if(not fileDate in collectedNews):
                 if(os.path.isfile(DATA_PATH / 'csv' / fileDate)):
                     df = pd.read_csv(DATA_PATH / 'csv' / fileDate, delimiter=',',index_col='index')
+                    df.reset_index(drop=True, inplace=True)
                     collectedNews[fileDate] = df.to_dict('index')
                 else:
                     collectedNews[fileDate] = {}
