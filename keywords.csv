@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Francesca Albanese',en,Italien,#111111,#111111,3,0.5667662842871023
 'George Simion',en,unknown,#111111,#111111,2,0.5547028214031621
 'Katherina Reiche',en,unknown,#111111,#111111,1,0.55092805275
 'Nicusor Dan',en,unknown,#111111,#111111,1,0.5456901445000001
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benjamin Hasselhorn',en,unknown,#111111,#111111,1,0.5057499999999999
 'Pope Leo',en,unknown,#111111,#111111,3,0.4960599509835739
 'Curtis Yarvin',en,unknown,#111111,#111111,2,0.4957033942446022
+'Francesca Albanese',en,Italien,#111111,#111111,3,0.4912478611894915
 'Gayle King',en,unknown,#111111,#111111,3,0.4773494263812269
 'Zach Bryan',en,unknown,#111111,#111111,3,0.4752737616445909
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.4740501765274921
