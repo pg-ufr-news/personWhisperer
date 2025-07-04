@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Steffen Kotre',en,unknown,#111111,#111111,1,0.5383708985875
 'David Cameron',en,unknown,#111111,#111111,2,0.5379518859999999
 'Mukesh Ambani',en,unknown,#111111,#111111,3,0.5349082142840907
 'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.5234372021703613
@@ -11,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Curtis Yarvin',en,unknown,#111111,#111111,2,0.4957033942446022
 'Francesca Albanese',en,Italien,#111111,#111111,3,0.4912478611894915
 'Gayle King',en,unknown,#111111,#111111,3,0.4773494263812269
-'Nicusor Dan',en,unknown,#111111,#111111,1,0.47561187782500003
+'Nicusor Dan',en,unknown,#111111,#111111,1,0.475611877825
 'Zach Bryan',en,unknown,#111111,#111111,3,0.4752737616445909
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.4740501765274921
 'Katherina Reiche',en,unknown,#111111,#111111,1,0.4711391298375
@@ -48,6 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martha MacCallum',en,unknown,#111111,#111111,3,0.4589351934361841
 'König Felipe VI',en,Spanien,#111111,#111111,2,0.4585471131874999
 'Margaret Qualley',en,unknown,#111111,#111111,3,0.4580406676904386
+'Steffen Kotre',en,unknown,#111111,#111111,1,0.45761526379937495
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.4574886174921845
 'Jonathan Turley',en,unknown,#111111,#111111,3,0.4573099172434338
 'Keith Kellogg',en,unknown,#111111,#111111,3,0.4570114620156308
