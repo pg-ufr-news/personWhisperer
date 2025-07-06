@@ -1,8 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jassir Arafat',en,Palistina,#111111,#111111,3,0.68
 'Theodor Herzl',en,Ungarn,#111111,#111111,2,0.68
+'Mahmud Abbas',en,Palistina,#111111,#111111,3,0.67
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,2,0.6278533413636362
 'Ayatollah Khomeini',en,Iran,#111111,#111111,3,0.614740785
+'Jassir Arafat',en,Palistina,#111111,#111111,2,0.5780000000000001
 'Gwede Mantashe',en,unknown,#111111,#111111,1,0.50615505325
 'Benjamin Hasselhorn',en,unknown,#111111,#111111,1,0.5057499999999999
 'Mukesh Ambani',en,unknown,#111111,#111111,3,0.5005323180505681
@@ -500,8 +501,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,2,0.3200087095195301
 'Ottmar Edenhofer',en,Deutschland,#1818e8,#1818e8,1,0.31950740834875
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,2,0.319230817680828
-'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
 'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.3184238124999999
+'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
 'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.3176171254583893
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027019743
@@ -513,11 +514,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
 'Hans-Werner Sinn',en,unknown,#111111,#111111,1,0.3132958779618749
-'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
 'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
+'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.3126485998643124
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3114531699999999
@@ -547,8 +548,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Lindner',en,Deutschland,#1818e8,#1818e8,3,0.2798488294061856
 'Moon Hyung-jin',en,USA,#18e8e8,#18e8e8,1,0.278869476151504
 'Shahzada Dawood',en,Pakistan,#111111,#111111,1,0.2708666586735794
-'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.2706602406249999
 'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.2706602406249999
+'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.2706602406249999
 'François Bayrou',en,unknown,#111111,#111111,2,0.2692801960093696
 'Georg Gänswein',en,Deutschland,#1818e8,#1818e8,1,0.268547120299375
 'Hun Sen',en,Kambodscha,#111111,#111111,3,0.265928065094144
@@ -561,9 +562,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eva Kaili',en,EU,#111111,#111111,3,0.2625054479876908
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.2613641105248465
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
+'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.2610031249999999
-'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.260231479775265
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.2572194954743593
@@ -624,7 +625,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
 'Yoon Suk-yeol',en,SüdKorea,#111111,#111111,3,0.2215640864599485
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,1,0.2185231873055357
-'Mahmud Abbas',en,Palistina,#111111,#111111,3,0.67
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,2,0.2175058004450625
 'Larry Ellison',en,USA,#18e8e8,#18e8e8,3,0.2151524799069186
 'Ursula von der Leyen',en,EU,#111111,#111111,3,0.2145914610119902
