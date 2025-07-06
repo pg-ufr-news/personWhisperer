@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.6892874609744599
 'Mahmud Abbas',en,Palistina,#111111,#111111,3,0.67
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,2,0.6278533413636362
 'Ayatollah Khomeini',en,Iran,#111111,#111111,3,0.614740785
@@ -56,7 +57,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.4574886174921845
 'Jonathan Turley',en,unknown,#111111,#111111,3,0.4573099172434338
 'Keith Kellogg',en,unknown,#111111,#111111,3,0.4570114620156308
-'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.7568326000769048
 'Jared Kushner',en,unknown,#111111,#111111,3,0.4568016566555602
 'Sabrina Carpenter',en,unknown,#111111,#111111,3,0.4565709801168391
 'Taylor Swift',en,unknown,#111111,#111111,3,0.4563861885906472
@@ -563,9 +563,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eva Kaili',en,EU,#111111,#111111,3,0.2625054479876908
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.2613641105248465
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
-'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.2610031249999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
+'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.2610031249999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.260231479775265
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.2572194954743593
