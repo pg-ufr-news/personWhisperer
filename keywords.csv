@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ayatollah Khomeini',en,Iran,#111111,#111111,3,0.5173478489839285
 'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.514603824951606
 'Gwede Mantashe',en,unknown,#111111,#111111,1,0.50615505325
 'Benjamin Hasselhorn',en,unknown,#111111,#111111,1,0.5057499999999999
@@ -21,6 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.4704755910967612
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.4703038408182102
 'Sandy Hook',en,unknown,#111111,#111111,3,0.470008918993923
+'Ayatollah Khomeini',en,Iran,#111111,#111111,3,0.4699611006018565
 'Pat McAfee',en,unknown,#111111,#111111,3,0.4694919830033678
 'Joe Jonas',en,unknown,#111111,#111111,3,0.4694881126354004
 'Jacoby Brissett',en,unknown,#111111,#111111,3,0.4693941850757593
@@ -563,9 +563,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eva Kaili',en,EU,#111111,#111111,3,0.2625054479876908
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.2613641105248465
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.2610031249999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.260231479775265
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.2572194954743593
