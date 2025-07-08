@@ -1,836 +1,835 @@
 ,phrase,label,sentiment,subjectivity,language,count
-first,first,ORDINAL,,,en,122
+first,first,ORDINAL,,,en,120
 Wednesday,Wednesday,DATE,,,en,78
-one,one,CARDINAL,,,en,71
+one,one,CARDINAL,,,en,69
 Monday,Monday,DATE,,,en,65
 2025,2025,DATE,,,en,62
 Israeli,Israeli,NORP,,,en,56
 American,American,NORP,,,en,49
 Thursday,Thursday,DATE,,,en,43
 two,two,CARDINAL,,,en,40
-Saudi,Saudi,NORP,,,en,35
 second,second,ORDINAL,,,en,35
+Saudi,Saudi,NORP,,,en,35
 Friday,Friday,DATE,,,en,34
 Tuesday,Tuesday,DATE,,,en,31
 Democratic,Democratic,NORP,,,en,30
 3,3,DATE,,,en,29
 Vatican,Vatican,FAC,0.10011002886002887,0.7317821067821066,en,28
-April 14,April 14,DATE,,,en,26
 Saturday,Saturday,DATE,,,en,26
-three,three,CARDINAL,,,en,25
+April 14,April 14,DATE,,,en,26
 British,British,NORP,,,en,25
-Catholic,Catholic,NORP,,,en,23
+three,three,CARDINAL,,,en,25
 Star Wars,Star Wars,WORK_OF_ART,,,en,23
+Catholic,Catholic,NORP,,,en,23
 this week,this week,DATE,,,en,22
-Democrat,Democrat,NORP,,,en,21
-Republicans,Republicans,NORP,,,en,21
-Republican,Republican,NORP,,,en,21
 Sunday,Sunday,DATE,,,en,21
+Democrat,Democrat,NORP,,,en,21
 Canadian,Canadian,NORP,,,en,21
 Blue Origin,Blue Origin,PRODUCT,2.0517261904761908,7.648730158730158,en,21
+Republican,Republican,NORP,,,en,21
+Republicans,Republicans,NORP,,,en,21
 French,French,NORP,,,en,19
 40,40,DATE,,,en,19
 Easter,Easter,EVENT,0.7000000000000001,2.6333333333333333,en,18
 Americans,Americans,NORP,,,en,16
 last week,last week,DATE,,,en,16
-Russian,Russian,NORP,,,en,15
 Asian,Asian,NORP,,,en,15
-Consent Framework,Consent Framework,WORK_OF_ART,,,en,15
 11,11,DATE,,,en,15
-Palestinian,Palestinian,NORP,,,en,14
+Russian,Russian,NORP,,,en,15
+Consent Framework,Consent Framework,WORK_OF_ART,,,en,15
 One,One,CARDINAL,,,en,14
+Palestinian,Palestinian,NORP,,,en,14
 today,today,DATE,,,en,13
-Today,Today,DATE,,,en,13
 5,5,CARDINAL,,,en,13
-night,night,TIME,,,en,12
-Indian,Indian,NORP,,,en,12
+Today,Today,DATE,,,en,13
 Broadway,Broadway,FAC,,,en,12
-this year,this year,DATE,,,en,12
 Saudi Arabian,Saudi Arabian,NORP,,,en,12
+Indian,Indian,NORP,,,en,12
+this year,this year,DATE,,,en,12
+night,night,TIME,,,en,12
 annual,annual,DATE,,,en,11
-2024,2024,DATE,,,en,11
-Democrats,Democrats,NORP,,,en,11
 Chinese,Chinese,NORP,,,en,11
-241,241,CARDINAL,,,en,10
+Democrats,Democrats,NORP,,,en,11
+2024,2024,DATE,,,en,11
+morning,morning,TIME,,,en,10
+Doomsday,Doomsday,DATE,,,en,10
+10,10,CARDINAL,,,en,10
 third,third,ORDINAL,,,en,10
+43,43,DATE,,,en,10
+five,five,CARDINAL,,,en,10
+241,241,CARDINAL,,,en,10
 The Wedding Banquet,The Wedding Banquet,WORK_OF_ART,,,en,10
 Romanian,Romanian,NORP,,,en,10
-five,five,CARDINAL,,,en,10
-10,10,CARDINAL,,,en,10
-Doomsday,Doomsday,DATE,,,en,10
-43,43,DATE,,,en,10
-morning,morning,TIME,,,en,10
-Buckingham Palace,Buckingham Palace,FAC,,,en,9
 four,four,CARDINAL,,,en,9
-2024/2025,2024/2025,CARDINAL,,,en,8
+Buckingham Palace,Buckingham Palace,FAC,,,en,9
 1,1,CARDINAL,,,en,8
-Japanese,Japanese,NORP,,,en,8
-European,European,NORP,,,en,8
-First,First,ORDINAL,,,en,8
-April,April,DATE,,,en,8
 2020,2020,DATE,,,en,8
 Iranian,Iranian,NORP,,,en,8
-Polish,Polish,NORP,,,en,7
-Italian,Italian,NORP,,,en,7
-Lifetimes,Lifetimes,WORK_OF_ART,,,en,7
-the White House,the White House,FAC,,,en,7
+European,European,NORP,,,en,8
+2024/2025,2024/2025,CARDINAL,,,en,8
+Japanese,Japanese,NORP,,,en,8
+First,First,ORDINAL,,,en,8
+April,April,DATE,,,en,8
+this summer,this summer,DATE,,,en,7
+Star Wars: Starfighter,Star Wars: Starfighter,WORK_OF_ART,,,en,7
 years,years,DATE,,,en,7
 earlier this week,earlier this week,DATE,,,en,7
-Star Wars: Starfighter,Star Wars: Starfighter,WORK_OF_ART,,,en,7
-$237 million,$237 million,MONEY,,,en,7
-this summer,this summer,DATE,,,en,7
 4,4,CARDINAL,,,en,7
-The Chosen,The Chosen,WORK_OF_ART,,,en,6
-Pro-European,Pro-European,NORP,,,en,6
-7,7,MONEY,,,en,6
-six,six,CARDINAL,,,en,6
-100 days,100 days,DATE,,,en,6
-Muslim,Muslim,NORP,,,en,6
-2,2,CARDINAL,,,en,6
-Star Wars',Star Wars',WORK_OF_ART,,,en,6
-Star Wars:,Star Wars:,WORK_OF_ART,,,en,6
-100,100,CARDINAL,,,en,6
-days,days,DATE,,,en,6
-Palestinians,Palestinians,NORP,,,en,6
-Swedish,Swedish,NORP,,,en,6
-2022,2022,DATE,,,en,6
-the years,the years,DATE,,,en,6
-Jun 26,Jun 26,DATE,,,en,6
-seventh,seventh,ORDINAL,,,en,6
+Polish,Polish,NORP,,,en,7
+Lifetimes,Lifetimes,WORK_OF_ART,,,en,7
+$237 million,$237 million,MONEY,,,en,7
+Italian,Italian,NORP,,,en,7
+the White House,the White House,FAC,,,en,7
 14th,14th,ORDINAL,,,en,6
-decades,decades,DATE,,,en,6
-$63 million,$63 million,MONEY,,,en,6
 weeks,weeks,DATE,,,en,6
+2,2,CARDINAL,,,en,6
+seventh,seventh,ORDINAL,,,en,6
+the years,the years,DATE,,,en,6
+decades,decades,DATE,,,en,6
 summer,summer,DATE,,,en,6
-2023,2023,DATE,,,en,6
+100,100,CARDINAL,,,en,6
+$63 million,$63 million,MONEY,,,en,6
+7,7,MONEY,,,en,6
+100 days,100 days,DATE,,,en,6
 first 100 days,first 100 days,DATE,,,en,6
-fifth,fifth,ORDINAL,,,en,5
-15,15,CARDINAL,,,en,5
-Ukrainian,Ukrainian,NORP,,,en,5
-May 2,May 2,DATE,,,en,5
-85 lakh,85 lakh,MONEY,,,en,5
-Starfighter,Starfighter,WORK_OF_ART,,,en,5
+The Chosen,The Chosen,WORK_OF_ART,,,en,6
+Muslim,Muslim,NORP,,,en,6
+Palestinians,Palestinians,NORP,,,en,6
+2022,2022,DATE,,,en,6
+Star Wars:,Star Wars:,WORK_OF_ART,,,en,6
+Swedish,Swedish,NORP,,,en,6
+Jun 26,Jun 26,DATE,,,en,6
+Pro-European,Pro-European,NORP,,,en,6
+days,days,DATE,,,en,6
+Star Wars',Star Wars',WORK_OF_ART,,,en,6
+six,six,CARDINAL,,,en,6
+2023,2023,DATE,,,en,6
 Peruvian,Peruvian,NORP,,,en,5
-this weekend,this weekend,DATE,,,en,5
+May 2,May 2,DATE,,,en,5
+Starfighter,Starfighter,WORK_OF_ART,,,en,5
 1993,1993,DATE,,,en,5
-2005,2005,DATE,,,en,5
+this weekend,this weekend,DATE,,,en,5
+85 lakh,85 lakh,MONEY,,,en,5
+Rate Field,Rate Field,FAC,,,en,5
+fifth,fifth,ORDINAL,,,en,5
 2010,2010,DATE,,,en,5
+Ukrainian,Ukrainian,NORP,,,en,5
+15,15,CARDINAL,,,en,5
+2005,2005,DATE,,,en,5
+millions,millions,CARDINAL,,,en,5
+60,60,MONEY,,,en,5
 7th,7th,ORDINAL,,,en,5
 the same day,the same day,DATE,,,en,5
-60,60,MONEY,,,en,5
 the weekend,the weekend,DATE,,,en,5
-millions,millions,CARDINAL,,,en,5
-Rate Field,Rate Field,FAC,,,en,5
-9,9,DATE,,,en,4
+Turkish,Turkish,NORP,,,en,4
+May 2027,May 2027,DATE,,,en,4
+2011,2011,DATE,,,en,4
+Frontale,Frontale,PRODUCT,,,en,4
+240,240,CARDINAL,,,en,4
+Four,Four,CARDINAL,,,en,4
+German,German,NORP,,,en,4
+South African,South African,NORP,,,en,4
+Christians,Christians,NORP,,,en,4
+Coachella 2025,Coachella 2025,FAC,,,en,4
+US Pavilion,US Pavilion,FAC,,,en,4
+June 2025,June 2025,DATE,,,en,4
 quarter,quarter,CARDINAL,,,en,4
-less than a year,less than a year,DATE,,,en,4
-2027,2027,DATE,,,en,4
-next year,next year,DATE,,,en,4
-Big Beautiful Bill,Big Beautiful Bill,WORK_OF_ART,,,en,4
+Windsor Castle,Windsor Castle,FAC,,,en,4
+Portuguese,Portuguese,NORP,,,en,4
+2026,2026,DATE,,,en,4
+pro-European,pro-European,NORP,,,en,4
 A Star Is Born,A Star Is Born,WORK_OF_ART,,,en,4
 2018,2018,DATE,,,en,4
-Coachella 2025,Coachella 2025,FAC,,,en,4
-2011,2011,DATE,,,en,4
-May 2027,May 2027,DATE,,,en,4
-October 7,October 7,DATE,,,en,4
+next year,next year,DATE,,,en,4
+Season 1,Season 1,DATE,,,en,4
+five percent,five percent,PERCENT,,,,4
+five years,five years,DATE,,,en,4
+March,March,DATE,,,en,4
+zero,zero,CARDINAL,,,en,4
+2027,2027,DATE,,,en,4
+"Wednesday, April 23","Wednesday, April 23",DATE,,,en,4
+$2 billion,$2 billion,MONEY,,,en,4
+1st,1st,ORDINAL,,,en,4
+July 1,July 1,DATE,,,en,4
 Jun 25,Jun 25,DATE,,,en,4
-April 29,April 29,DATE,,,en,4
 "Rs 1,876 crore","Rs 1,876 crore",PRODUCT,,,en,4
 dozen,dozen,CARDINAL,,,en,4
-zero,zero,CARDINAL,,,en,4
-2026,2026,DATE,,,en,4
-US Pavilion,US Pavilion,FAC,,,en,4
-"Wednesday, April 23","Wednesday, April 23",DATE,,,en,4
-June 2025,June 2025,DATE,,,en,4
-Turkish,Turkish,NORP,,,en,4
-Portuguese,Portuguese,NORP,,,en,4
-the day,the day,DATE,,,en,4
-12,12,CARDINAL,,,en,4
-March,March,DATE,,,en,4
-German,German,NORP,,,en,4
-Windsor Castle,Windsor Castle,FAC,,,en,4
-1st,1st,ORDINAL,,,en,4
-Christians,Christians,NORP,,,en,4
-20th,20th,ORDINAL,,,en,4
-240,240,CARDINAL,,,en,4
-May 1,May 1,DATE,,,en,4
-pro-European,pro-European,NORP,,,en,4
-Mamdani,Mamdani,PRODUCT,,,en,4
-five percent,five percent,PERCENT,,,,4
+October 7,October 7,DATE,,,en,4
 20,20,CARDINAL,,,en,4
-Season 1,Season 1,DATE,,,en,4
-Suits LA,Suits LA,WORK_OF_ART,,,en,4
+9,9,DATE,,,en,4
+Big Beautiful Bill,Big Beautiful Bill,WORK_OF_ART,,,en,4
+Mamdani,Mamdani,PRODUCT,,,en,4
 another busy summer,another busy summer,DATE,,,en,4
-$2 billion,$2 billion,MONEY,,,en,4
-Frontale,Frontale,PRODUCT,,,en,4
-afternoon,afternoon,TIME,,,en,4
+May 1,May 1,DATE,,,en,4
 VE Day,VE Day,DATE,,,en,4
-five years,five years,DATE,,,en,4
+less than a year,less than a year,DATE,,,en,4
+Suits LA,Suits LA,WORK_OF_ART,,,en,4
+the day,the day,DATE,,,en,4
 Netflix,Netflix,WORK_OF_ART,,,en,4
-July 1,July 1,DATE,,,en,4
-Four,Four,CARDINAL,,,en,4
-South African,South African,NORP,,,en,4
-Lifetimes Tour,Lifetimes Tour,WORK_OF_ART,,,en,3
-thousands,thousands,CARDINAL,,,en,3
-Can We Send Her Back,Can We Send Her Back,WORK_OF_ART,,,en,3
-+2307,+2307,NORP,,,en,3
-Kensington Palace,Kensington Palace,FAC,,,en,3
-recent weeks,recent weeks,DATE,,,en,3
-May Day,May Day,DATE,,,en,3
-"June 21, 2025","June 21, 2025",DATE,,,en,3
-May 5,May 5,DATE,,,en,3
-2021,2021,DATE,,,en,3
-dozens,dozens,CARDINAL,,,en,3
-the night,the night,TIME,,,en,3
-51st,51st,ORDINAL,,,en,3
-a year,a year,DATE,,,en,3
-his first month,his first month,DATE,,,en,3
-2015,2015,DATE,,,en,3
+12,12,CARDINAL,,,en,4
+April 29,April 29,DATE,,,en,4
+afternoon,afternoon,TIME,,,en,4
 July 2020,July 2020,DATE,,,en,3
-Last week,Last week,DATE,,,en,3
-Islamic,Islamic,NORP,,,en,3
-July 4,July 4,DATE,,,en,3
-Hostage Square,Hostage Square,FAC,,,en,3
-tens of thousands,tens of thousands,CARDINAL,,,en,3
-June 4-15,June 4-15,DATE,,,en,3
-42,42,DATE,,,en,3
-Running Point,Running Point,WORK_OF_ART,,,en,3
-"Sunday, April 20","Sunday, April 20",DATE,,,en,3
-more than a dozen,more than a dozen,CARDINAL,,,en,3
+Lifetimes Tour,Lifetimes Tour,WORK_OF_ART,,,en,3
+"33,000","33,000",MONEY,,,en,3
 the SAVE Act,the SAVE Act,LAW,,,en,3
-the Met Gala,the Met Gala,WORK_OF_ART,,,en,3
-Oscar,Oscar,WORK_OF_ART,,,en,3
-last-minute,last-minute,TIME,,,en,3
-seven,seven,CARDINAL,,,en,3
-two-year,two-year,DATE,,,en,3
-Combs,Combs,PRODUCT,,,en,3
-June 25,June 25,DATE,,,en,3
-Gypsy,Gypsy,WORK_OF_ART,,,en,3
-Canadians,Canadians,NORP,,,en,3
-105.00,105.00,MONEY,,,en,3
-Six,Six,CARDINAL,,,en,3
-14,14,MONEY,,,en,3
-Starship,Starship,PRODUCT,,,en,3
-21,21,MONEY,,,en,3
-“The Wedding Banquet”,“The Wedding Banquet”,WORK_OF_ART,,,en,3
-$350 Million,$350 Million,MONEY,,,en,3
-47,47,CARDINAL,,,en,3
-83,83,DATE,,,en,3
-The White POTUS,The White POTUS,WORK_OF_ART,,,en,3
-year,year,DATE,,,en,3
-last month,last month,DATE,,,en,3
-6 a.m.,6 a.m.,TIME,,,en,3
-1996,1996,DATE,,,en,3
-6,6,DATE,,,en,3
-Conservatives,Conservatives,NORP,,,en,3
-2017,2017,DATE,,,en,3
-Subversion,Subversion,WORK_OF_ART,,,en,3
 Apr 30,Apr 30,DATE,,,en,3
 "2025 /
  ","2025 /
  ",DATE,,,en,3
-week,week,DATE,,,en,3
-Irans,Irans,NORP,,,en,3
-Trumpian,Trumpian,NORP,,,en,3
-earlier this month,earlier this month,DATE,,,en,3
-earlier this year,earlier this year,DATE,,,en,3
-weekend,weekend,DATE,,,en,3
-62,62,DATE,,,en,3
 Star Wars Celebration,Star Wars Celebration,WORK_OF_ART,,,en,3
-"33,000","33,000",MONEY,,,en,3
+his first month,his first month,DATE,,,en,3
+Kensington Palace,Kensington Palace,FAC,,,en,3
+2015,2015,DATE,,,en,3
+Can We Send Her Back,Can We Send Her Back,WORK_OF_ART,,,en,3
+thousands,thousands,CARDINAL,,,en,3
+earlier this year,earlier this year,DATE,,,en,3
+Combs,Combs,PRODUCT,,,en,3
+a year,a year,DATE,,,en,3
+47,47,CARDINAL,,,en,3
+83,83,DATE,,,en,3
+6 a.m.,6 a.m.,TIME,,,en,3
+recent weeks,recent weeks,DATE,,,en,3
+“The Wedding Banquet”,“The Wedding Banquet”,WORK_OF_ART,,,en,3
+June 25,June 25,DATE,,,en,3
+last month,last month,DATE,,,en,3
+6,6,DATE,,,en,3
+week,week,DATE,,,en,3
+June 4-15,June 4-15,DATE,,,en,3
+$350 Million,$350 Million,MONEY,,,en,3
++2307,+2307,NORP,,,en,3
+21,21,MONEY,,,en,3
+51st,51st,ORDINAL,,,en,3
+dozens,dozens,CARDINAL,,,en,3
+1996,1996,DATE,,,en,3
+Running Point,Running Point,WORK_OF_ART,,,en,3
+Subversion,Subversion,WORK_OF_ART,,,en,3
+Last week,Last week,DATE,,,en,3
+Canadians,Canadians,NORP,,,en,3
+year,year,DATE,,,en,3
+Trumpian,Trumpian,NORP,,,en,3
+May Day,May Day,DATE,,,en,3
+July 4,July 4,DATE,,,en,3
+42,42,DATE,,,en,3
+Gypsy,Gypsy,WORK_OF_ART,,,en,3
+the Met Gala,the Met Gala,WORK_OF_ART,,,en,3
+Oscar,Oscar,WORK_OF_ART,,,en,3
+Hostage Square,Hostage Square,FAC,,,en,3
+the night,the night,TIME,,,en,3
+"Sunday, April 20","Sunday, April 20",DATE,,,en,3
+2017,2017,DATE,,,en,3
+Islamic,Islamic,NORP,,,en,3
+more than a dozen,more than a dozen,CARDINAL,,,en,3
+Irans,Irans,NORP,,,en,3
+2021,2021,DATE,,,en,3
+62,62,DATE,,,en,3
+105.00,105.00,MONEY,,,en,3
+14,14,MONEY,,,en,3
+two-year,two-year,DATE,,,en,3
+Starship,Starship,PRODUCT,,,en,3
+seven,seven,CARDINAL,,,en,3
+tens of thousands,tens of thousands,CARDINAL,,,en,3
 two days,two days,DATE,,,en,3
-2007,2007,DATE,,,en,2
-"750,000","750,000",CARDINAL,,,en,2
-Fabulously Theatrical Film Smashes Expectations,Fabulously Theatrical Film Smashes Expectations,WORK_OF_ART,,,en,2
-Lapse In Editorial Standards,Lapse In Editorial Standards,WORK_OF_ART,,,en,2
-May 10,May 10,DATE,,,en,2
-nine days,nine days,DATE,,,en,2
-65,65,CARDINAL,,,en,2
-this week's,this week's,DATE,,,en,2
-Industrial Revolution,Industrial Revolution,EVENT,,,en,2
-November,November,DATE,,,en,2
-the 19th century,the 19th century,DATE,,,en,2
-Two days,Two days,DATE,,,en,2
-71st,71st,ORDINAL,,,en,2
-last year,last year,DATE,,,en,2
-this holiday,this holiday,DATE,,,en,2
-The first day,The first day,DATE,,,en,2
-seven years,seven years,DATE,,,en,2
-Zambian,Zambian,NORP,,,en,2
-250%,250%,PERCENT,,,en,2
-$13.5 billion,$13.5 billion,MONEY,,,en,2
-last fall,last fall,DATE,,,en,2
-Earlier this year,Earlier this year,DATE,,,en,2
-end months,end months,DATE,,,en,2
-Pop Leo,Pop Leo,WORK_OF_ART,,,en,2
-the second year in a row,the second year in a row,DATE,,,en,2
-this May,this May,DATE,,,en,2
-second year in a row,second year in a row,DATE,,,en,2
-Yesterday,Yesterday,DATE,,,en,2
-French Girls,French Girls,WORK_OF_ART,,,en,2
-D,D,NORP,,,en,2
-December 2023,December 2023,DATE,,,en,2
-$350 million,$350 million,MONEY,,,en,2
-about a year,about a year,DATE,,,en,2
-The Fine Print,The Fine Print,WORK_OF_ART,,,en,2
-Q1 2025,Q1 2025,CARDINAL,,,en,2
-Israels,Israels,NORP,,,en,2
-St. Peter's Basilica,St. Peter's Basilica,FAC,,,en,2
-the USS Abraham Lincoln,the USS Abraham Lincoln,PRODUCT,,,en,2
-last November,last November,DATE,,,en,2
-Thor: Love and Thunder,Thor: Love and Thunder,WORK_OF_ART,,,en,2
-Nylon,Nylon,PRODUCT,,,en,2
-One day,One day,DATE,,,en,2
-late Sunday afternoon,late Sunday afternoon,TIME,,,en,2
-The Fall Guy,The Fall Guy,WORK_OF_ART,,,en,2
-Jun 20,Jun 20,DATE,,,en,2
-36 hours,36 hours,TIME,,,en,2
-Barbieland,Barbieland,FAC,,,en,2
-May 13,May 13,DATE,,,en,2
-27,27,CARDINAL,,,en,2
-76,76,DATE,,,en,2
-a month,a month,DATE,,,en,2
-nearly six-hour,nearly six-hour,TIME,,,en,2
-Easter Sunday,Easter Sunday,DATE,,,en,2
-2008,2008,DATE,,,en,2
-"1,000","1,000",CARDINAL,,,en,2
-the 121st day,the 121st day,DATE,,,en,2
-The Jamie Kern Lima Show,The Jamie Kern Lima Show,WORK_OF_ART,,,en,2
-"the fiscal year ended March 31, 2025","the fiscal year ended March 31, 2025",DATE,,,en,2
-54%,54%,PERCENT,,,en,2
-2016,2016,DATE,,,en,2
-the early morning hours,the early morning hours,TIME,,,en,2
-day one,day one,DATE,,,en,2
-The Stagecoach Festival,The Stagecoach Festival,EVENT,,,en,2
-244 days,244 days,DATE,,,en,2
-the International Space Station,the International Space Station,FAC,,,en,2
-daily,daily,DATE,,,en,2
-the year,the year,DATE,,,en,2
-"May 1, 2011","May 1, 2011",DATE,,,en,2
-"6,828 days","6,828 days",DATE,,,en,2
-3:30 a.m.,3:30 a.m.,TIME,,,en,2
-30th,30th,ORDINAL,,,en,2
-+4049,+4049,NORP,,,en,2
-Kawasaki,Kawasaki,PRODUCT,,,en,2
-‘The Smashing Machine,‘The Smashing Machine,WORK_OF_ART,,,en,2
-A week ago,A week ago,DATE,,,en,2
-"1,040","1,040",CARDINAL,,,en,2
-some two dozen,some two dozen,CARDINAL,,,en,2
-recent years,recent years,DATE,,,en,2
-Unhinged” Haters in Wake of Ridiculous Space Mission,Unhinged” Haters in Wake of Ridiculous Space Mission,WORK_OF_ART,,,en,2
-Musk,Musk,PRODUCT,,,en,2
-7500,7500,CARDINAL,,,en,2
-Dragon,Dragon,PRODUCT,,,en,2
-Alinma Stadium,Alinma Stadium,FAC,,,en,2
-The Life and the Revolution that Changed America,The Life and the Revolution that Changed America,WORK_OF_ART,,,en,2
-the Gaza war,the Gaza war,EVENT,,,en,2
-Vaticans,Vaticans,NORP,0.4533333333333333,0.9299999999999999,en,2
-$1.2 billion,$1.2 billion,MONEY,,,en,2
-"April 15, 1942","April 15, 1942",DATE,,,en,2
-Indias,Indias,NORP,,,en,2
-May 26,May 26,DATE,,,en,2
-two-day,two-day,DATE,,,en,2
-September,September,DATE,,,en,2
-Gaza War + Greta,Gaza War + Greta,EVENT,,,en,2
-a day,a day,DATE,,,en,2
-40 years old,40 years old,DATE,,,en,2
-this Christmas,this Christmas,DATE,,,en,2
-eight,eight,CARDINAL,,,en,2
-Rescue,Rescue,WORK_OF_ART,,,en,2
+last-minute,last-minute,TIME,,,en,3
+earlier this month,earlier this month,DATE,,,en,3
+Six,Six,CARDINAL,,,en,3
+The White POTUS,The White POTUS,WORK_OF_ART,,,en,3
+"June 21, 2025","June 21, 2025",DATE,,,en,3
+weekend,weekend,DATE,,,en,3
+May 5,May 5,DATE,,,en,3
 the second day,the second day,DATE,,,en,2
-9/11,9/11,DATE,,,en,2
-the first quarter,the first quarter,DATE,,,en,2
-Just over a month,Just over a month,DATE,,,en,2
-Catholics,Catholics,NORP,,,en,2
-1999,1999,DATE,,,en,2
-White Sox Park,White Sox Park,FAC,,,en,2
-the past week,the past week,DATE,,,en,2
+151 crore,151 crore,MONEY,,,en,2
+30th,30th,ORDINAL,,,en,2
+St. George’s Chapel,St. George’s Chapel,FAC,,,en,2
+Yesterday,Yesterday,DATE,,,en,2
+the International Space Station,the International Space Station,FAC,,,en,2
 September 11,September 11,DATE,,,en,2
-$3 trillion mark,$3 trillion mark,MONEY,,,en,2
-the beginning of March,the beginning of March,DATE,,,en,2
+Dragon,Dragon,PRODUCT,,,en,2
+2007,2007,DATE,,,en,2
+about this week,about this week,DATE,,,en,2
+3-5 years,3-5 years,DATE,,,en,2
+‘The Smashing Machine,‘The Smashing Machine,WORK_OF_ART,,,en,2
+"the fiscal year ended March 31, 2025","the fiscal year ended March 31, 2025",DATE,,,en,2
+Irish,Irish,NORP,,,en,2
+daily,daily,DATE,,,en,2
+Vaticans,Vaticans,NORP,0.4533333333333333,0.9299999999999999,en,2
+Nylon,Nylon,PRODUCT,,,en,2
+September,September,DATE,,,en,2
+Earlier this year,Earlier this year,DATE,,,en,2
+11 lakh crore,11 lakh crore,MONEY,,,en,2
 Reverence,Reverence,WORK_OF_ART,,,en,2
 Morning,Morning,TIME,,,en,2
-$400 million,$400 million,MONEY,,,en,2
-CBS Mornings,CBS Mornings,WORK_OF_ART,,,en,2
-3 June 1989,3 June 1989,DATE,,,en,2
-79th,79th,ORDINAL,,,en,2
-May 8,May 8,DATE,,,en,2
+$13.5 billion,$13.5 billion,MONEY,,,en,2
+"1,040","1,040",CARDINAL,,,en,2
+The Life and the Revolution that Changed America,The Life and the Revolution that Changed America,WORK_OF_ART,,,en,2
+two-day,two-day,DATE,,,en,2
+2030,2030,DATE,,,en,2
+Two,Two,CARDINAL,,,en,2
+2016,2016,DATE,,,en,2
+Stamford Bridge,Stamford Bridge,FAC,,,en,2
+Catholics,Catholics,NORP,,,en,2
+Q1 2025,Q1 2025,CARDINAL,,,en,2
+May 26,May 26,DATE,,,en,2
+a day,a day,DATE,,,en,2
+"April 15, 1942","April 15, 1942",DATE,,,en,2
+last November,last November,DATE,,,en,2
+9/11,9/11,DATE,,,en,2
 Latin American,Latin American,NORP,,,en,2
+a little over a year ago,a little over a year ago,DATE,,,en,2
+12 days,12 days,DATE,,,en,2
+Musk,Musk,PRODUCT,,,en,2
 the end of an era,the end of an era,DATE,,,en,2
+The Jamie Kern Lima Show,The Jamie Kern Lima Show,WORK_OF_ART,,,en,2
+this Christmas,this Christmas,DATE,,,en,2
+eight,eight,CARDINAL,,,en,2
 Apr 25,Apr 25,DATE,,,en,2
 Westminster Abbey,Westminster Abbey,FAC,,,en,2
-11 lakh crore,11 lakh crore,MONEY,,,en,2
-20%,20%,PERCENT,,,en,2
-Cuban,Cuban,NORP,,,en,2
-Wednesday night,Wednesday night,TIME,,,en,2
-2006,2006,DATE,,,en,2
-2030,2030,DATE,,,en,2
-220,220,CARDINAL,,,en,2
-the start of the year,the start of the year,DATE,,,en,2
-last September,last September,DATE,,,en,2
+Gaza War + Greta,Gaza War + Greta,EVENT,,,en,2
+"750,000","750,000",CARDINAL,,,en,2
+Just over a month,Just over a month,DATE,,,en,2
+Industrial Revolution,Industrial Revolution,EVENT,,,en,2
 some 36… 37 days,some 36… 37 days,DATE,,,en,2
-a third year,a third year,DATE,,,en,2
-first quarter,first quarter,DATE,,,en,2
-151 crore,151 crore,MONEY,,,en,2
+2006,2006,DATE,,,en,2
+The Fine Print,The Fine Print,WORK_OF_ART,,,en,2
+a month,a month,DATE,,,en,2
+65,65,CARDINAL,,,en,2
+the start of the year,the start of the year,DATE,,,en,2
+the second year in a row,the second year in a row,DATE,,,en,2
 the Iraq War,the Iraq War,EVENT,,,en,2
-the past five years,the past five years,DATE,,,en,2
-24th,24th,ORDINAL,,,en,2
-Farkers,Farkers,NORP,,,en,2
-14 April,14 April,DATE,,,en,2
-11 minutes,11 minutes,TIME,,,en,2
-239,239,CARDINAL,,,en,2
+last year,last year,DATE,,,en,2
+second year in a row,second year in a row,DATE,,,en,2
+76,76,DATE,,,en,2
+The first day,The first day,DATE,,,en,2
+The Fall Guy,The Fall Guy,WORK_OF_ART,,,en,2
+Easter Sunday,Easter Sunday,DATE,,,en,2
+220,220,CARDINAL,,,en,2
+St. Peter's Basilica,St. Peter's Basilica,FAC,,,en,2
+Israels,Israels,NORP,,,en,2
+about a year,about a year,DATE,,,en,2
+end months,end months,DATE,,,en,2
+some two dozen,some two dozen,CARDINAL,,,en,2
+Zambian,Zambian,NORP,,,en,2
+Two days,Two days,DATE,,,en,2
+the 19th century,the 19th century,DATE,,,en,2
+day one,day one,DATE,,,en,2
+Jun 20,Jun 20,DATE,,,en,2
+Unhinged” Haters in Wake of Ridiculous Space Mission,Unhinged” Haters in Wake of Ridiculous Space Mission,WORK_OF_ART,,,en,2
+$1.2 billion,$1.2 billion,MONEY,,,en,2
+Alinma Stadium,Alinma Stadium,FAC,,,en,2
+40 years old,40 years old,DATE,,,en,2
+20%,20%,PERCENT,,,en,2
+7500,7500,CARDINAL,,,en,2
+Pop Leo,Pop Leo,WORK_OF_ART,,,en,2
+CBS Mornings,CBS Mornings,WORK_OF_ART,,,en,2
+"1,000","1,000",CARDINAL,,,en,2
+last fall,last fall,DATE,,,en,2
+November,November,DATE,,,en,2
+White Sox Park,White Sox Park,FAC,,,en,2
+French Girls,French Girls,WORK_OF_ART,,,en,2
+this holiday,this holiday,DATE,,,en,2
+nine days,nine days,DATE,,,en,2
+The Stagecoach Festival,The Stagecoach Festival,EVENT,,,en,2
+71st,71st,ORDINAL,,,en,2
+Barbieland,Barbieland,FAC,,,en,2
+Indias,Indias,NORP,,,en,2
+Cuban,Cuban,NORP,,,en,2
+3 June 1989,3 June 1989,DATE,,,en,2
+recent years,recent years,DATE,,,en,2
+May 8,May 8,DATE,,,en,2
+54%,54%,PERCENT,,,en,2
 February of this year,February of this year,DATE,,,en,2
+OnlyFans,OnlyFans,NORP,,,en,2
+2019,2019,DATE,,,en,2
 This week,This week,DATE,,,en,2
+English,English,LANGUAGE,,,en,2
+Farkers,Farkers,NORP,,,en,2
+Jan. 6,Jan. 6,DATE,,,en,2
+Saturday Night Live,Saturday Night Live,WORK_OF_ART,,,en,2
+May 10,May 10,DATE,,,en,2
+the past five years,the past five years,DATE,,,en,2
+1999,1999,DATE,,,en,2
+Confessions of a Female Founder,Confessions of a Female Founder,WORK_OF_ART,,,en,2
+seven years,seven years,DATE,,,en,2
+the end of the season,the end of the season,DATE,,,en,2
+January 2023,January 2023,DATE,,,en,2
+the past week,the past week,DATE,,,en,2
+10.25 am,10.25 am,TIME,,,en,2
 "With Love, Meghan","With Love, Meghan",WORK_OF_ART,,,en,2
-just four minutes,just four minutes,TIME,,,en,2
-Sentebale,Sentebale,NORP,,,en,2
-Communist,Communist,NORP,,,en,2
-more than one,more than one,CARDINAL,,,en,2
-Hours,Hours,TIME,,,en,2
-95,95,CARDINAL,,,en,2
-well as thousands,well as thousands,CARDINAL,,,en,2
-Shiite,Shiite,NORP,,,en,2
-weekly,weekly,DATE,,,en,2
-early 2024,early 2024,DATE,,,en,2
-2000,2000,DATE,,,en,2
-Off Broadway,Off Broadway,FAC,,,en,2
-Shiite Muslim,Shiite Muslim,NORP,,,en,2
-May 18,May 18,DATE,,,en,2
-"Wednesday, June 25","Wednesday, June 25",DATE,,,en,2
-the first night,the first night,TIME,,,en,2
-10-20 crore,10-20 crore,MONEY,,,en,2
-Arab,Arab,NORP,,,en,2
-about 18 months ago,about 18 months ago,DATE,,,en,2
+15 years,15 years,DATE,,,en,2
+New Yorkers,New Yorkers,NORP,,,en,2
+first quarter,first quarter,DATE,,,en,2
 Jun 28,Jun 28,DATE,,,en,2
-Suits,Suits,WORK_OF_ART,,,en,2
-Christian,Christian,NORP,,,en,2
-North American,North American,NORP,,,en,2
-countrys,countrys,NORP,,,en,2
-the Polo Bar,the Polo Bar,FAC,,,en,2
-next week,next week,DATE,,,en,2
-Read Full Article,Read Full Article,LAW,,,en,2
+more than one,more than one,CARDINAL,,,en,2
+just four minutes,just four minutes,TIME,,,en,2
+Hours,Hours,TIME,,,en,2
+Rescue,Rescue,WORK_OF_ART,,,en,2
+Sentebale,Sentebale,NORP,,,en,2
 Jul 2,Jul 2,DATE,,,en,2
+the first quarter,the first quarter,DATE,,,en,2
+late Sunday afternoon,late Sunday afternoon,TIME,,,en,2
+2008,2008,DATE,,,en,2
+"Monday, April 14","Monday, April 14",DATE,,,en,2
+day,day,DATE,,,en,2
+the summer,the summer,DATE,,,en,2
+this week's,this week's,DATE,,,en,2
+$3 trillion mark,$3 trillion mark,MONEY,,,en,2
+the past half-decade,the past half-decade,DATE,,,en,2
+the beginning of March,the beginning of March,DATE,,,en,2
+April 10,April 10,DATE,,,en,2
+early April 2025,early April 2025,DATE,,,en,2
+Jul 1,Jul 1,DATE,,,en,2
+36 hours,36 hours,TIME,,,en,2
+125.00,125.00,MONEY,,,en,2
+May,May,DATE,,,en,2
+The Right Person Will Stay,The Right Person Will Stay,WORK_OF_ART,,,en,2
+this May,this May,DATE,,,en,2
+One day,One day,DATE,,,en,2
 94%,94%,PERCENT,,,en,2
 "Henry, Come On","Henry, Come On",WORK_OF_ART,,,en,2
-April 10,April 10,DATE,,,en,2
-The Right Person Will Stay,The Right Person Will Stay,WORK_OF_ART,,,en,2
-early years,early years,DATE,,,en,2
-May,May,DATE,,,en,2
-125.00,125.00,MONEY,,,en,2
+Read Full Article,Read Full Article,LAW,,,en,2
+Fabulously Theatrical Film Smashes Expectations,Fabulously Theatrical Film Smashes Expectations,WORK_OF_ART,,,en,2
+the Polo Bar,the Polo Bar,FAC,,,en,2
+countrys,countrys,NORP,,,en,2
 Western,Western,NORP,,,en,2
 Extra’s” Mona Kosar Abdi,Extra’s” Mona Kosar Abdi,WORK_OF_ART,,,en,2
+Suits,Suits,WORK_OF_ART,,,en,2
+250%,250%,PERCENT,,,en,2
+239,239,CARDINAL,,,en,2
+the USS Abraham Lincoln,the USS Abraham Lincoln,PRODUCT,,,en,2
+December 2023,December 2023,DATE,,,en,2
+D,D,NORP,,,en,2
+May 13,May 13,DATE,,,en,2
+Shiite,Shiite,NORP,,,en,2
+2000,2000,DATE,,,en,2
+February 2022,February 2022,DATE,,,en,2
+Shiite Muslim,Shiite Muslim,NORP,,,en,2
+the first night,the first night,TIME,,,en,2
+Arab,Arab,NORP,,,en,2
+$400 million,$400 million,MONEY,,,en,2
+28,28,CARDINAL,,,en,2
+Blue Origin‘s,Blue Origin‘s,PRODUCT,,,en,2
+10-20 crore,10-20 crore,MONEY,,,en,2
+next week,next week,DATE,,,en,2
+about one,about one,CARDINAL,,,en,2
+3:30 a.m.,3:30 a.m.,TIME,,,en,2
+well as thousands,well as thousands,CARDINAL,,,en,2
+"6,828 days","6,828 days",DATE,,,en,2
+14 April,14 April,DATE,,,en,2
+11 minutes,11 minutes,TIME,,,en,2
+79th,79th,ORDINAL,,,en,2
+"May 1, 2011","May 1, 2011",DATE,,,en,2
+the year,the year,DATE,,,en,2
+a third year,a third year,DATE,,,en,2
+244 days,244 days,DATE,,,en,2
+the 121st day,the 121st day,DATE,,,en,2
+Ecuadorian,Ecuadorian,NORP,,,en,2
+about 18 months ago,about 18 months ago,DATE,,,en,2
+Communist,Communist,NORP,,,en,2
+the early morning hours,the early morning hours,TIME,,,en,2
+24th,24th,ORDINAL,,,en,2
+Apr 9,Apr 9,DATE,,,en,2
+"Wednesday, June 25","Wednesday, June 25",DATE,,,en,2
+95,95,CARDINAL,,,en,2
+Kawasaki,Kawasaki,PRODUCT,,,en,2
+May 18,May 18,DATE,,,en,2
+Off Broadway,Off Broadway,FAC,,,en,2
+weekly,weekly,DATE,,,en,2
+Lapse In Editorial Standards,Lapse In Editorial Standards,WORK_OF_ART,,,en,2
+Conservatives,Conservatives,NORP,,,en,2
+early 2024,early 2024,DATE,,,en,2
+The Whisper Man,The Whisper Man,WORK_OF_ART,,,en,2
+Paradigm,Paradigm,PRODUCT,,,en,2
+the Gaza war,the Gaza war,EVENT,,,en,2
+Wednesday night,Wednesday night,TIME,,,en,2
+15 years later,15 years later,DATE,,,en,2
+20th,20th,ORDINAL,,,en,2
+late December,late December,DATE,,,en,2
+Thor: Love and Thunder,Thor: Love and Thunder,WORK_OF_ART,,,en,2
+Just days,Just days,DATE,,,en,2
+$350 million,$350 million,MONEY,,,en,2
+last September,last September,DATE,,,en,2
+early years,early years,DATE,,,en,2
+April 9,April 9,DATE,,,en,2
 Good Night,Good Night,WORK_OF_ART,,,en,2
-2012,2012,DATE,,,en,2
+Dozens,Dozens,CARDINAL,,,en,2
 Model,Model,PRODUCT,,,en,2
 "3,784,200","3,784,200",MONEY,,,en,2
-Jul 1,Jul 1,DATE,,,en,2
-December 2022,December 2022,DATE,,,en,2
-February 2022,February 2022,DATE,,,en,2
-Paradigm,Paradigm,PRODUCT,,,en,2
-early April 2025,early April 2025,DATE,,,en,2
-Blue Origin‘s,Blue Origin‘s,PRODUCT,,,en,2
-January 2023,January 2023,DATE,,,en,2
-New Yorkers,New Yorkers,NORP,,,en,2
-Ecuadorian,Ecuadorian,NORP,,,en,2
-The Whisper Man,The Whisper Man,WORK_OF_ART,,,en,2
-English,English,LANGUAGE,,,en,2
-10.25 am,10.25 am,TIME,,,en,2
-28,28,CARDINAL,,,en,2
-the past half-decade,the past half-decade,DATE,,,en,2
-OnlyFans,OnlyFans,NORP,,,en,2
-Two,Two,CARDINAL,,,en,2
-Stamford Bridge,Stamford Bridge,FAC,,,en,2
-April 9,April 9,DATE,,,en,2
-Jan. 6,Jan. 6,DATE,,,en,2
-12 days,12 days,DATE,,,en,2
-a little over a year ago,a little over a year ago,DATE,,,en,2
-Apr 9,Apr 9,DATE,,,en,2
 Asian American,Asian American,NORP,,,en,2
-about one,about one,CARDINAL,,,en,2
-the end of the season,the end of the season,DATE,,,en,2
-St. George’s Chapel,St. George’s Chapel,FAC,,,en,2
-Saturday Night Live,Saturday Night Live,WORK_OF_ART,,,en,2
-3-5 years,3-5 years,DATE,,,en,2
-about this week,about this week,DATE,,,en,2
-Confessions of a Female Founder,Confessions of a Female Founder,WORK_OF_ART,,,en,2
-2019,2019,DATE,,,en,2
-Irish,Irish,NORP,,,en,2
-15 years,15 years,DATE,,,en,2
-15 years later,15 years later,DATE,,,en,2
-Dozens,Dozens,CARDINAL,,,en,2
+A week ago,A week ago,DATE,,,en,2
+North American,North American,NORP,,,en,2
+27,27,CARDINAL,,,en,2
+nearly six-hour,nearly six-hour,TIME,,,en,2
+2012,2012,DATE,,,en,2
 Performer of the Week,Performer of the Week,WORK_OF_ART,,,en,2
-the summer,the summer,DATE,,,en,2
-Just days,Just days,DATE,,,en,2
-late December,late December,DATE,,,en,2
-"Monday, April 14","Monday, April 14",DATE,,,en,2
+December 2022,December 2022,DATE,,,en,2
++4049,+4049,NORP,,,en,2
+Christian,Christian,NORP,,,en,2
 "measly $2,000","measly $2,000",MONEY,,,en,2
-day,day,DATE,,,en,2
-the twenty-first century,the twenty-first century,DATE,,,en,1
-0.80%,0.80%,PERCENT,,,en,1
-Last week's,Last week's,DATE,,,en,1
-CPAC,CPAC,NORP,,,en,1
-Bollywood,Bollywood,NORP,,,en,1
+The Great American Bar Scene,The Great American Bar Scene,WORK_OF_ART,,,en,1
+civi,civi,NORP,,,en,1
+Memphis; The Blues,Memphis; The Blues,WORK_OF_ART,,,en,1
+This weeks,This weeks,DATE,,,en,1
+Jun 9,Jun 9,DATE,,,en,1
+about a decade,about a decade,DATE,,,en,1
+chatbot,chatbot,PRODUCT,,,en,1
+$21 trillion,$21 trillion,MONEY,,,en,1
+10.41 crore,10.41 crore,MONEY,,,en,1
+2024-25,2024-25,DATE,,,en,1
+10.41,10.41,CARDINAL,,,en,1
+Le Pen,Le Pen,WORK_OF_ART,,,en,1
+The Blues,The Blues,WORK_OF_ART,,,en,1
+Catho,Catho,WORK_OF_ART,,,en,1
+31 March,31 March,DATE,,,en,1
+1929,1929,DATE,,,en,1
+The Mighty Thor and,The Mighty Thor and,WORK_OF_ART,,,en,1
+June 9,June 9,DATE,,,en,1
+Three years ago,Three years ago,DATE,,,en,1
+monthly,monthly,DATE,,,en,1
+next year's,next year's,DATE,,,en,1
++3672,+3672,NORP,,,en,1
+Holy Roller,Holy Roller,FAC,,,en,1
+"March 5, 2013","March 5, 2013",DATE,,,en,1
+Cultural Revolution,Cultural Revolution,EVENT,,,en,1
+Selfie Yacht',Selfie Yacht',WORK_OF_ART,,,en,1
+04:00 am,04:00 am,TIME,,,en,1
+Last month,Last month,DATE,,,en,1
+Rs 10.41 crore,Rs 10.41 crore,MONEY,,,en,1
+Selfie Yacht,Selfie Yacht,WORK_OF_ART,,,en,1
+You WON’T Silence Me,You WON’T Silence Me,WORK_OF_ART,,,en,1
+12%,12%,PERCENT,,,en,1
+AI chatbot,AI chatbot,PRODUCT,,,en,1
+2025 / 04:00 am,2025 / 04:00 am,TIME,,,en,1
+nine,nine,CARDINAL,,,en,1
+You WONT Silence Me,You WONT Silence Me,WORK_OF_ART,,,en,1
+₹10.41 crore,₹10.41 crore,MONEY,,,en,1
+… CNA Newsroom,… CNA Newsroom,WORK_OF_ART,,,en,1
+Grok,Grok,PRODUCT,,,en,1
+05/13/2025 5:13:40 AM PDT,05/13/2025 5:13:40 AM PDT,TIME,,,en,1
+about a decade and a half,about a decade and a half,DATE,,,en,1
+before Election Day 2016,before Election Day 2016,DATE,,,en,1
+quarterly,quarterly,DATE,,,en,1
+$165.61 billion,$165.61 billion,MONEY,,,en,1
+2.5%,2.5%,PERCENT,,,en,1
+June 3,June 3,DATE,,,en,1
+first month,first month,DATE,,,en,1
+a year ago,a year ago,DATE,,,en,1
+$5.10 billion,$5.10 billion,MONEY,,,en,1
+$4.45 billion,$4.45 billion,MONEY,,,en,1
+first-quarter,first-quarter,DATE,,,en,1
+1649,1649,DATE,,,en,1
+Jun 5,Jun 5,DATE,,,en,1
+First month,First month,DATE,,,en,1
+This Article:,This Article:,LAW,,,en,1
+at least $20bn,at least $20bn,MONEY,,,en,1
 that day,that day,DATE,,,en,1
+inaugural,inaugural,DATE,,,en,1
+May 25,May 25,DATE,,,en,1
+pro-Russian,pro-Russian,NORP,,,en,1
 Jewry,Jewry,NORP,,,en,1
 a big week,a big week,DATE,,,en,1
-early June,early June,DATE,,,en,1
-between two,between two,CARDINAL,,,en,1
-the past 24 hours,the past 24 hours,TIME,,,en,1
-₹326.05,₹326.05,CARDINAL,,,en,1
+the twenty-first century,the twenty-first century,DATE,,,en,1
+Gray Mirror,Gray Mirror,WORK_OF_ART,,,en,1
+the spring and summer of 2008,the spring and summer of 2008,DATE,,,en,1
+An Open Letter to Open-M,An Open Letter to Open-M,WORK_OF_ART,,,en,1
+Last week's,Last week's,DATE,,,en,1
+50.89%,50.89%,PERCENT,,,en,1
+Simion,Simion,PRODUCT,,,en,1
+Nationalist,Nationalist,NORP,,,en,1
++6654 chars,+6654 chars,WORK_OF_ART,,,en,1
+next few days,next few days,DATE,,,en,1
+A decade,A decade,DATE,,,en,1
 Germans,Germans,NORP,,,en,1
+Make Poland Great Again,Make Poland Great Again,WORK_OF_ART,,,en,1
+15%,15%,PERCENT,,,en,1
+just weeks,just weeks,DATE,,,en,1
+a week,a week,DATE,,,en,1
+Bollywood,Bollywood,NORP,,,en,1
 a decade,a decade,DATE,,,en,1
-+1790,+1790,NORP,,,en,1
-Only a few days,Only a few days,DATE,,,en,1
-February,February,DATE,,,en,1
-more than 60,more than 60,CARDINAL,,,en,1
-"June 29, 2025","June 29, 2025",DATE,,,en,1
+last years,last years,DATE,,,en,1
+$710,$710,MONEY,,,en,1
 197,197,CARDINAL,,,en,1
-1649,1649,DATE,,,en,1
+the second half,the second half,DATE,,,en,1
+Rs 151 crore,Rs 151 crore,MONEY,,,en,1
+the Southern Dist,the Southern Dist,FAC,,,en,1
+eight-month,eight-month,DATE,,,en,1
+Amnesty for Afghan Migrants,Amnesty for Afghan Migrants,WORK_OF_ART,,,en,1
+Terminates Biden,Terminates Biden,PRODUCT,,,en,1
+Afghan,Afghan,NORP,,,en,1
+This Past Weekend w/ Theo Von,This Past Weekend w/ Theo Von,WORK_OF_ART,,,en,1
+the first 15 minutes,the first 15 minutes,TIME,,,en,1
++4843,+4843,NORP,,,en,1
+the Dark Enlightenment,the Dark Enlightenment,WORK_OF_ART,,,en,1
+Make America Great Again,Make America Great Again,WORK_OF_ART,,,en,1
++8650,+8650,NORP,,,en,1
+Only a few days,Only a few days,DATE,,,en,1
+Meet the Press,Meet the Press,WORK_OF_ART,,,en,1
+hours,hours,TIME,,,en,1
+5D,5D,CARDINAL,,,en,1
+May 12,May 12,DATE,,,en,1
+more than $150,more than $150,MONEY,,,en,1
+The 10 days,The 10 days,DATE,,,en,1
+two hours,two hours,TIME,,,en,1
+the last 10 days,the last 10 days,DATE,,,en,1
+between June 11-14,between June 11-14,DATE,,,en,1
+Pressure,Pressure,WORK_OF_ART,,,en,1
+the week,the week,DATE,,,en,1
+Dutch,Dutch,NORP,,,en,1
+Monday evening,Monday evening,TIME,,,en,1
+nearly 100,nearly 100,CARDINAL,,,en,1
+a lively week,a lively week,DATE,,,en,1
+the Week,the Week,DATE,,,en,1
+the next 10 days,the next 10 days,DATE,,,en,1
+Brazilian,Brazilian,NORP,,,en,1
+06/30/2025,06/30/2025,DATE,,,en,1
+Friday.</li><li,Friday.</li><li,PRODUCT,,,en,1
+South Asian,South Asian,NORP,,,en,1
+2025 / 09:00,2025 / 09:00,DATE,,,en,1
+Lord of the World,Lord of the World,WORK_OF_ART,,,en,1
+09:00 am,09:00 am,TIME,,,en,1
+June,June,DATE,,,en,1
+10-20,10-20,CARDINAL,,,en,1
+₹10-20,₹10-20,PRODUCT,,,en,1
+20 crore,20 crore,CARDINAL,,,en,1
+War of the Worlds,War of the Worlds,EVENT,,,en,1
+three-quarters,three-quarters,CARDINAL,,,en,1
+less than a decade,less than a decade,DATE,,,en,1
+Independence Day,Independence Day,WORK_OF_ART,,,en,1
+just over two and a half years,just over two and a half years,CARDINAL,,,en,1
+Europeans,Europeans,NORP,,,en,1
+₹10 crore,₹10 crore,MONEY,,,en,1
+₹20 crore,₹20 crore,MONEY,,,en,1
+10 crore to 20 crore,10 crore to 20 crore,MONEY,,,en,1
++2118,+2118,NORP,,,en,1
+Face the Nation,Face the Nation,WORK_OF_ART,,,en,1
+"June 29, 2025","June 29, 2025",DATE,,,en,1
+0.80%,0.80%,PERCENT,,,en,1
+₹326.05,₹326.05,CARDINAL,,,en,1
+0.80 per cent,0.80 per cent,MONEY,,,en,1
+326.05,326.05,CARDINAL,,,en,1
+some quarters,some quarters,DATE,,,en,1
+Islamism,Islamism,NORP,,,en,1
+Tesla Model 3,Tesla Model 3,PRODUCT,,,en,1
+72 mph,72 mph,QUANTITY,,,en,1
+2010s,2010s,DATE,,,en,1
+17th-century,17th-century,DATE,,,en,1
+Tuesday night,Tuesday night,TIME,,,en,1
+06/25/2025 4:09:36 PM PDT,06/25/2025 4:09:36 PM PDT,TIME,,,en,1
+"Wednesday, June 25</li><li","Wednesday, June 25</li><li",DATE,,,en,1
+July 2024,July 2024,DATE,,,en,1
+26%,26%,PERCENT,,,en,1
+$5.8 million,$5.8 million,MONEY,,,en,1
+"Tuesday, Oct. 26, 2021","Tuesday, Oct. 26, 2021",DATE,,,en,1
++1731 chars,+1731 chars,WORK_OF_ART,,,en,1
+centuries,centuries,DATE,,,en,1
+Lake Albano,Lake Albano,FAC,-0.3,0.4,en,1
+06:00 am,06:00 am,TIME,,,en,1
+July 6,July 6,DATE,,,en,1
++4848,+4848,NORP,,,en,1
+235,235,CARDINAL,,,en,1
+"Thursday, June 26","Thursday, June 26",DATE,,,en,1
+2025 / 09:23,2025 / 09:23,DATE,,,en,1
+09:23 am,09:23 am,TIME,,,en,1
+16th,16th,ORDINAL,,,en,1
+"Thursday, June 26, 2025","Thursday, June 26, 2025",DATE,,,en,1
+12:55 pm,12:55 pm,TIME,,,en,1
++3565,+3565,NORP,,,en,1
+122,122,MONEY,,,en,1
+June 26,June 26,DATE,,,en,1
+May 25th 2025,May 25th 2025,DATE,,,en,1
+ten days,ten days,DATE,,,en,1
++12349 chars,+12349 chars,WORK_OF_ART,,,en,1
 "Jun, 2025
  ","Jun, 2025
  ",DATE,,,en,1
-Rs 151 crore,Rs 151 crore,MONEY,,,en,1
-Face the Nation,Face the Nation,WORK_OF_ART,,,en,1
-06/30/2025,06/30/2025,DATE,,,en,1
-Jun 5,Jun 5,DATE,,,en,1
-This Past Weekend w/ Theo Von,This Past Weekend w/ Theo Von,WORK_OF_ART,,,en,1
-2025 / 15:47 pm,2025 / 15:47 pm,TIME,,,en,1
-the spring and summer of 2008,the spring and summer of 2008,DATE,,,en,1
-Gray Mirror,Gray Mirror,WORK_OF_ART,,,en,1
-Islamism,Islamism,NORP,,,en,1
-326.05,326.05,CARDINAL,,,en,1
-0.80 per cent,0.80 per cent,MONEY,,,en,1
-A decade,A decade,DATE,,,en,1
+4:50:37 AM PDT,4:50:37 AM PDT,MONEY,,,en,1
+roughly 50%,roughly 50%,PERCENT,,,en,1
++1790,+1790,NORP,,,en,1
+Frenemy Musk Proposes Third Party,Frenemy Musk Proposes Third Party,WORK_OF_ART,,,en,1
+US Independence Day,US Independence Day,EVENT,,,en,1
+14 per cent,14 per cent,MONEY,,,en,1
+the second quarter of the year,the second quarter of the year,DATE,,,en,1
+fiscal,fiscal,DATE,,,en,1
+the America Partywith,the America Partywith,FAC,,,en,1
+More than four decades,More than four decades,DATE,,,en,1
+July 4).The age,July 4).The age,DATE,,,en,1
+four years,four years,DATE,,,en,1
+June 30,June 30,DATE,,,en,1
+Capitalism Needs Champions,Capitalism Needs Champions,WORK_OF_ART,,,en,1
+07/05/2025 5:50:09 AM PDT,07/05/2025 5:50:09 AM PDT,TIME,,,en,1
+marxist,marxist,NORP,,,en,1
+07/05/2025 6:15:38 AM,07/05/2025 6:15:38 AM,TIME,,,en,1
+the last eight months,the last eight months,DATE,,,en,1
+Landslide,Landslide,NORP,,,en,1
+2026(Mamdani)PJ,2026(Mamdani)PJ,CARDINAL,,,en,1
+07/05/2025 7:11:48 AM,07/05/2025 7:11:48 AM,TIME,,,en,1
+The weekend,The weekend,DATE,,,en,1
+the thirty-three-year-old,the thirty-three-year-old,DATE,,,en,1
+Black or African American,Black or African American,WORK_OF_ART,,,en,1
+2009,2009,DATE,,,en,1
++2134,+2134,NORP,,,en,1
+every minute,every minute,TIME,,,en,1
+"Saturday, July 5, 2025","Saturday, July 5, 2025",DATE,,,en,1
+the Islamic Revolution,the Islamic Revolution,EVENT,,,en,1
+fourth,fourth,ORDINAL,,,en,1
+Politically Homeless,Politically Homeless,WORK_OF_ART,,,en,1
+3:00 PM,3:00 PM,TIME,,,en,1
+"A.M - Jul 04, 2025","A.M - Jul 04, 2025",DATE,,,en,1
+CPAC,CPAC,NORP,,,en,1
+After Brutal Iran Blitz,After Brutal Iran Blitz,WORK_OF_ART,,,en,1
+"1,801","1,801",CARDINAL,,,en,1
 June 24,June 24,DATE,,,en,1
 Big Beautiful,Big Beautiful,WORK_OF_ART,,,en,1
-5D,5D,CARDINAL,,,en,1
-June 3,June 3,DATE,,,en,1
 13,13,CARDINAL,,,en,1
 the past seven decades,the past seven decades,DATE,,,en,1
-more than $150,more than $150,MONEY,,,en,1
-next few days,next few days,DATE,,,en,1
-+6654 chars,+6654 chars,WORK_OF_ART,,,en,1
-Nationalist,Nationalist,NORP,,,en,1
-some quarters,some quarters,DATE,,,en,1
-50.89%,50.89%,PERCENT,,,en,1
-first month,first month,DATE,,,en,1
-+5842 chars,+5842 chars,WORK_OF_ART,,,en,1
 +27231 chars,+27231 chars,WORK_OF_ART,,,en,1
-First month,First month,DATE,,,en,1
-The 10 days,The 10 days,DATE,,,en,1
-the last 10 days,the last 10 days,DATE,,,en,1
-An Open Letter to Open-M,An Open Letter to Open-M,WORK_OF_ART,,,en,1
-the week,the week,DATE,,,en,1
-Dutch,Dutch,NORP,,,en,1
-a lively week,a lively week,DATE,,,en,1
-between June 11-14,between June 11-14,DATE,,,en,1
-After Brutal Iran Blitz,After Brutal Iran Blitz,WORK_OF_ART,,,en,1
 "June 30, 2025","June 30, 2025",DATE,,,en,1
-"1,801","1,801",CARDINAL,,,en,1
-4:50:37 AM PDT,4:50:37 AM PDT,MONEY,,,en,1
-11 days,11 days,DATE,,,en,1
-Musk-Trump,Musk-Trump,PRODUCT,,,en,1
-$710,$710,MONEY,,,en,1
-Landslide,Landslide,NORP,,,en,1
-the last eight months,the last eight months,DATE,,,en,1
-07/05/2025 6:15:38 AM,07/05/2025 6:15:38 AM,TIME,,,en,1
-marxist,marxist,NORP,,,en,1
-2025 / 04:00 am,2025 / 04:00 am,TIME,,,en,1
-… CNA Newsroom,… CNA Newsroom,WORK_OF_ART,,,en,1
-04:00 am,04:00 am,TIME,,,en,1
-07/05/2025 5:50:09 AM PDT,07/05/2025 5:50:09 AM PDT,TIME,,,en,1
-Capitalism Needs Champions,Capitalism Needs Champions,WORK_OF_ART,,,en,1
-The Blues,The Blues,WORK_OF_ART,,,en,1
-Memphis; The Blues,Memphis; The Blues,WORK_OF_ART,,,en,1
-The Great American Bar Scene,The Great American Bar Scene,WORK_OF_ART,,,en,1
-June 30,June 30,DATE,,,en,1
-a week,a week,DATE,,,en,1
-Afghan,Afghan,NORP,,,en,1
-four years,four years,DATE,,,en,1
-Terminates Biden,Terminates Biden,PRODUCT,,,en,1
-Amnesty for Afghan Migrants,Amnesty for Afghan Migrants,WORK_OF_ART,,,en,1
-eight-month,eight-month,DATE,,,en,1
-the Southern Dist,the Southern Dist,FAC,,,en,1
-the second half,the second half,DATE,,,en,1
-"March 5, 2013","March 5, 2013",DATE,,,en,1
-next year's,next year's,DATE,,,en,1
-2026(Mamdani)PJ,2026(Mamdani)PJ,CARDINAL,,,en,1
-+3672,+3672,NORP,,,en,1
-$21 Trillion,$21 Trillion,MONEY,,,en,1
-fourth,fourth,ORDINAL,,,en,1
-$21 trillion,$21 trillion,MONEY,,,en,1
-the Islamic Revolution,the Islamic Revolution,EVENT,,,en,1
-chatbot,chatbot,PRODUCT,,,en,1
-AI chatbot,AI chatbot,PRODUCT,,,en,1
-Grok,Grok,PRODUCT,,,en,1
-"Saturday, July 5, 2025","Saturday, July 5, 2025",DATE,,,en,1
-every minute,every minute,TIME,,,en,1
-+2134,+2134,NORP,,,en,1
-1929,1929,DATE,,,en,1
-Three years ago,Three years ago,DATE,,,en,1
-2009,2009,DATE,,,en,1
-The Mighty Thor and,The Mighty Thor and,WORK_OF_ART,,,en,1
-Black or African American,Black or African American,WORK_OF_ART,,,en,1
-the thirty-three-year-old,the thirty-three-year-old,DATE,,,en,1
-The weekend,The weekend,DATE,,,en,1
-Le Pen,Le Pen,WORK_OF_ART,,,en,1
-31 March,31 March,DATE,,,en,1
-07/05/2025 7:11:48 AM,07/05/2025 7:11:48 AM,TIME,,,en,1
-July 4).The age,July 4).The age,DATE,,,en,1
-last years,last years,DATE,,,en,1
-Make Poland Great Again,Make Poland Great Again,WORK_OF_ART,,,en,1
-Make America Great Again,Make America Great Again,WORK_OF_ART,,,en,1
+2025 / 15:47 pm,2025 / 15:47 pm,TIME,,,en,1
+the past 24 hours,the past 24 hours,TIME,,,en,1
+between two,between two,CARDINAL,,,en,1
+early June,early June,DATE,,,en,1
+February,February,DATE,,,en,1
 the Fourth of July,the Fourth of July,DATE,,,en,1
-Fireworks,Fireworks,WORK_OF_ART,,,en,1
-first-quarter,first-quarter,DATE,,,en,1
-billions,billions,CARDINAL,,,en,1
-+4104,+4104,NORP,,,en,1
-$4.45 billion,$4.45 billion,MONEY,,,en,1
-$5.10 billion,$5.10 billion,MONEY,,,en,1
-the first 15 minutes,the first 15 minutes,TIME,,,en,1
-2.5%,2.5%,PERCENT,,,en,1
-$165.61 billion,$165.61 billion,MONEY,,,en,1
-quarterly,quarterly,DATE,,,en,1
-+9072 chars,+9072 chars,WORK_OF_ART,,,en,1
-July 3,July 3,DATE,,,en,1
-inaugural,inaugural,DATE,,,en,1
-07/03/2025 8:46:43 AM PDT,07/03/2025 8:46:43 AM PDT,DATE,,,en,1
-6/26/2025,6/26/2025,MONEY,,,en,1
-May 25,May 25,DATE,,,en,1
-pro-Russian,pro-Russian,NORP,,,en,1
-Simion,Simion,PRODUCT,,,en,1
-+4609,+4609,NORP,,,en,1
+more than 60,more than 60,CARDINAL,,,en,1
++5842 chars,+5842 chars,WORK_OF_ART,,,en,1
+Musk-Trump,Musk-Trump,PRODUCT,,,en,1
 2025 / 17:17 pm,2025 / 17:17 pm,TIME,,,en,1
-"A.M - Jul 04, 2025","A.M - Jul 04, 2025",DATE,,,en,1
-This Article:,This Article:,LAW,,,en,1
-at least $20bn,at least $20bn,MONEY,,,en,1
-Pressure,Pressure,WORK_OF_ART,,,en,1
-+8650,+8650,NORP,,,en,1
-More than four decades,More than four decades,DATE,,,en,1
-nearly 100,nearly 100,CARDINAL,,,en,1
-the America Partywith,the America Partywith,FAC,,,en,1
-Monday evening,Monday evening,TIME,,,en,1
-fiscal,fiscal,DATE,,,en,1
-05/13/2025 5:13:40 AM PDT,05/13/2025 5:13:40 AM PDT,TIME,,,en,1
-the second quarter of the year,the second quarter of the year,DATE,,,en,1
-14 per cent,14 per cent,MONEY,,,en,1
-Meet the Press,Meet the Press,WORK_OF_ART,,,en,1
-3:00 PM,3:00 PM,TIME,,,en,1
-two hours,two hours,TIME,,,en,1
-May 12,May 12,DATE,,,en,1
-hours,hours,TIME,,,en,1
-just weeks,just weeks,DATE,,,en,1
-before Election Day 2016,before Election Day 2016,DATE,,,en,1
-US Independence Day,US Independence Day,EVENT,,,en,1
-15%,15%,PERCENT,,,en,1
-Frenemy Musk Proposes Third Party,Frenemy Musk Proposes Third Party,WORK_OF_ART,,,en,1
-Politically Homeless,Politically Homeless,WORK_OF_ART,,,en,1
-a year ago,a year ago,DATE,,,en,1
-just over two and a half years,just over two and a half years,CARDINAL,,,en,1
-+4843,+4843,NORP,,,en,1
-87 lakh,87 lakh,MONEY,,,en,1
-all-American,all-American,NORP,,,en,1
-Model 3,Model 3,PRODUCT,,,en,1
-"Tuesday, Oct. 26, 2021","Tuesday, Oct. 26, 2021",DATE,,,en,1
-$5.8 million,$5.8 million,MONEY,,,en,1
-the past four years,the past four years,DATE,,,en,1
-26%,26%,PERCENT,,,en,1
-July 2024,July 2024,DATE,,,en,1
-"Wednesday, June 25</li><li","Wednesday, June 25</li><li",DATE,,,en,1
-06/25/2025 4:09:36 PM PDT,06/25/2025 4:09:36 PM PDT,TIME,,,en,1
-Tuesday night,Tuesday night,TIME,,,en,1
-3.59 lakh crore,3.59 lakh crore,MONEY,,,en,1
++4609,+4609,NORP,,,en,1
+6/26/2025,6/26/2025,MONEY,,,en,1
+07/03/2025 8:46:43 AM PDT,07/03/2025 8:46:43 AM PDT,DATE,,,en,1
+July 3,July 3,DATE,,,en,1
++9072 chars,+9072 chars,WORK_OF_ART,,,en,1
++4104,+4104,NORP,,,en,1
+billions,billions,CARDINAL,,,en,1
+Fireworks,Fireworks,WORK_OF_ART,,,en,1
 +2243 chars,+2243 chars,WORK_OF_ART,,,en,1
-+11370,+11370,NORP,,,en,1
 the end of Wednesdays,the end of Wednesdays,DATE,,,en,1
 "June 25, 2025","June 25, 2025",DATE,,,en,1
 the end of Wednesday,the end of Wednesday,DATE,,,en,1
-Choose Peace,Choose Peace,WORK_OF_ART,,,en,1
-2025 / 13:54 pm,2025 / 13:54 pm,TIME,,,en,1
-Roman,Roman,NORP,,,en,1
-Islamic Revolution,Islamic Revolution,EVENT,,,en,1
-Tehrans,Tehrans,NORP,,,en,1
-"₹1,876 crore","₹1,876 crore",MONEY,,,en,1
-"9,580 crore","9,580 crore",MONEY,,,en,1
-the Dark Enlightenment,the Dark Enlightenment,WORK_OF_ART,,,en,1
-+1731 chars,+1731 chars,WORK_OF_ART,,,en,1
+Millennial Saint,Millennial Saint,FAC,,,en,1
+Strike,Strike,FAC,,,en,1
+6/13,6/13,CARDINAL,,,en,1
+about seven minutes,about seven minutes,TIME,,,en,1
+Rate Field's,Rate Field's,FAC,,,en,1
+Rate Fiel,Rate Fiel,FAC,,,en,1
+Thousands,Thousands,CARDINAL,,,en,1
+eight-minute,eight-minute,TIME,,,en,1
+"roughly 2,000","roughly 2,000",CARDINAL,,,en,1
+300,300,CARDINAL,,,en,1
+Missiles,Missiles,PRODUCT,,,en,1
 American Catholics,American Catholics,NORP,,,en,1
-2025 / 09:23,2025 / 09:23,DATE,,,en,1
-"Thursday, June 26","Thursday, June 26",DATE,,,en,1
 2047,2047,DATE,,,en,1
 10 years ago,10 years ago,DATE,,,en,1
-+4848,+4848,NORP,,,en,1
 12th,12th,ORDINAL,,,en,1
 Trump Tower,Trump Tower,FAC,,,en,1
-17th-century,17th-century,DATE,,,en,1
-July 6,July 6,DATE,,,en,1
 "Rs 1,876","Rs 1,876",PRODUCT,,,en,1
-06:00 am,06:00 am,TIME,,,en,1
 his week,his week,DATE,,,en,1
 less than 1,less than 1,CARDINAL,,,en,1
-Lake Albano,Lake Albano,FAC,-0.3,0.4,en,1
-centuries,centuries,DATE,,,en,1
 Participant List,Participant List,WORK_OF_ART,,,en,1
 06/16/2025 4:49:11 PM PDT,06/16/2025 4:49:11 PM PDT,TIME,,,en,1
 More than half,More than half,CARDINAL,,,en,1
 +2617,+2617,NORP,,,en,1
 500 crore,500 crore,MONEY,,,en,1
-as much as $75 million,as much as $75 million,MONEY,,,en,1
-the past month,the past month,DATE,,,en,1
-The OpenAI Files,The OpenAI Files,PRODUCT,,,en,1
-+2498,+2498,NORP,,,en,1
-10 to 12 July,10 to 12 July,DATE,,,en,1
-Titian,Titian,NORP,,,en,1
-Two weeks,Two weeks,DATE,,,en,1
-the 10th to the 12th of July,the 10th to the 12th of July,DATE,,,en,1
-"May 6, 2024","May 6, 2024",DATE,,,en,1
-80,80,CARDINAL,,,en,1
-2027 50,2027 50,DATE,,,en,1
-"May 19, 2021","May 19, 2021",DATE,,,en,1
-25,25,CARDINAL,,,en,1
-2025 / 14:41 pm,2025 / 14:41 pm,TIME,,,en,1
-12 Day War,12 Day War,DATE,,,en,1
-12 Day,12 Day,DATE,,,en,1
-Ambanis,Ambanis,NORP,,,en,1
-$100 billion,$100 billion,MONEY,,,en,1
-July 17,July 17,DATE,,,en,1
-the Iran Crisis,the Iran Crisis,EVENT,,,en,1
-June 21,June 21,DATE,,,en,1
-June 20,June 20,DATE,,,en,1
-cultur,cultur,NORP,,,en,1
-BRITISH,BRITISH,NORP,,,en,1
-+10280 chars,+10280 chars,WORK_OF_ART,,,en,1
-+3332 chars,+3332 chars,WORK_OF_ART,,,en,1
-3-5 yrs,3-5 yrs,DATE,,,en,1
-every three to five years,every three to five years,DATE,,,en,1
-the US Pavilion,the US Pavilion,FAC,,,en,1
-Her Blonde Hair,Her Blonde Hair,WORK_OF_ART,,,en,1
-$1 Billion,$1 Billion,MONEY,,,en,1
-June 14,June 14,DATE,,,en,1
-"June 18, 2025","June 18, 2025",DATE,,,en,1
-Starlinkby,Starlinkby,PRODUCT,,,en,1
-June 18,June 18,DATE,,,en,1
-Everything Is For Sale,Everything Is For Sale,WORK_OF_ART,,,en,1
-over 40 years,over 40 years,DATE,,,en,1
-The Barbarians Are at the Gates,The Barbarians Are at the Gates,WORK_OF_ART,,,en,1
-more than a decade,more than a decade,DATE,,,en,1
-"Abstract
-","Abstract
-",WORK_OF_ART,,,en,1
-the 2026,the 2026,FAC,,,en,1
-Biden-era,Biden-era,DATE,,,en,1
-hottest day,hottest day,DATE,,,en,1
-69,69,DATE,,,en,1
-Conclave,Conclave,WORK_OF_ART,,,en,1
-St. Peter’s Square,St. Peter’s Square,FAC,,,en,1
-Matchday 30,Matchday 30,FAC,,,en,1
-the next 10 days,the next 10 days,DATE,,,en,1
-5:30 A.M.,5:30 A.M.,TIME,,,en,1
-09:23 am,09:23 am,TIME,,,en,1
-Missiles,Missiles,PRODUCT,,,en,1
-16th,16th,ORDINAL,,,en,1
-over half,over half,CARDINAL,,,en,1
-three-quarters,three-quarters,CARDINAL,,,en,1
-War of the Worlds,War of the Worlds,EVENT,,,en,1
-Selfie Yacht',Selfie Yacht',WORK_OF_ART,,,en,1
-Selfie Yacht,Selfie Yacht,WORK_OF_ART,,,en,1
-20 crore,20 crore,CARDINAL,,,en,1
-You WON’T Silence Me,You WON’T Silence Me,WORK_OF_ART,,,en,1
-₹10-20,₹10-20,PRODUCT,,,en,1
-You WONT Silence Me,You WONT Silence Me,WORK_OF_ART,,,en,1
-civi,civi,NORP,,,en,1
-Jun 9,Jun 9,DATE,,,en,1
-10-20,10-20,CARDINAL,,,en,1
-June,June,DATE,,,en,1
-09:00 am,09:00 am,TIME,,,en,1
-Brazilian,Brazilian,NORP,,,en,1
-roughly 50%,roughly 50%,PERCENT,,,en,1
+"9,580 crore","9,580 crore",MONEY,,,en,1
+87 lakh,87 lakh,MONEY,,,en,1
+"₹1,876 crore","₹1,876 crore",MONEY,,,en,1
++2630 chars,+2630 chars,WORK_OF_ART,,,en,1
+23x,23x,CARDINAL,,,en,1
+3.6%,3.6%,PERCENT,,,en,1
+Rs 10.5 lakh crore,Rs 10.5 lakh crore,MONEY,,,en,1
 mid-November,mid-November,DATE,,,en,1
-Lord of the World,Lord of the World,WORK_OF_ART,,,en,1
 thousand,thousand,CARDINAL,,,en,1
 "March 15, 2021","March 15, 2021",DATE,,,en,1
 Technoking,Technoking,WORK_OF_ART,,,en,1
 June 22,June 22,DATE,,,en,1
-June 9,June 9,DATE,,,en,1
-less than a decade,less than a decade,DATE,,,en,1
-Independence Day,Independence Day,WORK_OF_ART,,,en,1
-nine,nine,CARDINAL,,,en,1
-about a decade and a half,about a decade and a half,DATE,,,en,1
-This weeks,This weeks,DATE,,,en,1
-about a decade,about a decade,DATE,,,en,1
-2024-25,2024-25,DATE,,,en,1
-10.41 crore,10.41 crore,MONEY,,,en,1
-+2118,+2118,NORP,,,en,1
-10 crore to 20 crore,10 crore to 20 crore,MONEY,,,en,1
-10.41,10.41,CARDINAL,,,en,1
-₹10.41 crore,₹10.41 crore,MONEY,,,en,1
-12%,12%,PERCENT,,,en,1
-Globalize the intifada,Globalize the intifada,WORK_OF_ART,,,en,1
-Rs 10.41 crore,Rs 10.41 crore,MONEY,,,en,1
-Last month,Last month,DATE,,,en,1
-Catho,Catho,WORK_OF_ART,,,en,1
-Cultural Revolution,Cultural Revolution,EVENT,,,en,1
-₹20 crore,₹20 crore,MONEY,,,en,1
-Holy Roller,Holy Roller,FAC,,,en,1
-₹10 crore,₹10 crore,MONEY,,,en,1
-monthly,monthly,DATE,,,en,1
-Europeans,Europeans,NORP,,,en,1
 decades-old,decades-old,DATE,,,en,1
+over half,over half,CARDINAL,,,en,1
 +2540 chars,+2540 chars,WORK_OF_ART,,,en,1
-300,300,CARDINAL,,,en,1
 the first months of the second,the first months of the second,DATE,,,en,1
-72 mph,72 mph,QUANTITY,,,en,1
-2010s,2010s,DATE,,,en,1
-235,235,CARDINAL,,,en,1
-+2630 chars,+2630 chars,WORK_OF_ART,,,en,1
-Millennial Saint,Millennial Saint,FAC,,,en,1
-Strike,Strike,FAC,,,en,1
-+12349 chars,+12349 chars,WORK_OF_ART,,,en,1
-ten days,ten days,DATE,,,en,1
-6/13,6/13,CARDINAL,,,en,1
-May 25th 2025,May 25th 2025,DATE,,,en,1
-June 26,June 26,DATE,,,en,1
-122,122,MONEY,,,en,1
-about seven minutes,about seven minutes,TIME,,,en,1
-Rate Field's,Rate Field's,FAC,,,en,1
-Rate Fiel,Rate Fiel,FAC,,,en,1
-Thousands,Thousands,CARDINAL,,,en,1
-+3565,+3565,NORP,,,en,1
-eight-minute,eight-minute,TIME,,,en,1
-12:55 pm,12:55 pm,TIME,,,en,1
-"Thursday, June 26, 2025","Thursday, June 26, 2025",DATE,,,en,1
-"roughly 2,000","roughly 2,000",CARDINAL,,,en,1
-Tesla Model 3,Tesla Model 3,PRODUCT,,,en,1
-23x,23x,CARDINAL,,,en,1
-3.6%,3.6%,PERCENT,,,en,1
-10.1039,10.1039,CARDINAL,,,en,1
 the first month…,the first month…,DATE,,,en,1
 Days,Days,DATE,,,en,1
 Monday night,Monday night,TIME,,,en,1
-2025 / 09:00,2025 / 09:00,DATE,,,en,1
-Rs 10.5 lakh crore,Rs 10.5 lakh crore,MONEY,,,en,1
 1964,1964,DATE,,,en,1
+"2,200%","2,200%",PERCENT,,,en,1
 the Cold War,the Cold War,EVENT,,,en,1
 World Series,World Series,EVENT,,,en,1
 B1,B1,CARDINAL,,,en,1
+10.1039,10.1039,CARDINAL,,,en,1
 265,265,CARDINAL,,,en,1
-"2,200%","2,200%",PERCENT,,,en,1
 Dreamliner,Dreamliner,PRODUCT,,,en,1
 at least 265,at least 265,CARDINAL,,,en,1
-South Asian,South Asian,NORP,,,en,1
 $895 Million,$895 Million,MONEY,,,en,1
-Friday.</li><li,Friday.</li><li,PRODUCT,,,en,1
 "Saturday, Feb 6, 2021","Saturday, Feb 6, 2021",DATE,,,en,1
 Bloomberg Finance,Bloomberg Finance,WORK_OF_ART,,,en,1
 "LP
 ","LP
 ",PRODUCT,,,en,1
 17 years,17 years,DATE,,,en,1
+all-American,all-American,NORP,,,en,1
+Model 3,Model 3,PRODUCT,,,en,1
+the past four years,the past four years,DATE,,,en,1
+80,80,CARDINAL,,,en,1
+June 20,June 20,DATE,,,en,1
+cultur,cultur,NORP,,,en,1
++10280 chars,+10280 chars,WORK_OF_ART,,,en,1
+11 days,11 days,DATE,,,en,1
+Globalize the intifada,Globalize the intifada,WORK_OF_ART,,,en,1
+BRITISH,BRITISH,NORP,,,en,1
+$100 billion,$100 billion,MONEY,,,en,1
+Ambanis,Ambanis,NORP,,,en,1
+12 Day,12 Day,DATE,,,en,1
+12 Day War,12 Day War,DATE,,,en,1
+25,25,CARDINAL,,,en,1
+2027 50,2027 50,DATE,,,en,1
+"May 6, 2024","May 6, 2024",DATE,,,en,1
+the Iran Crisis,the Iran Crisis,EVENT,,,en,1
+the 10th to the 12th of July,the 10th to the 12th of July,DATE,,,en,1
+10 to 12 July,10 to 12 July,DATE,,,en,1
++3332 chars,+3332 chars,WORK_OF_ART,,,en,1
+3-5 yrs,3-5 yrs,DATE,,,en,1
+every three to five years,every three to five years,DATE,,,en,1
+5:30 A.M.,5:30 A.M.,TIME,,,en,1
+hottest day,hottest day,DATE,,,en,1
+more than a decade,more than a decade,DATE,,,en,1
+over 40 years,over 40 years,DATE,,,en,1
+as much as $75 million,as much as $75 million,MONEY,,,en,1
+2025 / 13:54 pm,2025 / 13:54 pm,TIME,,,en,1
+Choose Peace,Choose Peace,WORK_OF_ART,,,en,1
+June 21,June 21,DATE,,,en,1
+July 17,July 17,DATE,,,en,1
+3.59 lakh crore,3.59 lakh crore,MONEY,,,en,1
+June 18,June 18,DATE,,,en,1
++11370,+11370,NORP,,,en,1
+Roman,Roman,NORP,,,en,1
+Islamic Revolution,Islamic Revolution,EVENT,,,en,1
+Tehrans,Tehrans,NORP,,,en,1
+the past month,the past month,DATE,,,en,1
+The OpenAI Files,The OpenAI Files,PRODUCT,,,en,1
++2498,+2498,NORP,,,en,1
+Her Blonde Hair,Her Blonde Hair,WORK_OF_ART,,,en,1
+$1 Billion,$1 Billion,MONEY,,,en,1
+June 14,June 14,DATE,,,en,1
+"June 18, 2025","June 18, 2025",DATE,,,en,1
+Starlinkby,Starlinkby,PRODUCT,,,en,1
+Everything Is For Sale,Everything Is For Sale,WORK_OF_ART,,,en,1
+2025 / 14:41 pm,2025 / 14:41 pm,TIME,,,en,1
+The Barbarians Are at the Gates,The Barbarians Are at the Gates,WORK_OF_ART,,,en,1
+the US Pavilion,the US Pavilion,FAC,,,en,1
+the 2026,the 2026,FAC,,,en,1
+Biden-era,Biden-era,DATE,,,en,1
+69,69,DATE,,,en,1
+Conclave,Conclave,WORK_OF_ART,,,en,1
+St. Peter’s Square,St. Peter’s Square,FAC,,,en,1
 the Diana Award,the Diana Award,FAC,,,en,1
+"Abstract
+","Abstract
+",WORK_OF_ART,,,en,1
+Titian,Titian,NORP,,,en,1
+Two weeks,Two weeks,DATE,,,en,1
+"May 19, 2021","May 19, 2021",DATE,,,en,1
+$21 Trillion,$21 Trillion,MONEY,,,en,1
 fourteen years,fourteen years,DATE,,,en,1
-80th,80th,ORDINAL,,,en,1
-Stack,Stack,PRODUCT,,,en,1
-Ex-Husbandwill,Ex-Husbandwill,NORP,,,en,1
+Matchday 30,Matchday 30,FAC,,,en,1
+Hope and Love,Hope and Love,WORK_OF_ART,,,en,1
 Astro,Astro,PRODUCT,,,en,1
 £115 million,£115 million,MONEY,,,en,1
 eight-year,eight-year,DATE,,,en,1
@@ -842,9 +841,9 @@ E.T.,E.T.,WORK_OF_ART,,,en,1
 $63 Million,$63 Million,MONEY,,,en,1
 $237 m,$237 m,MONEY,,,en,1
 The Wedding Banquet',The Wedding Banquet',WORK_OF_ART,,,en,1
-Hope and Love,Hope and Love,WORK_OF_ART,,,en,1
-My First Ex-Husband’ Plans National Tour,My First Ex-Husband’ Plans National Tour,WORK_OF_ART,,,en,1
+Stack,Stack,PRODUCT,,,en,1
 2024—shared,2024—shared,CARDINAL,,,en,1
+Next Month,Next Month,DATE,,,en,1
 Surprising Connection Before,Surprising Connection Before,WORK_OF_ART,,,en,1
 Taiwanese,Taiwanese,NORP,,,en,1
 £100m,£100m,MONEY,,,en,1
@@ -856,11 +855,11 @@ this month,this month,DATE,,,en,1
 Space Flight,Space Flight,WORK_OF_ART,,,en,1
 'All Too Well' Short Film,'All Too Well' Short Film,WORK_OF_ART,,,en,1
 eight sad months,eight sad months,DATE,,,en,1
-Next Month,Next Month,DATE,,,en,1
-The Whisper,The Whisper,WORK_OF_ART,,,en,1
-SNL,SNL,WORK_OF_ART,,,en,1
-Mondays,Mondays,EVENT,,,en,1
-$3.7 Million,$3.7 Million,MONEY,,,en,1
+Critique Is ‘Completely Valid,Critique Is ‘Completely Valid,WORK_OF_ART,,,en,1
+Ex-Husbandwill,Ex-Husbandwill,NORP,,,en,1
+My First Ex-Husband’ Plans National Tour,My First Ex-Husband’ Plans National Tour,WORK_OF_ART,,,en,1
+evening,evening,TIME,,,en,1
+a club night in 2013,a club night in 2013,TIME,,,en,1
 Weekly,Weekly,DATE,,,en,1
 Night,Night,TIME,,,en,1
 Winter Garden Theatre,Winter Garden Theatre,FAC,,,en,1
@@ -872,9 +871,9 @@ Classic Hypocrite',Classic Hypocrite',WORK_OF_ART,,,en,1
 Zero,Zero,CARDINAL,,,en,1
 'Wedding Banquet','Wedding Banquet',WORK_OF_ART,,,en,1
 +2443 chars,+2443 chars,WORK_OF_ART,,,en,1
-a club night in 2013,a club night in 2013,TIME,,,en,1
-Crime Thriller,Crime Thriller,WORK_OF_ART,,,en,1
+Mondays,Mondays,EVENT,,,en,1
 those days,those days,DATE,,,en,1
+The Whisper,The Whisper,WORK_OF_ART,,,en,1
 "April 15, 2025 
  ","April 15, 2025 
  ",DATE,,,en,1
@@ -888,11 +887,11 @@ How To Train Your Dragon,How To Train Your Dragon,WORK_OF_ART,,,en,1
 1983 to 1988,1983 to 1988,DATE,,,en,1
 March 25,March 25,DATE,,,en,1
 this years,this years,DATE,,,en,1
-Critique Is ‘Completely Valid,Critique Is ‘Completely Valid,WORK_OF_ART,,,en,1
-evening,evening,TIME,,,en,1
-Biden,Biden,NORP,,,en,1
-2001-2011,2001-2011,DATE,,,en,1
-Star Wars Movie Is Finally Taking The Franchise,Star Wars Movie Is Finally Taking The Franchise,WORK_OF_ART,,,en,1
+Crime Thriller,Crime Thriller,WORK_OF_ART,,,en,1
+SNL,SNL,WORK_OF_ART,,,en,1
+$3 Million,$3 Million,MONEY,,,en,1
+the morning,the morning,TIME,,,en,1
+Consentless,Consentless,WORK_OF_ART,,,en,1
 Rogue One,Rogue One,WORK_OF_ART,,,en,1
 ex-Tide,ex-Tide,PRODUCT,,,en,1
 Firework,Firework,WORK_OF_ART,,,en,1
@@ -904,9 +903,9 @@ two years' time,two years' time,DATE,,,en,1
 Grogu Stealing Her Heart and More - Star Wars Celebration - IGN,Grogu Stealing Her Heart and More - Star Wars Celebration - IGN,WORK_OF_ART,,,en,1
 Grogu Stealing Her Heart and,Grogu Stealing Her Heart and,WORK_OF_ART,,,en,1
 movieABC News Star Wars Celebra,movieABC News Star Wars Celebra,WORK_OF_ART,,,en,1
-Consentless,Consentless,WORK_OF_ART,,,en,1
-May of 2026</li><li,May of 2026</li><li,DATE,,,en,1
+2001-2011,2001-2011,DATE,,,en,1
 she&apos;s,she&apos;s,FAC,,,en,1
+Star Wars film Starfighter,Star Wars film Starfighter,WORK_OF_ART,,,en,1
 St. Peters Basilica,St. Peters Basilica,FAC,,,en,1
 77,77,DATE,,,en,1
 Easter Sunday Mattins,Easter Sunday Mattins,EVENT,,,en,1
@@ -918,11 +917,11 @@ age 88,age 88,DATE,,,en,1
 the age of 88,the age of 88,DATE,,,en,1
 Argentinian,Argentinian,NORP,,,en,1
 2013,2013,DATE,,,en,1
-Star Wars film Starfighter,Star Wars film Starfighter,WORK_OF_ART,,,en,1
-"May 28, 2027","May 28, 2027",DATE,,,en,1
-$3 Million,$3 Million,MONEY,,,en,1
-'Star Wars','Star Wars',WORK_OF_ART,,,en,1
+Mar,Mar,WORK_OF_ART,,,en,1
+Star Wars Movie Is Finally Taking The Franchise,Star Wars Movie Is Finally Taking The Franchise,WORK_OF_ART,,,en,1
+May of 2026</li><li,May of 2026</li><li,DATE,,,en,1
 A Real One” For Taking On ‘The Wedding Banquet,A Real One” For Taking On ‘The Wedding Banquet,WORK_OF_ART,,,en,1
+this fall,this fall,DATE,,,en,1
 Six years,Six years,DATE,,,en,1
 Sundance Film Festival,Sundance Film Festival,EVENT,,,en,1
 a … Six years,a … Six years,DATE,,,en,1
@@ -934,9 +933,9 @@ Roughly 70 percent,Roughly 70 percent,PERCENT,,,en,1
 Star Wars' Celebration,Star Wars' Celebration,WORK_OF_ART,,,en,1
 mid-2027,mid-2027,DATE,,,en,1
 New Film,New Film,EVENT,,,en,1
-this fall,this fall,DATE,,,en,1
-'The Rise of Skywalker','The Rise of Skywalker',WORK_OF_ART,,,en,1
+'Star Wars','Star Wars',WORK_OF_ART,,,en,1
 April 18 to April 20,April 18 to April 20,DATE,,,en,1
+"May 28, 2027","May 28, 2027",DATE,,,en,1
 +3089 chars,+3089 chars,WORK_OF_ART,,,en,1
 Star Wars Film,Star Wars Film,WORK_OF_ART,,,en,1
 the fall,the fall,DATE,,,en,1
@@ -950,11 +949,11 @@ A Photo Of His Childhood Bedsheets To His Star Wars: Starfighter Announcement,A 
 Blade Runner,Blade Runner,WORK_OF_ART,,,en,1
 The Fifth Element,The Fifth Element,WORK_OF_ART,,,en,1
 just this week,just this week,DATE,,,en,1
+'The Rise of Skywalker','The Rise of Skywalker',WORK_OF_ART,,,en,1
+$3.7 Million,$3.7 Million,MONEY,,,en,1
 +3001 chars],+3001 chars],WORK_OF_ART,,,en,1
 1946.J.,1946.J.,CARDINAL,,,en,1
-8,8,CARDINAL,,,en,1
-The Right One Will Stay,The Right One Will Stay,WORK_OF_ART,,,en,1
-Fellow Travelers,Fellow Travelers,WORK_OF_ART,,,en,1
+many months,many months,DATE,,,en,1
 Seasons 1,Seasons 1,DATE,,,en,1
 The Last Of Us Season 2,The Last Of Us Season 2,WORK_OF_ART,,,en,1
 school hours,school hours,TIME,,,en,1
@@ -966,9 +965,9 @@ Czech,Czech,NORP,,,en,1
 1949,1949,DATE,,,en,1
 Value(s),Value(s),WORK_OF_ART,,,en,1
 a few months,a few months,DATE,,,en,1
-many months,many months,DATE,,,en,1
-April 3,April 3,DATE,,,en,1
+The Right One Will Stay,The Right One Will Stay,WORK_OF_ART,,,en,1
 Documentary,Documentary,EVENT,,,en,1
+Maestro,Maestro,WORK_OF_ART,,,en,1
 Nonfiction Series,Nonfiction Series,EVENT,,,en,1
 a fun night,a fun night,TIME,,,en,1
 103,103,MONEY,,,en,1
@@ -980,11 +979,11 @@ the Big Apple,the Big Apple,FAC,,,en,1
 'Totally Lost Control','Totally Lost Control',WORK_OF_ART,,,en,1
 Five Years,Five Years,DATE,,,en,1
 Hollywood&apos;s,Hollywood&apos;s,CARDINAL,,,en,1
-Maestro,Maestro,WORK_OF_ART,,,en,1
-"As Ever"" Collection Has Arrived - Here's What a Dietitian Thinks","As Ever"" Collection Has Arrived - Here's What a Dietitian Thinks",WORK_OF_ART,,,en,1
-April 14th,April 14th,DATE,,,en,1
-pro-China,pro-China,NORP,,,en,1
-the Week,the Week,DATE,,,en,1
+Love,Love,WORK_OF_ART,,,en,1
+Fellow Travelers,Fellow Travelers,WORK_OF_ART,,,en,1
+April 3,April 3,DATE,,,en,1
+8,8,CARDINAL,,,en,1
+Liberal,Liberal,NORP,,,en,1
 Fortune,Fortune,WORK_OF_ART,,,en,1
 free fall,free fall,DATE,,,en,1
 two months,two months,DATE,,,en,1
@@ -998,9 +997,9 @@ the Quirinale Presidential Palace,the Quirinale Presidential Palace,FAC,,,en,1
 Sold-Out Raspberry Jam,Sold-Out Raspberry Jam,WORK_OF_ART,,,en,1
 the past year,the past year,DATE,,,en,1
 Son George Attends First 2025 Event,Son George Attends First 2025 Event,WORK_OF_ART,,,en,1
-Liberal,Liberal,NORP,,,en,1
-more than 170 years,more than 170 years,DATE,,,en,1
+pro-China,pro-China,NORP,,,en,1
 51s,51s,CARDINAL,,,en,1
+"As Ever"" Collection Has Arrived - Here's What a Dietitian Thinks","As Ever"" Collection Has Arrived - Here's What a Dietitian Thinks",WORK_OF_ART,,,en,1
 Social Democrats,Social Democrats,NORP,,,en,1
 +1996,+1996,NORP,,,en,1
 $11B Public,$11B Public,MONEY,,,en,1
@@ -1012,11 +1011,11 @@ Day 19,Day 19,DATE,,,en,1
 election day,election day,DATE,,,en,1
 10 per cent,10 per cent,MONEY,,,en,1
 Doomsday Set Leak,Doomsday Set Leak,WORK_OF_ART,,,en,1
-Love,Love,WORK_OF_ART,,,en,1
+more than 170 years,more than 170 years,DATE,,,en,1
 Harry&apos;s,Harry&apos;s,CARDINAL,,,en,1
 Awkwardness,Awkwardness,PRODUCT,,,en,1
-+1203,+1203,NORP,,,en,1
-Late last night,Late last night,TIME,,,en,1
+04/11/2025 8:35:10 PM PDT,04/11/2025 8:35:10 PM PDT,TIME,,,en,1
+Shock Reunion:,Shock Reunion:,WORK_OF_ART,,,en,1
 the Oscar de la Renta,the Oscar de la Renta,FAC,,,en,1
 Monse,Monse,NORP,0.21428571428571427,0.6428571428571429,en,1
 more than 60 years,more than 60 years,DATE,,,en,1
@@ -1028,9 +1027,9 @@ the Blue Origin Launch,the Blue Origin Launch,FAC,,,en,1
 1963,1963,DATE,,,en,1
 Libs,Libs,NORP,,,en,1
 Monday morning,Monday morning,TIME,,,en,1
-Shock Reunion:,Shock Reunion:,WORK_OF_ART,,,en,1
-04/11/2025 8:35:10 PM PDT,04/11/2025 8:35:10 PM PDT,TIME,,,en,1
++1203,+1203,NORP,,,en,1
 Held Secret Talks,Held Secret Talks,WORK_OF_ART,,,en,1
++4131,+4131,NORP,,,en,1
 Starting War as Talks Grind,Starting War as Talks Grind,EVENT,,,en,1
 The Odyssey,The Odyssey,WORK_OF_ART,,,en,1
 This Morning,This Morning,TIME,,,en,1
@@ -1042,11 +1041,11 @@ Detach,Detach,WORK_OF_ART,,,en,1
 Past Miscarriage,Past Miscarriage,EVENT,,,en,1
 The Wedding Banquet Premiere,The Wedding Banquet Premiere,WORK_OF_ART,,,en,1
 just 10 minutes,just 10 minutes,TIME,,,en,1
+April 14th,April 14th,DATE,,,en,1
+Late last night,Late last night,TIME,,,en,1
 tomorrow,tomorrow,DATE,,,en,1
 30 Rockefeller Plaza,30 Rockefeller Plaza,TIME,,,en,1
 Fourth Time Hosting,Fourth Time Hosting,DATE,,,en,1
-Saturday Night Live’ Highlights,Saturday Night Live’ Highlights,WORK_OF_ART,,,en,1
-+4131,+4131,NORP,,,en,1
 every other day,every other day,DATE,,,en,1
 Final Orbit,Final Orbit,WORK_OF_ART,,,en,1
 October,October,DATE,,,en,1
@@ -1071,11 +1070,11 @@ Markle&apos;s,Markle&apos;s,CARDINAL,,,en,1
 The White Lotus,The White Lotus,WORK_OF_ART,,,en,1
 the Freedom of Information Act,the Freedom of Information Act,LAW,,,en,1
 January 6,January 6,DATE,,,en,1
-Mar,Mar,WORK_OF_ART,,,en,1
-the morning,the morning,TIME,,,en,1
-VE Day Outing,VE Day Outing,DATE,,,en,1
-later this month,later this month,DATE,,,en,1
-the 2024–25 season,the 2024–25 season,DATE,,,en,1
+Saturday Night Live’ Highlights,Saturday Night Live’ Highlights,WORK_OF_ART,,,en,1
+Biden,Biden,NORP,,,en,1
+Last Wednesday,Last Wednesday,DATE,,,en,1
+80th,80th,ORDINAL,,,en,1
+Fox &amp,Fox &amp,WORK_OF_ART,,,en,1
 3–2,3–2,CARDINAL,,,en,1
 the 202425 season,the 202425 season,DATE,,,en,1
 32,32,CARDINAL,,,en,1
@@ -1087,9 +1086,9 @@ King Abdullah Sports City,King Abdullah Sports City,FAC,,,en,1
 King Abdullah Sports City Stadium,King Abdullah Sports City Stadium,FAC,,,en,1
 South African Connection,South African Connection,PRODUCT,,,en,1
 New Role,New Role,EVENT,,,en,1
-Fox &amp,Fox &amp,WORK_OF_ART,,,en,1
-Ameri,Ameri,EVENT,,,en,1
+later this month,later this month,DATE,,,en,1
 +2724 chars,+2724 chars,WORK_OF_ART,,,en,1
+Sussex,Sussex,PRODUCT,0.014583333333333332,0.02291666666666667,en,1
 same-day,same-day,DATE,,,en,1
 the hours,the hours,TIME,,,en,1
 3:30,3:30,TIME,,,en,1
@@ -1101,11 +1100,11 @@ RIBA Royal Gold Medal,RIBA Royal Gold Medal,EVENT,,,en,1
 46th,46th,ORDINAL,,,en,1
 63,63,DATE,,,en,1
 32 years,32 years,DATE,,,en,1
-Sussex,Sussex,PRODUCT,0.014583333333333332,0.02291666666666667,en,1
-first-half,first-half,DATE,,,en,1
-+3618,+3618,NORP,,,en,1
-Times Square,Times Square,FAC,,,en,1
-nearly $50 billion,nearly $50 billion,MONEY,,,en,1
+The Vibe He Gave Off,The Vibe He Gave Off,WORK_OF_ART,,,en,1
+the 2024–25 season,the 2024–25 season,DATE,,,en,1
+Ameri,Ameri,EVENT,,,en,1
+the Mess,the Mess,WORK_OF_ART,,,en,1
+Just 100 Days,Just 100 Days,DATE,,,en,1
 January,January,DATE,,,en,1
 just 100 days,just 100 days,DATE,,,en,1
 the last five years,the last five years,DATE,,,en,1
@@ -1117,9 +1116,9 @@ The Megyn Kelly Show,The Megyn Kelly Show,WORK_OF_ART,,,en,1
 years ago,years ago,DATE,,,en,1
 Teenage Dream,Teenage Dream,WORK_OF_ART,,,en,1
 2025 / 01:08,2025 / 01:08,DATE,,,en,1
-Just 100 Days,Just 100 Days,DATE,,,en,1
-+1181 chars,+1181 chars,WORK_OF_ART,,,en,1
+Times Square,Times Square,FAC,,,en,1
 his first 100 days,his first 100 days,DATE,,,en,1
+first-half,first-half,DATE,,,en,1
 the South Lawn,the South Lawn,FAC,,,en,1
 Battered and Bruised,Battered and Bruised,WORK_OF_ART,,,en,1
 Ground for Unhinged and Unhealed,Ground for Unhinged and Unhealed,WORK_OF_ART,,,en,1
@@ -1131,11 +1130,11 @@ Frightening Experience” Of Cancer,Frightening Experience” Of Cancer,WORK_OF_
 "Apr 30, 2025","Apr 30, 2025",DATE,,,en,1
 04:14 PM,04:14 PM,TIME,,,en,1
 season,season,DATE,,,en,1
-The Vibe He Gave Off,The Vibe He Gave Off,WORK_OF_ART,,,en,1
-the Mess,the Mess,WORK_OF_ART,,,en,1
-Last Wednesday,Last Wednesday,DATE,,,en,1
-VE Day 2025,VE Day 2025,DATE,,,en,1
-A month,A month,DATE,,,en,1
++1181 chars,+1181 chars,WORK_OF_ART,,,en,1
++3618,+3618,NORP,,,en,1
+Signal Gate,Signal Gate,FAC,,,en,1
+their spring seasons,their spring seasons,DATE,,,en,1
+80th anniversary,80th anniversary,DATE,,,en,1
 May 3,May 3,DATE,,,en,1
 +4009 chars,+4009 chars,WORK_OF_ART,,,en,1
 +8152,+8152,NORP,,,en,1
@@ -1147,9 +1146,9 @@ Puberty Hit You Like A Truck,Puberty Hit You Like A Truck,WORK_OF_ART,,,en,1
 1 day,1 day,DATE,,,en,1
 VE Day commemorations,VE Day commemorations,DATE,,,en,1
 4 p.m.,4 p.m.,TIME,,,en,1
-80th anniversary,80th anniversary,DATE,,,en,1
-Special Report,Special Report,WORK_OF_ART,,,en,1
+VE Day 2025,VE Day 2025,DATE,,,en,1
 Black Desert Championship,Black Desert Championship,EVENT,,,en,1
+Second,Second,ORDINAL,,,en,1
 Avengers,Avengers,WORK_OF_ART,,,en,1
 December,December,DATE,,,en,1
 +3289 chars,+3289 chars,WORK_OF_ART,,,en,1
@@ -1161,11 +1160,11 @@ JoBlo,JoBlo,PRODUCT,,,en,1
 "some 42,000","some 42,000",CARDINAL,,,en,1
 the Inflation Reduction Act,the Inflation Reduction Act,LAW,,,en,1
 May 6,May 6,DATE,,,en,1
-Second,Second,ORDINAL,,,en,1
-Marvel,Marvel,WORK_OF_ART,,,en,1
-Signal Gate,Signal Gate,FAC,,,en,1
-two-month,two-month,DATE,,,en,1
+VE Day Outing,VE Day Outing,DATE,,,en,1
+A month,A month,DATE,,,en,1
+Special Report,Special Report,WORK_OF_ART,,,en,1
 Signal Gate Scandal,Signal Gate Scandal,FAC,,,en,1
+"97,300","97,300",MONEY,,,en,1
 Covid,Covid,NORP,,,en,1
 The Knives Were Out,The Knives Were Out,WORK_OF_ART,,,en,1
 Next Role,Next Role,WORK_OF_ART,,,en,1
@@ -1177,9 +1176,9 @@ This Week,This Week,DATE,,,en,1
 Brit,Brit,PRODUCT,,,en,1
 $1M,$1M,MONEY,,,en,1
 2029,2029,DATE,,,en,1
-"97,300","97,300",MONEY,,,en,1
-Stars Assemble To Support New Marvel Movie,Stars Assemble To Support New Marvel Movie,WORK_OF_ART,,,en,1
+two-month,two-month,DATE,,,en,1
 swastika,swastika,NORP,,,en,1
+Marvel,Marvel,WORK_OF_ART,,,en,1
 "May 1, 2025","May 1, 2025",DATE,,,en,1
 His Family,His Family,WORK_OF_ART,,,en,1
 $2 Billion,$2 Billion,MONEY,,,en,1
@@ -1191,11 +1190,11 @@ Earlier this week,Earlier this week,DATE,,,en,1
 Track Meet Stabbing Suspect Raises Crazy Money and More From the Week in News,Track Meet Stabbing Suspect Raises Crazy Money and More From the Week in News,WORK_OF_ART,,,en,1
 September 10,September 10,DATE,,,en,1
 2022.Chris,2022.Chris,CARDINAL,,,en,1
+Stars Assemble To Support New Marvel Movie,Stars Assemble To Support New Marvel Movie,WORK_OF_ART,,,en,1
+nearly $50 billion,nearly $50 billion,MONEY,,,en,1
 nearly $300 million,nearly $300 million,MONEY,,,en,1
 Nearly $200 Billion,Nearly $200 Billion,MONEY,,,en,1
-14 years ago,14 years ago,DATE,,,en,1
-€113 million,€113 million,MONEY,,,en,1
-June 2023,June 2023,DATE,,,en,1
+the 2024/25 season,the 2024/25 season,DATE,,,en,1
 2.0,2.0,CARDINAL,,,en,1
 billions — of dollars,billions — of dollars,MONEY,,,en,1
 "billions, of dollars","billions, of dollars",MONEY,,,en,1
@@ -1207,9 +1206,9 @@ History of Anti-Trump Actions,History of Anti-Trump Actions,WORK_OF_ART,,,en,1
 128.4 percent,128.4 percent,PERCENT,,,en,1
 Gear on Stage After Space Trip,Gear on Stage After Space Trip,WORK_OF_ART,,,en,1
 +2302 chars,+2302 chars,WORK_OF_ART,,,en,1
-the 2024/25 season,the 2024/25 season,DATE,,,en,1
-century,century,DATE,,,en,1
+€113 million,€113 million,MONEY,,,en,1
 manag,manag,NORP,,,en,1
+Like a Death Sentence,Like a Death Sentence,WORK_OF_ART,,,en,1
 Just 10 days,Just 10 days,DATE,,,en,1
 The I,The I,WORK_OF_ART,,,en,1
 Apr 24,Apr 24,DATE,,,en,1
@@ -1221,11 +1220,11 @@ All-Female Flight Was,All-Female Flight Was,WORK_OF_ART,,,en,1
 Big For Women,Big For Women,WORK_OF_ART,,,en,1
 April 24,April 24,DATE,,,en,1
 Long Game,Long Game,WORK_OF_ART,,,en,1
-Like a Death Sentence,Like a Death Sentence,WORK_OF_ART,,,en,1
-the century,the century,DATE,,,en,1
-Royal Wedding,Royal Wedding,WORK_OF_ART,,,en,1
-last season,last season,DATE,,,en,1
-their spring seasons,their spring seasons,DATE,,,en,1
+Gatekeeper,Gatekeeper,WORK_OF_ART,,,en,1
+June 2023,June 2023,DATE,,,en,1
+century,century,DATE,,,en,1
+14 years ago,14 years ago,DATE,,,en,1
+35,35,CARDINAL,,,en,1
 two decades,two decades,DATE,,,en,1
 recent days,recent days,DATE,,,en,1
 yesterday,yesterday,DATE,,,en,1
@@ -1237,9 +1236,9 @@ Araújo,Araújo,PRODUCT,,,en,1
 a summer,a summer,DATE,,,en,1
 2481,2481,CARDINAL,,,en,1
 +2181 chars,+2181 chars,WORK_OF_ART,,,en,1
-35,35,CARDINAL,,,en,1
-Kilmar,Kilmar,NORP,0.03409090909090909,0.18863636363636363,en,1
+last season,last season,DATE,,,en,1
 9/11 Building 7,9/11 Building 7,FAC,,,en,1
+the century,the century,DATE,,,en,1
 Ground Zero,Ground Zero,FAC,,,en,1
 several happy months,several happy months,DATE,,,en,1
 Royally Sweet Portrait,Royally Sweet Portrait,FAC,,,en,1
@@ -1251,11 +1250,11 @@ Sweet Birthday Video Shows His Cheeky Side,Sweet Birthday Video Shows His Cheeky
 Seventh,Seventh,ORDINAL,,,en,1
 Pentagon,Pentagon,FAC,,,en,1
 SecDef,SecDef,DATE,,,en,1
-Gatekeeper,Gatekeeper,WORK_OF_ART,,,en,1
+Kilmar,Kilmar,NORP,0.03409090909090909,0.18863636363636363,en,1
 Week,Week,DATE,,,en,1
 Australian,Australian,NORP,,,en,1
-More than a week,More than a week,DATE,,,en,1
-the World Series champion Dodgers,the World Series champion Dodgers,EVENT,,,en,1
+"$20,000 Electric","$20,000 Electric",MONEY,,,en,1
+Royal Lodge,Royal Lodge,FAC,,,en,1
 Just a day,Just a day,DATE,,,en,1
 "Lawyers, Guns and Money","Lawyers, Guns and Money",WORK_OF_ART,,,en,1
 Stagecoach Festival,Stagecoach Festival,EVENT,,,en,1
@@ -1267,9 +1266,9 @@ the first 100 days,the first 100 days,DATE,,,en,1
 almost every night,almost every night,TIME,,,en,1
 nightly,nightly,TIME,,,en,1
 'Mean' Space Flight Comments,'Mean' Space Flight Comments,WORK_OF_ART,,,en,1
-Royal Lodge,Royal Lodge,FAC,,,en,1
-"$20,000 Electric","$20,000 Electric",MONEY,,,en,1
+More than a week,More than a week,DATE,,,en,1
 Blonde Origin” Making Fun of Gayle King,Blonde Origin” Making Fun of Gayle King,WORK_OF_ART,,,en,1
+"25,000","25,000",MONEY,,,en,1
 Blonde Origin” Parody Making Fun of Gayle King,Blonde Origin” Parody Making Fun of Gayle King,WORK_OF_ART,,,en,1
 Was Internalized Misogyny,Was Internalized Misogyny,WORK_OF_ART,,,en,1
 over a year,over a year,DATE,,,en,1
@@ -1281,11 +1280,11 @@ The Smashing Machine,The Smashing Machine,WORK_OF_ART,,,en,1
 500 million dollar,500 million dollar,MONEY,,,en,1
 14th Wedding Anniversary,14th Wedding Anniversary,EVENT,,,en,1
 Scottish,Scottish,NORP,,,en,1
+Royal Wedding,Royal Wedding,WORK_OF_ART,,,en,1
+the World Series champion Dodgers,the World Series champion Dodgers,EVENT,,,en,1
 Logic For His Wild Trump Claim Prompts Internet Meltdown,Logic For His Wild Trump Claim Prompts Internet Meltdown,WORK_OF_ART,,,en,1
 half,half,CARDINAL,,,en,1
 ‘The Optimist,‘The Optimist,WORK_OF_ART,,,en,1
-A Normal Gay Social,A Normal Gay Social,WORK_OF_ART,,,en,1
-"25,000","25,000",MONEY,,,en,1
 "20,000","20,000",MONEY,,,en,1
 all night,all night,TIME,,,en,1
 "April 29, 2011","April 29, 2011",DATE,,,en,1
@@ -1310,4 +1309,5 @@ the long months,the long months,DATE,,,en,1
 18 months,18 months,DATE,,,en,1
 Kids Are Following in Her Footsteps,Kids Are Following in Her Footsteps,WORK_OF_ART,,,en,1
 late March,late March,DATE,,,en,1
+A Normal Gay Social,A Normal Gay Social,WORK_OF_ART,,,en,1
 07/06/2025 2:22:01 AM PDT,07/06/2025 2:22:01 AM PDT,DATE,,,en,1

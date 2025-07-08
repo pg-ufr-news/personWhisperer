@@ -1,5 +1,5 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Trump,Trump,ORG,0.04561335591729427,0.30386845650544275,en,146
+Trump,Trump,ORG,0.0459279307856894,0.30282930479482195,en,145
 Elon Musk,Elon Musk,ORG,0.06563224348750667,0.27370862003493573,en,95
 Blue Origin,Blue Origin,ORG,0.04337779973649538,0.2273236440491875,en,46
 Al-Nassr,Al-Nassr,ORG,0.09069300964187328,0.34645775941230483,en,44
@@ -8,453 +8,447 @@ Kawasaki,Kawasaki,ORG,0.05655810983397191,0.42769476372924653,en,29
 Reliance Industries,Reliance Industries,ORG,0.04691220238095239,0.15233134920634922,en,24
 Musk,Musk,ORG,0.07888708513708514,0.35836038961038963,en,21
 Kawasaki Frontale,Kawasaki Frontale,ORG,-0.008880471380471381,0.31481481481481477,en,19
-Pro League,Pro League,ORG,0.06327985739750445,0.2490196078431372,en,17
 AP,AP,ORG,0.13082293523469993,0.32866904337492575,en,17
-BBC,BBC,ORG,0.08337121212121211,0.17175820707070708,en,16
+Pro League,Pro League,ORG,0.06327985739750445,0.2490196078431372,en,17
 House,House,ORG,0.14561868686868687,0.41207386363636367,en,16
-ELLE,ELLE,ORG,0.16666666666666663,0.2722222222222222,en,15
+BBC,BBC,ORG,0.08337121212121211,0.17175820707070708,en,16
 the IAB Transparency &amp,the IAB Transparency &amp,ORG,-0.1113888888888889,0.35138888888888886,en,15
-Reliance,Reliance,ORG,0.13152056277056276,0.34802489177489176,en,14
+ELLE,ELLE,ORG,0.16666666666666663,0.2722222222222222,en,15
 AFC Champions League,AFC Champions League,ORG,-0.02694805194805195,0.5273809523809524,en,14
+Reliance,Reliance,ORG,0.13152056277056276,0.34802489177489176,en,14
+the Catholic Church,the Catholic Church,ORG,0.12935522810522812,0.30955405705405703,en,13
 Fox News,Fox News,ORG,0.008115588115588108,0.2611762311762312,en,13
 the White House,the White House,ORG,0.0835393772893773,0.1865842490842491,en,13
 MAGA,MAGA,ORG,0.14125874125874127,0.2868881118881119,en,13
-the Catholic Church,the Catholic Church,ORG,0.12935522810522812,0.30955405705405703,en,13
-the Asian Champions League Elite,the Asian Champions League Elite,ORG,0.10122685185185186,0.24949074074074074,en,12
-Instagram,Instagram,ORG,0.04575441919191919,0.21484111952861953,en,12
 Elon,Elon,ORG,0.027777777777777773,0.21180555555555558,en,12
+Instagram,Instagram,ORG,0.04575441919191919,0.21484111952861953,en,12
+the Asian Champions League Elite,the Asian Champions League Elite,ORG,0.10122685185185186,0.24949074074074074,en,12
 Reuters,Reuters,ORG,-0.018560606060606066,0.13409090909090907,en,11
 Apple,Apple,ORG,-0.012500000000000006,0.16666666666666666,en,11
-Leo,Leo,ORG,0.054772727272727265,0.2309090909090909,en,10
-RIL,RIL,ORG,0.052428571428571435,0.1305595238095238,en,10
 Senate,Senate,ORG,-0.004210227272727271,0.3749242424242424,en,10
+RIL,RIL,ORG,0.052428571428571435,0.1305595238095238,en,10
+Leo,Leo,ORG,0.054772727272727265,0.2309090909090909,en,10
+SpaceX,SpaceX,ORG,0.019753086419753083,0.24629629629629632,en,9
 "Getty Images
 ","Getty Images
 ",ORG,0.11755050505050504,0.20948933782267115,en,9
-White House,White House,ORG,-0.009932659932659939,0.20574074074074072,en,9
 GOP,GOP,ORG,0.11525974025974027,0.2911435786435786,en,9
-SpaceX,SpaceX,ORG,0.019753086419753083,0.24629629629629632,en,9
+White House,White House,ORG,-0.009932659932659939,0.20574074074074072,en,9
+Elon Musk's,Elon Musk's,ORG,-0.006119528619528622,0.23475589225589225,en,9
 Big Tech,Big Tech,ORG,-0.018055555555555557,0.11296296296296296,en,9
 Starlink,Starlink,ORG,0.021717171717171715,0.4427609427609427,en,9
 Asian Paints,Asian Paints,ORG,0.051248196248196244,0.10938492063492063,en,9
-Elon Musk's,Elon Musk's,ORG,-0.006119528619528622,0.23475589225589225,en,9
-OECD,OECD,ORG,0.020833333333333332,0.0375,en,8
-Fox &amp,Fox &amp,ORG,0.14076704545454544,0.4117582070707071,en,8
-Pentagon,Pentagon,ORG,0.15199915824915824,0.33274410774410773,en,8
-The Independent,The Independent,ORG,-0.0203125,0.11458333333333333,en,8
-Time,Time,ORG,0.31613568722943725,0.5394642857142857,en,8
-ACI Prensa Staff,ACI Prensa Staff,ORG,0.05625000000000001,0.22291666666666665,en,8
 Avengers,Avengers,ORG,0.1565932765151515,0.33612689393939393,en,8
+The Independent,The Independent,ORG,-0.0203125,0.11458333333333333,en,8
+Fox &amp,Fox &amp,ORG,0.14076704545454544,0.4117582070707071,en,8
+Time,Time,ORG,0.31613568722943725,0.5394642857142857,en,8
+Pentagon,Pentagon,ORG,0.15199915824915824,0.33274410774410773,en,8
 Chelsea,Chelsea,ORG,0.13541666666666669,0.19947916666666668,en,8
+ACI Prensa Staff,ACI Prensa Staff,ORG,0.05625000000000001,0.22291666666666665,en,8
+OECD,OECD,ORG,0.020833333333333332,0.0375,en,8
 Amazon,Amazon,ORG,0.14285714285714285,0.14285714285714285,en,7
+the Asian Champions League,the Asian Champions League,ORG,0.022321428571428572,0.14285714285714285,en,7
 Saudi Pro League,Saudi Pro League,ORG,0.1285714285714286,0.2761904761904762,en,7
+Fox & Friends,Fox & Friends,ORG,0.041720779220779214,0.3212121212121212,en,7
 WNBA,WNBA,ORG,0.07896825396825398,0.2615079365079365,en,7
 Lifetimes Tour,Lifetimes Tour,ORG,0.06523809523809522,0.1676190476190476,en,7
-Fox & Friends,Fox & Friends,ORG,0.041720779220779214,0.3212121212121212,en,7
-the Asian Champions League,the Asian Champions League,ORG,0.022321428571428572,0.14285714285714285,en,7
-Lucasfilm,Lucasfilm,ORG,0.16275252525252523,0.2392676767676768,en,6
 J-League,J-League,ORG,-0.12222222222222223,0.14444444444444446,en,6
-Blue Origin’s,Blue Origin’s,ORG,0.1779040404040404,0.30793350168350175,en,6
-NYC,NYC,ORG,0.012904040404040406,0.2631060606060606,en,6
-Marvel Studios,Marvel Studios,ORG,0.2249526515151515,0.48907828282828275,en,6
-Rs,Rs,ORG,0.07729166666666666,0.13729166666666667,en,6
 AFP,AFP,ORG,0.023538961038961036,0.19453463203463203,en,6
+Blue Origin’s,Blue Origin’s,ORG,0.1779040404040404,0.30793350168350175,en,6
+Rs,Rs,ORG,0.07729166666666666,0.13729166666666667,en,6
 Elon Musk’s,Elon Musk’s,ORG,0.02320075757575757,0.240530303030303,en,6
+Marvel Studios,Marvel Studios,ORG,0.2249526515151515,0.48907828282828275,en,6
 Department of Government Efficiency,Department of Government Efficiency,ORG,0.33393308080808076,0.43556397306397304,en,6
-UN,UN,ORG,0.03571428571428571,0.05714285714285714,en,5
+Lucasfilm,Lucasfilm,ORG,0.16275252525252523,0.2392676767676768,en,6
+NYC,NYC,ORG,0.012904040404040406,0.2631060606060606,en,6
 the Royal Family,the Royal Family,ORG,0.10166666666666666,0.2533333333333333,en,5
-Catholic Church,Catholic Church,ORG,0.08363636363636363,0.2754545454545455,en,5
-Netflix,Netflix,ORG,0.0,0.08,en,5
-Blue Origin's,Blue Origin's,ORG,0.05786868686868687,0.2030252525252525,en,5
-CDC,CDC,ORG,-0.12,0.4,en,5
 Wendy's,Wendy's,ORG,0.11666666666666667,0.2833333333333333,en,5
+UN,UN,ORG,0.03571428571428571,0.05714285714285714,en,5
+Church,Church,ORG,0.04666666666666666,0.1,en,5
 U.N.,U.N.,ORG,0.19702380952380955,0.22838827838827838,en,5
+Champions League Elite,Champions League Elite,ORG,-0.18666666666666668,0.21333333333333332,en,5
+State,State,ORG,0.21833333333333335,0.4730555555555556,en,5
+CDC,CDC,ORG,-0.12,0.4,en,5
+Catholic Church,Catholic Church,ORG,0.08363636363636363,0.2754545454545455,en,5
 CBS,CBS,ORG,0.32,0.35666666666666663,en,5
-Blue Origins,Blue Origins,ORG,0.07848484848484848,0.19606060606060607,en,5
 CBS Interactive Inc. All,CBS Interactive Inc. All,ORG,-0.025,0.10500000000000001,en,5
+Blue Origin's,Blue Origin's,ORG,0.05786868686868687,0.2030252525252525,en,5
+Blue Origins,Blue Origins,ORG,0.07848484848484848,0.19606060606060607,en,5
 Truist Financial,Truist Financial,ORG,0.0,0.27999999999999997,en,5
 Madleen,Madleen,ORG,-0.09166666666666667,0.06666666666666668,en,5
-State,State,ORG,0.21833333333333335,0.4730555555555556,en,5
-Champions League Elite,Champions League Elite,ORG,-0.18666666666666668,0.21333333333333332,en,5
-Church,Church,ORG,0.04666666666666666,0.1,en,5
-Defense,Defense,ORG,0.0496969696969697,0.15474747474747474,en,5
+Netflix,Netflix,ORG,0.0,0.08,en,5
 Champions League,Champions League,ORG,0.054629629629629625,0.40925925925925927,en,5
-CBS Mornings,CBS Mornings,ORG,0.20018939393939392,0.3971590909090909,en,4
+Defense,Defense,ORG,0.0496969696969697,0.15474747474747474,en,5
 FAA,FAA,ORG,0.1875,0.4375,en,4
-European Parliament,European Parliament,ORG,0.0,0.0,en,4
-Royal Family,Royal Family,ORG,0.016666666666666673,0.04166666666666667,en,4
-Bayrou,Bayrou,ORG,-0.03333333333333333,0.09166666666666666,en,4
 Asian Champions League,Asian Champions League,ORG,-0.05,0.05,en,4
-Newsweek,Newsweek,ORG,0.125,0.0625,en,4
-The Hollywood Gossip,The Hollywood Gossip,ORG,0.3020833333333333,0.6125,en,4
-ACL Elite,ACL Elite,ORG,-0.036458333333333336,0.6927083333333333,en,4
-EU,EU,ORG,0.05113636363636363,0.18181818181818182,en,4
-Liberal Party,Liberal Party,ORG,0.03409090909090909,0.0,en,4
-DHS,DHS,ORG,0.0625,0.08333333333333333,en,4
-NATO,NATO,ORG,0.07878787878787878,0.5886363636363636,,4
-NBC News,NBC News,ORG,0.23731060606060608,0.30593434343434345,en,4
-World Liberty Financial,World Liberty Financial,ORG,0.16561485389610392,0.22012987012987012,en,4
+CNN,CNN,ORG,0.04427083333333334,0.24479166666666669,,4
+Royal Family,Royal Family,ORG,0.016666666666666673,0.04166666666666667,en,4
+Vatican Media,Vatican Media,ORG,0.012500000000000004,0.125,en,4
+CBS Mornings,CBS Mornings,ORG,0.20018939393939392,0.3971590909090909,en,4
+the AFC Champions League Elite,the AFC Champions League Elite,ORG,0.47361111111111115,0.4,en,4
+Bayrou,Bayrou,ORG,-0.03333333333333333,0.09166666666666666,en,4
 Russell Brand,Russell Brand,ORG,0.06666666666666667,0.43680555555555556,en,4
+Mamdani,Mamdani,ORG,0.12329545454545454,0.17869318181818183,en,4
+NATO,NATO,ORG,0.07878787878787878,0.5886363636363636,,4
+Adani,Adani,ORG,0.20357142857142857,0.41785714285714287,en,4
+Vanity Fair,Vanity Fair,ORG,0.19261363636363635,0.4069760101010101,en,4
+EU,EU,ORG,0.05113636363636363,0.18181818181818182,en,4
+DHS,DHS,ORG,0.0625,0.08333333333333333,en,4
+White Sox,White Sox,ORG,0.0625,0.125,en,4
+World Liberty Financial,World Liberty Financial,ORG,0.16561485389610392,0.22012987012987012,en,4
 Carney,Carney,ORG,0.1,0.0,en,4
 MGX,MGX,ORG,0.08065814393939394,0.2159090909090909,en,4
-Vanity Fair,Vanity Fair,ORG,0.19261363636363635,0.4069760101010101,en,4
-Adani,Adani,ORG,0.20357142857142857,0.41785714285714287,en,4
+NBC News,NBC News,ORG,0.23731060606060608,0.30593434343434345,en,4
 Kawasaki Frontale's,Kawasaki Frontale's,ORG,-0.1411111111111111,0.21666666666666667,en,4
-Mamdani,Mamdani,ORG,0.12329545454545454,0.17869318181818183,en,4
-Vatican Media,Vatican Media,ORG,0.012500000000000004,0.125,en,4
-White Sox,White Sox,ORG,0.0625,0.125,en,4
-the AFC Champions League Elite,the AFC Champions League Elite,ORG,0.47361111111111115,0.4,en,4
-CNN,CNN,ORG,0.04427083333333334,0.24479166666666669,,4
-NCAA,NCAA,ORG,0.26666666666666666,0.3,en,3
+The Hollywood Gossip,The Hollywood Gossip,ORG,0.3020833333333333,0.6125,en,4
+ACL Elite,ACL Elite,ORG,-0.036458333333333336,0.6927083333333333,en,4
+European Parliament,European Parliament,ORG,0.0,0.0,en,4
+the United Nations,the United Nations,ORG,0.2380952380952381,0.2161172161172161,en,3
+Fox News Digital,Fox News Digital,ORG,0.022727272727272724,0.07575757575757576,en,3
+OFAC,OFAC,ORG,-0.08333333333333333,0.05555555555555555,en,3
+Reliance Industries Ltd.,Reliance Industries Ltd.,ORG,0.04545454545454545,0.11582491582491583,en,3
+Elon Musks Starlink,Elon Musks Starlink,ORG,0.11755050505050506,0.30303030303030304,en,3
+Yarvin,Yarvin,ORG,0.0,0.0,en,3
+Premier League,Premier League,ORG,0.09999999999999999,0.3666666666666667,en,3
+the Chicago White Sox,the Chicago White Sox,ORG,0.06076388888888889,0.036458333333333336,en,3
+The European Commission,The European Commission,ORG,0.0,0.0,en,3
+AGBO,AGBO,ORG,0.0,0.0,en,3
+The Chosen,The Chosen,ORG,0.12777777777777777,0.26666666666666666,en,3
+The New York Times,The New York Times,ORG,0.0909090909090909,0.2796801346801347,en,3
+Friends,Friends,ORG,0.07916666666666666,0.22916666666666663,en,3
+Deadpool & Wolverine,Deadpool & Wolverine,ORG,0.14545454545454548,0.3181818181818182,en,3
+Liberal Party,Liberal Party,ORG,0.0,0.0,en,3
+Amazon MGM Studios,Amazon MGM Studios,ORG,0.11666666666666665,0.21666666666666667,en,3
+Roma,Roma,ORG,0.06666666666666667,0.08333333333333333,en,3
+Transportation,Transportation,ORG,0.1125,0.1125,en,3
+Amazon Music,Amazon Music,ORG,0.21212121212121213,0.16666666666666666,en,3
+Ronaldo,Ronaldo,ORG,0.0,0.0,en,3
+Macron,Macron,ORG,-0.5333333333333333,0.3,en,3
+ACL,ACL,ORG,0.0,0.0,en,3
+Lifetimes,Lifetimes,ORG,0.325,0.13333333333333333,en,3
+Macquarie Capital,Macquarie Capital,ORG,-0.11712962962962963,0.16620370370370371,en,3
 LSU,LSU,ORG,-0.0043771043771043865,0.24482323232323233,en,3
+Met Galas,Met Galas,ORG,0.5,0.3333333333333333,en,3
+BBC News,BBC News,ORG,0.16419753086419753,0.3277777777777778,en,3
+BTC,BTC,ORG,-0.03851851851851852,0.2897530864197531,en,3
+the Democratic Party,the Democratic Party,ORG,0.040945165945165944,0.18333333333333335,en,3
+Perry,Perry,ORG,0.0,0.03333333333333333,en,3
 American Music Awards,American Music Awards,ORG,0.0707070707070707,0.10606060606060606,en,3
+NCAA,NCAA,ORG,0.26666666666666666,0.3,en,3
+Mediagazer,Mediagazer,ORG,0.0,0.0,en,3
+Kremlin,Kremlin,ORG,0.047474747474747475,0.048148148148148155,en,3
+Hamas,Hamas,ORG,0.15000000000000002,0.2333333333333333,en,3
 Sanofi,Sanofi,ORG,0.03888888888888889,0.27777777777777773,en,3
 Walmart,Walmart,ORG,0.08166666666666667,0.25222222222222224,en,3
-Met Galas,Met Galas,ORG,0.5,0.3333333333333333,en,3
-Sky,Sky,ORG,0.15833333333333335,0.31666666666666665,en,3
-the Democratic Party,the Democratic Party,ORG,0.040945165945165944,0.18333333333333335,en,3
-Fox News Digital,Fox News Digital,ORG,0.022727272727272724,0.07575757575757576,en,3
-The New York Times,The New York Times,ORG,0.0909090909090909,0.2796801346801347,en,3
-Macquarie Capital,Macquarie Capital,ORG,-0.11712962962962963,0.16620370370370371,en,3
-Lifetimes,Lifetimes,ORG,0.325,0.13333333333333333,en,3
-BTC,BTC,ORG,-0.03851851851851852,0.2897530864197531,en,3
-BBC News,BBC News,ORG,0.16419753086419753,0.3277777777777778,en,3
-the Chicago White Sox,the Chicago White Sox,ORG,0.06076388888888889,0.036458333333333336,en,3
-Mediagazer,Mediagazer,ORG,0.0,0.0,en,3
-Amazon MGM Studios,Amazon MGM Studios,ORG,0.11666666666666665,0.21666666666666667,en,3
-Kremlin,Kremlin,ORG,0.047474747474747475,0.048148148148148155,en,3
-Roma,Roma,ORG,0.06666666666666667,0.08333333333333333,en,3
-Ronaldo,Ronaldo,ORG,0.0,0.0,en,3
-Hermès,Hermès,ORG,0.03535353535353535,0.30303030303030304,en,3
-Perry,Perry,ORG,0.0,0.03333333333333333,en,3
-Transportation,Transportation,ORG,0.1125,0.1125,en,3
-Deadpool & Wolverine,Deadpool & Wolverine,ORG,0.14545454545454548,0.3181818181818182,en,3
-ACL,ACL,ORG,0.0,0.0,en,3
-Premier League,Premier League,ORG,0.09999999999999999,0.3666666666666667,en,3
-Macron,Macron,ORG,-0.5333333333333333,0.3,en,3
 Congress,Congress,ORG,0.14166666666666666,0.18333333333333335,en,3
-Amazon Music,Amazon Music,ORG,0.21212121212121213,0.16666666666666666,en,3
+Hermès,Hermès,ORG,0.03535353535353535,0.30303030303030304,en,3
 JEDDAH,JEDDAH,ORG,-0.06666666666666667,0.0,en,3
-Yarvin,Yarvin,ORG,0.0,0.0,en,3
-AGBO,AGBO,ORG,0.0,0.0,en,3
-Elon Musks Starlink,Elon Musks Starlink,ORG,0.11755050505050506,0.30303030303030304,en,3
-Friends,Friends,ORG,0.07916666666666666,0.22916666666666663,en,3
-The Chosen,The Chosen,ORG,0.12777777777777777,0.26666666666666666,en,3
-Hamas,Hamas,ORG,0.15000000000000002,0.2333333333333333,en,3
-Markle,Markle,ORG,0.18787878787878787,0.4424242424242424,en,3
-the United Nations,the United Nations,ORG,0.2380952380952381,0.2161172161172161,en,3
-NYSE,NYSE,ORG,0.0,0.3333333333333333,en,3
-CNA Staff,CNA Staff,ORG,0.0,0.0,en,3
-Saudi League,Saudi League,ORG,0.0,0.0,en,3
-Al-Hilal,Al-Hilal,ORG,0.25,0.4166666666666667,en,3
-FOIA,FOIA,ORG,-0.06666666666666667,0.225,en,3
-"Fortune, Meghan","Fortune, Meghan",ORG,0.0,0.16666666666666666,en,3
-Marvel,Marvel,ORG,0.09444444444444444,0.26481481481481484,en,3
-Midi,Midi,ORG,0.0,0.3333333333333333,en,3
-The European Commission,The European Commission,ORG,0.0,0.0,en,3
-Reliance Industries Ltd.,Reliance Industries Ltd.,ORG,0.04545454545454545,0.11582491582491583,en,3
-Camilla,Camilla,ORG,0.09444444444444444,0.3277777777777778,en,3
 EA Sports FC,EA Sports FC,ORG,0.13333333333333333,0.28,en,3
+FOIA,FOIA,ORG,-0.06666666666666667,0.225,en,3
 HBO,HBO,ORG,0.14545454545454545,0.16666666666666666,en,3
-OFAC,OFAC,ORG,-0.08333333333333333,0.05555555555555555,en,3
+CNA Staff,CNA Staff,ORG,0.0,0.0,en,3
+Al-Hilal,Al-Hilal,ORG,0.25,0.4166666666666667,en,3
+NYSE,NYSE,ORG,0.0,0.3333333333333333,en,3
+Sky,Sky,ORG,0.15833333333333335,0.31666666666666665,en,3
+"Fortune, Meghan","Fortune, Meghan",ORG,0.0,0.16666666666666666,en,3
+Markle,Markle,ORG,0.18787878787878787,0.4424242424242424,en,3
+Saudi League,Saudi League,ORG,0.0,0.0,en,3
+Midi,Midi,ORG,0.0,0.3333333333333333,en,3
+Camilla,Camilla,ORG,0.09444444444444444,0.3277777777777778,en,3
+Marvel,Marvel,ORG,0.09444444444444444,0.26481481481481484,en,3
 Coachella,Coachella,ORG,0.16458333333333333,0.4145833333333333,en,3
-US Treasurys,US Treasurys,ORG,0.0,0.0,en,2
-Frontale,Frontale,ORG,-0.2,0.2,en,2
-DSA,DSA,ORG,0.0,0.0,en,2
-Houston Astros Hall of Famers,Houston Astros Hall of Famers,ORG,0.5,0.5,en,2
-Fox,Fox,ORG,0.0,0.0,en,2
-FOX Sports',FOX Sports',ORG,0.0,0.2,en,2
-Jelly Roll,Jelly Roll,ORG,-0.6,0.45,en,2
-Al Hilal,Al Hilal,ORG,0.05833333333333333,0.0,en,2
-Paris Hilton,Paris Hilton,ORG,-0.0875,0.45,en,2
-kickoff times,kickoff times,ORG,0.16249999999999998,0.1625,en,2
-Tass,Tass,ORG,0.041666666666666664,0.07222222222222223,en,2
-Signalgate,Signalgate,ORG,0.13257575757575757,0.1313131313131313,en,2
-Lizzo,Lizzo,ORG,-0.0875,0.45,en,2
-Colicchio,Colicchio,ORG,0.125,0.0,en,2
-State Department,State Department,ORG,-0.08731481481481482,0.08009259259259259,en,2
-Hamm,Hamm,ORG,0.24583333333333335,0.25833333333333336,en,2
-New York Drama League Awards,New York Drama League Awards,ORG,0.13636363636363635,0.22727272727272727,en,2
-Second Signal Scandal May Be ‘Part of a Learning Curve,Second Signal Scandal May Be ‘Part of a Learning Curve,ORG,0.06439393939393939,0.1313131313131313,en,2
-New Yorker,New Yorker,ORG,-0.05953561589925226,0.28067296340023606,en,2
-the Group of Seven (G7,the Group of Seven (G7,ORG,0.30000000000000004,0.3,en,2
-Success,Success,ORG,0.375,0.0,en,2
-American Ancestors,American Ancestors,ORG,0.07357142857142858,0.14857142857142858,en,2
-AP Photo/,AP Photo/,ORG,0.009047619047619049,0.29714285714285715,en,2
-AI,AI,ORG,0.0,0.05,en,2
-BRAT-Approved Party,BRAT-Approved Party,ORG,0.08333333333333333,0.16666666666666666,en,2
-Christ,Christ,ORG,0.0,0.275,en,2
-the Oval Office,the Oval Office,ORG,0.08333333333333334,0.12222222222222223,en,2
-MCU,MCU,ORG,0.28409090909090906,0.25,en,2
-The Mandalorian & Grogu's,The Mandalorian & Grogu's,ORG,0.38162878787878785,0.19431818181818183,en,2
-DOA,DOA,ORG,0.0,0.0,en,2
-Thor,Thor,ORG,0.03409090909090909,0.0625,en,2
-Royal FamilyThe New York Times,Royal FamilyThe New York Times,ORG,0.2843939393939394,0.17545454545454547,en,2
-"This Quasi-Historical,","This Quasi-Historical,",ORG,0.13958333333333334,0.29583333333333334,en,2
-Parliament,Parliament,ORG,0.0,0.0,en,2
-Chicago Sky,Chicago Sky,ORG,0.2888888888888889,0.23888888888888893,en,2
-the White Sox,the White Sox,ORG,0.0,0.0,en,2
-Lavender Men’ Review,Lavender Men’ Review,ORG,0.13958333333333334,0.29583333333333334,en,2
-Office of Foreign Assets Control,Office of Foreign Assets Control,ORG,-0.08333333333333333,0.041666666666666664,en,2
-royal Easter,royal Easter,ORG,0.0,0.0,en,2
-Gypsy,Gypsy,ORG,0.06818181818181818,0.0,en,2
-Getty,Getty,ORG,0.1590909090909091,0.23863636363636365,en,2
-Easter Eggs & Possible,Easter Eggs & Possible,ORG,0.022727272727272724,0.25,en,2
-1999.Sean Zanni/,1999.Sean Zanni/,ORG,0.5,0.25,en,2
-Vatican,Vatican,ORG,0.0975,0.14583333333333334,en,2
-the Department of Defense,the Department of Defense,ORG,-0.125,0.1,en,2
-Brothers,Brothers,ORG,-0.026363636363636367,0.175,en,2
-Maserati,Maserati,ORG,-0.026363636363636367,0.175,en,2
-the Invictus Games Foundation,the Invictus Games Foundation,ORG,-0.1,0.3,en,2
-the Institute of Chemical Technology,the Institute of Chemical Technology,ORG,0.0,0.0,en,2
-The Wall Street Journal,The Wall Street Journal,ORG,-0.15,0.3125,en,2
-EWTN,EWTN,ORG,0.016666666666666666,0.04166666666666667,en,2
-Erdogan,Erdogan,ORG,0.0,0.0,en,2
-US Army,US Army,ORG,0.06818181818181818,0.0,en,2
-Bloomberg,Bloomberg,ORG,0.125,0.475,en,2
-IDF,IDF,ORG,0.0,0.0,en,2
-The Wall Street Journal Calls,The Wall Street Journal Calls,ORG,0.0,0.0,en,2
-Irish Independent,Irish Independent,ORG,0.131875,0.1408333333333333,en,2
-Medieval Times,Medieval Times,ORG,0.10681818181818181,0.11363636363636363,en,2
-NASA,NASA,ORG,0.1,0.0,en,2
-Treasury,Treasury,ORG,-0.041666666666666664,0.041666666666666664,en,2
-Al-Ahli,Al-Ahli,ORG,0.0,0.0,en,2
-AC Milan,AC Milan,ORG,-0.020833333333333332,0.011111111111111112,en,2
-the Royal Institute,the Royal Institute,ORG,0.0,0.0,en,2
-Stock Score,Stock Score,ORG,0.165,0.2925,en,2
-Poilievre,Poilievre,ORG,0.125,0.125,en,2
-UEFA,UEFA,ORG,0.0625,0.0,en,2
-Fox News Accidentally Introduces,Fox News Accidentally Introduces,ORG,0.0,0.0,en,2
-the Department of Government Efficiency,the Department of Government Efficiency,ORG,0.22916666666666666,0.3333333333333333,en,2
-CDU/CSU,CDU/CSU,ORG,0.2396825396825397,0.18373015873015874,en,2
-VivaTech,VivaTech,ORG,0.35,0.45,en,2
-the New Yorker,the New Yorker,ORG,0.22817821067821065,0.3090909090909091,en,2
-DOGE,DOGE,ORG,0.26666666666666666,0.25,en,2
-the Defense Policy Board,the Defense Policy Board,ORG,0.0,0.0,en,2
-Real America's,Real America's,ORG,0.2,0.15000000000000002,en,2
-Lima Newsroom,Lima Newsroom,ORG,-0.006249999999999999,0.10416666666666667,en,2
-Borussia Dortmund,Borussia Dortmund,ORG,0.08333333333333333,0.11666666666666665,en,2
+Newsweek,Newsweek,ORG,0.0,0.0,en,2
 Royal Correspondent,Royal Correspondent,ORG,0.0,0.0,en,2
 Louis,Louis,ORG,0.1590909090909091,0.0,en,2
-Courage,Courage,ORG,0.0928030303030303,0.11363636363636363,en,2
-Binance Holdings Ltd,Binance Holdings Ltd,ORG,0.08333333333333333,0.125,en,2
-Marine Le Pen,Marine Le Pen,ORG,0.0,0.0,en,2
-the USA:,the USA:,ORG,0.13636363636363635,0.25,en,2
-Star Wars Celebration Japan 2025,Star Wars Celebration Japan 2025,ORG,0.425,0.2875,en,2
-Ticketmaster,Ticketmaster,ORG,0.0,0.0,en,2
-Health and Human Services,Health and Human Services,ORG,0.012500000000000004,0.0875,en,2
-AOC,AOC,ORG,0.07878787878787878,0.14242424242424243,en,2
-the Apostolic Palace,the Apostolic Palace,ORG,0.125,0.15,en,2
-Rome Newsroom,Rome Newsroom,ORG,0.8,0.45,en,2
-the UEFA Champions League,the UEFA Champions League,ORG,0.0,0.0,en,2
-TheWrap,TheWrap,ORG,0.01578282828282828,0.15555555555555556,en,2
-BI,BI,ORG,0.025,0.1142857142857143,en,2
-Team of the Week,Team of the Week,ORG,0.2,0.21000000000000002,en,2
-Brexit,Brexit,ORG,0.03333333333333333,0.09999999999999999,en,2
-Paradigm Shift',Paradigm Shift',ORG,0.0,0.0,,2
-Democratic Party,Democratic Party,ORG,-0.2125,0.0,en,2
-NIH,NIH,ORG,0.0,0.0,en,2
-Bajrang Dal,Bajrang Dal,ORG,0.0,0.05,en,2
-NYR,NYR,ORG,0.33896103896103896,0.31493506493506496,en,2
-Real Madrid,Real Madrid,ORG,0.18333333333333335,0.15000000000000002,en,2
-Turgle,Turgle,ORG,0.125,0.05,en,2
-Truth Social,Truth Social,ORG,0.07083333333333333,0.14583333333333331,en,2
-ServiceNow,ServiceNow,ORG,0.0,0.0,en,2
-Casey Means,Casey Means,ORG,0.0590909090909091,0.1875,en,2
-Feyenoord,Feyenoord,ORG,0.03333333333333333,0.049999999999999996,en,2
 CNA,CNA,ORG,0.02500000000000001,0.0,en,2
-Holland Cooper,Holland Cooper,ORG,-0.25000000000000006,0.43333333333333335,en,2
-Supreme,Supreme,ORG,0.0,0.0,en,2
-Nuvama,Nuvama,ORG,0.004999999999999999,0.14833333333333334,en,2
-the 'America Party',the 'America Party',ORG,-0.5,0.0,en,2
-Forbes Daily,Forbes Daily,ORG,0.0625,0.0625,en,2
-UConn,UConn,ORG,0.004166666666666666,0.25,en,2
-Piers Morgan,Piers Morgan,ORG,-0.07777777777777779,0.32222222222222224,en,2
-the New York City Board of Elections,the New York City Board of Elections,ORG,0.19318181818181818,0.19696969696969696,en,2
-the Chicago Sky,the Chicago Sky,ORG,-0.10031565656565658,0.175,en,2
-Jio Financial Services,Jio Financial Services,ORG,0.0,0.0,en,2
-the AFC Champions League,the AFC Champions League,ORG,-0.0462962962962963,0.11666666666666665,en,2
-CECOT,CECOT,ORG,0.0880952380952381,0.15357142857142855,en,2
-Blue Origins New Shepard,Blue Origins New Shepard,ORG,0.06818181818181818,0.13863636363636364,en,2
-Bluesky,Bluesky,ORG,-0.12708333333333333,0.13125,en,2
-Chicken,Chicken,ORG,-0.6,0.475,en,2
-HRH,HRH,ORG,0.1,0.21875,en,2
-ICE,ICE,ORG,0.07424242424242423,0.15151515151515152,en,2
-ICC,ICC,ORG,-0.010714285714285716,0.07857142857142858,en,2
-Catholic Imprint,Catholic Imprint,ORG,0.0,0.05,en,2
-CNG,CNG,ORG,0.21875,0.5,en,2
-Under-15s,Under-15s,ORG,0.16666666666666666,0.17777777777777778,en,2
-Elon Musk’s Home Address,Elon Musk’s Home Address,ORG,0.09848484848484848,0.18686868686868685,en,2
-Al Nassr,Al Nassr,ORG,0.08333333333333333,0.2,en,2
-Mckinsey,Mckinsey,ORG,0.0,0.0,en,2
-People,People,ORG,0.05,0.15,en,2
-Radio 4’s,Radio 4’s,ORG,0.0,0.0,en,2
-Lions,Lions,ORG,0.0,0.05,en,2
-"the ""America Party","the ""America Party",ORG,0.022727272727272724,0.10909090909090909,en,2
-SEC,SEC,ORG,-0.01727272727272728,0.2625,en,2
-CPAC,CPAC,ORG,0.016666666666666666,0.0,en,2
-FFC,FFC,ORG,-0.0625,0.0,en,2
-NBC,NBC,ORG,0.15,0.0,en,2
-all-Republican Federal Trade Commission,all-Republican Federal Trade Commission,ORG,0.03409090909090909,0.0,en,2
-Alcatraz,Alcatraz,ORG,0.2333333333333333,0.19999999999999998,en,2
-Fox & Friends',Fox & Friends',ORG,-0.016666666666666666,0.0,en,2
-Trump Now Demands ActBlue,Trump Now Demands ActBlue,ORG,0.08333333333333333,0.10833333333333334,en,2
-Random House,Random House,ORG,-0.5,0.25,en,2
-Trumpworld,Trumpworld,ORG,0.2125,0.275,en,2
-The Royal Family,The Royal Family,ORG,0.0,0.0,en,2
-The New York Times Briefly,The New York Times Briefly,ORG,0.09848484848484848,0.18686868686868685,en,2
-Times,Times,ORG,0.125,0.0,en,2
-Bezos,Bezos,ORG,0.012500000000000002,0.16458333333333333,en,2
 Inter Miami,Inter Miami,ORG,-0.01060606060606061,0.0625,en,2
-CBC News,CBC News,ORG,0.16666666666666666,0.0,en,2
-DOJ,DOJ,ORG,-0.05,0.4,en,2
+the New Yorker,the New Yorker,ORG,0.22817821067821065,0.3090909090909091,en,2
+Success,Success,ORG,0.375,0.0,en,2
 the star of TV’s,the star of TV’s,ORG,0.16666666666666666,0.15,en,2
+the Department of Defense,the Department of Defense,ORG,-0.125,0.1,en,2
+Mckinsey,Mckinsey,ORG,0.0,0.0,en,2
+FFC,FFC,ORG,-0.0625,0.0,en,2
+Lions,Lions,ORG,0.0,0.05,en,2
+Medieval Times,Medieval Times,ORG,0.10681818181818181,0.11363636363636363,en,2
+Bloomberg,Bloomberg,ORG,0.125,0.475,en,2
+all-Republican Federal Trade Commission,all-Republican Federal Trade Commission,ORG,0.03409090909090909,0.0,en,2
+NASA,NASA,ORG,0.1,0.0,en,2
+Catholic Imprint,Catholic Imprint,ORG,0.0,0.05,en,2
+Paris Hilton,Paris Hilton,ORG,-0.0875,0.45,en,2
+DOJ,DOJ,ORG,-0.05,0.4,en,2
+the Apostolic Palace,the Apostolic Palace,ORG,0.125,0.15,en,2
+VivaTech,VivaTech,ORG,0.35,0.45,en,2
+The Royal Family,The Royal Family,ORG,0.0,0.0,en,2
+Poilievre,Poilievre,ORG,0.125,0.125,en,2
+Fox,Fox,ORG,0.0,0.0,en,2
+FOX Sports',FOX Sports',ORG,0.0,0.2,en,2
+Al Hilal,Al Hilal,ORG,0.05833333333333333,0.0,en,2
+the USA:,the USA:,ORG,0.13636363636363635,0.25,en,2
+Christ,Christ,ORG,0.0,0.275,en,2
+kickoff times,kickoff times,ORG,0.16249999999999998,0.1625,en,2
+Rome Newsroom,Rome Newsroom,ORG,0.8,0.45,en,2
+Stock Score,Stock Score,ORG,0.165,0.2925,en,2
+New York Drama League Awards,New York Drama League Awards,ORG,0.13636363636363635,0.22727272727272727,en,2
+Second Signal Scandal May Be ‘Part of a Learning Curve,Second Signal Scandal May Be ‘Part of a Learning Curve,ORG,0.06439393939393939,0.1313131313131313,en,2
+Royal FamilyThe New York Times,Royal FamilyThe New York Times,ORG,0.2843939393939394,0.17545454545454547,en,2
+"This Quasi-Historical,","This Quasi-Historical,",ORG,0.13958333333333334,0.29583333333333334,en,2
+CNG,CNG,ORG,0.21875,0.5,en,2
+Lavender Men’ Review,Lavender Men’ Review,ORG,0.13958333333333334,0.29583333333333334,en,2
+Fox News Accidentally Introduces,Fox News Accidentally Introduces,ORG,0.0,0.0,en,2
+Truth Social,Truth Social,ORG,0.07083333333333333,0.14583333333333331,en,2
+the Institute of Chemical Technology,the Institute of Chemical Technology,ORG,0.0,0.0,en,2
+NBC,NBC,ORG,0.15,0.0,en,2
+ICC,ICC,ORG,-0.010714285714285716,0.07857142857142858,en,2
+royal Easter,royal Easter,ORG,0.0,0.0,en,2
+CDU/CSU,CDU/CSU,ORG,0.2396825396825397,0.18373015873015874,en,2
+AC Milan,AC Milan,ORG,-0.020833333333333332,0.011111111111111112,en,2
+the Royal Institute,the Royal Institute,ORG,0.0,0.0,en,2
+Brothers,Brothers,ORG,-0.026363636363636367,0.175,en,2
+Maserati,Maserati,ORG,-0.026363636363636367,0.175,en,2
+Real America's,Real America's,ORG,0.2,0.15000000000000002,en,2
+American Ancestors,American Ancestors,ORG,0.07357142857142858,0.14857142857142858,en,2
+Houston Astros Hall of Famers,Houston Astros Hall of Famers,ORG,0.5,0.5,en,2
+TheWrap,TheWrap,ORG,0.01578282828282828,0.15555555555555556,en,2
+Holland Cooper,Holland Cooper,ORG,-0.25000000000000006,0.43333333333333335,en,2
+EWTN,EWTN,ORG,0.016666666666666666,0.04166666666666667,en,2
+US Army,US Army,ORG,0.06818181818181818,0.0,en,2
+Al-Ahli,Al-Ahli,ORG,0.0,0.0,en,2
+IDF,IDF,ORG,0.0,0.0,en,2
+Thor,Thor,ORG,0.03409090909090909,0.0625,en,2
+MCU,MCU,ORG,0.28409090909090906,0.25,en,2
+Fox & Friends',Fox & Friends',ORG,-0.016666666666666666,0.0,en,2
+Frontale,Frontale,ORG,-0.2,0.2,en,2
+Gypsy,Gypsy,ORG,0.06818181818181818,0.0,en,2
+Easter Eggs & Possible,Easter Eggs & Possible,ORG,0.022727272727272724,0.25,en,2
+US Treasurys,US Treasurys,ORG,0.0,0.0,en,2
+Borussia Dortmund,Borussia Dortmund,ORG,0.08333333333333333,0.11666666666666665,en,2
+the AFC Champions League,the AFC Champions League,ORG,-0.0462962962962963,0.11666666666666665,en,2
+Trump Now Demands ActBlue,Trump Now Demands ActBlue,ORG,0.08333333333333333,0.10833333333333334,en,2
+AP Photo/,AP Photo/,ORG,0.009047619047619049,0.29714285714285715,en,2
+the Defense Policy Board,the Defense Policy Board,ORG,0.0,0.0,en,2
+UEFA,UEFA,ORG,0.0625,0.0,en,2
+Hamm,Hamm,ORG,0.24583333333333335,0.25833333333333336,en,2
+Binance Holdings Ltd,Binance Holdings Ltd,ORG,0.08333333333333333,0.125,en,2
+the Oval Office,the Oval Office,ORG,0.08333333333333334,0.12222222222222223,en,2
+Colicchio,Colicchio,ORG,0.125,0.0,en,2
+Getty,Getty,ORG,0.1590909090909091,0.23863636363636365,en,2
+Times,Times,ORG,0.125,0.0,en,2
+Ticketmaster,Ticketmaster,ORG,0.0,0.0,en,2
+the Invictus Games Foundation,the Invictus Games Foundation,ORG,-0.1,0.3,en,2
+BRAT-Approved Party,BRAT-Approved Party,ORG,0.08333333333333333,0.16666666666666666,en,2
+1999.Sean Zanni/,1999.Sean Zanni/,ORG,0.5,0.25,en,2
+the White Sox,the White Sox,ORG,0.0,0.0,en,2
+DOA,DOA,ORG,0.0,0.0,en,2
+The Wall Street Journal,The Wall Street Journal,ORG,-0.15,0.3125,en,2
+the Group of Seven (G7,the Group of Seven (G7,ORG,0.30000000000000004,0.3,en,2
+The Wall Street Journal Calls,The Wall Street Journal Calls,ORG,0.0,0.0,en,2
+Lima Newsroom,Lima Newsroom,ORG,-0.006249999999999999,0.10416666666666667,en,2
+Bluesky,Bluesky,ORG,-0.12708333333333333,0.13125,en,2
+Courage,Courage,ORG,0.0928030303030303,0.11363636363636363,en,2
+the Department of Government Efficiency,the Department of Government Efficiency,ORG,0.22916666666666666,0.3333333333333333,en,2
+State Department,State Department,ORG,-0.08731481481481482,0.08009259259259259,en,2
+Lizzo,Lizzo,ORG,-0.0875,0.45,en,2
+Jelly Roll,Jelly Roll,ORG,-0.6,0.45,en,2
+Alcatraz,Alcatraz,ORG,0.2333333333333333,0.19999999999999998,en,2
+Signalgate,Signalgate,ORG,0.13257575757575757,0.1313131313131313,en,2
+Office of Foreign Assets Control,Office of Foreign Assets Control,ORG,-0.08333333333333333,0.041666666666666664,en,2
+Trumpworld,Trumpworld,ORG,0.2125,0.275,en,2
+Blue Origins New Shepard,Blue Origins New Shepard,ORG,0.06818181818181818,0.13863636363636364,en,2
+AI,AI,ORG,0.0,0.05,en,2
+Team of the Week,Team of the Week,ORG,0.2,0.21000000000000002,en,2
+Jio Financial Services,Jio Financial Services,ORG,0.0,0.0,en,2
+Treasury,Treasury,ORG,-0.041666666666666664,0.041666666666666664,en,2
+CBC News,CBC News,ORG,0.16666666666666666,0.0,en,2
+Erdogan,Erdogan,ORG,0.0,0.0,en,2
+New Yorker,New Yorker,ORG,-0.05953561589925226,0.28067296340023606,en,2
 Telegraph,Telegraph,ORG,0.05000000000000001,0.19166666666666665,en,2
-COVID,COVID,ORG,0.0,0.0,en,2
+Feyenoord,Feyenoord,ORG,0.03333333333333333,0.049999999999999996,en,2
 the Saudi Pro League,the Saudi Pro League,ORG,-0.03125,0.11041666666666666,en,2
+Health and Human Services,Health and Human Services,ORG,0.012500000000000004,0.0875,en,2
+Casey Means,Casey Means,ORG,0.0590909090909091,0.1875,en,2
 TikTok,TikTok,ORG,-0.08333333333333333,0.0,en,2
-AMZN,AMZN,ORG,0.0,0.0,en,2
-the New York Times,the New York Times,ORG,0.13636363636363635,0.22727272727272727,en,2
 Amazon Inc.,Amazon Inc.,ORG,0.0,0.0,en,2
-the Republican Party,the Republican Party,ORG,-0.10000000000000002,0.0,en,1
-the Freedom Flotilla Coalition,the Freedom Flotilla Coalition,ORG,-0.125,0.0,en,1
+AMZN,AMZN,ORG,0.0,0.0,en,2
+Bezos,Bezos,ORG,0.012500000000000002,0.16458333333333333,en,2
+Real Madrid,Real Madrid,ORG,0.18333333333333335,0.15000000000000002,en,2
+Random House,Random House,ORG,-0.5,0.25,en,2
+Tass,Tass,ORG,0.041666666666666664,0.07222222222222223,en,2
+Forbes Daily,Forbes Daily,ORG,0.0625,0.0625,en,2
+Supreme,Supreme,ORG,0.0,0.0,en,2
+the Chicago Sky,the Chicago Sky,ORG,-0.10031565656565658,0.175,en,2
+AOC,AOC,ORG,0.07878787878787878,0.14242424242424243,en,2
+Paradigm Shift',Paradigm Shift',ORG,0.0,0.0,,2
+NYR,NYR,ORG,0.33896103896103896,0.31493506493506496,en,2
+CECOT,CECOT,ORG,0.0880952380952381,0.15357142857142855,en,2
+Democratic Party,Democratic Party,ORG,-0.2125,0.0,en,2
+Chicken,Chicken,ORG,-0.6,0.475,en,2
+DSA,DSA,ORG,0.0,0.0,en,2
+Irish Independent,Irish Independent,ORG,0.131875,0.1408333333333333,en,2
+Piers Morgan,Piers Morgan,ORG,-0.07777777777777779,0.32222222222222224,en,2
+"the ""America Party","the ""America Party",ORG,0.022727272727272724,0.10909090909090909,en,2
+the UEFA Champions League,the UEFA Champions League,ORG,0.0,0.0,en,2
+Marine Le Pen,Marine Le Pen,ORG,0.0,0.0,en,2
+CPAC,CPAC,ORG,0.016666666666666666,0.0,en,2
+BI,BI,ORG,0.025,0.1142857142857143,en,2
+Brexit,Brexit,ORG,0.03333333333333333,0.09999999999999999,en,2
+Parliament,Parliament,ORG,0.0,0.0,en,2
+HRH,HRH,ORG,0.1,0.21875,en,2
+Star Wars Celebration Japan 2025,Star Wars Celebration Japan 2025,ORG,0.425,0.2875,en,2
+The Mandalorian & Grogu's,The Mandalorian & Grogu's,ORG,0.38162878787878785,0.19431818181818183,en,2
+Al Nassr,Al Nassr,ORG,0.08333333333333333,0.2,en,2
+Under-15s,Under-15s,ORG,0.16666666666666666,0.17777777777777778,en,2
+DOGE,DOGE,ORG,0.26666666666666666,0.25,en,2
+UConn,UConn,ORG,0.004166666666666666,0.25,en,2
+the New York Times,the New York Times,ORG,0.13636363636363635,0.22727272727272727,en,2
+ServiceNow,ServiceNow,ORG,0.0,0.0,en,2
+Bajrang Dal,Bajrang Dal,ORG,0.0,0.05,en,2
+the New York City Board of Elections,the New York City Board of Elections,ORG,0.19318181818181818,0.19696969696969696,en,2
+SEC,SEC,ORG,-0.01727272727272728,0.2625,en,2
+the 'America Party',the 'America Party',ORG,-0.5,0.0,en,2
+The New York Times Briefly,The New York Times Briefly,ORG,0.09848484848484848,0.18686868686868685,en,2
+Radio 4’s,Radio 4’s,ORG,0.0,0.0,en,2
+People,People,ORG,0.05,0.15,en,2
+Nuvama,Nuvama,ORG,0.004999999999999999,0.14833333333333334,en,2
+Turgle,Turgle,ORG,0.125,0.05,en,2
+Elon Musk’s Home Address,Elon Musk’s Home Address,ORG,0.09848484848484848,0.18686868686868685,en,2
+Chicago Sky,Chicago Sky,ORG,0.2888888888888889,0.23888888888888893,en,2
+Vatican,Vatican,ORG,0.0975,0.14583333333333334,en,2
+NIH,NIH,ORG,0.0,0.0,en,2
+COVID,COVID,ORG,0.0,0.0,en,2
+ICE,ICE,ORG,0.07424242424242423,0.15151515151515152,en,2
+Contributions To Economics,Contributions To Economics,ORG,0.0,0.0,en,1
+Rs 11 lakh crore,Rs 11 lakh crore,ORG,0.0,0.0,en,1
+CBS News,CBS News,ORG,-0.125,0.0,en,1
+Clickbait,Clickbait,ORG,0.1,0.0,en,1
+the Institute of Chemical Technolog,the Institute of Chemical Technolog,ORG,0.0,0.0,en,1
+the Catholic C,the Catholic C,ORG,0.08333333333333333,0.0,en,1
+Cameron,Cameron,ORG,-0.05,0.0,en,1
+ICICI Securities,ICICI Securities,ORG,0.0,0.0,en,1
+unprecede,unprecede,ORG,0.0,0.0,en,1
+Cardinal,Cardinal,ORG,0.16666666666666666,0.0,en,1
+Dragon,Dragon,ORG,0.0,0.0,en,1
+International News,International News,ORG,-0.3,0.0,en,1
+International Businesses and Financial Institutions Sustain Illegal Occupation,International Businesses and Financial Institutions Sustain Illegal Occupation,ORG,-0.16666666666666666,0.0,en,1
+Reliance Industries Ltds,Reliance Industries Ltds,ORG,0.0,0.0,en,1
+Asias,Asias,ORG,0.0,0.0,en,1
+Mother Jones Daily,Mother Jones Daily,ORG,0.2,0.0,en,1
+Apples,Apples,ORG,0.15625,0.0,en,1
+the Constitutional Court,the Constitutional Court,ORG,0.0,0.0,en,1
+usher,usher,ORG,0.13636363636363635,0.0,en,1
+Air India,Air India,ORG,-1.0,0.0,en,1
+Tabriz University of Medical Sciences,Tabriz University of Medical Sciences,ORG,0.0,0.0,en,1
+house Natural Resources Committee,house Natural Resources Committee,ORG,0.1,0.0,en,1
+Faculty of Pharmacy,Faculty of Pharmacy,ORG,0.0,0.0,en,1
+Elon Musk’s Starlink,Elon Musk’s Starlink,ORG,0.1590909090909091,0.0,en,1
+The White House,The White House,ORG,0.2,0.0,en,1
+Elon Musk Is Posting Through It,Elon Musk Is Posting Through It,ORG,0.0,0.0,en,1
+Food Control Department,Food Control Department,ORG,0.0,0.0,en,1
+conta,conta,ORG,0.0,0.0,en,1
+Mustafa TuzenMany,Mustafa TuzenMany,ORG,0.0,0.0,en,1
+HPLC,HPLC,ORG,0.0,0.0,en,1
+SAS,SAS,ORG,-0.07500000000000001,0.0,en,1
+Natural Resources Committee,Natural Resources Committee,ORG,0.1,0.0,en,1
+NYT,NYT,ORG,0.0,0.0,en,1
+Madonna & Justin Bieber,Madonna & Justin Bieber,ORG,0.0,0.0,en,1
+Tiffany,Tiffany,ORG,0.1,0.0,en,1
+Albert Museum,Albert Museum,ORG,0.0,0.0,en,1
+Reliance Retail,Reliance Retail,ORG,0.10416666666666667,0.0,en,1
+RFE/RL's,RFE/RL's,ORG,0.0,0.0,en,1
+"Romanian Service May 25,","Romanian Service May 25,",ORG,0.0,0.0,en,1
+Pro-EU,Pro-EU,ORG,0.0,0.0,en,1
+EBITDA,EBITDA,ORG,0.0,0.0,en,1
+BlueSky,BlueSky,ORG,0.0,0.0,en,1
+ICT Mumbai,ICT Mumbai,ORG,0.0,0.0,en,1
+Freedom Flotilla,Freedom Flotilla,ORG,0.5,0.0,en,1
+the International Criminal Court,the International Criminal Court,ORG,-0.021428571428571432,0.0,en,1
+Airtel-Oneweb,Airtel-Oneweb,ORG,0.0,0.0,en,1
+Jio Satellite Communication,Jio Satellite Communication,ORG,0.0,0.0,en,1
 pavili,pavili,ORG,0.0,0.0,en,1
-U.S. Satellite Superiority,U.S. Satellite Superiority,ORG,0.0,0.0,en,1
-₹9.26,₹9.26,ORG,0.31428571428571433,0.0,en,1
-Managing Director,Managing Director,ORG,0.0,0.0,en,1
 US Pavilion,US Pavilion,ORG,0.0,0.0,en,1
-₹10.41 crore,₹10.41 crore,ORG,0.0,0.0,en,1
 "McNamee/Getty Images
 ","McNamee/Getty Images
 ",ORG,0.033333333333333354,0.0,en,1
-the International Criminal Court,the International Criminal Court,ORG,-0.021428571428571432,0.0,en,1
-Repre,Repre,ORG,-0.125,0.0,en,1
-Freedom Flotilla,Freedom Flotilla,ORG,0.5,0.0,en,1
-Adani Enterprises and Adani Ports,Adani Enterprises and Adani Ports,ORG,0.0,0.0,en,1
-LA,LA,ORG,0.0,0.0,en,1
-US Congress,US Congress,ORG,0.25,0.0,en,1
-Rs 151 crore,Rs 151 crore,ORG,0.0,0.0,en,1
-Viable 3rd party,Viable 3rd party,ORG,0.23125,0.0,en,1
-Piers Morgan Uncensored,Piers Morgan Uncensored,ORG,0.0,0.0,en,1
-Zuffa LLC,Zuffa LLC,ORG,0.0,0.0,en,1
-₹10.41 cr,₹10.41 cr,ORG,-0.4,0.0,en,1
-Ananta,Ananta,ORG,0.0,0.0,en,1
-ICT Mumbai,ICT Mumbai,ORG,0.0,0.0,en,1
-Cult of Mac - Apple,Cult of Mac - Apple,ORG,0.3,0.0,en,1
-Plot Against America,Plot Against America,ORG,0.0,0.0,en,1
-Sgt,Sgt,ORG,0.0,0.0,en,1
-Long Time Collaborator,Long Time Collaborator,ORG,-0.125,0.0,en,1
-Cardinal,Cardinal,ORG,0.16666666666666666,0.0,en,1
-Contributions To Economics,Contributions To Economics,ORG,0.0,0.0,en,1
-the Constitutional Court,the Constitutional Court,ORG,0.0,0.0,en,1
-usher,usher,ORG,0.13636363636363635,0.0,en,1
-Pro-EU,Pro-EU,ORG,0.0,0.0,en,1
-"Romanian Service May 25,","Romanian Service May 25,",ORG,0.0,0.0,en,1
-RFE/RL's,RFE/RL's,ORG,0.0,0.0,en,1
-Apples,Apples,ORG,0.15625,0.0,en,1
-The New York World,The New York World,ORG,0.13636363636363635,0.0,en,1
-Columbia University,Columbia University,ORG,0.08585858585858587,0.0,en,1
-iPhone,iPhone,ORG,-0.36875,0.0,en,1
-U.S. Embassy,U.S. Embassy,ORG,0.0,0.0,en,1
-Secret Service,Secret Service,ORG,-0.03333333333333333,0.0,en,1
-Witkoff,Witkoff,ORG,0.0,0.0,en,1
-"marcusmaximus
-Vladi","marcusmaximus
-Vladi",ORG,-0.6,0.0,en,1
-Daily International News,Daily International News,ORG,0.06666666666666667,0.0,en,1
-The Economic Times,The Economic Times,ORG,0.2333333333333333,0.0,en,1
-Latest News Updates,Latest News Updates,ORG,0.2333333333333333,0.0,en,1
-International Breaking News Events,International Breaking News Events,ORG,0.2333333333333333,0.0,en,1
-Canada News,Canada News,ORG,0.2333333333333333,0.0,en,1
-UK News,UK News,ORG,0.2333333333333333,0.0,en,1
-US News,US News,ORG,0.2333333333333333,0.0,en,1
-AMYGOODMAN,AMYGOODMAN,ORG,0.020833333333333332,0.0,en,1
-the “America Party,the “America Party,ORG,0.06818181818181818,0.0,en,1
-The House Agriculture Committee,The House Agriculture Committee,ORG,0.31666666666666665,0.0,en,1
-Nawrocki,Nawrocki,ORG,0.0,0.0,en,1
-SXSW London,SXSW London,ORG,0.0,0.0,en,1
-Getty Images,Getty Images,ORG,0.3181818181818182,0.0,en,1
-MamdaniGeneral Flynn's,MamdaniGeneral Flynn's,ORG,0.0,0.0,en,1
-the Institute of Chemical Technolog,the Institute of Chemical Technolog,ORG,0.0,0.0,en,1
-the U.S. Embassy,the U.S. Embassy,ORG,0.10666666666666665,0.0,en,1
-Elon Musk’s Starlink,Elon Musk’s Starlink,ORG,0.1590909090909091,0.0,en,1
-Cathol,Cathol,ORG,0.06999999999999999,0.0,en,1
-the Rent Guidelines Board,the Rent Guidelines Board,ORG,0.13636363636363635,0.0,en,1
-Elon Musk Is Posting Through It,Elon Musk Is Posting Through It,ORG,0.0,0.0,en,1
-Turning Point USA's,Turning Point USA's,ORG,0.06818181818181818,0.0,en,1
-Point USA,Point USA,ORG,0.21212121212121213,0.0,en,1
-the Wall Street Journal,the Wall Street Journal,ORG,0.2681818181818182,0.0,en,1
-Dragon,Dragon,ORG,0.0,0.0,en,1
-MANDEL NGAN/AFP,MANDEL NGAN/AFP,ORG,0.2333333333333333,0.0,en,1
-"MtnClimber
-","MtnClimber
-",ORG,0.0,0.0,en,1
-Nepo,Nepo,ORG,-0.16666666666666666,0.0,en,1
-The Democratic Socialist Party of America - Zohran Mamdani,The Democratic Socialist Party of America - Zohran Mamdani,ORG,0.0,0.0,en,1
 Multise… Lima Newsroom,Multise… Lima Newsroom,ORG,0.0,0.0,en,1
+LA,LA,ORG,0.0,0.0,en,1
 Chiclayo,Chiclayo,ORG,0.0,0.0,en,1
+Zuffa LLC,Zuffa LLC,ORG,0.0,0.0,en,1
 The Catholic Diocese of Pittsburgh,The Catholic Diocese of Pittsburgh,ORG,0.0,0.0,en,1
-the Democratic Socialist Party of America,the Democratic Socialist Party of America,ORG,0.0,0.0,en,1
 the Diocese of Pittsburgh,the Diocese of Pittsburgh,ORG,0.13636363636363635,0.0,en,1
-the Catholic C,the Catholic C,ORG,0.08333333333333333,0.0,en,1
-lawfu,lawfu,ORG,0.06818181818181818,0.0,en,1
-Xi,Xi,ORG,-0.2916666666666667,0.0,en,1
 Council,Council,ORG,0.0,0.0,en,1
-The Democratic Socialist Party of America -,The Democratic Socialist Party of America -,ORG,0.0,0.0,en,1
-Jio Satellite Communication,Jio Satellite Communication,ORG,0.0,0.0,en,1
-Airtel-Oneweb,Airtel-Oneweb,ORG,0.0,0.0,en,1
+the Freedom Flotilla Coalition,the Freedom Flotilla Coalition,ORG,-0.125,0.0,en,1
+Xi,Xi,ORG,-0.2916666666666667,0.0,en,1
+₹9.26,₹9.26,ORG,0.31428571428571433,0.0,en,1
+lawfu,lawfu,ORG,0.06818181818181818,0.0,en,1
+Adani Enterprises and Adani Ports,Adani Enterprises and Adani Ports,ORG,0.0,0.0,en,1
+₹10.41 crore,₹10.41 crore,ORG,0.0,0.0,en,1
+₹10.41 cr,₹10.41 cr,ORG,-0.4,0.0,en,1
+the Liberal Party,the Liberal Party,ORG,0.12666666666666665,0.0,en,1
+Piers Morgan Uncensored,Piers Morgan Uncensored,ORG,0.0,0.0,en,1
+IRNA - Islamic Republic News Agency,IRNA - Islamic Republic News Agency,ORG,0.2,0.0,en,1
+Brita,Brita,ORG,-0.35833333333333334,0.0,en,1
+MANDEL NGAN/AFP,MANDEL NGAN/AFP,ORG,0.2333333333333333,0.0,en,1
+Long Time Collaborator,Long Time Collaborator,ORG,-0.125,0.0,en,1
+Elon Musk’s Moment of Regret,Elon Musk’s Moment of Regret,ORG,0.0,0.0,en,1
+Sgt,Sgt,ORG,0.0,0.0,en,1
+Pew Research Center,Pew Research Center,ORG,-0.12916666666666668,0.0,en,1
+Plot Against America,Plot Against America,ORG,0.0,0.0,en,1
+Supreme Court,Supreme Court,ORG,0.0,0.0,en,1
+Managing Director,Managing Director,ORG,0.0,0.0,en,1
+Rs 151 crore,Rs 151 crore,ORG,0.0,0.0,en,1
+Nawrocki,Nawrocki,ORG,0.0,0.0,en,1
+RIO DE JANEIRO,RIO DE JANEIRO,ORG,0.0,0.0,en,1
+Prince William & Kate,Prince William & Kate,ORG,0.0,0.0,en,1
+SXSW London,SXSW London,ORG,0.0,0.0,en,1
+ABC News's,ABC News's,ORG,-0.08333333333333333,0.0,en,1
+Tesla Model S,Tesla Model S,ORG,-0.08333333333333333,0.0,en,1
+Boeing,Boeing,ORG,-0.09999999999999999,0.0,en,1
+Getty Images,Getty Images,ORG,0.3181818181818182,0.0,en,1
+Panthers,Panthers,ORG,0.5,0.0,en,1
 Satcom,Satcom,ORG,-0.1,0.0,en,1
+Israels Ministry of Foreign Affairs,Israels Ministry of Foreign Affairs,ORG,-0.125,0.0,en,1
+Love Affair,Love Affair,ORG,0.5,0.0,en,1
+William Soccer Celebration Goes Viral,William Soccer Celebration Goes Viral,ORG,0.0,0.0,en,1
+Cathol,Cathol,ORG,0.06999999999999999,0.0,en,1
+Free Ride,Free Ride,ORG,0.2,0.0,en,1
+Royal Family's,Royal Family's,ORG,-0.07500000000000001,0.0,en,1
+Fear Zohran Mamdani,Fear Zohran Mamdani,ORG,0.0,0.0,en,1
+Ananta,Ananta,ORG,0.0,0.0,en,1
+GW,GW,ORG,0.009999999999999998,0.0,en,1
+"Getty Images
+
+","Getty Images
+
+",ORG,0.0,0.0,en,1
+PAUL ELLIS/AFP,PAUL ELLIS/AFP,ORG,0.0,0.0,en,1
+United Nations,United Nations,ORG,0.1645021645021645,0.0,en,1
+officiall,officiall,ORG,0.0,0.0,en,1
+NC Senate,NC Senate,ORG,0.0,0.0,en,1
 "REUTERS
 ","REUTERS
 ",ORG,0.0,0.0,en,1
-Faculty of Pharmacy,Faculty of Pharmacy,ORG,0.0,0.0,en,1
-ul><li,ul><li,ORG,-0.25,0.0,en,1
-the European Commission's,the European Commission's,ORG,0.0,0.0,en,1
-Elon Musk Has a New Plan,Elon Musk Has a New Plan,ORG,0.31212121212121213,0.0,en,1
-"People's Daily Online
-","People's Daily Online
+"AFP/Getty Images
+","AFP/Getty Images
 ",ORG,0.06818181818181818,0.0,en,1
-Xinhua,Xinhua,ORG,0.06818181818181818,0.0,en,1
-the Sistine Chapel’s,the Sistine Chapel’s,ORG,0.08712121212121211,0.0,en,1
-Sistine Chapels,Sistine Chapels,ORG,0.08712121212121211,0.0,en,1
-Coll,Coll,ORG,0.3333333333333333,0.0,en,1
-FTC,FTC,ORG,0.0,0.0,en,1
-The New York,The New York,ORG,0.06818181818181818,0.0,en,1
-Reliance Ind,Reliance Ind,ORG,0.25,0.0,en,1
-Oireachtas,Oireachtas,ORG,0.0,0.0,en,1
-Reliance Indus,Reliance Indus,ORG,0.3125,0.0,en,1
-Reliance Industries',Reliance Industries',ORG,0.2857142857142857,0.0,en,1
-ರಿಲಾಯನ್ಸ್,ರಿಲಾಯನ್ಸ್,ORG,0.0,0.0,en,1
-X Holdings Corp.,X Holdings Corp.,ORG,0.0,0.0,en,1
-the Milken Institute's,the Milken Institute's,ORG,0.0,0.0,en,1
-the Beverly Hilton Hotel,the Beverly Hilton Hotel,ORG,0.0,0.0,en,1
-FRANKLIN BRICEÑO LIMA,FRANKLIN BRICEÑO LIMA,ORG,0.16666666666666666,0.0,en,1
-Channel 12 ,Channel 12 ,ORG,0.0,0.0,en,1
-Post,Post,ORG,0.2,0.0,en,1
-Wikimedia Commons,Wikimedia Commons,ORG,0.0,0.0,en,1
-Bilderberg,Bilderberg,ORG,-0.05555555555555555,0.0,en,1
-the European Commission,the European Commission,ORG,0.0,0.0,en,1
-Musavi,Musavi,ORG,0.0,0.0,en,1
-Cameron Boyce & Ditching,Cameron Boyce & Ditching,ORG,0.0,0.0,en,1
-Elon Musk’s xAI,Elon Musk’s xAI,ORG,0.0,0.0,en,1
-Fox News',Fox News',ORG,0.0,0.0,en,1
-the Tech Bros Rig,the Tech Bros Rig,ORG,0.0,0.0,en,1
+Pro-Israel,Pro-Israel,ORG,0.0,0.0,en,1
+Botsford,Botsford,ORG,0.0,0.0,en,1
+The Washington Post/Getty,The Washington Post/Getty,ORG,0.0,0.0,en,1
++2546,+2546,ORG,-0.13333333333333333,0.0,en,1
+the European Commission's,the European Commission's,ORG,0.0,0.0,en,1
+Fortune,Fortune,ORG,0.0,0.0,en,1
 European Commission,European Commission,ORG,0.0,0.0,en,1
-FNC,FNC,ORG,0.0,0.0,en,1
-Durov,Durov,ORG,0.0,0.0,en,1
-Entertainment Weekly,Entertainment Weekly,ORG,0.13636363636363635,0.0,en,1
-the European Union,the European Union,ORG,0.0,0.0,en,1
-Bolojan,Bolojan,ORG,0.0,0.0,en,1
-Behind Latest SpaceX Starship Explosion,Behind Latest SpaceX Starship Explosion,ORG,0.05416666666666666,0.0,en,1
-COPV,COPV,ORG,-0.5,0.0,en,1
-Mediterranean Priorities Reframed,Mediterranean Priorities Reframed,ORG,0.0,0.0,en,1
-Alexandria Ocasio-Cortez,Alexandria Ocasio-Cortez,ORG,0.05000000000000002,0.0,en,1
-&amp,&amp,ORG,0.0,0.0,en,1
-officiall,officiall,ORG,0.0,0.0,en,1
+the America Party,the America Party,ORG,0.3625,0.0,en,1
+RadarOnli,RadarOnli,ORG,0.25,0.0,en,1
+Commission,Commission,ORG,0.0,0.0,en,1
+the Inter-Parliamentary,the Inter-Parliamentary,ORG,0.35714285714285715,0.0,en,1
+Bloomberg Finance,Bloomberg Finance,ORG,0.0,0.0,en,1
+The Tea Party Is Back (,The Tea Party Is Back (,ORG,0.0,0.0,en,1
+The Atlantic Daily,The Atlantic Daily,ORG,0.37878787878787873,0.0,en,1
+null / Credit,null / Credit,ORG,0.0,0.0,en,1
+TippaPatt/Shutterstock,TippaPatt/Shutterstock,ORG,0.0,0.0,en,1
 Newest Socialist Star,Newest Socialist Star,ORG,0.0,0.0,en,1
 the U.K. Parliament,the U.K. Parliament,ORG,0.35714285714285715,0.0,en,1
-the Inter-Parliamentary,the Inter-Parliamentary,ORG,0.35714285714285715,0.0,en,1
 Rs 10-,Rs 10-,ORG,0.0,0.0,en,1
+Us Weekly,Us Weekly,ORG,0.06818181818181818,0.0,en,1
 Anant,Anant,ORG,0.125,0.0,en,1
 Foreign Affairs,Foreign Affairs,ORG,0.12678571428571428,0.0,en,1
 Virginia</li><li,Virginia</li><li,ORG,0.0,0.0,en,1
@@ -462,124 +456,287 @@ Sco,Sco,ORG,0.0,0.0,en,1
 MtnClimber,MtnClimber,ORG,0.0,0.0,en,1
 TOPSHOT,TOPSHOT,ORG,0.0,0.0,en,1
 wal,wal,ORG,0.0,0.0,en,1
-GW,GW,ORG,0.009999999999999998,0.0,en,1
-RadarOnli,RadarOnli,ORG,0.25,0.0,en,1
-"AFP/Getty Images
-","AFP/Getty Images
-",ORG,0.06818181818181818,0.0,en,1
-the America Party,the America Party,ORG,0.3625,0.0,en,1
-United Nations,United Nations,ORG,0.1645021645021645,0.0,en,1
-TippaPatt/Shutterstock,TippaPatt/Shutterstock,ORG,0.0,0.0,en,1
-The Washington Post/Getty,The Washington Post/Getty,ORG,0.0,0.0,en,1
-null / Credit,null / Credit,ORG,0.0,0.0,en,1
-Made Locally,Made Locally,ORG,0.0,0.0,en,1
-Community Spirit Chicago,Community Spirit Chicago,ORG,0.06818181818181818,0.0,en,1
-Roumie,Roumie,ORG,0.0,0.0,en,1
-Adani Total Gas,Adani Total Gas,ORG,-0.0625,0.0,en,1
-Botsford,Botsford,ORG,0.0,0.0,en,1
-Pro-Israel,Pro-Israel,ORG,0.0,0.0,en,1
-industr,industr,ORG,-0.0625,0.0,en,1
-Fuel Retailing Partnership Across India,Fuel Retailing Partnership Across India,ORG,0.0,0.0,en,1
-Adani Power,Adani Power,ORG,0.0,0.0,en,1
-Bloomberg Finance,Bloomberg Finance,ORG,0.0,0.0,en,1
-"REUTERS
-","REUTERS
+the European Commission,the European Commission,ORG,0.0,0.0,en,1
+Capitol Hill,Capitol Hill,ORG,0.0,0.0,en,1
+Reliance Industries Sells,Reliance Industries Sells,ORG,0.0,0.0,en,1
+"MtnClimber
+","MtnClimber
 ",ORG,0.0,0.0,en,1
-Fear Zohran Mamdani,Fear Zohran Mamdani,ORG,0.0,0.0,en,1
-NC Senate,NC Senate,ORG,0.0,0.0,en,1
-The Tea Party Is Back (,The Tea Party Is Back (,ORG,0.0,0.0,en,1
-The Atlantic Daily,The Atlantic Daily,ORG,0.37878787878787873,0.0,en,1
-Bilderberg Meeting Attendees Revealed,Bilderberg Meeting Attendees Revealed,ORG,-0.13333333333333333,0.0,en,1
-Russian Influence in Central Europe Evolves From Disinformation to Democratic Erosion,Russian Influence in Central Europe Evolves From Disinformation to Democratic Erosion,ORG,0.0,0.0,en,1
-IRNA - Islamic Republic News Agency,IRNA - Islamic Republic News Agency,ORG,0.2,0.0,en,1
-Madonna & Justin Bieber,Madonna & Justin Bieber,ORG,0.0,0.0,en,1
-Cameron,Cameron,ORG,-0.05,0.0,en,1
-Clickbait,Clickbait,ORG,0.1,0.0,en,1
-CBS News,CBS News,ORG,-0.125,0.0,en,1
-Rs 11 lakh crore,Rs 11 lakh crore,ORG,0.0,0.0,en,1
-ICICI Securities,ICICI Securities,ORG,0.0,0.0,en,1
-the Department of the Treasury,the Department of the Treasury,ORG,-0.08333333333333333,0.0,en,1
-U.S. Department,U.S. Department,ORG,-0.08333333333333333,0.0,en,1
-NYT,NYT,ORG,0.0,0.0,en,1
-Commission,Commission,ORG,0.0,0.0,en,1
-HPLC,HPLC,ORG,0.0,0.0,en,1
-Mustafa TuzenMany,Mustafa TuzenMany,ORG,0.0,0.0,en,1
-conta,conta,ORG,0.0,0.0,en,1
-Food Control Department,Food Control Department,ORG,0.0,0.0,en,1
+US Congress,US Congress,ORG,0.25,0.0,en,1
+U.S. Embassy,U.S. Embassy,ORG,0.0,0.0,en,1
+the U.S. Embassy,the U.S. Embassy,ORG,0.10666666666666665,0.0,en,1
+the Rent Guidelines Board,the Rent Guidelines Board,ORG,0.13636363636363635,0.0,en,1
+Turning Point USA's,Turning Point USA's,ORG,0.06818181818181818,0.0,en,1
+Point USA,Point USA,ORG,0.21212121212121213,0.0,en,1
+the Wall Street Journal,the Wall Street Journal,ORG,0.2681818181818182,0.0,en,1
+Nepo,Nepo,ORG,-0.16666666666666666,0.0,en,1
+Repre,Repre,ORG,-0.125,0.0,en,1
+The Democratic Socialist Party of America - Zohran Mamdani,The Democratic Socialist Party of America - Zohran Mamdani,ORG,0.0,0.0,en,1
+the Democratic Socialist Party of America,the Democratic Socialist Party of America,ORG,0.0,0.0,en,1
+The Democratic Socialist Party of America -,The Democratic Socialist Party of America -,ORG,0.0,0.0,en,1
+MamdaniGeneral Flynn's,MamdaniGeneral Flynn's,ORG,0.0,0.0,en,1
+The New York World,The New York World,ORG,0.13636363636363635,0.0,en,1
+Columbia University,Columbia University,ORG,0.08585858585858587,0.0,en,1
+the “America Party,the “America Party,ORG,0.06818181818181818,0.0,en,1
+Viable 3rd party,Viable 3rd party,ORG,0.23125,0.0,en,1
+the Republican Party,the Republican Party,ORG,-0.10000000000000002,0.0,en,1
+Reuters/Nathan,Reuters/Nathan,ORG,0.30000000000000004,0.0,en,1
 AQAH,AQAH,ORG,-0.08333333333333333,0.0,en,1
-Tabriz University of Medical Sciences,Tabriz University of Medical Sciences,ORG,0.0,0.0,en,1
-Air India,Air India,ORG,-1.0,0.0,en,1
-Mother Jones Daily,Mother Jones Daily,ORG,0.2,0.0,en,1
-International News,International News,ORG,-0.3,0.0,en,1
-International Businesses and Financial Institutions Sustain Illegal Occupation,International Businesses and Financial Institutions Sustain Illegal Occupation,ORG,-0.16666666666666666,0.0,en,1
-Reliance Industries Ltds,Reliance Industries Ltds,ORG,0.0,0.0,en,1
+EWTN News,EWTN News,ORG,0.0,0.0,en,1
+Islam,Islam,ORG,0.04545454545454545,0.0,en,1
+IPO,IPO,ORG,0.13636363636363635,0.0,en,1
+Reliance Industries Ltd,Reliance Industries Ltd,ORG,0.04545454545454545,0.0,en,1
+WestRBL/Bauer-Griffin/GC,WestRBL/Bauer-Griffin/GC,ORG,0.0,0.0,en,1
+the Department of the Treasury's,the Department of the Treasury's,ORG,-0.08333333333333333,0.0,en,1
+Hizballah,Hizballah,ORG,-0.08333333333333333,0.0,en,1
+U.S. Department,U.S. Department,ORG,-0.08333333333333333,0.0,en,1
+U.S. Satellite Superiority,U.S. Satellite Superiority,ORG,0.0,0.0,en,1
+the Department of the Treasury,the Department of the Treasury,ORG,-0.08333333333333333,0.0,en,1
+asso,asso,ORG,-0.08333333333333333,0.0,en,1
+Rocket Lab,Rocket Lab,ORG,0.0,0.0,en,1
++2999,+2999,ORG,0.0,0.0,en,1
 "Reuters
 ","Reuters
 ",ORG,-0.25,0.0,en,1
-Israels Ministry of Foreign Affairs,Israels Ministry of Foreign Affairs,ORG,-0.125,0.0,en,1
-Tesla Model S,Tesla Model S,ORG,-0.08333333333333333,0.0,en,1
-ABC News's,ABC News's,ORG,-0.08333333333333333,0.0,en,1
-+2999,+2999,ORG,0.0,0.0,en,1
-RIO DE JANEIRO,RIO DE JANEIRO,ORG,0.0,0.0,en,1
-Supreme Court,Supreme Court,ORG,0.0,0.0,en,1
-Pew Research Center,Pew Research Center,ORG,-0.12916666666666668,0.0,en,1
-BlueSky,BlueSky,ORG,0.0,0.0,en,1
-Elon Musk’s Moment of Regret,Elon Musk’s Moment of Regret,ORG,0.0,0.0,en,1
-Reliance Retail,Reliance Retail,ORG,0.10416666666666667,0.0,en,1
-Rocket Lab,Rocket Lab,ORG,0.0,0.0,en,1
-asso,asso,ORG,-0.08333333333333333,0.0,en,1
-EBITDA,EBITDA,ORG,0.0,0.0,en,1
-Asias,Asias,ORG,0.0,0.0,en,1
-Boeing,Boeing,ORG,-0.09999999999999999,0.0,en,1
-Hizballah,Hizballah,ORG,-0.08333333333333333,0.0,en,1
-Reliance Industries Sells,Reliance Industries Sells,ORG,0.0,0.0,en,1
-ETMarkets,ETMarkets,ORG,0.5,0.0,en,1
-Reliance Industries Ltd,Reliance Industries Ltd,ORG,0.04545454545454545,0.0,en,1
+ul><li,ul><li,ORG,-0.25,0.0,en,1
+"REUTERS
+","REUTERS
+",ORG,0.0,0.0,en,1
+Adani Power,Adani Power,ORG,0.0,0.0,en,1
+Fuel Retailing Partnership Across India,Fuel Retailing Partnership Across India,ORG,0.0,0.0,en,1
+industr,industr,ORG,-0.0625,0.0,en,1
+ESP,ESP,ORG,0.0,0.0,en,1
 the “Gaza Humanitarian Foundation”,the “Gaza Humanitarian Foundation”,ORG,0.0,0.0,en,1
-IPO,IPO,ORG,0.13636363636363635,0.0,en,1
 Eli GerzonThe Electronic,Eli GerzonThe Electronic,ORG,0.0,0.0,en,1
 Siddhant Commercials Private Limited,Siddhant Commercials Private Limited,ORG,0.05714285714285714,0.0,en,1
 ICICI,ICICI,ORG,0.05714285714285714,0.0,en,1
 Sage Works Production Albuquerque,Sage Works Production Albuquerque,ORG,0.0,0.0,en,1
-Islam,Islam,ORG,0.04545454545454545,0.0,en,1
-EWTN News,EWTN News,ORG,0.0,0.0,en,1
 Financial Services,Financial Services,ORG,0.0,0.0,en,1
 the Savings and Investments Union,the Savings and Investments Union,ORG,0.0,0.0,en,1
-Reuters/Nathan,Reuters/Nathan,ORG,0.30000000000000004,0.0,en,1
-ESP,ESP,ORG,0.0,0.0,en,1
 ICICI Prudential Life Mutual Fund,ICICI Prudential Life Mutual Fund,ORG,-0.15,0.0,en,1
-Capitol Hill,Capitol Hill,ORG,0.0,0.0,en,1
 ETMarkets.com,ETMarkets.com,ORG,0.0,0.0,en,1
-Nifty Track,Nifty Track,ORG,0.5,0.0,en,1
+Newsday LLC/Newsday,Newsday LLC/Newsday,ORG,0.125,0.0,en,1
+Russian Influence in Central Europe Evolves From Disinformation to Democratic Erosion,Russian Influence in Central Europe Evolves From Disinformation to Democratic Erosion,ORG,0.0,0.0,en,1
+Cult of Mac - Apple,Cult of Mac - Apple,ORG,0.3,0.0,en,1
+Reliance Ind,Reliance Ind,ORG,0.25,0.0,en,1
+Bilderberg Meeting Attendees Revealed,Bilderberg Meeting Attendees Revealed,ORG,-0.13333333333333333,0.0,en,1
+Bilderberg,Bilderberg,ORG,-0.05555555555555555,0.0,en,1
+Musavi,Musavi,ORG,0.0,0.0,en,1
+the UEFA Champi,the UEFA Champi,ORG,0.125,0.0,en,1
+ETMarkets,ETMarkets,ORG,0.5,0.0,en,1
+Adani Total Gas,Adani Total Gas,ORG,-0.0625,0.0,en,1
+Chicagogo.com,Chicagogo.com,ORG,0.25,0.0,en,1
 Asian Paints Shares,Asian Paints Shares,ORG,0.0,0.0,en,1
-The Department of Government Efficiency,The Department of Government Efficiency,ORG,0.3954545454545455,0.0,en,1
 Birla Opus,Birla Opus,ORG,-0.1159090909090909,0.0,en,1
 Buckets of Asia Paints Ltd.,Buckets of Asia Paints Ltd.,ORG,0.0,0.0,en,1
 Nifty,Nifty,ORG,0.0,0.0,en,1
-the Department of the Treasury's,the Department of the Treasury's,ORG,-0.08333333333333333,0.0,en,1
 SSPX,SSPX,ORG,0.0,0.0,en,1
 CBS Evening News,CBS Evening News,ORG,0.0,0.0,en,1
 Justin Bieber Copyright ©,Justin Bieber Copyright ©,ORG,0.0,0.0,en,1
-Chicagogo.com,Chicagogo.com,ORG,0.25,0.0,en,1
+CDU,CDU,ORG,0.0,0.0,en,1
+Nifty Track,Nifty Track,ORG,0.5,0.0,en,1
 the White Sox's,the White Sox's,ORG,0.05,0.0,en,1
 the global Catholic Church,the global Catholic Church,ORG,0.015625,0.0,en,1
-WestRBL/Bauer-Griffin/GC,WestRBL/Bauer-Griffin/GC,ORG,0.0,0.0,en,1
 the Archdiocese of Chicago,the Archdiocese of Chicago,ORG,0.015625,0.0,en,1
 White Sox Field,White Sox Field,ORG,0.0,0.0,en,1
 ET Women's Forum:,ET Women's Forum:,ORG,0.0,0.0,en,1
 Reliance Foundation,Reliance Foundation,ORG,0.09999999999999999,0.0,en,1
-Newsday LLC/Newsday,Newsday LLC/Newsday,ORG,0.125,0.0,en,1
-Elon Musk’s Future After Leaving,Elon Musk’s Future After Leaving,ORG,0.0,0.0,en,1
-CNBC,CNBC,ORG,0.06818181818181818,0.0,en,1
+The Department of Government Efficiency,The Department of Government Efficiency,ORG,0.3954545454545455,0.0,en,1
+Cameron Boyce & Ditching,Cameron Boyce & Ditching,ORG,0.0,0.0,en,1
+Elon Musk’s xAI,Elon Musk’s xAI,ORG,0.0,0.0,en,1
+Fox News',Fox News',ORG,0.0,0.0,en,1
+the Beverly Hilton Hotel,the Beverly Hilton Hotel,ORG,0.0,0.0,en,1
+The New York,The New York,ORG,0.06818181818181818,0.0,en,1
+Oireachtas,Oireachtas,ORG,0.0,0.0,en,1
+Reliance Indus,Reliance Indus,ORG,0.3125,0.0,en,1
+Reliance Industries',Reliance Industries',ORG,0.2857142857142857,0.0,en,1
+ರಿಲಾಯನ್ಸ್,ರಿಲಾಯನ್ಸ್,ORG,0.0,0.0,en,1
+X Holdings Corp.,X Holdings Corp.,ORG,0.0,0.0,en,1
+the Milken Institute's,the Milken Institute's,ORG,0.0,0.0,en,1
+Mediterranean Priorities Reframed,Mediterranean Priorities Reframed,ORG,0.0,0.0,en,1
+the Tech Bros Rig,the Tech Bros Rig,ORG,0.0,0.0,en,1
+Alexandria Ocasio-Cortez,Alexandria Ocasio-Cortez,ORG,0.05000000000000002,0.0,en,1
+&amp,&amp,ORG,0.0,0.0,en,1
+Reddit,Reddit,ORG,0.0,0.0,en,1
+"Google
+","Google
+",ORG,0.016666666666666666,0.0,en,1
+Made Locally,Made Locally,ORG,0.0,0.0,en,1
+Community Spirit Chicago,Community Spirit Chicago,ORG,0.06818181818181818,0.0,en,1
+Roumie,Roumie,ORG,0.0,0.0,en,1
+FTC,FTC,ORG,0.0,0.0,en,1
+Coll,Coll,ORG,0.3333333333333333,0.0,en,1
+Sistine Chapels,Sistine Chapels,ORG,0.08712121212121211,0.0,en,1
+the Sistine Chapel’s,the Sistine Chapel’s,ORG,0.08712121212121211,0.0,en,1
+FNC,FNC,ORG,0.0,0.0,en,1
+Durov,Durov,ORG,0.0,0.0,en,1
+Entertainment Weekly,Entertainment Weekly,ORG,0.13636363636363635,0.0,en,1
+NPR,NPR,ORG,0.125,0.0,en,1
+the European Union,the European Union,ORG,0.0,0.0,en,1
+Bolojan,Bolojan,ORG,0.0,0.0,en,1
+Behind Latest SpaceX Starship Explosion,Behind Latest SpaceX Starship Explosion,ORG,0.05416666666666666,0.0,en,1
+COPV,COPV,ORG,-0.5,0.0,en,1
+Wikimedia Commons,Wikimedia Commons,ORG,0.0,0.0,en,1
+Post,Post,ORG,0.2,0.0,en,1
+Channel 12 ,Channel 12 ,ORG,0.0,0.0,en,1
+FRANKLIN BRICEÑO LIMA,FRANKLIN BRICEÑO LIMA,ORG,0.16666666666666666,0.0,en,1
+Elon Musk Has a New Plan,Elon Musk Has a New Plan,ORG,0.31212121212121213,0.0,en,1
+"People's Daily Online
+","People's Daily Online
+",ORG,0.06818181818181818,0.0,en,1
+Xinhua,Xinhua,ORG,0.06818181818181818,0.0,en,1
+Fence Post,Fence Post,ORG,0.0,0.0,en,1
+Friends co-host,Friends co-host,ORG,0.25,0.0,en,1
+iPhone,iPhone,ORG,-0.36875,0.0,en,1
+WTC,WTC,ORG,0.0,0.0,en,1
+Judicial Watch,Judicial Watch,ORG,-0.2,0.0,en,1
+Koundé,Koundé,ORG,0.25,0.0,en,1
+Newsday,Newsday,ORG,0.0,0.0,en,1
+Epstein,Epstein,ORG,0.0,0.0,en,1
+HuffPost,HuffPost,ORG,0.0,0.0,en,1
+Fox &) Friends,Fox &) Friends,ORG,0.0,0.0,en,1
+Judicial Watch's,Judicial Watch's,ORG,0.0,0.0,en,1
+NIST,NIST,ORG,0.5,0.0,en,1
+New York Drama League Award Nominees,New York Drama League Award Nominees,ORG,0.13636363636363635,0.0,en,1
+Canadas Conservative Party,Canadas Conservative Party,ORG,0.1,0.0,en,1
+Associated Press,Associated Press,ORG,0.0,0.0,en,1
+Roob,Roob,ORG,0.07500000000000002,0.0,en,1
+GNX,GNX,ORG,-0.07142857142857142,0.0,en,1
+Destiny's Child,Destiny's Child,ORG,0.0,0.0,en,1
+Department of Health and Human Services,Department of Health and Human Services,ORG,0.11666666666666667,0.0,en,1
+Intellectual Property,Intellectual Property,ORG,-0.02500000000000001,0.0,en,1
+Hollywood Stars Join Broadway Favorites In Vying For Trophies,Hollywood Stars Join Broadway Favorites In Vying For Trophies,ORG,0.13636363636363635,0.0,en,1
+Focus Features,Focus Features,ORG,0.0,0.0,en,1
+the Department of Homeland Security,the Department of Homeland Security,ORG,-0.25,0.0,en,1
+Royal Family at Easter Service,Royal Family at Easter Service,ORG,0.0,0.0,en,1
+un,un,ORG,0.0,0.0,en,1
+oppure scegliere,oppure scegliere,ORG,0.0,0.0,en,1
+Carney's,Carney's,ORG,0.0,0.0,en,1
+Easter Church Service,Easter Church Service,ORG,0.0,0.0,en,1
+Camilla Attend Easter Service,Camilla Attend Easter Service,ORG,0.0,0.0,en,1
+royal easter,royal easter,ORG,0.0,0.0,en,1
+HHS,HHS,ORG,0.0,0.0,en,1
+Royal Family's Easter Service,Royal Family's Easter Service,ORG,0.0,0.0,en,1
+Song Sung Blue,Song Sung Blue,ORG,0.11666666666666665,0.0,en,1
+Prince William Skip Easter Service,Prince William Skip Easter Service,ORG,0.0,0.0,en,1
+Ulta,Ulta,ORG,0.4166666666666667,0.0,en,1
+Franciss,Franciss,ORG,0.0,0.0,en,1
+Wendys,Wendys,ORG,0.0,0.0,en,1
+Trumps Department of Justice,Trumps Department of Justice,ORG,-0.2,0.0,en,1
+Matchday 29,Matchday 29,ORG,0.0,0.0,en,1
+Al-Qadisiya,Al-Qadisiya,ORG,-0.39375,0.0,en,1
+Politico,Politico,ORG,0.5,0.0,en,1
+flower mart,flower mart,ORG,0.75,0.0,en,1
+Elon Musks Department of Government Efficiency,Elon Musks Department of Government Efficiency,ORG,0.14375,0.0,en,1
+Made Visit to Cancer Hospital,Made Visit to Cancer Hospital,ORG,0.0,0.0,en,1
+Slate Auto Unveils,Slate Auto Unveils,ORG,0.0,0.0,en,1
+Instagram Stories,Instagram Stories,ORG,0.0,0.0,en,1
+Slate Auto,Slate Auto,ORG,0.5,0.0,en,1
+Hegseth Purges Defense Advisory Board,Hegseth Purges Defense Advisory Board,ORG,0.0,0.0,en,1
+IG,IG,ORG,0.3,0.0,en,1
+Reader's Digest,Reader's Digest,ORG,0.25,0.0,en,1
+Amazon Prime Video,Amazon Prime Video,ORG,0.17222222222222222,0.0,en,1
+Fergie,Fergie,ORG,0.2625,0.0,en,1
+Chef,Chef,ORG,0.225,0.0,en,1
+TheStewartofNY/,TheStewartofNY/,ORG,0.3287878787878788,0.0,en,1
+Coachella Valley Music and Arts Festival,Coachella Valley Music and Arts Festival,ORG,0.0,0.0,en,1
+Coachellas,Coachellas,ORG,0.6,0.0,en,1
+Starmer,Starmer,ORG,0.0,0.0,en,1
+Bayou Fairytale,Bayou Fairytale,ORG,0.0,0.0,en,1
+AFC Champions Elite,AFC Champions Elite,ORG,0.0,0.0,en,1
+performa,performa,ORG,0.29444444444444445,0.0,en,1
+the Bravo Clubhouse,the Bravo Clubhouse,ORG,0.0,0.0,en,1
+Al-Hil,Al-Hil,ORG,0.4000000000000001,0.0,en,1
+WWD,WWD,ORG,0.0,0.0,en,1
+Donald Trump's,Donald Trump's,ORG,0.1798611111111111,0.0,en,1
+UCLA,UCLA,ORG,0.0,0.0,en,1
+Trump Target,Trump Target,ORG,0.0,0.0,en,1
+Howell,Howell,ORG,0.0,0.0,en,1
+District Court,District Court,ORG,-0.05000000000000002,0.0,en,1
+The Washington Post vi,The Washington Post vi,ORG,0.0,0.0,en,1
+Bloomberg Intelligence,Bloomberg Intelligence,ORG,0.08333333333333334,0.0,en,1
+Bloomb,Bloomb,ORG,0.08333333333333334,0.0,en,1
+Roshn Saudi League,Roshn Saudi League,ORG,0.0,0.0,en,1
+Consequence Staff,Consequence Staff,ORG,0.16666666666666666,0.0,en,1
+Lifetimes Tour Setlist,Lifetimes Tour Setlist,ORG,0.25,0.0,en,1
+the Pentagon Nuked Its Website,the Pentagon Nuked Its Website,ORG,0.0,0.0,en,1
+a Defense Advisory Board,a Defense Advisory Board,ORG,-0.016666666666666663,0.0,en,1
+BFF,BFF,ORG,0.16666666666666666,0.0,en,1
+Gayles,Gayles,ORG,0.06666666666666667,0.0,en,1
+the AFC Champions League LIVE and FREE,the AFC Champions League LIVE and FREE,ORG,0.3181818181818182,0.0,en,1
+OneFootball,OneFootball,ORG,0.3181818181818182,0.0,en,1
+affollano la,affollano la,ORG,0.0,0.0,en,1
+Graphic Design,Graphic Design,ORG,0.2,0.0,en,1
+the S…,the S…,ORG,0.2,0.0,en,1
+Fox & Friends Hosts Battle It Out,Fox & Friends Hosts Battle It Out,ORG,0.2,0.0,en,1
+Katy Perry Space Trip Reactions,Katy Perry Space Trip Reactions,ORG,0.0,0.0,en,1
+the UEFA Champions League Quarter,the UEFA Champions League Quarter,ORG,0.0,0.0,en,1
+Mélenchon,Mélenchon,ORG,0.0,0.0,en,1
+the Academy Award,the Academy Award,ORG,0.3333333333333333,0.0,en,1
+MF Doom,MF Doom,ORG,0.25,0.0,en,1
+USB,USB,ORG,0.25,0.0,en,1
+Blake,Blake,ORG,0.0,0.0,en,1
+Ukraines,Ukraines,ORG,-0.05833333333333335,0.0,en,1
+the LA Lakers,the LA Lakers,ORG,0.0,0.0,en,1
+Amy Schumer &,Amy Schumer &,ORG,0.0,0.0,en,1
+Amy Schumer Troll,Amy Schumer Troll,ORG,0.0,0.0,en,1
+Homan,Homan,ORG,0.0,0.0,en,1
 Blue Origin Space Suit,Blue Origin Space Suit,ORG,0.25,0.0,en,1
+OKX,OKX,ORG,0.13636363636363635,0.0,en,1
 Bryan Cranston & ‘,Bryan Cranston & ‘,ORG,0.0,0.0,en,1
 Princeton,Princeton,ORG,0.0,0.0,en,1
+Jeani,Jeani,ORG,0.0,0.0,en,1
+ICYMI,ICYMI,ORG,0.3,0.0,en,1
+Disney,Disney,ORG,0.13636363636363635,0.0,en,1
+Twitter,Twitter,ORG,0.1,0.0,en,1
+TCU Hailey Van Lith's,TCU Hailey Van Lith's,ORG,-0.0006313131313131354,0.0,en,1
+More Now on PlayStation Plus,More Now on PlayStation Plus,ORG,0.25,0.0,en,1
+Fox & Friends Co-Hosts,Fox & Friends Co-Hosts,ORG,0.35,0.0,en,1
+Home Growns,Home Growns,ORG,0.35,0.0,en,1
+Fox News co-,Fox News co-,ORG,0.0880952380952381,0.0,en,1
+the Dallas Wings,the Dallas Wings,ORG,0.008333333333333331,0.0,en,1
+WNBA Draft,WNBA Draft,ORG,0.008333333333333331,0.0,en,1
+the Epstein Network,the Epstein Network,ORG,0.1,0.0,en,1
+the Blue Origins,the Blue Origins,ORG,0.0,0.0,en,1
+Sean Diddy Combs,Sean Diddy Combs,ORG,0.1,0.0,en,1
+ATS,ATS,ORG,-9.25185853854297e-18,0.0,en,1
+Blue Origin Space Trip: Gayle King,Blue Origin Space Trip: Gayle King,ORG,0.225,0.0,en,1
+Broadway Box Office,Broadway Box Office,ORG,0.5,0.0,en,1
+Broadway‘s,Broadway‘s,ORG,0.4041666666666667,0.0,en,1
+NC State,NC State,ORG,0.008333333333333331,0.0,en,1
+"Wings, Hailey Van Lith","Wings, Hailey Van Lith",ORG,0.0,0.0,en,1
 CoinDesk,CoinDesk,ORG,0.0,0.0,en,1
 American Bitcoin,American Bitcoin,ORG,0.0,0.0,en,1
 Hut 8,Hut 8,ORG,0.0,0.0,en,1
+the 'Deadpool & Wolverine',the 'Deadpool & Wolverine',ORG,0.0,0.0,en,1
+Oscar de la Renta,Oscar de la Renta,ORG,0.0,0.0,en,1
+Instagram Katy Perry,Instagram Katy Perry,ORG,-0.07777777777777779,0.0,en,1
+The Mandalorian &amp,The Mandalorian &amp,ORG,0.0,0.0,en,1
+kottke.org,kottke.org,ORG,0.0,0.0,en,1
+The Mandalorin & Grogu,The Mandalorin & Grogu,ORG,0.21212121212121213,0.0,en,1
+The Mandalorin &amp,The Mandalorin &amp,ORG,0.0,0.0,en,1
+The Mandalorian & Grogu,The Mandalorian & Grogu,ORG,0.0625,0.0,en,1
+Deadpool &amp,Deadpool &amp,ORG,0.2681818181818182,0.0,en,1
+Royals Family,Royals Family,ORG,-0.19999999999999998,0.0,en,1
+Digital Journal,Digital Journal,ORG,0.12878787878787878,0.0,en,1
+HHS Inspector,HHS Inspector,ORG,0.05000000000000002,0.0,en,1
+FBI,FBI,ORG,0.05000000000000002,0.0,en,1
+sci-fi,sci-fi,ORG,0.0,0.0,en,1
+"Associated Press
+ONTARIO","Associated Press
+ONTARIO",ORG,-0.16666666666666666,0.0,en,1
+Katy Perry Lyrics,Katy Perry Lyrics,ORG,0.0,0.0,en,1
+Miller,Miller,ORG,0.0,0.0,en,1
+Dominari Holdings,Dominari Holdings,ORG,0.08295454545454545,0.0,en,1
+SNL,SNL,ORG,0.008333333333333331,0.0,en,1
+Affleck,Affleck,ORG,0.0,0.0,en,1
+Bennifer,Bennifer,ORG,0.0,0.0,en,1
 CBS Morning,CBS Morning,ORG,-0.1,0.0,en,1
 Greene,Greene,ORG,0.0,0.0,en,1
 bil,bil,ORG,0.0,0.0,en,1
+Gayle King & More React After Return to,Gayle King & More React After Return to,ORG,0.25,0.0,en,1
+Blue Origin Launch,Blue Origin Launch,ORG,0.0,0.0,en,1
+Khloe Kardashian,Khloe Kardashian,ORG,0.0,0.0,en,1
 TODAY NETWORK,TODAY NETWORK,ORG,0.04545454545454545,0.0,en,1
 "Imagn Images
 ","Imagn Images
@@ -591,172 +748,39 @@ The Telegraph,The Telegraph,ORG,0.25,0.0,en,1
 Searchlight Pictures,Searchlight Pictures,ORG,0.019999999999999997,0.0,en,1
 Blue Origin Space Trip Amid Criticism,Blue Origin Space Trip Amid Criticism,ORG,0.0,0.0,en,1
 Wendy,Wendy,ORG,0.0,0.0,en,1
-OKX,OKX,ORG,0.13636363636363635,0.0,en,1
-Homan,Homan,ORG,0.0,0.0,en,1
-Affleck,Affleck,ORG,0.0,0.0,en,1
-Fox & Friends Hosts Battle It Out,Fox & Friends Hosts Battle It Out,ORG,0.2,0.0,en,1
-Fox News co-,Fox News co-,ORG,0.0880952380952381,0.0,en,1
-Twitter,Twitter,ORG,0.1,0.0,en,1
-the Epstein Network,the Epstein Network,ORG,0.1,0.0,en,1
-Sean Diddy Combs,Sean Diddy Combs,ORG,0.1,0.0,en,1
-ATS,ATS,ORG,-9.25185853854297e-18,0.0,en,1
-Blue Origin Space Trip: Gayle King,Blue Origin Space Trip: Gayle King,ORG,0.225,0.0,en,1
-Broadway Box Office,Broadway Box Office,ORG,0.5,0.0,en,1
-Broadway‘s,Broadway‘s,ORG,0.4041666666666667,0.0,en,1
-the Blue Origins,the Blue Origins,ORG,0.0,0.0,en,1
-ICYMI,ICYMI,ORG,0.3,0.0,en,1
-the LA Lakers,the LA Lakers,ORG,0.0,0.0,en,1
-Jeani,Jeani,ORG,0.0,0.0,en,1
-Katy Perry Space Trip Reactions,Katy Perry Space Trip Reactions,ORG,0.0,0.0,en,1
-the UEFA Champions League Quarter,the UEFA Champions League Quarter,ORG,0.0,0.0,en,1
-MF Doom,MF Doom,ORG,0.25,0.0,en,1
-USB,USB,ORG,0.25,0.0,en,1
-Blake,Blake,ORG,0.0,0.0,en,1
-Bennifer,Bennifer,ORG,0.0,0.0,en,1
-SNL,SNL,ORG,0.008333333333333331,0.0,en,1
-NIST,NIST,ORG,0.5,0.0,en,1
-Easter Church Service,Easter Church Service,ORG,0.0,0.0,en,1
-royal easter,royal easter,ORG,0.0,0.0,en,1
-Royal Family at Easter Service,Royal Family at Easter Service,ORG,0.0,0.0,en,1
-Royal Family's Easter Service,Royal Family's Easter Service,ORG,0.0,0.0,en,1
-Prince William Skip Easter Service,Prince William Skip Easter Service,ORG,0.0,0.0,en,1
-Ulta,Ulta,ORG,0.4166666666666667,0.0,en,1
-Franciss,Franciss,ORG,0.0,0.0,en,1
-Wendys,Wendys,ORG,0.0,0.0,en,1
-Matchday 29,Matchday 29,ORG,0.0,0.0,en,1
-Al-Qadisiya,Al-Qadisiya,ORG,-0.39375,0.0,en,1
-Song Sung Blue,Song Sung Blue,ORG,0.11666666666666665,0.0,en,1
-Focus Features,Focus Features,ORG,0.0,0.0,en,1
-New York Drama League Award Nominees,New York Drama League Award Nominees,ORG,0.13636363636363635,0.0,en,1
-Hollywood Stars Join Broadway Favorites In Vying For Trophies,Hollywood Stars Join Broadway Favorites In Vying For Trophies,ORG,0.13636363636363635,0.0,en,1
-Koundé,Koundé,ORG,0.25,0.0,en,1
-Newsday,Newsday,ORG,0.0,0.0,en,1
-HuffPost,HuffPost,ORG,0.0,0.0,en,1
-Fox &) Friends,Fox &) Friends,ORG,0.0,0.0,en,1
-Camilla Attend Easter Service,Camilla Attend Easter Service,ORG,0.0,0.0,en,1
-Carney's,Carney's,ORG,0.0,0.0,en,1
-Dominari Holdings,Dominari Holdings,ORG,0.08295454545454545,0.0,en,1
-oppure scegliere,oppure scegliere,ORG,0.0,0.0,en,1
-The Mandalorian &amp,The Mandalorian &amp,ORG,0.0,0.0,en,1
-kottke.org,kottke.org,ORG,0.0,0.0,en,1
-The Mandalorin & Grogu,The Mandalorin & Grogu,ORG,0.21212121212121213,0.0,en,1
-The Mandalorin &amp,The Mandalorin &amp,ORG,0.0,0.0,en,1
-The Mandalorian & Grogu,The Mandalorian & Grogu,ORG,0.0625,0.0,en,1
-the 'Deadpool & Wolverine',the 'Deadpool & Wolverine',ORG,0.0,0.0,en,1
-Deadpool &amp,Deadpool &amp,ORG,0.2681818181818182,0.0,en,1
-Digital Journal,Digital Journal,ORG,0.12878787878787878,0.0,en,1
-sci-fi,sci-fi,ORG,0.0,0.0,en,1
-"Associated Press
-ONTARIO","Associated Press
-ONTARIO",ORG,-0.16666666666666666,0.0,en,1
-Katy Perry Lyrics,Katy Perry Lyrics,ORG,0.0,0.0,en,1
-Miller,Miller,ORG,0.0,0.0,en,1
-Disney,Disney,ORG,0.13636363636363635,0.0,en,1
-the S…,the S…,ORG,0.2,0.0,en,1
-Graphic Design,Graphic Design,ORG,0.2,0.0,en,1
-affollano la,affollano la,ORG,0.0,0.0,en,1
-un,un,ORG,0.0,0.0,en,1
-Home Growns,Home Growns,ORG,0.35,0.0,en,1
-Fox & Friends Co-Hosts,Fox & Friends Co-Hosts,ORG,0.35,0.0,en,1
-More Now on PlayStation Plus,More Now on PlayStation Plus,ORG,0.25,0.0,en,1
-The White House,The White House,ORG,0.2,0.0,en,1
-Love Affair,Love Affair,ORG,0.5,0.0,en,1
-Panthers,Panthers,ORG,0.5,0.0,en,1
-Albert Museum,Albert Museum,ORG,0.0,0.0,en,1
-Tiffany,Tiffany,ORG,0.1,0.0,en,1
-Natural Resources Committee,Natural Resources Committee,ORG,0.1,0.0,en,1
-house Natural Resources Committee,house Natural Resources Committee,ORG,0.1,0.0,en,1
-Fence Post,Fence Post,ORG,0.0,0.0,en,1
-Paris Soccer Game Was,Paris Soccer Game Was,ORG,-0.2,0.0,en,1
-the Superhumans Center,the Superhumans Center,ORG,-0.05,0.0,en,1
-the Sun's Life Stories,the Sun's Life Stories,ORG,0.0,0.0,en,1
-Tiffany Trump,Tiffany Trump,ORG,0.13636363636363635,0.0,en,1
-Aliyah Boston,Aliyah Boston,ORG,0.0,0.0,en,1
-Mad Men,Mad Men,ORG,0.06875,0.0,en,1
-Hollywoods,Hollywoods,ORG,0.0,0.0,en,1
-Rotten Tomatoes,Rotten Tomatoes,ORG,0.225,0.0,en,1
-New Royal Cover-Up —,New Royal Cover-Up —,ORG,0.06818181818181818,0.0,en,1
-Hearst Magazines,Hearst Magazines,ORG,0.0,0.0,en,1
-William Soccer Celebration Goes Viral,William Soccer Celebration Goes Viral,ORG,0.0,0.0,en,1
-unprecede,unprecede,ORG,0.0,0.0,en,1
-TCU Hailey Van Lith's,TCU Hailey Van Lith's,ORG,-0.0006313131313131354,0.0,en,1
-the Liberal Party,the Liberal Party,ORG,0.12666666666666665,0.0,en,1
-fed,fed,ORG,0.0,0.0,en,1
-the Conservative Official Opposition,the Conservative Official Opposition,ORG,0.13636363636363635,0.0,en,1
-Team of,Team of,ORG,0.0,0.0,en,1
-Fortune,Fortune,ORG,0.0,0.0,en,1
-+2546,+2546,ORG,-0.13333333333333333,0.0,en,1
-PAUL ELLIS/AFP,PAUL ELLIS/AFP,ORG,0.0,0.0,en,1
-"Getty Images
-
-","Getty Images
-
-",ORG,0.0,0.0,en,1
-Us Weekly,Us Weekly,ORG,0.06818181818181818,0.0,en,1
-"Google
-","Google
-",ORG,0.016666666666666666,0.0,en,1
-Reddit,Reddit,ORG,0.0,0.0,en,1
-NPR,NPR,ORG,0.125,0.0,en,1
-the UEFA Champi,the UEFA Champi,ORG,0.125,0.0,en,1
-CDU,CDU,ORG,0.0,0.0,en,1
-Royal Family's,Royal Family's,ORG,-0.07500000000000001,0.0,en,1
-SAS,SAS,ORG,-0.07500000000000001,0.0,en,1
-Brita,Brita,ORG,-0.35833333333333334,0.0,en,1
-Prince William & Kate,Prince William & Kate,ORG,0.0,0.0,en,1
-Yahoo,Yahoo,ORG,0.0,0.0,en,1
-Skrillex,Skrillex,ORG,0.5,0.0,en,1
-Harvey,Harvey,ORG,-0.09090909090909091,0.0,en,1
-Home,Home,ORG,-0.20454545454545456,0.0,en,1
-HHS Inspector,HHS Inspector,ORG,0.05000000000000002,0.0,en,1
-Instagram Katy Perry,Instagram Katy Perry,ORG,-0.07777777777777779,0.0,en,1
-Oscar de la Renta,Oscar de la Renta,ORG,0.0,0.0,en,1
-Khloe Kardashian,Khloe Kardashian,ORG,0.0,0.0,en,1
-Blue Origin Launch,Blue Origin Launch,ORG,0.0,0.0,en,1
-Gayle King & More React After Return to,Gayle King & More React After Return to,ORG,0.25,0.0,en,1
-Royals Family,Royals Family,ORG,-0.19999999999999998,0.0,en,1
-Amy Schumer Troll,Amy Schumer Troll,ORG,0.0,0.0,en,1
-Amy Schumer &,Amy Schumer &,ORG,0.0,0.0,en,1
-Ukraines,Ukraines,ORG,-0.05833333333333335,0.0,en,1
-the Academy Award,the Academy Award,ORG,0.3333333333333333,0.0,en,1
-Mélenchon,Mélenchon,ORG,0.0,0.0,en,1
-"Wings, Hailey Van Lith","Wings, Hailey Van Lith",ORG,0.0,0.0,en,1
-NC State,NC State,ORG,0.008333333333333331,0.0,en,1
-WNBA Draft,WNBA Draft,ORG,0.008333333333333331,0.0,en,1
-the Dallas Wings,the Dallas Wings,ORG,0.008333333333333331,0.0,en,1
-Free Ride,Free Ride,ORG,0.2,0.0,en,1
-FBI,FBI,ORG,0.05000000000000002,0.0,en,1
-HHS,HHS,ORG,0.0,0.0,en,1
-Trumps Department of Justice,Trumps Department of Justice,ORG,-0.2,0.0,en,1
 Marvel Studios',Marvel Studios',ORG,0.2625,0.0,en,1
-Harrys,Harrys,ORG,0.24285714285714285,0.0,en,1
-Palace,Palace,ORG,0.0,0.0,en,1
-the Du… Skip,the Du… Skip,ORG,0.0,0.0,en,1
-the International Space Station,the International Space Station,ORG,0.0,0.0,en,1
-the Bord Gáis Energy,the Bord Gáis Energy,ORG,0.0,0.0,en,1
-Firesign Theater,Firesign Theater,ORG,-0.1,0.0,en,1
-Coachella Performance,Coachella Performance,ORG,0.3416666666666666,0.0,en,1
-Coachella Valley Music and Arts Festival,Coachella Valley Music and Arts Festival,ORG,0.0,0.0,en,1
-Judicial Watch,Judicial Watch,ORG,-0.2,0.0,en,1
-IG,IG,ORG,0.3,0.0,en,1
-Instagram Stories,Instagram Stories,ORG,0.0,0.0,en,1
-Consequence Staff,Consequence Staff,ORG,0.16666666666666666,0.0,en,1
-Roshn Saudi League,Roshn Saudi League,ORG,0.0,0.0,en,1
-Roob,Roob,ORG,0.07500000000000002,0.0,en,1
-Judicial Watch's,Judicial Watch's,ORG,0.0,0.0,en,1
-Epstein,Epstein,ORG,0.0,0.0,en,1
-WTC,WTC,ORG,0.0,0.0,en,1
-Canadas Conservative Party,Canadas Conservative Party,ORG,0.1,0.0,en,1
-Selena Gomez,Selena Gomez,ORG,0.125,0.0,en,1
-Latinas Set New Record,Latinas Set New Record,ORG,0.19242424242424244,0.0,en,1
-BBC Interview,BBC Interview,ORG,0.0,0.0,en,1
+Be Silent,Be Silent,ORG,0.0,0.0,en,1
+Paris Soccer Game Was,Paris Soccer Game Was,ORG,-0.2,0.0,en,1
+Fox News Legal,Fox News Legal,ORG,-0.13333333333333333,0.0,en,1
+QEII,QEII,ORG,0.08333333333333334,0.0,en,1
+the Tension With Social Media Jab,the Tension With Social Media Jab,ORG,-0.13888888888888887,0.0,en,1
+St Mary Magdalene Church,St Mary Magdalene Church,ORG,0.0,0.0,en,1
+Royal Family ',Royal Family ',ORG,0.0,0.0,en,1
+unspunThe Times Watch,unspunThe Times Watch,ORG,0.3055555555555556,0.0,en,1
+Zion Hill Baptist Church,Zion Hill Baptist Church,ORG,0.0,0.0,en,1
+Ossoff,Ossoff,ORG,0.0,0.0,en,1
+Frien,Frien,ORG,0.0,0.0,en,1
+Notre Dame,Notre Dame,ORG,0.0,0.0,en,1
+Corkery/NY Daily News,Corkery/NY Daily News,ORG,0.05,0.0,en,1
+IRA,IRA,ORG,0.13636363636363635,0.0,en,1
+Sa,Sa,ORG,0.0,0.0,en,1
+New York Times,New York Times,ORG,0.11818181818181818,0.0,en,1
+Fox & Friends Co-Host Appears to Agree Trump Administration Is ‘Breaking the,Fox & Friends Co-Host Appears to Agree Trump Administration Is ‘Breaking the,ORG,0.0,0.0,en,1
+Fox & Friends co-,Fox & Friends co-,ORG,0.5,0.0,en,1
+Al Nassr‘s,Al Nassr‘s,ORG,0.0,0.0,en,1
+ITV,ITV,ORG,0.0,0.0,en,1
+Russell Brand Makes First Court Appearance in Criminal Rape Case,Russell Brand Makes First Court Appearance in Criminal Rape Case,ORG,-0.07500000000000001,0.0,en,1
+xAI,xAI,ORG,0.0,0.0,en,1
+Multive,Multive,ORG,0.2,0.0,en,1
+Mad Men,Mad Men,ORG,0.06875,0.0,en,1
 Amal,Amal,ORG,0.0,0.0,en,1
 The United Kingdoms Prince Harry,The United Kingdoms Prince Harry,ORG,0.2,0.0,en,1
+Aliyah Boston,Aliyah Boston,ORG,0.0,0.0,en,1
 SS,SS,ORG,0.11666666666666665,0.0,en,1
 D.C. Newsroom,D.C. Newsroom,ORG,-0.03272727272727274,0.0,en,1
 Abu Dhabi Power Move,Abu Dhabi Power Move,ORG,0.0,0.0,en,1
-Multive,Multive,ORG,0.2,0.0,en,1
 the British Royal Family,the British Royal Family,ORG,0.06666666666666667,0.0,en,1
+The Daily Sign,The Daily Sign,ORG,0.2863636363636364,0.0,en,1
 Playground Karen Calls,Playground Karen Calls,ORG,-0.17333333333333334,0.0,en,1
 Jackson - WPA Pool/Getty,Jackson - WPA Pool/Getty,ORG,0.0,0.0,en,1
 the Home Office,the Home Office,ORG,0.3333333333333333,0.0,en,1
@@ -764,40 +788,41 @@ Vanessa Kirby & More,Vanessa Kirby & More,ORG,0.3181818181818182,0.0,en,1
 Thunderbolts,Thunderbolts,ORG,0.25,0.0,en,1
 the Democrat Party,the Democrat Party,ORG,0.13636363636363635,0.0,en,1
 Daily Caller News Foundation co-,Daily Caller News Foundation co-,ORG,0.0,0.0,en,1
-The Daily Sign,The Daily Sign,ORG,0.2863636363636364,0.0,en,1
-Russell Brand Makes First Court Appearance in Criminal Rape Case,Russell Brand Makes First Court Appearance in Criminal Rape Case,ORG,-0.07500000000000001,0.0,en,1
-Pacific Islander Heritage Month,Pacific Islander Heritage Month,ORG,0.125,0.0,en,1
-Kick Off New Wrestling Company,Kick Off New Wrestling Company,ORG,0.13636363636363635,0.0,en,1
-ITV,ITV,ORG,0.0,0.0,en,1
-the Met Gala 15,the Met Gala 15,ORG,0.1,0.0,en,1
-RadarOnline.com,RadarOnline.com,ORG,-0.25,0.0,en,1
-Barstool Sports,Barstool Sports,ORG,5.551115123125783e-18,0.0,en,1
-Cato Institute,Cato Institute,ORG,0.10000000000000002,0.0,en,1
-The D.C. Brief,The D.C. Brief,ORG,0.0,0.0,en,1
-Asian Champions League Elite,Asian Champions League Elite,ORG,0.0,0.0,en,1
-AFC Champions League Elite,AFC Champions League Elite,ORG,0.0,0.0,en,1
-Defense Sec,Defense Sec,ORG,-0.05,0.0,en,1
-High Court,High Court,ORG,0.16,0.0,en,1
-Britains High Court,Britains High Court,ORG,0.16,0.0,en,1
-Julien’s Auctions,Julien’s Auctions,ORG,0.35,0.0,en,1
-Kimmel,Kimmel,ORG,0.55,0.0,en,1
-Russell Brand From ‘Political and Absurd,Russell Brand From ‘Political and Absurd,ORG,-0.25,0.0,en,1
-Harvard,Harvard,ORG,0.16666666666666666,0.0,en,1
-Yale Law School,Yale Law School,ORG,0.16666666666666666,0.0,en,1
-U.K. Security,U.K. Security,ORG,-0.3,0.0,en,1
-The Court of… Prince Harry,The Court of… Prince Harry,ORG,0.0,0.0,en,1
-Thor 4,Thor 4,ORG,0.0,0.0,en,1
-Notre Dame,Notre Dame,ORG,0.0,0.0,en,1
-QEII,QEII,ORG,0.08333333333333334,0.0,en,1
-Associated Press,Associated Press,ORG,0.0,0.0,en,1
+Elon Musk’s Grok AI,Elon Musk’s Grok AI,ORG,0.0,0.0,en,1
+Bellingcat,Bellingcat,ORG,0.0,0.0,en,1
+fe,fe,ORG,0.0,0.0,en,1
+UK News,UK News,ORG,0.2333333333333333,0.0,en,1
+the Sun's Life Stories,the Sun's Life Stories,ORG,0.0,0.0,en,1
+Selena Gomez,Selena Gomez,ORG,0.125,0.0,en,1
+CNBC,CNBC,ORG,0.06818181818181818,0.0,en,1
+the Superhumans Center,the Superhumans Center,ORG,-0.05,0.0,en,1
+The House Agriculture Committee,The House Agriculture Committee,ORG,0.31666666666666665,0.0,en,1
+AMYGOODMAN,AMYGOODMAN,ORG,0.020833333333333332,0.0,en,1
+US News,US News,ORG,0.2333333333333333,0.0,en,1
+Canada News,Canada News,ORG,0.2333333333333333,0.0,en,1
+Combs,Combs,ORG,0.0,0.0,en,1
+International Breaking News Events,International Breaking News Events,ORG,0.2333333333333333,0.0,en,1
+Latest News Updates,Latest News Updates,ORG,0.2333333333333333,0.0,en,1
+The Economic Times,The Economic Times,ORG,0.2333333333333333,0.0,en,1
+Daily International News,Daily International News,ORG,0.06666666666666667,0.0,en,1
+"marcusmaximus
+Vladi","marcusmaximus
+Vladi",ORG,-0.6,0.0,en,1
+Witkoff,Witkoff,ORG,0.0,0.0,en,1
+Secret Service,Secret Service,ORG,-0.03333333333333333,0.0,en,1
+Nakamoto Holdings,Nakamoto Holdings,ORG,-0.2,0.0,en,1
+Sean 'Diddy' Combs,Sean 'Diddy' Combs,ORG,0.0,0.0,en,1
+Ittihad,Ittihad,ORG,0.0,0.0,en,1
+Marvel's,Marvel's,ORG,0.2,0.0,en,1
 Doomsday Star,Doomsday Star,ORG,0.4,0.0,en,1
+Sells Catalog For,Sells Catalog For,ORG,0.0,0.0,en,1
 The Daily Caller,The Daily Caller,ORG,0.0,0.0,en,1
 MTG,MTG,ORG,0.0,0.0,en,1
 Extraction,Extraction,ORG,0.06818181818181818,0.0,en,1
 Calley,Calley,ORG,0.0,0.0,en,1
 Health,Health,ORG,0.0,0.0,en,1
-Marvel's,Marvel's,ORG,0.2,0.0,en,1
 Marine Le Pen's,Marine Le Pen's,ORG,0.009999999999999986,0.0,en,1
+The U.S. Sun,The U.S. Sun,ORG,0.0,0.0,en,1
 Georgia Senate,Georgia Senate,ORG,0.0,0.0,en,1
 "InterMirifica.net
 
@@ -807,87 +832,74 @@ CNA Newsroom",ORG,0.0,0.0,en,1
 JVC,JVC,ORG,0.0,0.0,en,1
 IFOP,IFOP,ORG,-0.32499999999999996,0.0,en,1
 Dabi,Dabi,ORG,-0.16666666666666666,0.0,en,1
+Tiffany Trump,Tiffany Trump,ORG,0.13636363636363635,0.0,en,1
 Department of Homeland Security,Department of Homeland Security,ORG,0.0,0.0,en,1
-The U.S. Sun,The U.S. Sun,ORG,0.0,0.0,en,1
-Sean 'Diddy' Combs,Sean 'Diddy' Combs,ORG,0.0,0.0,en,1
-Combs,Combs,ORG,0.0,0.0,en,1
-Nakamoto Holdings,Nakamoto Holdings,ORG,-0.2,0.0,en,1
-Sells Catalog For,Sells Catalog For,ORG,0.0,0.0,en,1
-Ittihad,Ittihad,ORG,0.0,0.0,en,1
-the Tension With Social Media Jab,the Tension With Social Media Jab,ORG,-0.13888888888888887,0.0,en,1
-Bellingcat,Bellingcat,ORG,0.0,0.0,en,1
-St Mary Magdalene Church,St Mary Magdalene Church,ORG,0.0,0.0,en,1
-Royal Family ',Royal Family ',ORG,0.0,0.0,en,1
-unspunThe Times Watch,unspunThe Times Watch,ORG,0.3055555555555556,0.0,en,1
-Zion Hill Baptist Church,Zion Hill Baptist Church,ORG,0.0,0.0,en,1
-Ossoff,Ossoff,ORG,0.0,0.0,en,1
-Fox News Legal,Fox News Legal,ORG,-0.13333333333333333,0.0,en,1
-Frien,Frien,ORG,0.0,0.0,en,1
-Corkery/NY Daily News,Corkery/NY Daily News,ORG,0.05,0.0,en,1
-IRA,IRA,ORG,0.13636363636363635,0.0,en,1
-Sa,Sa,ORG,0.0,0.0,en,1
-New York Times,New York Times,ORG,0.11818181818181818,0.0,en,1
-Fox & Friends Co-Host Appears to Agree Trump Administration Is ‘Breaking the,Fox & Friends Co-Host Appears to Agree Trump Administration Is ‘Breaking the,ORG,0.0,0.0,en,1
-Fox & Friends co-,Fox & Friends co-,ORG,0.5,0.0,en,1
-Friends co-host,Friends co-host,ORG,0.25,0.0,en,1
-Al Nassr‘s,Al Nassr‘s,ORG,0.0,0.0,en,1
-Elon Musk’s Grok AI,Elon Musk’s Grok AI,ORG,0.0,0.0,en,1
-xAI,xAI,ORG,0.0,0.0,en,1
-Portland Place,Portland Place,ORG,0.0,0.0,en,1
-SANAA,SANAA,ORG,0.0,0.0,en,1
-Lakers,Lakers,ORG,0.0,0.0,en,1
-BFF,BFF,ORG,0.16666666666666666,0.0,en,1
-the AFC Champions League LIVE and FREE,the AFC Champions League LIVE and FREE,ORG,0.3181818181818182,0.0,en,1
-OneFootball,OneFootball,ORG,0.3181818181818182,0.0,en,1
-Al-Hil,Al-Hil,ORG,0.4000000000000001,0.0,en,1
-Chef,Chef,ORG,0.225,0.0,en,1
-the Bravo Clubhouse,the Bravo Clubhouse,ORG,0.0,0.0,en,1
-Slate Auto Unveils,Slate Auto Unveils,ORG,0.0,0.0,en,1
-Slate Auto,Slate Auto,ORG,0.5,0.0,en,1
-Hegseth Purges Defense Advisory Board,Hegseth Purges Defense Advisory Board,ORG,0.0,0.0,en,1
-Reader's Digest,Reader's Digest,ORG,0.25,0.0,en,1
-Amazon Prime Video,Amazon Prime Video,ORG,0.17222222222222222,0.0,en,1
-Made Visit to Cancer Hospital,Made Visit to Cancer Hospital,ORG,0.0,0.0,en,1
-Fergie,Fergie,ORG,0.2625,0.0,en,1
-TheStewartofNY/,TheStewartofNY/,ORG,0.3287878787878788,0.0,en,1
-Coachellas,Coachellas,ORG,0.6,0.0,en,1
-Starmer,Starmer,ORG,0.0,0.0,en,1
-Bayou Fairytale,Bayou Fairytale,ORG,0.0,0.0,en,1
-AFC Champions Elite,AFC Champions Elite,ORG,0.0,0.0,en,1
-Gayles,Gayles,ORG,0.06666666666666667,0.0,en,1
-a Defense Advisory Board,a Defense Advisory Board,ORG,-0.016666666666666663,0.0,en,1
-International Workers',International Workers',ORG,0.0,0.0,en,1
-the Pentagon Nuked Its Website,the Pentagon Nuked Its Website,ORG,0.0,0.0,en,1
-GNX,GNX,ORG,-0.07142857142857142,0.0,en,1
-Destiny's Child,Destiny's Child,ORG,0.0,0.0,en,1
-Department of Health and Human Services,Department of Health and Human Services,ORG,0.11666666666666667,0.0,en,1
-Intellectual Property,Intellectual Property,ORG,-0.02500000000000001,0.0,en,1
-Politico,Politico,ORG,0.5,0.0,en,1
-the Department of Homeland Security,the Department of Homeland Security,ORG,-0.25,0.0,en,1
-flower mart,flower mart,ORG,0.75,0.0,en,1
-WWD,WWD,ORG,0.0,0.0,en,1
-UCLA,UCLA,ORG,0.0,0.0,en,1
-Trump Target,Trump Target,ORG,0.0,0.0,en,1
-Howell,Howell,ORG,0.0,0.0,en,1
-District Court,District Court,ORG,-0.05000000000000002,0.0,en,1
-The Washington Post vi,The Washington Post vi,ORG,0.0,0.0,en,1
-Bloomberg Intelligence,Bloomberg Intelligence,ORG,0.08333333333333334,0.0,en,1
-Bloomb,Bloomb,ORG,0.08333333333333334,0.0,en,1
-Donald Trump's,Donald Trump's,ORG,0.1798611111111111,0.0,en,1
-Lifetimes Tour Setlist,Lifetimes Tour Setlist,ORG,0.25,0.0,en,1
-performa,performa,ORG,0.29444444444444445,0.0,en,1
-Elon Musks Department of Government Efficiency,Elon Musks Department of Government Efficiency,ORG,0.14375,0.0,en,1
-Be Silent,Be Silent,ORG,0.0,0.0,en,1
-fe,fe,ORG,0.0,0.0,en,1
+BBC Interview,BBC Interview,ORG,0.0,0.0,en,1
+Pacific Islander Heritage Month,Pacific Islander Heritage Month,ORG,0.125,0.0,en,1
+Latinas Set New Record,Latinas Set New Record,ORG,0.19242424242424244,0.0,en,1
+Chloe,Chloe,ORG,0.0,0.0,en,1
+CNA Newsroom,CNA Newsroom,ORG,0.0,0.0,en,1
+Cologne,Cologne,ORG,0.0,0.0,en,1
+Technolords,Technolords,ORG,0.0,0.0,en,1
+Marine One,Marine One,ORG,0.25,0.0,en,1
+Green Ralph Lauren Tweed Jacket,Green Ralph Lauren Tweed Jacket,ORG,-0.2,0.0,en,1
 Chloé Boots for Forest Tour,Chloé Boots for Forest Tour,ORG,-0.2,0.0,en,1
 Ralph Lauren Collection,Ralph Lauren Collection,ORG,0.0,0.0,en,1
-Chloe,Chloe,ORG,0.0,0.0,en,1
 the Ardura Community Forest,the Ardura Community Forest,ORG,0.0,0.0,en,1
+UFC,UFC,ORG,-0.015656565656565646,0.0,en,1
+Palace,Palace,ORG,0.0,0.0,en,1
+Harrys,Harrys,ORG,0.24285714285714285,0.0,en,1
 Di Bonaventura Pictures,Di Bonaventura Pictures,ORG,0.25,0.0,en,1
+Home,Home,ORG,-0.20454545454545456,0.0,en,1
+Harvey,Harvey,ORG,-0.09090909090909091,0.0,en,1
+Skrillex,Skrillex,ORG,0.5,0.0,en,1
 AFC Champions Cup,AFC Champions Cup,ORG,0.0,0.0,en,1
+the University of St Andrews,the University of St Andrews,ORG,0.0,0.0,en,1
+Lykos,Lykos,ORG,0.05357142857142856,0.0,en,1
+Kick Off New Wrestling Company,Kick Off New Wrestling Company,ORG,0.13636363636363635,0.0,en,1
+US Capitol,US Capitol,ORG,0.2833333333333333,0.0,en,1
+Coachella Performance,Coachella Performance,ORG,0.3416666666666666,0.0,en,1
+Firesign Theater,Firesign Theater,ORG,-0.1,0.0,en,1
+Marine Le Pens,Marine Le Pens,ORG,0.3,0.0,en,1
+LGBTQ,LGBTQ,ORG,0.028571428571428574,0.0,en,1
+the Bord Gáis Energy,the Bord Gáis Energy,ORG,0.0,0.0,en,1
+Ditch Buckingham Palace,Ditch Buckingham Palace,ORG,-1.0,0.0,en,1
+Allen,Allen,ORG,0.0,0.0,en,1
+D-N.J.,D-N.J.,ORG,0.0,0.0,en,1
+the Du… Skip,the Du… Skip,ORG,0.0,0.0,en,1
+Countess/Getty,Countess/Getty,ORG,0.0,0.0,en,1
+Megyn Kelly Reveals Worldwide Premiere,Megyn Kelly Reveals Worldwide Premiere,ORG,0.15,0.0,en,1
+Elon Musk Using Private Data to Build List of People to Deport,Elon Musk Using Private Data to Build List of People to Deport,ORG,0.0,0.0,,1
+the International Space Station,the International Space Station,ORG,0.0,0.0,en,1
+Musk's De… Elon Musk,Musk's De… Elon Musk,ORG,0.03333333333333333,0.0,,1
+Megyn,Megyn,ORG,0.15,0.0,en,1
+Space Trip Criticism,Space Trip Criticism,ORG,0.0,0.0,en,1
 AI World,AI World,ORG,0.0,0.0,en,1
 Wall Street Journal,Wall Street Journal,ORG,0.16666666666666666,0.0,en,1
 Po,Po,ORG,-0.1,0.0,en,1
+Russell Brand From ‘Political and Absurd,Russell Brand From ‘Political and Absurd,ORG,-0.25,0.0,en,1
+AFC Champions League Elite,AFC Champions League Elite,ORG,0.0,0.0,en,1
+Defense Sec,Defense Sec,ORG,-0.05,0.0,en,1
+High Court,High Court,ORG,0.16,0.0,en,1
+Britains High Court,Britains High Court,ORG,0.16,0.0,en,1
+Elon Musk’s Future After Leaving,Elon Musk’s Future After Leaving,ORG,0.0,0.0,en,1
+Kimmel,Kimmel,ORG,0.55,0.0,en,1
+Team of,Team of,ORG,0.0,0.0,en,1
+Harvard,Harvard,ORG,0.16666666666666666,0.0,en,1
+Yahoo,Yahoo,ORG,0.0,0.0,en,1
+Yale Law School,Yale Law School,ORG,0.16666666666666666,0.0,en,1
+U.K. Security,U.K. Security,ORG,-0.3,0.0,en,1
+The Court of… Prince Harry,The Court of… Prince Harry,ORG,0.0,0.0,en,1
+Rotten Tomatoes,Rotten Tomatoes,ORG,0.225,0.0,en,1
+Thor 4,Thor 4,ORG,0.0,0.0,en,1
+the Met Gala 15,the Met Gala 15,ORG,0.1,0.0,en,1
+Hollywoods,Hollywoods,ORG,0.0,0.0,en,1
+Asian Champions League Elite,Asian Champions League Elite,ORG,0.0,0.0,en,1
+The D.C. Brief,The D.C. Brief,ORG,0.0,0.0,en,1
+Cato Institute,Cato Institute,ORG,0.10000000000000002,0.0,en,1
+Barstool Sports,Barstool Sports,ORG,5.551115123125783e-18,0.0,en,1
+Hearst Magazines,Hearst Magazines,ORG,0.0,0.0,en,1
+New Royal Cover-Up —,New Royal Cover-Up —,ORG,0.06818181818181818,0.0,en,1
 Underdog Frontale,Underdog Frontale,ORG,0.0,0.0,en,1
 Ito,Ito,ORG,0.3,0.0,en,1
 Saudi Arabia,Saudi Arabia,ORG,-0.2,0.0,en,1
@@ -896,24 +908,9 @@ Friends co-,Friends co-,ORG,0.19318181818181818,0.0,en,1
 Doocy,Doocy,ORG,0.0,0.0,en,1
 Doomsday Filming,Doomsday Filming,ORG,1.0,0.0,en,1
 Trumpization,Trumpization,ORG,0.0,0.0,en,1
-Green Ralph Lauren Tweed Jacket,Green Ralph Lauren Tweed Jacket,ORG,-0.2,0.0,en,1
-Marine One,Marine One,ORG,0.25,0.0,en,1
-Technolords,Technolords,ORG,0.0,0.0,en,1
-Megyn Kelly Reveals Worldwide Premiere,Megyn Kelly Reveals Worldwide Premiere,ORG,0.15,0.0,en,1
-Marine Le Pens,Marine Le Pens,ORG,0.3,0.0,en,1
-LGBTQ,LGBTQ,ORG,0.028571428571428574,0.0,en,1
-Ditch Buckingham Palace,Ditch Buckingham Palace,ORG,-1.0,0.0,en,1
-Allen,Allen,ORG,0.0,0.0,en,1
-US Capitol,US Capitol,ORG,0.2833333333333333,0.0,en,1
-D-N.J.,D-N.J.,ORG,0.0,0.0,en,1
-Countess/Getty,Countess/Getty,ORG,0.0,0.0,en,1
-Elon Musk Using Private Data to Build List of People to Deport,Elon Musk Using Private Data to Build List of People to Deport,ORG,0.0,0.0,,1
-Cologne,Cologne,ORG,0.0,0.0,en,1
-Musk's De… Elon Musk,Musk's De… Elon Musk,ORG,0.03333333333333333,0.0,,1
-Megyn,Megyn,ORG,0.15,0.0,en,1
-Space Trip Criticism,Space Trip Criticism,ORG,0.0,0.0,en,1
-Lykos,Lykos,ORG,0.05357142857142856,0.0,en,1
-UFC,UFC,ORG,-0.015656565656565646,0.0,en,1
-the University of St Andrews,the University of St Andrews,ORG,0.0,0.0,en,1
-CNA Newsroom,CNA Newsroom,ORG,0.0,0.0,en,1
+International Workers',International Workers',ORG,0.0,0.0,en,1
+Lakers,Lakers,ORG,0.0,0.0,en,1
+SANAA,SANAA,ORG,0.0,0.0,en,1
+Portland Place,Portland Place,ORG,0.0,0.0,en,1
+RadarOnline.com,RadarOnline.com,ORG,-0.25,0.0,en,1
 BORNA - Footages,BORNA - Footages,ORG,0.0,0.0,en,1
