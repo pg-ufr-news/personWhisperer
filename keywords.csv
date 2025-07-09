@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jonathan Roumie',en,unknown,#111111,#111111,2,0.6003617923660893
 'Justin Bieber',en,unknown,#111111,#111111,2,0.6002407762695563
 'Anant Ambani',en,unknown,#111111,#111111,1,0.5136599588741396
+'Jonathan Roumie',en,unknown,#111111,#111111,1,0.5103080185111759
 'Christian Dürr',en,unknown,#111111,#111111,2,0.5099647835676474
 'David Beckham',en,unknown,#111111,#111111,2,0.5067685076265869
 'Leo XIV',en,unknown,#111111,#111111,2,0.5056310617860139
@@ -511,9 +511,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,2,0.3200087095195301
 'Ottmar Edenhofer',en,Deutschland,#1818e8,#1818e8,1,0.31950740834875
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,2,0.319230817680828
+'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
 'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.3184238124999999
 'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
-'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.3176171254583893
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027019743
 'Sergei Surovikin',en,Russland,#e81818,#e81818,1,0.3150776801382385
@@ -524,11 +524,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
 'Hans-Werner Sinn',en,unknown,#111111,#111111,1,0.3132958779618749
-'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
-'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
-'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
-'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
+'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
+'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
+'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
+'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.3126485998643124
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3114531699999999
