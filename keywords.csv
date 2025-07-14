@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Robert Prevost',en,unknown,#111111,#111111,2,0.601955583102273
 'Ehud Olmert',en,Israel,#111111,#111111,1,0.5781833785680859
+'Robert Prevost',en,unknown,#111111,#111111,2,0.5672875086804103
 'Hailey Bieber',en,unknown,#111111,#111111,2,0.5645506383944543
 'Pete Hegseth',en,USA,#18e8e8,#18e8e8,2,0.5519012878690785
 'Mahmud Abbas',en,Palistina,#111111,#111111,2,0.4812654337
@@ -633,10 +633,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marlène Schiappa',en,unknown,#111111,#111111,1,0.2226069790479921
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.2225986352339375
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.2220026712499999
-'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.2218526562499999
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2218526562499999
-'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
+'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.2218526562499999
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
+'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Yoon Suk-yeol',en,SüdKorea,#111111,#111111,3,0.2215640864599485
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,1,0.2185231873055357
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,2,0.2175058004450625
