@@ -529,11 +529,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matthias Müller',en,Deutschland,#1818e8,#1818e8,1,0.31388971201125
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
-'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
+'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
+'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
-'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.3126485998643124
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3114531699999999
@@ -636,8 +636,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.2220026712499999
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.2218526562499999
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2218526562499999
-'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
+'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Yoon Suk-yeol',en,SüdKorea,#111111,#111111,3,0.2215640864599485
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,1,0.2185231873055357
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,2,0.2175058004450625
@@ -848,4 +848,3 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heinrich XIII. Prinz Reuß',en,Deutschland,#1818e8,#1818e8,1,0.0632384776554384
 'Louis Klamroth',en,Deutschland,#1818e8,#1818e8,1,0.0625193962514577
 'Ayatollah Ali Chamenei',en,Iran,#111111,#111111,1,0.0616572438346042
-'Lothar Wieler',en,Deutschland,#1818e8,#1818e8,1,0.0587009814171748
