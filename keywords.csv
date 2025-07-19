@@ -107,7 +107,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Melania Trump',en,unknown,#111111,#111111,3,0.4340676270875954
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.4337784952794711
 'Kim Yo Jong',en,NordKorea,#111111,#111111,2,0.4336339441231947
-'Christian Dürr',en,unknown,#111111,#111111,1,0.4334700660325002
 'Charlie Munger',en,unknown,#111111,#111111,3,0.4334576032166166
 'Robert Kennedy',en,USA,#18e8e8,#18e8e8,3,0.4326123296901584
 'Meryl Streep',en,unknown,#111111,#111111,3,0.432493571316314
@@ -294,7 +293,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Willie Nelson',en,unknown,#111111,#111111,3,0.3994828434199897
 'James Cameron',en,USA,#18e8e8,#18e8e8,3,0.3993062787741476
 'Chris Kirkpatrick',en,unknown,#111111,#111111,1,0.3990792051999169
-'Jacoby Brissett',en,unknown,#111111,#111111,2,0.39898517731439537
+'Jacoby Brissett',en,unknown,#111111,#111111,2,0.3989851773143953
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.398684223158772
 'Jeffrey Donaldson',en,Irland,#111111,#111111,2,0.3984304012259471
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.3981463995580676
@@ -427,6 +426,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drena De Niro',en,USA,#18e8e8,#18e8e8,2,0.3693221098636363
 'Afida Turner',en,Frankreich,#e8e808,#e8e808,1,0.3688026068634686
 'Petro Poroshenko',en,unknown,#111111,#111111,1,0.3685384025549144
+'Christian Dürr',en,unknown,#111111,#111111,1,0.36844955612762514
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.3667259496198617
 'Rachida Dati',en,unknown,#111111,#111111,1,0.3662435901156727
 'Robert Sesselmann',en,Deutschland,#1818e8,#1818e8,2,0.3656082162499999
@@ -517,8 +517,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,2,0.3200087095195301
 'Ottmar Edenhofer',en,Deutschland,#1818e8,#1818e8,1,0.31950740834875
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,2,0.319230817680828
-'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.3184238124999999
 'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
+'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.3184238124999999
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.3176171254583893
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027019743
 'Sergei Surovikin',en,Russland,#e81818,#e81818,1,0.3150776801382385
@@ -529,8 +529,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
-'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
+'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
 'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
 'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
@@ -597,9 +597,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vanessa Nakate',en,unknown,#111111,#111111,1,0.2444969852836562
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.2442728481777811
 'Gorbatschow',en,unknown,#111111,#111111,1,0.2442384356743749
-'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2440379218749999
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2440379218749999
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2440379218749999
+'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2440379218749999
 'François Braun',en,unknown,#111111,#111111,1,0.2423645035258981
 'Fumio Kishida',en,Japan,#111111,#111111,3,0.241218987042182
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.2410446124357694
