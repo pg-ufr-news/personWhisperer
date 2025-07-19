@@ -89,7 +89,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.4415937130729774
 'Jake Tapper',en,unknown,#111111,#111111,3,0.4412775683051331
 'Radical Optimism',en,unknown,#111111,#111111,3,0.4406333960161955
-'Pope Leo',en,unknown,#111111,#111111,3,0.4402487219724014
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.4401643720580503
 'Olivia Rodrigo',en,unknown,#111111,#111111,3,0.4384650758556641
 'Hunter Biden',en,USA,#18e8e8,#18e8e8,3,0.4380582464340908
@@ -301,6 +300,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.3981463995580676
 'Joe Alwyn',en,unknown,#111111,#111111,2,0.3979871360458984
 'Michael Cohen',en,USA,#18e8e8,#18e8e8,3,0.3979750659735508
+'Pope Leo',en,unknown,#111111,#111111,3,0.39777126867654117
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.3974688483452221
 'David Koch',en,unknown,#111111,#111111,3,0.3974271430474869
 'Sam H',en,unknown,#111111,#111111,2,0.3973205540488556
@@ -597,9 +597,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vanessa Nakate',en,unknown,#111111,#111111,1,0.2444969852836562
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.2442728481777811
 'Gorbatschow',en,unknown,#111111,#111111,1,0.2442384356743749
-'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2440379218749999
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2440379218749999
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2440379218749999
+'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2440379218749999
 'François Braun',en,unknown,#111111,#111111,1,0.2423645035258981
 'Fumio Kishida',en,Japan,#111111,#111111,3,0.241218987042182
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.2410446124357694
@@ -788,7 +788,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Ballweg',en,Deutschland,#1818e8,#1818e8,1,0.1100016288819354
 'Wolfgang Schäuble',en,Deutschland,#1818e8,#1818e8,1,0.1099819358340184
 'Benjamin Netanjahu',en,Israel,#111111,#111111,1,0.1084347203837064
-'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.10755165370149597
+'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.1075516537014959
 'Tamim bin Hamad Al-Thani',en,Katar,#111111,#111111,2,0.107216081078123
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.1063121783439901
 'Pope Benedikt XVI',en,Vatikan,#58b8e8,#58b8e8,1,0.1058500226771807
