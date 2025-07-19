@@ -125,7 +125,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benny Blanco',en,unknown,#111111,#111111,2,0.4285603641580055
 'Lionel Messi',en,Argentinien,#111111,#111111,3,0.4278877752318322
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.4277767431451085
-'Billie Eilish',en,unknown,#111111,#111111,3,0.427775001760635
 'Mark Meadows',en,unknown,#111111,#111111,3,0.4273903153523611
 'Jerry Seinfeld',en,unknown,#111111,#111111,3,0.4272455754301668
 'Léon XIV',en,unknown,#111111,#111111,2,0.4268463919830752
@@ -144,6 +143,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Adam Driver',en,unknown,#111111,#111111,3,0.4234875840798056
 'Sophie Turner',en,unknown,#111111,#111111,3,0.423425345005767
 'Chris Stapleton',en,unknown,#111111,#111111,3,0.4232389493764502
+'Billie Eilish',en,unknown,#111111,#111111,3,0.4231110614965397
 'Jennifer Lopez',en,unknown,#111111,#111111,3,0.4230631559828691
 'Prince Harry',en,UK,#e838e8,#e838e8,3,0.4228048326635498
 'Eva Green',en,unknown,#111111,#111111,3,0.4227806444809336
@@ -426,7 +426,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drena De Niro',en,USA,#18e8e8,#18e8e8,2,0.3693221098636363
 'Afida Turner',en,Frankreich,#e8e808,#e8e808,1,0.3688026068634686
 'Petro Poroshenko',en,unknown,#111111,#111111,1,0.3685384025549144
-'Christian Dürr',en,unknown,#111111,#111111,1,0.36844955612762514
+'Christian Dürr',en,unknown,#111111,#111111,1,0.3684495561276251
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.3667259496198617
 'Rachida Dati',en,unknown,#111111,#111111,1,0.3662435901156727
 'Robert Sesselmann',en,Deutschland,#1818e8,#1818e8,2,0.3656082162499999
@@ -597,9 +597,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vanessa Nakate',en,unknown,#111111,#111111,1,0.2444969852836562
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.2442728481777811
 'Gorbatschow',en,unknown,#111111,#111111,1,0.2442384356743749
-'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2440379218749999
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2440379218749999
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2440379218749999
+'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2440379218749999
 'François Braun',en,unknown,#111111,#111111,1,0.2423645035258981
 'Fumio Kishida',en,Japan,#111111,#111111,3,0.241218987042182
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.2410446124357694
