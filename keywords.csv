@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Robert Prevost',en,unknown,#111111,#111111,3,0.4823242601507173
 'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.4812883758921752
 'Mahmud Abbas',en,Palistina,#111111,#111111,2,0.4812654337
 'David Beckham',en,unknown,#111111,#111111,2,0.4792528659270432
@@ -223,6 +222,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Axel Springer',en,Deutschland,#1818e8,#1818e8,3,0.4105437684598294
 'Robin Wall Kimmerer',en,unknown,#111111,#111111,1,0.4101896359642857
 'Kim Jong Un',en,NordKorea,#e85858,#e85858,3,0.409979728698276
+'Robert Prevost',en,unknown,#111111,#111111,2,0.4099764911281097
 'Jimmy Kimmel',en,unknown,#111111,#111111,3,0.40996404892685
 'Mohammed Bin Salman',en,SaudiArabien,#111111,#111111,3,0.4099471287831788
 'Heidi Klum',en,unknown,#111111,#111111,3,0.4098252783757452
@@ -597,9 +597,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vanessa Nakate',en,unknown,#111111,#111111,1,0.2444969852836562
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.2442728481777811
 'Gorbatschow',en,unknown,#111111,#111111,1,0.2442384356743749
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2440379218749999
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2440379218749999
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2440379218749999
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2440379218749999
 'François Braun',en,unknown,#111111,#111111,1,0.2423645035258981
 'Fumio Kishida',en,Japan,#111111,#111111,3,0.241218987042182
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.2410446124357694
