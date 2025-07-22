@@ -11,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.4740501765274921
 'Leo XIV',en,unknown,#111111,#111111,3,0.4727350264070006
 'Jonathan Roumie',en,unknown,#111111,#111111,2,0.472283293476435
+'Mike Johnson',en,unknown,#111111,#111111,3,0.47201147114064196
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.4711711379302367
 'Katherina Reiche',en,unknown,#111111,#111111,1,0.4711391298375
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.4705891947228518
@@ -60,7 +61,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Taylor Swift',en,unknown,#111111,#111111,3,0.4563861885906472
 'Barry Keoghan',en,unknown,#111111,#111111,3,0.4562759600374858
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4561885909179456
-'Mike Johnson',en,unknown,#111111,#111111,3,0.4558581013419318
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.4542750438453295
 'Ayo Edebiri',en,unknown,#111111,#111111,3,0.4540330126512392
 'Aubrey Plaza',en,unknown,#111111,#111111,3,0.4532516126563859
@@ -117,7 +117,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ana Navarro',en,unknown,#111111,#111111,3,0.431262963983809
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,3,0.4310869115083519
 'Al Nassr',en,unknown,#111111,#111111,3,0.4307583403553717
-'Lyna Khoudri',en,unknown,#111111,#111111,1,0.43015151977136085
+'Lyna Khoudri',en,unknown,#111111,#111111,1,0.4301515197713608
 'Benjamin Hasselhorn',en,unknown,#111111,#111111,1,0.4298874999999999
 'Brittany Mahomes',en,unknown,#111111,#111111,3,0.4298013190336567
 'Mark Carney',en,unknown,#111111,#111111,3,0.4295173617131134
@@ -599,9 +599,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vanessa Nakate',en,unknown,#111111,#111111,1,0.2444969852836562
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.2442728481777811
 'Gorbatschow',en,unknown,#111111,#111111,1,0.2442384356743749
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2440379218749999
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2440379218749999
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2440379218749999
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2440379218749999
 'François Braun',en,unknown,#111111,#111111,1,0.2423645035258981
 'Fumio Kishida',en,Japan,#111111,#111111,3,0.241218987042182
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.2410446124357694
