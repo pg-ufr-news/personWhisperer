@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Lyna Khoudri',en,unknown,#111111,#111111,2,0.5060606114957187
 'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.4812883758921752
 'Mahmud Abbas',en,Palistina,#111111,#111111,2,0.4812654337
 'David Beckham',en,unknown,#111111,#111111,2,0.4792528659270432
@@ -118,6 +117,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ana Navarro',en,unknown,#111111,#111111,3,0.431262963983809
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,3,0.4310869115083519
 'Al Nassr',en,unknown,#111111,#111111,3,0.4307583403553717
+'Lyna Khoudri',en,unknown,#111111,#111111,1,0.43015151977136085
 'Benjamin Hasselhorn',en,unknown,#111111,#111111,1,0.4298874999999999
 'Brittany Mahomes',en,unknown,#111111,#111111,3,0.4298013190336567
 'Mark Carney',en,unknown,#111111,#111111,3,0.4295173617131134
@@ -599,9 +599,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vanessa Nakate',en,unknown,#111111,#111111,1,0.2444969852836562
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.2442728481777811
 'Gorbatschow',en,unknown,#111111,#111111,1,0.2442384356743749
-'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2440379218749999
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2440379218749999
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2440379218749999
+'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2440379218749999
 'François Braun',en,unknown,#111111,#111111,1,0.2423645035258981
 'Fumio Kishida',en,Japan,#111111,#111111,3,0.241218987042182
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.2410446124357694
