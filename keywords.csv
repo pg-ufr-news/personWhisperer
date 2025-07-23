@@ -530,11 +530,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matthias Müller',en,Deutschland,#1818e8,#1818e8,1,0.31388971201125
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
-'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
-'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
-'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
+'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
+'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
+'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.3126485998643124
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3114531699999999
@@ -599,9 +599,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vanessa Nakate',en,unknown,#111111,#111111,1,0.2444969852836562
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.2442728481777811
 'Gorbatschow',en,unknown,#111111,#111111,1,0.2442384356743749
-'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2440379218749999
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2440379218749999
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2440379218749999
+'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2440379218749999
 'François Braun',en,unknown,#111111,#111111,1,0.2423645035258981
 'Fumio Kishida',en,Japan,#111111,#111111,3,0.241218987042182
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.2410446124357694
@@ -817,7 +817,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Susanne Klatten',en,Deutschland,#1818e8,#1818e8,1,0.0938507755427247
 'Gregor Gysi',en,Deutschland,#1818e8,#1818e8,1,0.0937324084908803
 'Generalbundesanwalt Peter Frank',en,Deutschland,#1818e8,#1818e8,1,0.0932821327436316
-'Luisa Neubauer',en,Deutschland,#1818e8,#1818e8,1,0.0931822937867453
 'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.0924213303338101
 'Jürgen Grässlin',en,Deutschland,#1818e8,#1818e8,1,0.0923559441759416
 'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.0921662967792876
@@ -831,6 +830,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nina Gummich',en,Deutschland,#1818e8,#1818e8,1,0.0843409948195653
 'Valery Gerasimov',en,Russland,#e81818,#e81818,1,0.0823769784789578
 'Igor Setschin',en,Russland,#e81818,#e81818,1,0.0813319142811791
+'Luisa Neubauer',en,Deutschland,#1818e8,#1818e8,1,0.0793549647187335
 'Sergej Lavrov',en,Russland,#e81818,#e81818,1,0.0782058296490788
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.0779451634949702
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.076810548853533
