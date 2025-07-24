@@ -226,7 +226,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jimmy Kimmel',en,unknown,#111111,#111111,3,0.40996404892685
 'Mohammed Bin Salman',en,SaudiArabien,#111111,#111111,3,0.4099471287831788
 'Heidi Klum',en,unknown,#111111,#111111,3,0.4098252783757452
-'Jake Gyllenhaal',en,unknown,#111111,#111111,3,0.4095590984437029
 'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,3,0.4094714433873795
 'Matty Healy',en,unknown,#111111,#111111,2,0.4094319576586901
 'Berkshire Hathaway',en,USA,#18e8e8,#18e8e8,3,0.4090594962127167
@@ -339,6 +338,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sheryl Crow',en,unknown,#111111,#111111,3,0.3899055221323551
 'Lauren Sánchez',en,USA,#18e8e8,#18e8e8,2,0.3895290462227273
 'Narendra Modi',en,Indien,#111111,#111111,3,0.389458846228051
+'Jake Gyllenhaal',en,unknown,#111111,#111111,3,0.3894408500407838
 'Robin Roberts',en,unknown,#111111,#111111,3,0.3889411781684257
 'Nathalie Emmanuel',en,unknown,#111111,#111111,2,0.3888686106142962
 'Hugh Grant',en,unknown,#111111,#111111,3,0.3887331451164564
@@ -530,11 +530,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matthias Müller',en,Deutschland,#1818e8,#1818e8,1,0.31388971201125
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
-'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
-'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
-'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
+'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
+'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
+'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.3126485998643124
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3114531699999999
@@ -599,9 +599,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vanessa Nakate',en,unknown,#111111,#111111,1,0.2444969852836562
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.2442728481777811
 'Gorbatschow',en,unknown,#111111,#111111,1,0.2442384356743749
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2440379218749999
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2440379218749999
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2440379218749999
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2440379218749999
 'François Braun',en,unknown,#111111,#111111,1,0.2423645035258981
 'Fumio Kishida',en,Japan,#111111,#111111,3,0.241218987042182
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.2410446124357694
