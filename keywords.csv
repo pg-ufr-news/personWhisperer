@@ -442,7 +442,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Roger Federer',en,unknown,#111111,#111111,3,0.3634127923176514
 'Fabien Roussel',en,unknown,#111111,#111111,1,0.3631513284213319
 'Jim Jordan',en,unknown,#111111,#111111,3,0.3624987646996065
-'Mick Jagger',en,unknown,#111111,#111111,3,0.36214891797712917
+'Mick Jagger',en,unknown,#111111,#111111,3,0.3621489179771291
 'Scott Morrison',en,Australien,#111111,#111111,3,0.3621097901615712
 'Leah McSweeney',en,unknown,#111111,#111111,2,0.3620099681384787
 'Peregrine Pearson',en,unknown,#111111,#111111,1,0.3619517298160702
@@ -530,11 +530,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matthias Müller',en,Deutschland,#1818e8,#1818e8,1,0.31388971201125
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
-'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
-'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
-'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
+'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
+'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
+'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.3126485998643124
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3114531699999999
@@ -599,9 +599,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vanessa Nakate',en,unknown,#111111,#111111,1,0.2444969852836562
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.2442728481777811
 'Gorbatschow',en,unknown,#111111,#111111,1,0.2442384356743749
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2440379218749999
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2440379218749999
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2440379218749999
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2440379218749999
 'François Braun',en,unknown,#111111,#111111,1,0.2423645035258981
 'Fumio Kishida',en,Japan,#111111,#111111,3,0.241218987042182
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.2410446124357694
@@ -650,7 +650,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Urban',en,Deutschland,#1818e8,#1818e8,3,0.2117010450255964
 'Benjamin Netanyahu',en,Israel,#111111,#111111,3,0.211518893579839
 'Steven Milloy',en,USA,#18e8e8,#18e8e8,1,0.2111015556312986
-'Salvador Dali',en,Spanien,#111111,#111111,1,0.2108326783197906
 'Andrzej Duda',en,Polen,#111111,#111111,3,0.2077174021643019
 'Hans Joosten',en,unknown,#111111,#111111,1,0.2075597463437499
 'Katja Krasavice',en,Deutschland,#1818e8,#1818e8,1,0.2075105556725027
@@ -664,6 +663,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edward Snowden',en,USA,#18e8e8,#18e8e8,2,0.2022192049329624
 'Greta Thunberg',en,Schweden,#111111,#111111,3,0.2011137111702722
 'Aleksandar Vucic',en,Serbien,#111111,#111111,3,0.2000764247801457
+'Salvador Dali',en,Spanien,#111111,#111111,1,0.19940509039535143
 'Mohammed bin Salman',en,SaudiArabien,#111111,#111111,2,0.199302301329668
 'Antony Blinken',en,USA,#18e8e8,#18e8e8,3,0.199068191882527
 'Joko Widodo',en,Indonesien,#111111,#111111,3,0.1973649177227948
