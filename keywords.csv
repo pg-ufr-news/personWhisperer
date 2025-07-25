@@ -87,7 +87,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dawn Staley',en,unknown,#111111,#111111,3,0.4418929764578991
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.4415937130729774
 'Jake Tapper',en,unknown,#111111,#111111,3,0.4412775683051331
-'Ben Affleck',en,unknown,#111111,#111111,3,0.44127291389140494
+'Ben Affleck',en,unknown,#111111,#111111,3,0.4412729138914049
 'Radical Optimism',en,unknown,#111111,#111111,3,0.4406333960161955
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.4401643720580503
 'Olivia Rodrigo',en,unknown,#111111,#111111,3,0.4384650758556641
@@ -531,10 +531,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
-'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
-'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
+'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
+'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.3126485998643124
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3114531699999999
@@ -599,9 +599,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vanessa Nakate',en,unknown,#111111,#111111,1,0.2444969852836562
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.2442728481777811
 'Gorbatschow',en,unknown,#111111,#111111,1,0.2442384356743749
+'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2440379218749999
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2440379218749999
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2440379218749999
-'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2440379218749999
 'François Braun',en,unknown,#111111,#111111,1,0.2423645035258981
 'Fumio Kishida',en,Japan,#111111,#111111,3,0.241218987042182
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.2410446124357694
@@ -621,7 +621,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jens Spahn',en,Deutschland,#1818e8,#1818e8,1,0.2288372092545312
 'Michael Sandel',en,USA,#18e8e8,#18e8e8,1,0.2274157244837167
 'Kevin Kühnert',en,Deutschland,#1818e8,#1818e8,2,0.2266686225201619
-'David Malpass',en,USA,#18e8e8,#18e8e8,2,0.22632552833199
 'Wagner-Chef Prigoschin',en,unknown,#111111,#111111,1,0.2258261310183481
 'Saskia Esken',en,Deutschland,#1818e8,#1818e8,2,0.2256539630504326
 'Marguerite Cazeneuve',en,unknown,#111111,#111111,1,0.2255313971934661
@@ -636,8 +635,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marlène Schiappa',en,unknown,#111111,#111111,1,0.2226069790479921
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.2225986352339375
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.2220026712499999
-'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2218526562499999
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.2218526562499999
+'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2218526562499999
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Yoon Suk-yeol',en,SüdKorea,#111111,#111111,3,0.2215640864599485
@@ -673,6 +672,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thierry Breton',en,EU,#111111,#111111,3,0.195529511703006
 'Rainer Maria Woelki',en,Deutschland,#1818e8,#1818e8,2,0.1952060872523144
 'Miriam Adelson',en,USA,#18e8e8,#18e8e8,3,0.1940831153730318
+'David Malpass',en,USA,#18e8e8,#18e8e8,1,0.1923770590821915
 'Immanuel Kant',en,Deutschland,#1818e8,#1818e8,2,0.1919915532618756
 'Aurélien Rousseau',en,unknown,#111111,#111111,1,0.1912928125626652
 'Jair Bolsonaro',en,Brasilien,#58e838,#58e848,3,0.191220077650967
