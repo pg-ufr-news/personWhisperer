@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.4956687305221914
 'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.4812883758921752
 'Mahmud Abbas',en,Palistina,#111111,#111111,2,0.4812654337
 'David Beckham',en,unknown,#111111,#111111,2,0.4792528659270432
@@ -28,6 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.4678592201147728
 'Jason Kelce',en,unknown,#111111,#111111,3,0.4675272702557336
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.4675158013004009
+'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.46718214685295356
 'Carter Reum',en,unknown,#111111,#111111,3,0.4669678240750881
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.4668058441424182
 'Emily Blunt',en,unknown,#111111,#111111,3,0.4656559746428906
@@ -531,9 +531,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
-'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
 'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
 'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
+'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.3126485998643124
