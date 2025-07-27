@@ -531,9 +531,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
 'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
-'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
+'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.3126485998643124
@@ -755,8 +755,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Kubicki',en,Deutschland,#1818e8,#1818e8,1,0.1383101198767292
 'Yannick Morez',en,Frankreich,#e8e808,#e8e808,1,0.1370691284584932
 'Marco Buschmann',en,Deutschland,#1818e8,#1818e8,1,0.1363091408916048
-'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1362452625195311
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1362452625195311
+'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1362452625195311
 'John Roberts',en,USA,#18e8e8,#18e8e8,1,0.134786905615324
 'Ebrahim Raisi',en,Iran,#111111,#111111,3,0.134674092572129
 'Julia Koch',en,USA,#18e8e8,#18e8e8,1,0.1343030285696907
@@ -781,7 +781,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patrick Pouyanné',en,Frankreich,#e8e808,#e8e808,2,0.1167028995116516
 'Wladimir Putin',en,Russland,#e81818,#e81818,1,0.1159473358026592
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.1158084731416015
-'Alice Schwarzer',en,Deutschland,#1818e8,#1818e8,1,0.1140316459044485
 'Frank Bainimarama',en,Fidschi,#111111,#111111,1,0.113346782585109
 'Andreas Jödecke',en,Deutschland,#1818e8,#1818e8,1,0.1120103528819716
 'Alexej Kudrin',en,Russland,#e81818,#e81818,1,0.1118888387080861
@@ -810,6 +809,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erik Marquardt',en,EU,#111111,#111111,1,0.0982724945986338
 'Ulf Poschardt',en,Deutschland,#1818e8,#1818e8,1,0.0975387758866539
 'Maria Kolesnikowa',en,Belarus,#e81858,#e81858,1,0.0974936952905929
+'Alice Schwarzer',en,Deutschland,#1818e8,#1818e8,1,0.09692689901878122
 'Schellnhuber',en,Deutschland,#1818e8,#1818e8,1,0.0961698236312604
 'Alexander Lukaschenko',en,Belarus,#e81858,#e81858,1,0.0955139169758093
 'Mojib Latif',en,Deutschland,#1818e8,#1818e8,1,0.0947062037295613
