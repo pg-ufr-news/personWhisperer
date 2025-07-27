@@ -73,7 +73,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vinod Khosla',en,unknown,#111111,#111111,1,0.4499341433863636
 'Ryan Gosling',en,unknown,#111111,#111111,3,0.4497674587325411
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.4496395649117746
-'Paul Konerko',en,unknown,#111111,#111111,1,0.4490747077564942
 'Gérald Darmanin',en,Frankreich,#e8e808,#e8e808,2,0.4489284486125
 'Ivanka Trump',en,unknown,#111111,#111111,3,0.4484103857354088
 'Sam Bankman-Fried',en,unknown,#111111,#111111,3,0.4474949743977114
@@ -359,6 +358,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Reynolds',en,unknown,#111111,#111111,3,0.3849414701787496
 'Fani Willis',en,unknown,#111111,#111111,3,0.3848321212041506
 'Sam Asghari',en,unknown,#111111,#111111,1,0.3845684795212871
+'Paul Konerko',en,unknown,#111111,#111111,1,0.3844138615930201
 'Prince Louis',en,UK,#e838e8,#e838e8,3,0.384201885729489
 'Robert Downey Jr',en,unknown,#111111,#111111,3,0.3841726652666628
 'Jordan Neely',en,USA,#18e8e8,#18e8e8,1,0.3840488497334579
@@ -531,9 +531,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
 'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
-'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
+'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.3126485998643124
@@ -809,7 +809,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erik Marquardt',en,EU,#111111,#111111,1,0.0982724945986338
 'Ulf Poschardt',en,Deutschland,#1818e8,#1818e8,1,0.0975387758866539
 'Maria Kolesnikowa',en,Belarus,#e81858,#e81858,1,0.0974936952905929
-'Alice Schwarzer',en,Deutschland,#1818e8,#1818e8,1,0.09692689901878122
+'Alice Schwarzer',en,Deutschland,#1818e8,#1818e8,1,0.0969268990187812
 'Schellnhuber',en,Deutschland,#1818e8,#1818e8,1,0.0961698236312604
 'Alexander Lukaschenko',en,Belarus,#e81858,#e81858,1,0.0955139169758093
 'Mojib Latif',en,Deutschland,#1818e8,#1818e8,1,0.0947062037295613
