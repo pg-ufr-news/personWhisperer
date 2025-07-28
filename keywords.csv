@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Guy Ritchie',en,unknown,#111111,#111111,2,0.6022799915629335
 'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.4812883758921752
 'Mahmud Abbas',en,Palistina,#111111,#111111,2,0.4812654337
 'David Beckham',en,unknown,#111111,#111111,2,0.4792528659270432
@@ -76,7 +77,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gérald Darmanin',en,Frankreich,#e8e808,#e8e808,2,0.4489284486125
 'Ivanka Trump',en,unknown,#111111,#111111,3,0.4484103857354088
 'Mohammad Mustafa',en,Palistina,#111111,#111111,1,0.4459518674
-'Jason Whitlock',en,unknown,#111111,#111111,3,0.445892273625583
 'Eliot Wolf',en,unknown,#111111,#111111,3,0.4453004334225487
 'Nikki Glaser',en,unknown,#111111,#111111,2,0.4447428422861836
 'Howard Stern',en,unknown,#111111,#111111,3,0.4443239026123258
@@ -371,11 +371,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Herbert Diess',en,Deutschland,#1818e8,#1818e8,2,0.381664652674242
 'Recep Tayyip Erdoan',en,Türkei,#111111,#111111,3,0.3815378881007805
 'Lachlan Murdoch',en,UK,#e838e8,#e838e8,3,0.3810464941782194
-'Sam Bankman-Fried',en,unknown,#111111,#111111,2,0.38037164323805467
+'Sam Bankman-Fried',en,unknown,#111111,#111111,2,0.3803716432380546
 'Gisele Bundchen',en,unknown,#111111,#111111,2,0.3802712009030208
 'Leni Klum',en,unknown,#111111,#111111,2,0.3800290619166819
 'Gabriel Attal',en,unknown,#111111,#111111,2,0.3799345949490385
 'George Floyd',en,USA,#18e8e8,#18e8e8,3,0.3794057833077441
+'Jason Whitlock',en,unknown,#111111,#111111,2,0.3790086275817455
 'Helena Gualinga',en,unknown,#111111,#111111,2,0.3789690636730393
 'Robert Oppenheimer',en,USA,#18e8e8,#18e8e8,3,0.3789458939009741
 'John Paul II',en,Vatikan,#58b8e8,#58b8e8,3,0.3788385944090909
@@ -531,10 +532,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
 'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
-'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
+'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.3126485998643124
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3114531699999999
@@ -599,9 +600,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vanessa Nakate',en,unknown,#111111,#111111,1,0.2444969852836562
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.2442728481777811
 'Gorbatschow',en,unknown,#111111,#111111,1,0.2442384356743749
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2440379218749999
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2440379218749999
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2440379218749999
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2440379218749999
 'François Braun',en,unknown,#111111,#111111,1,0.2423645035258981
 'Fumio Kishida',en,Japan,#111111,#111111,3,0.241218987042182
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.2410446124357694
@@ -636,9 +637,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.2225986352339375
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.2220026712499999
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.2218526562499999
-'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2218526562499999
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
+'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2218526562499999
 'Yoon Suk-yeol',en,SüdKorea,#111111,#111111,3,0.2215640864599485
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,1,0.2185231873055357
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,2,0.2175058004450625
