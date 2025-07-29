@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Mahmud Abbas',en,Palistina,#111111,#111111,2,0.4812654337
 'David Beckham',en,unknown,#111111,#111111,2,0.4792528659270432
 'Hailey Bieber',en,unknown,#111111,#111111,3,0.4774811222399931
 'Gayle King',en,unknown,#111111,#111111,3,0.4773494263812269
@@ -223,6 +222,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heidi Klum',en,unknown,#111111,#111111,3,0.4098252783757452
 'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,3,0.4094714433873795
 'Matty Healy',en,unknown,#111111,#111111,2,0.4094319576586901
+'Mahmud Abbas',en,Palistina,#111111,#111111,1,0.409075768645
 'Berkshire Hathaway',en,USA,#18e8e8,#18e8e8,3,0.4090594962127167
 'Chris Hemsworth',en,unknown,#111111,#111111,3,0.4085847330236144
 'Finnegan Biden',en,USA,#18e8e8,#18e8e8,2,0.408326584215557
@@ -264,7 +264,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert de Niro',en,USA,#18e8e8,#18e8e8,3,0.4025312920080482
 'Prince William',en,UK,#e838e8,#e838e8,3,0.4022951498271023
 'Camilla',en,UK,#e838e8,#e838e8,3,0.4021467632519318
-'Mohammad Mustafa',en,Palistina,#111111,#111111,2,0.40207464968130435
+'Mohammad Mustafa',en,Palistina,#111111,#111111,2,0.4020746496813043
 'Camille Etienne',en,Frankreich,#e8e808,#e8e808,2,0.401821122864035
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.40141514063
 'Colin Farrell',en,unknown,#111111,#111111,3,0.4013655084872289
@@ -532,9 +532,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
 'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
-'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
 'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
+'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.3126485998643124
