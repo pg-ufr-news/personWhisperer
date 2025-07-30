@@ -532,9 +532,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
 'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
-'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
 'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
+'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.3126485998643124
@@ -683,7 +683,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jessy Wellmer',en,unknown,#111111,#111111,1,0.190505066564343
 'Edir Macedo',en,Brasilien,#58e838,#58e848,1,0.1894112454801452
 'Jean Jouzel',en,unknown,#111111,#111111,1,0.1893416808374681
-'Marie Trintignant',en,unknown,#111111,#111111,1,0.1890674434524462
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.1889983512346281
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.1887247728125
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.1886530665800936
@@ -725,6 +724,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Söder',en,Deutschland,#1818e8,#1818e8,1,0.162508839523399
 'Missy Motown',en,Deutschland,#1818e8,#1818e8,1,0.1623073144206233
 'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638080541
+'Marie Trintignant',en,unknown,#111111,#111111,1,0.16070732693457926
 'Jean-Denis Combrexelle',en,unknown,#111111,#111111,1,0.1605929618736927
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
@@ -822,7 +822,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.0921662967792876
 'Muhammad bin Zayid Al Nahyan',en,VAE,#111111,#111111,1,0.0905975055526118
 'Franziska Giffey',en,Deutschland,#1818e8,#1818e8,1,0.0898371263034798
-'Herman Gref',en,Russland,#e81818,#e81818,1,0.08974589932877401
+'Herman Gref',en,Russland,#e81818,#e81818,1,0.089745899328774
 'Klaus Hasselmann',en,Deutschland,#1818e8,#1818e8,1,0.0875784932781971
 'Wolodimir Selenski',en,Ukraine,#e818e8,#e818e8,1,0.0868511434749098
 'Wolodymyr Selenski',en,Ukraine,#e818e8,#e818e8,1,0.0853857072264503
