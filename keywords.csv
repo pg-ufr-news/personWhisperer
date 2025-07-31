@@ -72,10 +72,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ryan Gosling',en,unknown,#111111,#111111,3,0.4497674587325411
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.4496395649117746
 'Gérald Darmanin',en,Frankreich,#e8e808,#e8e808,2,0.4489284486125
-'David Beckham',en,unknown,#111111,#111111,2,0.44868248740162303
+'David Beckham',en,unknown,#111111,#111111,2,0.448682487401623
 'Ivanka Trump',en,unknown,#111111,#111111,3,0.4484103857354088
 'Eliot Wolf',en,unknown,#111111,#111111,3,0.4453004334225487
-'Nikki Glaser',en,unknown,#111111,#111111,2,0.4447428422861836
 'Howard Stern',en,unknown,#111111,#111111,3,0.4443239026123258
 'Brian Kilmeade',en,unknown,#111111,#111111,3,0.4439663281901411
 'Emma Stone',en,unknown,#111111,#111111,3,0.4434987537320068
@@ -385,6 +384,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ines de Ramon',en,unknown,#111111,#111111,1,0.3786210356702248
 'Jon Batiste',en,unknown,#111111,#111111,2,0.3783877854159058
 'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.3781833785680859
+'Nikki Glaser',en,unknown,#111111,#111111,1,0.3780317159432561
 'Anne Will',en,Deutschland,#1818e8,#1818e8,2,0.377750428514773
 'Penny Mordaunt',en,UK,#e838e8,#e838e8,1,0.3776195878504714
 'Alexander De Croo',en,Belgien,#111111,#111111,1,0.3774357111238636
@@ -532,9 +532,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
 'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
-'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
 'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
+'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.3126485998643124
