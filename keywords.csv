@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gayle King',en,unknown,#111111,#111111,3,0.4773494263812269
 'Mukesh Ambani',en,unknown,#111111,#111111,3,0.4756721663956144
 'Nicusor Dan',en,unknown,#111111,#111111,1,0.475611877825
 'Pete Hegseth',en,USA,#18e8e8,#18e8e8,2,0.4752900757785126
@@ -36,6 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,3,0.4624479098448941
 'David Cameron',en,unknown,#111111,#111111,2,0.4622148780999999
 'JD Vance',en,unknown,#111111,#111111,3,0.4621645767368181
+'Gayle King',en,unknown,#111111,#111111,3,0.46211114742404286
 'Angelina Jolie',en,unknown,#111111,#111111,3,0.4620264017996788
 'Tom Brady',en,unknown,#111111,#111111,3,0.4619499078591072
 'Bret Baier',en,unknown,#111111,#111111,3,0.461924151361598
@@ -393,7 +393,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Hipkins',en,Neuseeland,#1818e8,#1818e8,3,0.3763690683000004
 'nan Si',en,unknown,#111111,#111111,1,0.3763188631801449
 'Faith Birol',en,unknown,#111111,#111111,1,0.3762829483975
-'Dawn Staley',en,unknown,#111111,#111111,2,0.37560965998921425
+'Dawn Staley',en,unknown,#111111,#111111,2,0.3756096599892142
 'Putin',en,Russland,#e81818,#e81818,3,0.3755934272303734
 'Ronna McDaniel',en,unknown,#111111,#111111,2,0.3752414916230247
 'Lawrence Jones',en,unknown,#111111,#111111,3,0.3749910308405556
@@ -530,11 +530,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matthias Müller',en,Deutschland,#1818e8,#1818e8,1,0.31388971201125
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
-'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
-'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
-'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
+'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
+'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
+'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.3126485998643124
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3114531699999999
