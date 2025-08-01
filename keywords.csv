@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Hailey Bieber',en,unknown,#111111,#111111,3,0.4774811222399931
 'Gayle King',en,unknown,#111111,#111111,3,0.4773494263812269
 'Mukesh Ambani',en,unknown,#111111,#111111,3,0.4756721663956144
 'Nicusor Dan',en,unknown,#111111,#111111,1,0.475611877825
@@ -64,6 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ayo Edebiri',en,unknown,#111111,#111111,3,0.4540330126512392
 'Aubrey Plaza',en,unknown,#111111,#111111,3,0.4532516126563859
 'Rupert Murdoch',en,unknown,#111111,#111111,3,0.4531533320759681
+'Hailey Bieber',en,unknown,#111111,#111111,3,0.4528511639039941
 'Chuck Schumer',en,unknown,#111111,#111111,3,0.4524172997288569
 'Valérie Hayer',en,unknown,#111111,#111111,2,0.4523000399147857
 'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.4504178458719853
