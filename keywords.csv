@@ -86,7 +86,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.4401643720580503
 'Olivia Rodrigo',en,unknown,#111111,#111111,3,0.4384650758556641
 'Nawaz Sharif',en,unknown,#111111,#111111,3,0.4377856510250612
-'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.4375177660063241
 'Phoebe Bridgers',en,unknown,#111111,#111111,3,0.4374343581101302
 'Nancy Mace',en,unknown,#111111,#111111,3,0.437237691074168
 'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.4366031557320807
@@ -209,6 +208,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Arno Antlitz',en,Deutschland,#1818e8,#1818e8,1,0.411740141525
 'Justin Timberlake',en,unknown,#111111,#111111,3,0.4116264205879065
 'Mindy Kaling',en,unknown,#111111,#111111,3,0.4114739100445668
+'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.41139334110537545
 'Barbara Walters',en,USA,#18e8e8,#18e8e8,3,0.4106310323468179
 'Axel Springer',en,Deutschland,#1818e8,#1818e8,3,0.4105437684598294
 'Robin Wall Kimmerer',en,unknown,#111111,#111111,1,0.4101896359642857
@@ -530,11 +530,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matthias Müller',en,Deutschland,#1818e8,#1818e8,1,0.31388971201125
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
-'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
-'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
-'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
+'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
+'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
+'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.3126485998643124
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3114531699999999
