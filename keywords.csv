@@ -448,7 +448,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leah McSweeney',en,unknown,#111111,#111111,2,0.3620099681384787
 'Peregrine Pearson',en,unknown,#111111,#111111,1,0.3619517298160702
 'Camille Cottin',en,unknown,#111111,#111111,1,0.3618049566722732
-'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,2,0.36145317
 'Bradley Cooper',en,unknown,#111111,#111111,3,0.3608954445603705
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,2,0.3607716484759088
 'Robert Menendez',en,unknown,#111111,#111111,2,0.3597930317281296
@@ -519,8 +518,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Napoleon Bonaparte',en,Frankreich,#e8e808,#e8e808,2,0.3202880944460658
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,2,0.3200087095195301
 'Ottmar Edenhofer',en,Deutschland,#1818e8,#1818e8,1,0.31950740834875
-'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
 'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.3184238124999999
+'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.3176171254583893
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027019743
 'Sergei Surovikin',en,Russland,#e81818,#e81818,1,0.3150776801382385
@@ -530,9 +529,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matthias Müller',en,Deutschland,#1818e8,#1818e8,1,0.31388971201125
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
+'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
 'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
-'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
 'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
@@ -540,6 +539,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3114531699999999
 'Steve Milloy',en,USA,#18e8e8,#18e8e8,1,0.3104475480099431
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.3089373655988346
+'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3072351945
 'Julian Reichelt',en,Deutschland,#1818e8,#1818e8,2,0.3072114763998855
 'Reinhard Marx',en,Deutschland,#1818e8,#1818e8,1,0.3071900777749999
 'Merrill McCollum',en,USA,#18e8e8,#18e8e8,1,0.3063970979589374
@@ -797,7 +797,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steffen Große',en,Deutschland,#1818e8,#1818e8,1,0.103892870215073
 'Jitzchak Herzog',en,Israel,#111111,#111111,1,0.1034947800769493
 'Amin Nasser',en,SaudiArabien,#111111,#111111,1,0.1026328506069425
-'Winfried Kretschmann',en,Deutschland,#1818e8,#1818e8,1,0.10217216146525496
+'Winfried Kretschmann',en,Deutschland,#1818e8,#1818e8,1,0.1021721614652549
 'Frank Plasberg',en,Deutschland,#1818e8,#1818e8,1,0.1021666052941535
 'Yanis Varoufakis',en,Griechenland,#1858e8,#1858e8,1,0.102105240474468
 'Faisal Kawusi',en,Deutschland,#1818e8,#1818e8,1,0.1002090718094275
