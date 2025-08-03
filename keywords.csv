@@ -208,7 +208,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Arno Antlitz',en,Deutschland,#1818e8,#1818e8,1,0.411740141525
 'Justin Timberlake',en,unknown,#111111,#111111,3,0.4116264205879065
 'Mindy Kaling',en,unknown,#111111,#111111,3,0.4114739100445668
-'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.41139334110537545
+'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.4113933411053754
 'Barbara Walters',en,USA,#18e8e8,#18e8e8,3,0.4106310323468179
 'Axel Springer',en,Deutschland,#1818e8,#1818e8,3,0.4105437684598294
 'Robin Wall Kimmerer',en,unknown,#111111,#111111,1,0.4101896359642857
@@ -531,10 +531,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
-'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
-'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
+'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
+'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.3126485998643124
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3114531699999999
@@ -608,7 +608,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.2410446124357694
 'Anthony ',en,Australien,#111111,#111111,3,0.2397172450642132
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.2396008687499999
-'Andreas Baum',en,Deutschland,#1818e8,#1818e8,2,0.2385259977457723
 'Angela Merkel',en,Deutschland,#1818e8,#1818e8,3,0.237179702498785
 'Michelle Obama',en,USA,#18e8e8,#18e8e8,3,0.2371359493612422
 'Cyril Ramaphosa',en,Südafrika,#111111,#111111,3,0.2367627036712652
@@ -636,8 +635,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marlène Schiappa',en,unknown,#111111,#111111,1,0.2226069790479921
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.2225986352339375
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.2220026712499999
-'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.2218526562499999
+'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2218526562499999
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Yoon Suk-yeol',en,SüdKorea,#111111,#111111,3,0.2215640864599485
@@ -659,6 +658,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Ma',en,China,#e88818,#e88818,3,0.2056546227271782
 'Sundar Pichai',en,USA,#18e8e8,#18e8e8,2,0.2037454911510787
 'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.2036607384374999
+'Andreas Baum',en,Deutschland,#1818e8,#1818e8,1,0.20274709808390645
 'Nancy Faeser',en,Deutschland,#1818e8,#1818e8,2,0.2025913901087565
 'Edward Snowden',en,USA,#18e8e8,#18e8e8,2,0.2022192049329624
 'Greta Thunberg',en,Schweden,#111111,#111111,3,0.2011137111702722
