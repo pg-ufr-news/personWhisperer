@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Victoria Beckham',en,unknown,#111111,#111111,3,0.4966354280141518
 'Nicusor Dan',en,unknown,#111111,#111111,1,0.475611877825
 'Pete Hegseth',en,USA,#18e8e8,#18e8e8,2,0.4752900757785126
 'Zach Bryan',en,unknown,#111111,#111111,3,0.4752737616445909
@@ -75,11 +74,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gérald Darmanin',en,Frankreich,#e8e808,#e8e808,2,0.4489284486125
 'David Beckham',en,unknown,#111111,#111111,2,0.448682487401623
 'Ivanka Trump',en,unknown,#111111,#111111,3,0.4484103857354088
-'Henry Samuel',en,unknown,#111111,#111111,2,0.44612436779848286
+'Henry Samuel',en,unknown,#111111,#111111,2,0.4461243677984828
 'Mukesh Ambani',en,unknown,#111111,#111111,3,0.4456363127999086
 'Eliot Wolf',en,unknown,#111111,#111111,3,0.4453004334225487
 'Howard Stern',en,unknown,#111111,#111111,3,0.4443239026123258
 'Brian Kilmeade',en,unknown,#111111,#111111,3,0.4439663281901411
+'Victoria Beckham',en,unknown,#111111,#111111,3,0.44389219881202896
 'Emma Stone',en,unknown,#111111,#111111,3,0.4434987537320068
 'Eric Trump',en,unknown,#111111,#111111,3,0.4430831541393932
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.4415937130729774
@@ -532,11 +532,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matthias Müller',en,Deutschland,#1818e8,#1818e8,1,0.31388971201125
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
-'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
-'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
-'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
+'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
+'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
+'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.3126485998643124
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3114531699999999
