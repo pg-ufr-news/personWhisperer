@@ -532,11 +532,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matthias Müller',en,Deutschland,#1818e8,#1818e8,1,0.31388971201125
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
-'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
-'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
-'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
+'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
+'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
+'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.3126485998643124
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3114531699999999
@@ -759,8 +759,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Kubicki',en,Deutschland,#1818e8,#1818e8,1,0.1383101198767292
 'Yannick Morez',en,Frankreich,#e8e808,#e8e808,1,0.1370691284584932
 'Marco Buschmann',en,Deutschland,#1818e8,#1818e8,1,0.1363091408916048
-'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1362452625195311
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1362452625195311
+'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1362452625195311
 'John Roberts',en,USA,#18e8e8,#18e8e8,1,0.134786905615324
 'Ebrahim Raisi',en,Iran,#111111,#111111,3,0.134674092572129
 'Julia Koch',en,USA,#18e8e8,#18e8e8,1,0.1343030285696907
@@ -799,7 +799,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kardinal Woelki',en,Deutschland,#1818e8,#1818e8,1,0.1049609090552047
 'Steffen Große',en,Deutschland,#1818e8,#1818e8,1,0.103892870215073
 'Jitzchak Herzog',en,Israel,#111111,#111111,1,0.1034947800769493
-'Amin Nasser',en,SaudiArabien,#111111,#111111,1,0.1026328506069425
 'Winfried Kretschmann',en,Deutschland,#1818e8,#1818e8,1,0.1021721614652549
 'Frank Plasberg',en,Deutschland,#1818e8,#1818e8,1,0.1021666052941535
 'Yanis Varoufakis',en,Griechenland,#1858e8,#1858e8,1,0.102105240474468
@@ -826,6 +825,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Muhammad bin Zayid Al Nahyan',en,VAE,#111111,#111111,1,0.0905975055526118
 'Franziska Giffey',en,Deutschland,#1818e8,#1818e8,1,0.0898371263034798
 'Herman Gref',en,Russland,#e81818,#e81818,1,0.089745899328774
+'Amin Nasser',en,SaudiArabien,#111111,#111111,1,0.08918813301590112
 'Klaus Hasselmann',en,Deutschland,#1818e8,#1818e8,1,0.0875784932781971
 'Wolodimir Selenski',en,Ukraine,#e818e8,#e818e8,1,0.0868511434749098
 'Wolodymyr Selenski',en,Ukraine,#e818e8,#e818e8,1,0.0853857072264503
