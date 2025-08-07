@@ -54,7 +54,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jonathan Turley',en,unknown,#111111,#111111,3,0.4573099172434338
 'Andrew Cuomo',en,unknown,#111111,#111111,3,0.457061624731435
 'Keith Kellogg',en,unknown,#111111,#111111,3,0.4570114620156308
-'Jared Kushner',en,unknown,#111111,#111111,3,0.4568016566555602
 'Sabrina Carpenter',en,unknown,#111111,#111111,3,0.4565709801168391
 'Taylor Swift',en,unknown,#111111,#111111,3,0.4563861885906472
 'Barry Keoghan',en,unknown,#111111,#111111,3,0.4562759600374858
@@ -87,6 +86,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ben Affleck',en,unknown,#111111,#111111,3,0.4412729138914049
 'Radical Optimism',en,unknown,#111111,#111111,3,0.4406333960161955
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.4401643720580503
+'Jared Kushner',en,unknown,#111111,#111111,3,0.4386865536117716
 'Olivia Rodrigo',en,unknown,#111111,#111111,3,0.4384650758556641
 'Nawaz Sharif',en,unknown,#111111,#111111,3,0.4377856510250612
 'Phoebe Bridgers',en,unknown,#111111,#111111,3,0.4374343581101302
@@ -532,11 +532,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matthias Müller',en,Deutschland,#1818e8,#1818e8,1,0.31388971201125
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
-'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
-'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
 'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
-'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
+'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
+'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
+'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.3126485998643124
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3114531699999999
