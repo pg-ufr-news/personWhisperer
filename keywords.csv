@@ -428,7 +428,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Petro Poroshenko',en,unknown,#111111,#111111,1,0.3685384025549144
 'Christian Dürr',en,unknown,#111111,#111111,1,0.3684495561276251
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.3667259496198617
-'Paul Gosar',en,USA,#18e8e8,#18e8e8,2,0.36642423478209907
+'Paul Gosar',en,USA,#18e8e8,#18e8e8,2,0.366424234782099
 'Rachida Dati',en,unknown,#111111,#111111,1,0.3662435901156727
 'Gwede Mantashe',en,unknown,#111111,#111111,1,0.365824566473125
 'Lyna Khoudri',en,unknown,#111111,#111111,1,0.3657788068056566
@@ -532,11 +532,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matthias Müller',en,Deutschland,#1818e8,#1818e8,1,0.31388971201125
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
-'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
-'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
-'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
+'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
 'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
+'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
+'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.3126485998643124
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3114531699999999
@@ -690,7 +690,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.1887247728125
 'Gilbert Plass',en,Kanada,#111111,#111111,1,0.1886530665800936
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.1885747578125
-'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.1874174838298552
 'Richard Ferrand',en,Frankreich,#e8e808,#e8e808,1,0.1873453174642707
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.1870042734688708
@@ -730,9 +729,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.1607073269345792
 'Jean-Denis Combrexelle',en,unknown,#111111,#111111,1,0.1605929618736927
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
+'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1595440828683983
 'König Charles III',en,UK,#e838e8,#e838e8,1,0.1594131421112861
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.1581434948158253
