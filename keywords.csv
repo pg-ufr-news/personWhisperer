@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nicusor Dan',en,unknown,#111111,#111111,1,0.475611877825
 'Pete Hegseth',en,USA,#18e8e8,#18e8e8,2,0.4752900757785126
 'Zach Bryan',en,unknown,#111111,#111111,3,0.4752737616445909
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.4740501765274921
@@ -43,6 +42,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bret Baier',en,unknown,#111111,#111111,3,0.461924151361598
 'Justin Bieber',en,unknown,#111111,#111111,3,0.4608841223903918
 'Bronny James',en,unknown,#111111,#111111,3,0.4608577549967321
+'Nicusor Dan',en,unknown,#111111,#111111,1,0.46046573069670454
 'Chris Luxon',en,unknown,#111111,#111111,3,0.4593079169413042
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4593023437251335
 'Hunter Biden',en,USA,#18e8e8,#18e8e8,3,0.4592660039851062
@@ -533,9 +533,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
 'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
-'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
 'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
+'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.3126485998643124
