@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.4740501765274921
 'Stephen Colbert',en,unknown,#111111,#111111,2,0.4730997342318029
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.4728967428772968
-'Leo XIV',en,unknown,#111111,#111111,3,0.4727350264070006
 'Jonathan Roumie',en,unknown,#111111,#111111,2,0.472283293476435
 'Mike Johnson',en,unknown,#111111,#111111,3,0.4720114711406419
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.4711711379302367
@@ -65,6 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hailey Bieber',en,unknown,#111111,#111111,3,0.4528511639039941
 'Chuck Schumer',en,unknown,#111111,#111111,3,0.4524172997288569
 'Valérie Hayer',en,unknown,#111111,#111111,2,0.4523000399147857
+'Leo XIV',en,unknown,#111111,#111111,3,0.4513334124459505
 'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.4504178458719853
 'Andy Cohen',en,unknown,#111111,#111111,3,0.4503285563099509
 'Vinod Khosla',en,unknown,#111111,#111111,1,0.4499341433863636
@@ -533,9 +533,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
 'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
-'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
 'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
+'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.3126485998643124
@@ -850,4 +850,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lukaschenko',en,Belarus,#e81858,#e81858,1,0.0693517604747197
 'Dmitry Peskov',en,Russland,#e81818,#e81818,2,0.066365762202661
 'Badri Hosseini Chamenei',en,Iran,#111111,#111111,1,0.0649775735050559
-'Alexei Miller',en,Russland,#e81818,#e81818,1,0.05546720192329921
+'Alexei Miller',en,Russland,#e81818,#e81818,1,0.0554672019232992
