@@ -139,7 +139,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eva Green',en,unknown,#111111,#111111,3,0.4227806444809336
 'Travis Kelce',en,unknown,#111111,#111111,3,0.4227569173316686
 'Lara Trump',en,unknown,#111111,#111111,3,0.4226405380464945
-'Andrea Arnold',en,unknown,#111111,#111111,2,0.422514492651765
 'George Simion',en,unknown,#111111,#111111,1,0.4224482984637845
 'Robert Francis Prevost',en,unknown,#111111,#111111,2,0.4224092235889138
 'Curtis Yarvin',en,unknown,#111111,#111111,2,0.4216484101079119
@@ -317,7 +316,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geoffrey Hinton',en,UK,#e838e8,#e838e8,3,0.3933352143676561
 'Leonardo DiCaprio',en,USA,#18e8e8,#18e8e8,3,0.3932127394749063
 'Alex Jones',en,unknown,#111111,#111111,3,0.392996174189314
-'Chip Somodevilla',en,USA,#18e8e8,#18e8e8,3,0.39287300439767053
+'Chip Somodevilla',en,USA,#18e8e8,#18e8e8,3,0.3928730043976705
 'Lionel Richie',en,USA,#18e8e8,#18e8e8,3,0.3927705735558462
 'Jeff Bezos',en,USA,#18e8e8,#18e8e8,3,0.3925879429780445
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,2,0.3925252081851546
@@ -352,6 +351,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Johnny Depp',en,USA,#18e8e8,#18e8e8,3,0.3863471999243401
 'Cristiano Ronaldo',en,Portugal,#111111,#111111,2,0.3862432000329546
 'Cara Delevingne',en,unknown,#111111,#111111,2,0.3856844648203191
+'Andrea Arnold',en,unknown,#111111,#111111,2,0.385671814280316
 'Lance Bass',en,unknown,#111111,#111111,1,0.3856487052757034
 'Élisabeth Borne',en,Frankreich,#e8e808,#e8e808,2,0.3850051559545454
 'Kim Reynolds',en,unknown,#111111,#111111,3,0.3849414701787496
@@ -531,11 +531,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matthias Müller',en,Deutschland,#1818e8,#1818e8,1,0.31388971201125
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
-'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
-'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
-'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
+'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
+'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
+'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.3126485998643124
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.3114531699999999
