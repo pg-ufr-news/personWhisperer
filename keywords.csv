@@ -294,7 +294,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Viktor Shokin',en,unknown,#111111,#111111,1,0.3970082889217202
 'Sultan al-Jaber',en,VAE,#111111,#111111,3,0.397003494840909
 'Alyssa Farah Griffin',en,unknown,#111111,#111111,3,0.3969472489486844
-'Carter Reum',en,unknown,#111111,#111111,1,0.39692277046382485
+'Carter Reum',en,unknown,#111111,#111111,1,0.3969227704638248
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.396635537565398
 'Yoon Suk Yeol',en,SüdKorea,#111111,#111111,3,0.396587234843372
 'Winston Churchill',en,UK,#e838e8,#e838e8,3,0.3962021906754582
@@ -533,10 +533,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matthias Müller',en,Deutschland,#1818e8,#1818e8,1,0.31388971201125
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
-'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
-'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
+'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
+'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.3126485998643124
@@ -619,6 +619,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joana Cotar',en,Deutschland,#1818e8,#1818e8,2,0.2351355738865783
 'Friedrich Merz',en,Deutschland,#1818e8,#1818e8,3,0.233134248070145
 'Dalai Lama',en,Tibet,#111111,#111111,3,0.2325493460489374
+'Schellnhuber',en,Deutschland,#1818e8,#1818e8,2,0.23189436508657135
 'Joschka Fischer',en,Deutschland,#1818e8,#1818e8,1,0.2312800224899858
 'Hun Sen',en,Kambodscha,#111111,#111111,3,0.2302408503300224
 'Charles Michel',en,EU,#111111,#111111,3,0.2294120747899341
@@ -639,9 +640,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marlène Schiappa',en,unknown,#111111,#111111,1,0.2226069790479921
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.2225986352339375
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.2220026712499999
-'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.2218526562499999
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2218526562499999
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
+'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.2218526562499999
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
 'Yoon Suk-yeol',en,SüdKorea,#111111,#111111,3,0.2215640864599485
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,1,0.2185231873055357
@@ -732,10 +733,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.1607073269345792
 'Jean-Denis Combrexelle',en,unknown,#111111,#111111,1,0.1605929618736927
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
-'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
-'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1595440828683983
 'König Charles III',en,UK,#e838e8,#e838e8,1,0.1594131421112861
 'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.1581434948158253
@@ -815,7 +816,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulf Poschardt',en,Deutschland,#1818e8,#1818e8,1,0.0975387758866539
 'Maria Kolesnikowa',en,Belarus,#e81858,#e81858,1,0.0974936952905929
 'Alice Schwarzer',en,Deutschland,#1818e8,#1818e8,1,0.0969268990187812
-'Schellnhuber',en,Deutschland,#1818e8,#1818e8,1,0.0961698236312604
 'Alexander Lukaschenko',en,Belarus,#e81858,#e81858,1,0.0955139169758093
 'Mojib Latif',en,Deutschland,#1818e8,#1818e8,1,0.0947062037295613
 'Sergej Schoigu',en,Russland,#e81818,#e81818,1,0.0943678995360839
