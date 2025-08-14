@@ -202,7 +202,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lily Gladstone',en,unknown,#111111,#111111,3,0.4117689218918172
 'Harry Belafonte',en,USA,#18e8e8,#18e8e8,2,0.411744230016534
 'Arno Antlitz',en,Deutschland,#1818e8,#1818e8,1,0.411740141525
-'Lionel Messi',en,Argentinien,#111111,#111111,3,0.41167658810499874
+'Lionel Messi',en,Argentinien,#111111,#111111,3,0.4116765881049987
 'Justin Timberlake',en,unknown,#111111,#111111,3,0.4116264205879065
 'Mindy Kaling',en,unknown,#111111,#111111,3,0.4114739100445668
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.4113933411053754
@@ -297,7 +297,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Carter Reum',en,unknown,#111111,#111111,1,0.3969227704638248
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.396635537565398
 'Yoon Suk Yeol',en,SüdKorea,#111111,#111111,3,0.396587234843372
-'Winston Churchill',en,UK,#e838e8,#e838e8,3,0.3962021906754582
 'Robert Kraft',en,unknown,#111111,#111111,3,0.3961248685467157
 'Millie Mackintosh',en,UK,#e838e8,#e838e8,1,0.395864945181818
 'Paris Hilton',en,unknown,#111111,#111111,3,0.3956381054734756
@@ -400,6 +399,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.374587953775
 'Gerald Darmanin',en,unknown,#111111,#111111,1,0.3745266047034978
 'Karim Benzema',en,Frankreich,#e8e808,#e8e808,3,0.3744024619420454
+'Winston Churchill',en,UK,#e838e8,#e838e8,3,0.37438695707413944
 'Dwayne Johnson',en,unknown,#111111,#111111,3,0.3743365648840676
 'Nicolas Sarkozy',en,unknown,#111111,#111111,2,0.3738855527802417
 'Alexander Smirnov',en,unknown,#111111,#111111,2,0.3738793345215838
