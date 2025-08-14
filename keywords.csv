@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.4675158013004009
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.4671821468529535
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.4668058441424182
-'Stephen Colbert',en,unknown,#111111,#111111,3,0.46620772318794157
+'Stephen Colbert',en,unknown,#111111,#111111,3,0.4662077231879415
 'Emily Blunt',en,unknown,#111111,#111111,3,0.4656559746428906
 'Castel Gandolfo',en,unknown,#111111,#111111,2,0.4652888340503597
 'Sara Haines',en,unknown,#111111,#111111,3,0.4650267259940769
@@ -74,6 +74,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Beckham',en,unknown,#111111,#111111,2,0.448682487401623
 'Ivanka Trump',en,unknown,#111111,#111111,3,0.4484103857354088
 'Henry Samuel',en,unknown,#111111,#111111,2,0.4461243677984828
+'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.44577625109343877
 'Mukesh Ambani',en,unknown,#111111,#111111,3,0.4456363127999086
 'Eliot Wolf',en,unknown,#111111,#111111,3,0.4453004334225487
 'Howard Stern',en,unknown,#111111,#111111,3,0.4443239026123258
@@ -288,7 +289,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Alwyn',en,unknown,#111111,#111111,2,0.3979871360458984
 'Michael Cohen',en,USA,#18e8e8,#18e8e8,3,0.3979750659735508
 'Pope Leo',en,unknown,#111111,#111111,3,0.3977712686765411
-'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.3974688483452221
 'David Koch',en,unknown,#111111,#111111,3,0.3974271430474869
 'Sam H',en,unknown,#111111,#111111,2,0.3973205540488556
 'Viktor Shokin',en,unknown,#111111,#111111,1,0.3970082889217202
