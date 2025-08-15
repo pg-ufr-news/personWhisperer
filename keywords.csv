@@ -23,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.4671821468529535
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.4668058441424182
 'Stephen Colbert',en,unknown,#111111,#111111,3,0.4662077231879415
-'Emily Blunt',en,unknown,#111111,#111111,3,0.4656559746428906
 'Castel Gandolfo',en,unknown,#111111,#111111,2,0.4652888340503597
 'Sara Haines',en,unknown,#111111,#111111,3,0.4650267259940769
 'Sean Hannity',en,unknown,#111111,#111111,3,0.4646966579632691
@@ -60,6 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4561885909179456
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.4542750438453295
 'Ayo Edebiri',en,unknown,#111111,#111111,3,0.4540330126512392
+'Emily Blunt',en,unknown,#111111,#111111,3,0.4536855298980699
 'Aubrey Plaza',en,unknown,#111111,#111111,3,0.4532516126563859
 'Rupert Murdoch',en,unknown,#111111,#111111,3,0.4531533320759681
 'Hailey Bieber',en,unknown,#111111,#111111,3,0.4528511639039941
@@ -399,7 +399,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.374587953775
 'Gerald Darmanin',en,unknown,#111111,#111111,1,0.3745266047034978
 'Karim Benzema',en,Frankreich,#e8e808,#e8e808,3,0.3744024619420454
-'Winston Churchill',en,UK,#e838e8,#e838e8,3,0.37438695707413944
+'Winston Churchill',en,UK,#e838e8,#e838e8,3,0.3743869570741394
 'Dwayne Johnson',en,unknown,#111111,#111111,3,0.3743365648840676
 'Nicolas Sarkozy',en,unknown,#111111,#111111,2,0.3738855527802417
 'Alexander Smirnov',en,unknown,#111111,#111111,2,0.3738793345215838
