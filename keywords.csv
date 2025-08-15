@@ -57,7 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barry Keoghan',en,unknown,#111111,#111111,3,0.4562759600374858
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4561885909179456
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.4542750438453295
-'Chuck Schumer',en,unknown,#111111,#111111,3,0.45406440976952833
+'Chuck Schumer',en,unknown,#111111,#111111,3,0.4540644097695283
 'Ayo Edebiri',en,unknown,#111111,#111111,3,0.4540330126512392
 'Emily Blunt',en,unknown,#111111,#111111,3,0.4536855298980699
 'Aubrey Plaza',en,unknown,#111111,#111111,3,0.4532516126563859
@@ -825,6 +825,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.0924213303338101
 'Jürgen Grässlin',en,Deutschland,#1818e8,#1818e8,1,0.0923559441759416
 'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.0921662967792876
+'Dmitry Peskov',en,Russland,#e81818,#e81818,3,0.09091941787226185
 'Muhammad bin Zayid Al Nahyan',en,VAE,#111111,#111111,1,0.0905975055526118
 'Franziska Giffey',en,Deutschland,#1818e8,#1818e8,1,0.0898371263034798
 'Herman Gref',en,Russland,#e81818,#e81818,1,0.089745899328774
@@ -850,5 +851,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katalin Novak',en,Ungarn,#111111,#111111,1,0.0721205607764846
 'Michael Kretschmer',en,Deutschland,#1818e8,#1818e8,1,0.0719051994379377
 'Lukaschenko',en,Belarus,#e81858,#e81858,1,0.0693517604747197
-'Dmitry Peskov',en,Russland,#e81818,#e81818,2,0.066365762202661
 'Badri Hosseini Chamenei',en,Iran,#111111,#111111,1,0.0649775735050559
