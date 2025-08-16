@@ -78,7 +78,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eliot Wolf',en,unknown,#111111,#111111,3,0.4453004334225487
 'Howard Stern',en,unknown,#111111,#111111,3,0.4443239026123258
 'Brian Kilmeade',en,unknown,#111111,#111111,3,0.4439663281901411
-'Victoria Beckham',en,unknown,#111111,#111111,3,0.4438921988120289
 'Emma Stone',en,unknown,#111111,#111111,3,0.4434987537320068
 'Eric Trump',en,unknown,#111111,#111111,3,0.4430831541393932
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.4415937130729774
@@ -87,6 +86,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Radical Optimism',en,unknown,#111111,#111111,3,0.4406333960161955
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.4401643720580503
 'Jared Kushner',en,unknown,#111111,#111111,3,0.4386865536117716
+'Victoria Beckham',en,unknown,#111111,#111111,3,0.4385568257143625
 'Olivia Rodrigo',en,unknown,#111111,#111111,3,0.4384650758556641
 'Nawaz Sharif',en,unknown,#111111,#111111,3,0.4377856510250612
 'Phoebe Bridgers',en,unknown,#111111,#111111,3,0.4374343581101302
@@ -825,7 +825,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.0924213303338101
 'Jürgen Grässlin',en,Deutschland,#1818e8,#1818e8,1,0.0923559441759416
 'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.0921662967792876
-'Dmitry Peskov',en,Russland,#e81818,#e81818,3,0.09091941787226185
+'Dmitry Peskov',en,Russland,#e81818,#e81818,3,0.0909194178722618
 'Muhammad bin Zayid Al Nahyan',en,VAE,#111111,#111111,1,0.0905975055526118
 'Franziska Giffey',en,Deutschland,#1818e8,#1818e8,1,0.0898371263034798
 'Herman Gref',en,Russland,#e81818,#e81818,1,0.089745899328774
