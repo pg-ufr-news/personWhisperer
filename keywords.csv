@@ -300,7 +300,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Millie Mackintosh',en,UK,#e838e8,#e838e8,1,0.395864945181818
 'Paris Hilton',en,unknown,#111111,#111111,3,0.3956381054734756
 'Ahmed Al Jaber',en,unknown,#111111,#111111,2,0.3955922368840908
-'Lana Del Rey',en,unknown,#111111,#111111,3,0.39544481780420976
+'Lana Del Rey',en,unknown,#111111,#111111,3,0.3954448178042097
 'George Santos',en,USA,#18e8e8,#18e8e8,3,0.3953617993172756
 'Tony Bobulinski',en,unknown,#111111,#111111,2,0.3953409144632629
 'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.3951334553504385
@@ -532,10 +532,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matthias Müller',en,Deutschland,#1818e8,#1818e8,1,0.31388971201125
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
-'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
-'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
+'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
 'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
+'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
 'Christian Dürr',en,unknown,#111111,#111111,1,0.3131821227084813
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
@@ -766,7 +766,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ayatollah Chamenei',en,Iran,#111111,#111111,1,0.1362452625195311
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1362452625195311
 'John Roberts',en,USA,#18e8e8,#18e8e8,1,0.134786905615324
-'Ebrahim Raisi',en,Iran,#111111,#111111,3,0.134674092572129
 'Julia Koch',en,USA,#18e8e8,#18e8e8,1,0.1343030285696907
 'Andrea Lindholz',en,Deutschland,#1818e8,#1818e8,1,0.1316530860999728
 'Veronika Grimm',en,Deutschland,#1818e8,#1818e8,1,0.1300305386949677
@@ -787,6 +786,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patrick Pouyanné',en,Frankreich,#e8e808,#e8e808,2,0.1167028995116516
 'Wladimir Putin',en,Russland,#e81818,#e81818,1,0.1159473358026592
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.1158084731416015
+'Ebrahim Raisi',en,Iran,#111111,#111111,2,0.11447305368630965
 'Frank Bainimarama',en,Fidschi,#111111,#111111,1,0.113346782585109
 'Andreas Jödecke',en,Deutschland,#1818e8,#1818e8,1,0.1120103528819716
 'Alexej Kudrin',en,Russland,#e81818,#e81818,1,0.1118888387080861
