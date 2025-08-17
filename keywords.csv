@@ -150,7 +150,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peyton Manning',en,unknown,#111111,#111111,3,0.4203776256036469
 'James Biden',en,unknown,#111111,#111111,3,0.4203592190640522
 'Drake Maye',en,unknown,#111111,#111111,3,0.4200427536860213
-'Lana Del Rey',en,unknown,#111111,#111111,3,0.4199082941909109
 'Leon Botstein',en,USA,#18e8e8,#18e8e8,2,0.419878784232641
 'Jennifer Morgan',en,unknown,#111111,#111111,3,0.4198620327977272
 'Missy Elliott',en,unknown,#111111,#111111,3,0.4197834041351739
@@ -301,6 +300,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Millie Mackintosh',en,UK,#e838e8,#e838e8,1,0.395864945181818
 'Paris Hilton',en,unknown,#111111,#111111,3,0.3956381054734756
 'Ahmed Al Jaber',en,unknown,#111111,#111111,2,0.3955922368840908
+'Lana Del Rey',en,unknown,#111111,#111111,3,0.39544481780420976
 'George Santos',en,USA,#18e8e8,#18e8e8,3,0.3953617993172756
 'Tony Bobulinski',en,unknown,#111111,#111111,2,0.3953409144632629
 'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.3951334553504385
@@ -532,10 +532,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matthias Müller',en,Deutschland,#1818e8,#1818e8,1,0.31388971201125
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
-'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
-'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
+'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
+'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
 'Christian Dürr',en,unknown,#111111,#111111,1,0.3131821227084813
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
@@ -851,4 +851,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Kretschmer',en,Deutschland,#1818e8,#1818e8,1,0.0719051994379377
 'Lukaschenko',en,Belarus,#e81858,#e81858,1,0.0693517604747197
 'Badri Hosseini Chamenei',en,Iran,#111111,#111111,1,0.0649775735050559
-'Hans Joachim Schellnhuber',en,Deutschland,#1818e8,#1818e8,1,0.06482670626581577
+'Hans Joachim Schellnhuber',en,Deutschland,#1818e8,#1818e8,1,0.0648267062658157
