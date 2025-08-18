@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Brooklyn Beckham',en,unknown,#111111,#111111,2,0.602100185964415
 'Anne Hathaway',en,unknown,#111111,#111111,2,0.6014339863432475
 'Nicola Peltz',en,unknown,#111111,#111111,2,0.6005602574623742
+'Brooklyn Beckham',en,unknown,#111111,#111111,2,0.5588435009268955
 'Michel Barnier',en,unknown,#111111,#111111,2,0.4874402163420139
 'Pete Hegseth',en,USA,#18e8e8,#18e8e8,2,0.4752900757785126
 'Zach Bryan',en,unknown,#111111,#111111,3,0.4752737616445909
@@ -483,7 +483,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patti LaBelle',en,USA,#18e8e8,#18e8e8,1,0.3508700774763445
 'Johan Rockström',en,unknown,#111111,#111111,1,0.3499910154699999
 'Queen Camilla',en,UK,#e838e8,#e838e8,3,0.3494038458196475
-'King Charles',en,UK,#e838e8,#e838e8,3,0.34807290682096026
+'King Charles',en,UK,#e838e8,#e838e8,3,0.3480729068209602
 'Bettina Stark-Watzinger',en,Deutschland,#1818e8,#1818e8,2,0.3475528720687499
 'Kemal Klçdarolu',en,Türkei,#111111,#111111,2,0.3473028833545453
 'Suleika Jaouad',en,unknown,#111111,#111111,1,0.3463051161031096
@@ -572,9 +572,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Moon Hyung-jin',en,USA,#18e8e8,#18e8e8,1,0.278869476151504
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.2713462700287037
 'Shahzada Dawood',en,Pakistan,#111111,#111111,1,0.2708666586735794
+'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.2706602406249999
 'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.2706602406249999
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.2706602406249999
-'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.2706602406249999
 'François Bayrou',en,unknown,#111111,#111111,2,0.2692801960093696
 'Georg Gänswein',en,Deutschland,#1818e8,#1818e8,1,0.268547120299375
 'Sergei Surovikin',en,Russland,#e81818,#e81818,1,0.2678160281175027
@@ -586,9 +586,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eva Kaili',en,EU,#111111,#111111,3,0.2625054479876908
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.2613641105248465
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.2610031249999999
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.260231479775265
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.2572194954743593
