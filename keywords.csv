@@ -534,10 +534,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kemal Kiliçdaroglu',en,Türkei,#111111,#111111,1,0.3142873823099106
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
-'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
-'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
 'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
+'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
+'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Christian Dürr',en,unknown,#111111,#111111,1,0.3131821227084813
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
@@ -667,7 +667,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,1,0.2057878024996278
 'Jack Ma',en,China,#e88818,#e88818,3,0.2056546227271782
 'Sundar Pichai',en,USA,#18e8e8,#18e8e8,2,0.2037454911510787
-'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.2036607384374999
 'Andreas Baum',en,Deutschland,#1818e8,#1818e8,1,0.2027470980839064
 'Nancy Faeser',en,Deutschland,#1818e8,#1818e8,2,0.2025913901087565
 'Edward Snowden',en,USA,#18e8e8,#18e8e8,2,0.2022192049329624
@@ -717,6 +716,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christine Lagarde',en,EU,#111111,#111111,3,0.174478726466027
 'Alberto Ángel Fernández',en,Argentinien,#111111,#111111,2,0.1738234930430848
 'Dieter Bohlen',en,Deutschland,#1818e8,#1818e8,1,0.173562802588385
+'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.1731116276718749
 'Fidel Castro',en,Kuba,#111111,#111111,2,0.1718684397276514
 'Tino Chrupalla',en,Deutschland,#1818e8,#1818e8,2,0.1709994491436198
 'Greta Thunberg',en,Schweden,#111111,#111111,2,0.1709475994947313
