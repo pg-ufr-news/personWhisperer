@@ -344,7 +344,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Derek Chauvin',en,unknown,#111111,#111111,1,0.3883191931486437
 'Billionaire Bunker',en,unknown,#111111,#111111,3,0.3881975012166186
 'George Washington',en,USA,#18e8e8,#18e8e8,3,0.3880506678617044
-'Bob Menendez',en,unknown,#111111,#111111,3,0.3872506672929786
 'Stephen Hawking',en,UK,#e838e8,#e838e8,3,0.3871799265249015
 'Oprah Winfrey',en,USA,#18e8e8,#18e8e8,3,0.3869988664148384
 'Caroline Ellison',en,unknown,#111111,#111111,2,0.3868372884724917
@@ -510,6 +509,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jordan Bardella',en,Frankreich,#e8e808,#e8e808,3,0.3296445781963955
 'Billy Graham',en,USA,#18e8e8,#18e8e8,3,0.3294569666085824
 'Pap Ndiaye',en,unknown,#111111,#111111,1,0.3293632042933479
+'Bob Menendez',en,unknown,#111111,#111111,2,0.32916321719903174
 'Paul Konerko',en,unknown,#111111,#111111,1,0.3284020223540671
 'Albert Einstein',en,Deutschland,#1818e8,#1818e8,3,0.3281354658696475
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.327800639565706
@@ -534,9 +534,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
-'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
+'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
 'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Christian Dürr',en,unknown,#111111,#111111,1,0.3131821227084813
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
@@ -586,9 +586,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eva Kaili',en,EU,#111111,#111111,3,0.2625054479876908
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.2613641105248465
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
+'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.2610031249999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
-'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.2610031249999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.260231479775265
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.2572194954743593
