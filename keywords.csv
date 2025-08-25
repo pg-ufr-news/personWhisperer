@@ -534,9 +534,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
-'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.31320375
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.31320375
+'Maria Sacharowa',en,unknown,#111111,#111111,1,0.31320375
 'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Christian Dürr',en,unknown,#111111,#111111,1,0.3131821227084813
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
@@ -586,9 +586,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eva Kaili',en,EU,#111111,#111111,3,0.2625054479876908
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.2613641105248465
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
+'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.2610031249999999
-'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.260231479775265
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.2572194954743593
@@ -854,4 +854,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Kretschmer',en,Deutschland,#1818e8,#1818e8,1,0.0719051994379377
 'Lukaschenko',en,Belarus,#e81858,#e81858,1,0.0693517604747197
 'Badri Hosseini Chamenei',en,Iran,#111111,#111111,1,0.0649775735050559
-'Hans Joachim Schellnhuber',en,Deutschland,#1818e8,#1818e8,1,0.0648267062658157
+'Hans Joachim Schellnhuber',en,Deutschland,#1818e8,#1818e8,1,0.05525271532594335
