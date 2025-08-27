@@ -587,9 +587,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eva Kaili',en,EU,#111111,#111111,3,0.2625054479876908
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.2613641105248465
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
+'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.2610031249999999
-'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.260231479775265
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.2572194954743593
@@ -771,6 +771,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.1362452625195311
 'John Roberts',en,USA,#18e8e8,#18e8e8,1,0.134786905615324
 'Julia Koch',en,USA,#18e8e8,#18e8e8,1,0.1343030285696907
+'Tamim bin Hamad Al-Thani',en,Katar,#111111,#111111,1,0.13365940612439836
 'Andrea Lindholz',en,Deutschland,#1818e8,#1818e8,1,0.1316530860999728
 'Veronika Grimm',en,Deutschland,#1818e8,#1818e8,1,0.1300305386949677
 'Alexei Nawalny',en,Russland,#e81818,#e81818,1,0.129347072944707
@@ -828,7 +829,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.0924213303338101
 'Jürgen Grässlin',en,Deutschland,#1818e8,#1818e8,1,0.0923559441759416
 'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.0921662967792876
-'Tamim bin Hamad Al-Thani',en,Katar,#111111,#111111,1,0.09113384891640455
 'Dmitry Peskov',en,Russland,#e81818,#e81818,3,0.0909194178722618
 'Muhammad bin Zayid Al Nahyan',en,VAE,#111111,#111111,1,0.0905975055526118
 'Franziska Giffey',en,Deutschland,#1818e8,#1818e8,1,0.0898371263034798
