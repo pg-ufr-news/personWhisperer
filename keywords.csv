@@ -588,9 +588,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eva Kaili',en,EU,#111111,#111111,3,0.2625054479876908
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.2613641105248465
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.2611911580217943
-'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.2610031249999999
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
+'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.2610031249999999
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.260231479775265
 'Xi Jinping',en,China,#e88818,#e88818,3,0.2589227712286888
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.2572194954743593
@@ -813,7 +813,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martin Sonneborn',en,Deutschland,#1818e8,#1818e8,1,0.0998857129983444
 'Jewgenij Roisman',en,Russland,#e81818,#e81818,1,0.0996049671635477
 'Sergej Lawrow',en,Russland,#e81818,#e81818,1,0.0992418583621143
-'Ulrich Reitz',en,Deutschland,#1818e8,#1818e8,1,0.0991362112208834
 'Ramsan Kadyrow',en,Russland,#e81818,#e81818,1,0.0984372021703612
 'Erik Marquardt',en,EU,#111111,#111111,1,0.0982724945986338
 'Ulf Poschardt',en,Deutschland,#1818e8,#1818e8,1,0.0975387758866539
@@ -838,13 +837,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolodymyr Selenski',en,Ukraine,#e818e8,#e818e8,1,0.0853857072264503
 'Ali Chamenei',en,Iran,#111111,#111111,1,0.0849828870322317
 'Nina Gummich',en,Deutschland,#1818e8,#1818e8,1,0.0843409948195653
+'Ulrich Reitz',en,Deutschland,#1818e8,#1818e8,1,0.08426577953775088
 'Valery Gerasimov',en,Russland,#e81818,#e81818,1,0.0823769784789578
 'Igor Setschin',en,Russland,#e81818,#e81818,1,0.0813319142811791
 'Luisa Neubauer',en,Deutschland,#1818e8,#1818e8,1,0.0793549647187335
 'Sergej Lavrov',en,Russland,#e81818,#e81818,1,0.0782058296490788
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.0779451634949702
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.076810548853533
-'Franziska Giffey',en,Deutschland,#1818e8,#1818e8,1,0.07636155735795783
+'Franziska Giffey',en,Deutschland,#1818e8,#1818e8,1,0.0763615573579578
 'Carola Rackete',en,Deutschland,#1818e8,#1818e8,1,0.0752171657805908
 'Jair Lapid',en,Israel,#111111,#111111,1,0.0735164825159419
 'Ethan Bradley',en,USA,#18e8e8,#18e8e8,2,0.0734700489060472
