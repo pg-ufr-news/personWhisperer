@@ -104,6 +104,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.4337784952794711
 'Kim Yo Jong',en,NordKorea,#111111,#111111,2,0.4336339441231947
 'Charlie Munger',en,unknown,#111111,#111111,3,0.4334576032166166
+'Chris Christie',en,USA,#18e8e8,#18e8e8,3,0.4334405160561102
 'Robert Kennedy',en,USA,#18e8e8,#18e8e8,3,0.4326123296901584
 'Meryl Streep',en,unknown,#111111,#111111,3,0.432493571316314
 'Chris Wright',en,USA,#18e8e8,#18e8e8,3,0.4322504078477273
@@ -132,7 +133,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yorgos Lanthimos',en,unknown,#111111,#111111,3,0.4244549411519211
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4243564827530761
 'Amber Heard',en,USA,#18e8e8,#18e8e8,3,0.4240519771363635
-'Chris Christie',en,USA,#18e8e8,#18e8e8,3,0.4238905916168142
 'Adam Driver',en,unknown,#111111,#111111,3,0.4234875840798056
 'Sophie Turner',en,unknown,#111111,#111111,3,0.423425345005767
 'Chris Stapleton',en,unknown,#111111,#111111,3,0.4232389493764502
@@ -572,9 +572,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boris Palmer',en,Deutschland,#1818e8,#1818e8,2,0.2733193360585281
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.2713462700287037
 'Shahzada Dawood',en,Pakistan,#111111,#111111,1,0.2708666586735794
+'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.2706602406249999
 'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.2706602406249999
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.2706602406249999
-'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.2706602406249999
 'François Bayrou',en,unknown,#111111,#111111,2,0.2692801960093696
 'Georg Gänswein',en,Deutschland,#1818e8,#1818e8,1,0.268547120299375
 'Matthias Müller',en,Deutschland,#1818e8,#1818e8,1,0.2680063752095625
@@ -801,7 +801,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.1075516537014959
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.1063121783439901
 'Pope Benedikt XVI',en,Vatikan,#58b8e8,#58b8e8,1,0.1058500226771807
-'Stefan Rahmstorf',en,Deutschland,#1818e8,#1818e8,1,0.10443553012826827
+'Stefan Rahmstorf',en,Deutschland,#1818e8,#1818e8,1,0.1044355301282682
 'Steffen Große',en,Deutschland,#1818e8,#1818e8,1,0.103892870215073
 'Jitzchak Herzog',en,Israel,#111111,#111111,1,0.1034947800769493
 'Steffi Lemke',en,Deutschland,#1818e8,#1818e8,1,0.103296138406572
