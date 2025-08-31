@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Pete Hegseth',en,USA,#18e8e8,#18e8e8,2,0.4752900757785126
 'Zach Bryan',en,unknown,#111111,#111111,3,0.4752737616445909
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.4740501765274921
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.4728967428772968
+'Pete Hegseth',en,USA,#18e8e8,#18e8e8,2,0.47260085304809935
 'Jonathan Roumie',en,unknown,#111111,#111111,2,0.472283293476435
 'Mike Johnson',en,unknown,#111111,#111111,3,0.4720114711406419
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.4711711379302367
@@ -572,9 +572,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boris Palmer',en,Deutschland,#1818e8,#1818e8,2,0.2733193360585281
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.2713462700287037
 'Shahzada Dawood',en,Pakistan,#111111,#111111,1,0.2708666586735794
+'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.2706602406249999
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.2706602406249999
 'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.2706602406249999
-'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.2706602406249999
 'François Bayrou',en,unknown,#111111,#111111,2,0.2692801960093696
 'Georg Gänswein',en,Deutschland,#1818e8,#1818e8,1,0.268547120299375
 'Matthias Müller',en,Deutschland,#1818e8,#1818e8,1,0.2680063752095625
@@ -835,7 +835,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolodimir Selenski',en,Ukraine,#e818e8,#e818e8,1,0.0868511434749098
 'Wolodymyr Selenski',en,Ukraine,#e818e8,#e818e8,1,0.0853857072264503
 'Ali Chamenei',en,Iran,#111111,#111111,1,0.0849828870322317
-'Martin Sonneborn',en,Deutschland,#1818e8,#1818e8,1,0.08490285604859274
+'Martin Sonneborn',en,Deutschland,#1818e8,#1818e8,1,0.0849028560485927
 'Nina Gummich',en,Deutschland,#1818e8,#1818e8,1,0.0843409948195653
 'Ulrich Reitz',en,Deutschland,#1818e8,#1818e8,1,0.0842657795377508
 'Valery Gerasimov',en,Russland,#e81818,#e81818,1,0.0823769784789578
