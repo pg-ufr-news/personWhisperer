@@ -138,7 +138,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Billie Eilish',en,unknown,#111111,#111111,3,0.4231110614965397
 'Prince Harry',en,UK,#e838e8,#e838e8,3,0.4228048326635498
 'Eva Green',en,unknown,#111111,#111111,3,0.4227806444809336
-'Travis Kelce',en,unknown,#111111,#111111,3,0.4227569173316686
 'Lara Trump',en,unknown,#111111,#111111,3,0.4226405380464945
 'George Simion',en,unknown,#111111,#111111,1,0.4224482984637845
 'Robert Francis Prevost',en,unknown,#111111,#111111,2,0.4224092235889138
@@ -268,6 +267,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tony Bennett',en,USA,#18e8e8,#18e8e8,3,0.4010328505236231
 'Hazel Monét',en,unknown,#111111,#111111,1,0.4009203301483356
 'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,1,0.4007751275
+'Travis Kelce',en,unknown,#111111,#111111,3,0.40070362109555463
 'Irina Shayk',en,unknown,#111111,#111111,2,0.4005355044221617
 'Greta Gerwig',en,unknown,#111111,#111111,2,0.4004360537482884
 'Sergio Mattarella',en,Italien,#111111,#111111,2,0.4001925296022727
@@ -839,7 +839,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Valery Gerasimov',en,Russland,#e81818,#e81818,1,0.0823769784789578
 'Igor Setschin',en,Russland,#e81818,#e81818,1,0.0813319142811791
 'Luisa Neubauer',en,Deutschland,#1818e8,#1818e8,1,0.0793549647187335
-'Generalbundesanwalt Peter Frank',en,Deutschland,#1818e8,#1818e8,1,0.07928981283208686
+'Generalbundesanwalt Peter Frank',en,Deutschland,#1818e8,#1818e8,1,0.0792898128320868
 'Sergej Lavrov',en,Russland,#e81818,#e81818,1,0.0782058296490788
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.0779451634949702
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.076810548853533
