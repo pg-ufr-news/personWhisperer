@@ -822,7 +822,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergej Schoigu',en,Russland,#e81818,#e81818,1,0.0943678995360839
 'Susanne Klatten',en,Deutschland,#1818e8,#1818e8,1,0.0938507755427247
 'Gregor Gysi',en,Deutschland,#1818e8,#1818e8,1,0.0937324084908803
-'Generalbundesanwalt Peter Frank',en,Deutschland,#1818e8,#1818e8,1,0.0932821327436316
 'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.0924213303338101
 'Jürgen Grässlin',en,Deutschland,#1818e8,#1818e8,1,0.0923559441759416
 'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.0921662967792876
@@ -840,12 +839,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Valery Gerasimov',en,Russland,#e81818,#e81818,1,0.0823769784789578
 'Igor Setschin',en,Russland,#e81818,#e81818,1,0.0813319142811791
 'Luisa Neubauer',en,Deutschland,#1818e8,#1818e8,1,0.0793549647187335
+'Generalbundesanwalt Peter Frank',en,Deutschland,#1818e8,#1818e8,1,0.07928981283208686
 'Sergej Lavrov',en,Russland,#e81818,#e81818,1,0.0782058296490788
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.0779451634949702
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.076810548853533
 'Franziska Giffey',en,Deutschland,#1818e8,#1818e8,1,0.0763615573579578
 'Carola Rackete',en,Deutschland,#1818e8,#1818e8,1,0.0752171657805908
-'Wolodimir Selenski',en,Ukraine,#e818e8,#e818e8,1,0.07382347195367332
+'Wolodimir Selenski',en,Ukraine,#e818e8,#e818e8,1,0.0738234719536733
 'Jair Lapid',en,Israel,#111111,#111111,1,0.0735164825159419
 'Ethan Bradley',en,USA,#18e8e8,#18e8e8,2,0.0734700489060472
 'Kurt Krömer',en,Deutschland,#1818e8,#1818e8,1,0.0725310067236928
