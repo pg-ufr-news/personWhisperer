@@ -34,7 +34,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Angelina Jolie',en,unknown,#111111,#111111,3,0.4620264017996788
 'Tom Brady',en,unknown,#111111,#111111,3,0.4619499078591072
 'Bret Baier',en,unknown,#111111,#111111,3,0.461924151361598
-'Cruz Beckham',en,unknown,#111111,#111111,3,0.4618690482911073
 'Justin Bieber',en,unknown,#111111,#111111,3,0.4608841223903918
 'Bronny James',en,unknown,#111111,#111111,3,0.4608577549967321
 'Nicusor Dan',en,unknown,#111111,#111111,1,0.4604657306967045
@@ -267,7 +266,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tony Bennett',en,USA,#18e8e8,#18e8e8,3,0.4010328505236231
 'Hazel Monét',en,unknown,#111111,#111111,1,0.4009203301483356
 'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,1,0.4007751275
-'Travis Kelce',en,unknown,#111111,#111111,3,0.40070362109555463
+'Travis Kelce',en,unknown,#111111,#111111,3,0.4007036210955546
 'Irina Shayk',en,unknown,#111111,#111111,2,0.4005355044221617
 'Greta Gerwig',en,unknown,#111111,#111111,2,0.4004360537482884
 'Sergio Mattarella',en,Italien,#111111,#111111,2,0.4001925296022727
@@ -305,6 +304,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.3951334553504385
 'Leandro De Niro-Rodriguez',en,unknown,#111111,#111111,1,0.3949519822603689
 'Kanye West',en,USA,#18e8e8,#18e8e8,3,0.394949840065868
+'Cruz Beckham',en,unknown,#111111,#111111,3,0.3948394260474412
 'Jessica Biel',en,unknown,#111111,#111111,2,0.3947975027312674
 'Matt Winkelmeyer',en,unknown,#111111,#111111,2,0.394601458643609
 'nan nan',en,unknown,#111111,#111111,2,0.3942603856382875
