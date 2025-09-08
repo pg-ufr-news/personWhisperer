@@ -368,7 +368,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Linda Yaccarino',en,USA,#18e8e8,#18e8e8,1,0.38240500854276
 'Robert De Niro',en,USA,#18e8e8,#18e8e8,3,0.3821945654229572
 'Raphael Warnock',en,USA,#18e8e8,#18e8e8,2,0.3819096765432997
-'Herbert Diess',en,Deutschland,#1818e8,#1818e8,2,0.381664652674242
 'Recep Tayyip Erdoan',en,Türkei,#111111,#111111,3,0.3815378881007805
 'Lachlan Murdoch',en,UK,#e838e8,#e838e8,3,0.3810464941782194
 'Sam Bankman-Fried',en,unknown,#111111,#111111,2,0.3803716432380546
@@ -513,6 +512,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles III',en,UK,#e838e8,#e838e8,3,0.327601171231922
 'Vo Van Thuong',en,unknown,#111111,#111111,1,0.3275534589805712
 'Rosa Parks',en,unknown,#111111,#111111,3,0.3257458812081361
+'Herbert Diess',en,Deutschland,#1818e8,#1818e8,2,0.32456496977310567
 'Omar Sy',en,unknown,#111111,#111111,1,0.3241231589362012
 'Péter Szijjártó',en,Ungarn,#111111,#111111,2,0.3240301487768481
 'Karl Jenkins',en,UK,#e838e8,#e838e8,2,0.3221342235926135
@@ -520,8 +520,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Napoleon Bonaparte',en,Frankreich,#e8e808,#e8e808,2,0.3202880944460658
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,2,0.3200087095195301
 'Ottmar Edenhofer',en,Deutschland,#1818e8,#1818e8,1,0.31950740834875
-'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
 'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.3184238124999999
+'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.3176171254583893
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027019743
 'Robert Nozick',en,USA,#18e8e8,#18e8e8,2,0.3145020331079117
@@ -572,9 +572,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.273237491015442
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.2713462700287037
 'Shahzada Dawood',en,Pakistan,#111111,#111111,1,0.2708666586735794
+'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.2706602406249999
 'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.2706602406249999
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.2706602406249999
-'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.2706602406249999
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.270626545570404
 'François Bayrou',en,unknown,#111111,#111111,2,0.2692801960093696
 'Georg Gänswein',en,Deutschland,#1818e8,#1818e8,1,0.268547120299375
