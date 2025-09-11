@@ -196,7 +196,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lily Gladstone',en,unknown,#111111,#111111,3,0.4117689218918172
 'Harry Belafonte',en,USA,#18e8e8,#18e8e8,2,0.411744230016534
 'Arno Antlitz',en,Deutschland,#1818e8,#1818e8,1,0.411740141525
-'Lionel Messi',en,Argentinien,#111111,#111111,3,0.4116765881049987
 'Justin Timberlake',en,unknown,#111111,#111111,3,0.4116264205879065
 'Mindy Kaling',en,unknown,#111111,#111111,3,0.4114739100445668
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.4113933411053754
@@ -343,6 +342,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Oprah Winfrey',en,USA,#18e8e8,#18e8e8,3,0.3869988664148384
 'Caroline Ellison',en,unknown,#111111,#111111,2,0.3868372884724917
 'Abraham Lincoln',en,unknown,#111111,#111111,3,0.3868265511260482
+'Lionel Messi',en,Argentinien,#111111,#111111,3,0.3867035267074307
 'Hailey Van Lith',en,unknown,#111111,#111111,2,0.3865053476771335
 'Johnny Depp',en,USA,#18e8e8,#18e8e8,3,0.3863471999243401
 'Cristiano Ronaldo',en,Portugal,#111111,#111111,2,0.3862432000329546
