@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.4728967428772968
 'Pete Hegseth',en,USA,#18e8e8,#18e8e8,2,0.4726008530480993
 'Jonathan Roumie',en,unknown,#111111,#111111,2,0.472283293476435
 'Mike Johnson',en,unknown,#111111,#111111,3,0.4720114711406419
@@ -111,6 +110,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4315208880259907
 'Al Nassr',en,unknown,#111111,#111111,3,0.4307583403553717
 'Gayle King',en,unknown,#111111,#111111,3,0.4304084903104364
+'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.4302015464457023
 'Andrew Cuomo',en,unknown,#111111,#111111,3,0.4298246273853561
 'Brittany Mahomes',en,unknown,#111111,#111111,3,0.4298013190336567
 'Mark Carney',en,unknown,#111111,#111111,3,0.4295173617131134
