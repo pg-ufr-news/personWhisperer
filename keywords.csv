@@ -39,7 +39,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Luxon',en,unknown,#111111,#111111,3,0.4593079169413042
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4593023437251335
 'Hunter Biden',en,USA,#18e8e8,#18e8e8,3,0.4592660039851062
-"'Dwayne ""The Rock"" Johnson'",en,unknown,#111111,#111111,3,0.4590877023239058
 'Martha MacCallum',en,unknown,#111111,#111111,3,0.4589351934361841
 'König Felipe VI',en,Spanien,#111111,#111111,2,0.4585471131874999
 'Margaret Qualley',en,unknown,#111111,#111111,3,0.4580406676904386
@@ -131,6 +130,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yorgos Lanthimos',en,unknown,#111111,#111111,3,0.4244549411519211
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4243564827530761
 'Amber Heard',en,USA,#18e8e8,#18e8e8,3,0.4240519771363635
+"'Dwayne ""The Rock"" Johnson'",en,unknown,#111111,#111111,3,0.423910450039836
 'Adam Driver',en,unknown,#111111,#111111,3,0.4234875840798056
 'Sophie Turner',en,unknown,#111111,#111111,3,0.423425345005767
 'Chris Stapleton',en,unknown,#111111,#111111,3,0.4232389493764502
