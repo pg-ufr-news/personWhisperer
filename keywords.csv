@@ -176,7 +176,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pedro Pascal',en,unknown,#111111,#111111,3,0.4154405684136471
 'Bill Belichick',en,unknown,#111111,#111111,3,0.4153031150944907
 'Kylie Kelce',en,unknown,#111111,#111111,3,0.4152522173088588
-'Michel Barnier',en,unknown,#111111,#111111,2,0.4150742588907118
 'Jerry Seinfeld',en,unknown,#111111,#111111,3,0.4148346691156417
 'Reed Richards',en,unknown,#111111,#111111,3,0.4148138029323683
 'Ron Howard',en,unknown,#111111,#111111,3,0.414758369603088
@@ -327,6 +326,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ana Navarro',en,unknown,#111111,#111111,3,0.3897065375680558
 'Lauren Sánchez',en,USA,#18e8e8,#18e8e8,2,0.3895290462227273
 'Narendra Modi',en,Indien,#111111,#111111,3,0.389458846228051
+'Michel Barnier',en,unknown,#111111,#111111,2,0.3891574321999622
 'Robin Roberts',en,unknown,#111111,#111111,3,0.3889411781684257
 'Nathalie Emmanuel',en,unknown,#111111,#111111,2,0.3888686106142962
 'Hugh Grant',en,unknown,#111111,#111111,3,0.3887331451164564
