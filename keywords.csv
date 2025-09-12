@@ -244,7 +244,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Princess Diana',en,UK,#e838e8,#e838e8,3,0.4039102505850775
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.4038867128897727
 'Mark Kerr',en,unknown,#111111,#111111,3,0.4038655830563301
-'Matt Lauer',en,unknown,#111111,#111111,2,0.4036037732417056
 'Tom Hanks',en,unknown,#111111,#111111,3,0.4035946829859433
 'Elizabeth Warren',en,unknown,#111111,#111111,3,0.4032419324597965
 'Al Pacino',en,USA,#18e8e8,#18e8e8,3,0.4029518811789756
@@ -492,6 +491,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Isaac Newton',en,UK,#e838e8,#e838e8,3,0.343819546867272
 'Rudolf Steiner',en,Oesterreich,#111111,#111111,1,0.3435430331076918
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,1,0.3430846826913157
+'Matt Lauer',en,unknown,#111111,#111111,1,0.34306346225544976
 'Cem Özdemir',en,Deutschland,#1818e8,#1818e8,2,0.3413336467196425
 'Maya Rudolph',en,unknown,#111111,#111111,2,0.3413154834346004
 'Jan Lipavský',en,Tschechien,#111111,#111111,1,0.3410184166481249
@@ -521,8 +521,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.3221237041220834
 'Napoleon Bonaparte',en,Frankreich,#e8e808,#e8e808,2,0.3202880944460658
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,2,0.3200087095195301
-'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.3184238124999999
 'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
+'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.3184238124999999
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.3176171254583893
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027019743
 'Robert Nozick',en,USA,#18e8e8,#18e8e8,2,0.3145020331079117
