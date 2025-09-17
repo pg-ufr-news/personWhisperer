@@ -42,7 +42,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martha MacCallum',en,unknown,#111111,#111111,3,0.4589351934361841
 'König Felipe VI',en,Spanien,#111111,#111111,2,0.4585471131874999
 'Margaret Qualley',en,unknown,#111111,#111111,3,0.4580406676904386
-'Steffen Kotre',en,unknown,#111111,#111111,1,0.4576152637993749
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.4574886174921845
 'Jake Paul',en,unknown,#111111,#111111,3,0.4573633839908515
 'Jonathan Turley',en,unknown,#111111,#111111,3,0.4573099172434338
@@ -328,6 +327,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lauren Sánchez',en,USA,#18e8e8,#18e8e8,2,0.3895290462227273
 'Narendra Modi',en,Indien,#111111,#111111,3,0.389458846228051
 'Michel Barnier',en,unknown,#111111,#111111,2,0.3891574321999622
+'Steffen Kotre',en,unknown,#111111,#111111,1,0.38897297422946864
 'Robin Roberts',en,unknown,#111111,#111111,3,0.3889411781684257
 'Nathalie Emmanuel',en,unknown,#111111,#111111,2,0.3888686106142962
 'Hugh Grant',en,unknown,#111111,#111111,3,0.3887331451164564
