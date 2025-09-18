@@ -523,7 +523,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Helena Gualinga',en,unknown,#111111,#111111,1,0.3221237041220834
 'Napoleon Bonaparte',en,Frankreich,#e8e808,#e8e808,2,0.3202880944460658
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,2,0.3200087095195301
-'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.3184238124999999
 'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.3176171254583893
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027019743
@@ -573,6 +572,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.273237491015442
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.2713462700287037
 'Shahzada Dawood',en,Pakistan,#111111,#111111,1,0.2708666586735794
+'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.27066024062499994
 'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.2706602406249999
 'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.2706602406249999
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.2706602406249999
