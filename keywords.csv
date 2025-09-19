@@ -196,7 +196,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Axel Springer',en,Deutschland,#1818e8,#1818e8,3,0.4105437684598294
 'Robin Wall Kimmerer',en,unknown,#111111,#111111,1,0.4101896359642857
 'Kim Jong Un',en,NordKorea,#e85858,#e85858,3,0.409979728698276
-'Robert Prevost',en,unknown,#111111,#111111,2,0.4099764911281097
 'Jimmy Kimmel',en,unknown,#111111,#111111,3,0.40996404892685
 'Mohammed Bin Salman',en,SaudiArabien,#111111,#111111,3,0.4099471287831788
 'Heidi Klum',en,unknown,#111111,#111111,3,0.4098252783757452
@@ -354,6 +353,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Reynolds',en,unknown,#111111,#111111,3,0.3849414701787496
 'Valérie Hayer',en,unknown,#111111,#111111,2,0.3849050789275678
 'Fani Willis',en,unknown,#111111,#111111,3,0.3848321212041506
+'Robert Prevost',en,unknown,#111111,#111111,2,0.3848239846017504
 'Sam Asghari',en,unknown,#111111,#111111,1,0.3845684795212871
 'Prince Louis',en,UK,#e838e8,#e838e8,3,0.384201885729489
 'Robert Downey Jr',en,unknown,#111111,#111111,3,0.3841726652666628
