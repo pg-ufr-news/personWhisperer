@@ -476,7 +476,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kristen Wiig',en,unknown,#111111,#111111,3,0.3531260356519547
 'Alfred Nobel',en,Schweden,#111111,#111111,3,0.3525366704648069
 'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.3514065604154801
-'Helmut Kohl',en,Deutschland,#1818e8,#1818e8,1,0.3511438589262379
 'Patti LaBelle',en,USA,#18e8e8,#18e8e8,1,0.3508700774763445
 'Johan Rockström',en,unknown,#111111,#111111,1,0.3499910154699999
 'Queen Camilla',en,UK,#e838e8,#e838e8,3,0.3494038458196475
@@ -530,8 +529,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kemal Kiliçdaroglu',en,Türkei,#111111,#111111,1,0.3142873823099106
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
-'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
+'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Christian Dürr',en,unknown,#111111,#111111,1,0.3131821227084813
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.3126485998643124
@@ -550,6 +549,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.3030158487712762
 'Jassir Arafat',en,Palistina,#111111,#111111,1,0.3017196124999999
 'Bill Geddie',en,unknown,#111111,#111111,1,0.299312102451869
+'Helmut Kohl',en,Deutschland,#1818e8,#1818e8,1,0.2992223550873022
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,2,0.2968952327053571
 'Premier ministre',en,unknown,#111111,#111111,1,0.294332560596289
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.293322933515939
@@ -855,5 +855,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.0721709001772753
 'Katalin Novak',en,Ungarn,#111111,#111111,1,0.0721205607764846
 'Michael Kretschmer',en,Deutschland,#1818e8,#1818e8,1,0.0719051994379377
-'Kurt Krömer',en,Deutschland,#1818e8,#1818e8,1,0.06165135571513888
+'Kurt Krömer',en,Deutschland,#1818e8,#1818e8,1,0.0616513557151388
 'Nina Gummich',en,Deutschland,#1818e8,#1818e8,1,0.0517959134435655
