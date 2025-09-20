@@ -207,7 +207,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Hemsworth',en,unknown,#111111,#111111,3,0.4085847330236144
 'Finnegan Biden',en,USA,#18e8e8,#18e8e8,2,0.408326584215557
 'Benny Safdie',en,unknown,#111111,#111111,2,0.4081430721465018
-'Christian Günther',en,unknown,#111111,#111111,1,0.4080871329857142
 'Mary Lou McDonald',en,Irland,#111111,#111111,3,0.407910047
 'Brad Pitt',en,unknown,#111111,#111111,3,0.4077473559598492
 'Adolf Hitler',en,Deutschland,#1818e8,#1818e8,3,0.407361853270852
@@ -480,6 +479,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Johan Rockström',en,unknown,#111111,#111111,1,0.3499910154699999
 'Queen Camilla',en,UK,#e838e8,#e838e8,3,0.3494038458196475
 'King Charles',en,UK,#e838e8,#e838e8,3,0.3480729068209602
+'Christian Günther',en,unknown,#111111,#111111,1,0.3476241380378571
 'Bettina Stark-Watzinger',en,Deutschland,#1818e8,#1818e8,2,0.3475528720687499
 'Kemal Klçdarolu',en,Türkei,#111111,#111111,2,0.3473028833545453
 'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.3470411643397515
