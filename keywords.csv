@@ -16,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eddie Hearn',en,unknown,#111111,#111111,3,0.4671521037927336
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.4668058441424182
 'Stephen Colbert',en,unknown,#111111,#111111,3,0.4662077231879415
-'Castel Gandolfo',en,unknown,#111111,#111111,2,0.4652888340503597
 'Sara Haines',en,unknown,#111111,#111111,3,0.4650267259940769
 'Sean Hannity',en,unknown,#111111,#111111,3,0.4646966579632691
 'Javier Milei',en,unknown,#111111,#111111,3,0.4645711065155281
@@ -65,6 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Henry Samuel',en,unknown,#111111,#111111,2,0.4461243677984828
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.4457762510934387
 'Mukesh Ambani',en,unknown,#111111,#111111,3,0.4456363127999086
+'Castel Gandolfo',en,unknown,#111111,#111111,2,0.44554992509665187
 'Ben Affleck',en,unknown,#111111,#111111,3,0.4455094968076941
 'Eliot Wolf',en,unknown,#111111,#111111,3,0.4453004334225487
 'Howard Stern',en,unknown,#111111,#111111,3,0.4443239026123258
