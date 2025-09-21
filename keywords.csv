@@ -156,7 +156,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'António Guterres',en,unknown,#111111,#111111,3,0.418049004607304
 'Zach Bryan',en,unknown,#111111,#111111,3,0.4180259164888114
 'Patrick Mahomes',en,unknown,#111111,#111111,3,0.4179509408937998
-'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.4178032643106613
 'Kara Hurst',en,unknown,#111111,#111111,2,0.4177005942884062
 'Merrick Garland',en,unknown,#111111,#111111,3,0.4174160452572237
 'Pete Davidson',en,USA,#18e8e8,#18e8e8,3,0.417365238277812
@@ -297,6 +296,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kanye West',en,USA,#18e8e8,#18e8e8,3,0.394949840065868
 'Cruz Beckham',en,unknown,#111111,#111111,3,0.3948394260474412
 'Jessica Biel',en,unknown,#111111,#111111,2,0.3947975027312674
+'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.39463760466406206
 'Matt Winkelmeyer',en,unknown,#111111,#111111,2,0.394601458643609
 'nan nan',en,unknown,#111111,#111111,2,0.3942603856382875
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.394226217909091
@@ -571,7 +571,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.273237491015442
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.2713462700287037
 'Shahzada Dawood',en,Pakistan,#111111,#111111,1,0.2708666586735794
-'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.27066024062499994
+'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.2706602406249999
 'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.2706602406249999
 'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.2706602406249999
 'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.2706602406249999
