@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Mo Lewis',en,unknown,#111111,#111111,2,0.6051168974693343
 'Charlie Kirk',en,unknown,#111111,#111111,3,0.5628084969971194
 'Gervonta Davis',en,unknown,#111111,#111111,2,0.5465536620066695
+'Mo Lewis',en,unknown,#111111,#111111,3,0.5304506528489342
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.4711711379302367
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.4705891947228518
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.4704755910967612
@@ -574,11 +574,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.273237491015442
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.2713462700287037
 'Shahzada Dawood',en,Pakistan,#111111,#111111,1,0.2708666586735794
-'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.2706602406249999
-'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.2706602406249999
-'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.2706602406249999
-'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.2706602406249999
 'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.2706602406249999
+'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.2706602406249999
+'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.2706602406249999
+'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.2706602406249999
+'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.2706602406249999
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.270626545570404
 'François Bayrou',en,unknown,#111111,#111111,2,0.2692801960093696
 'Georg Gänswein',en,Deutschland,#1818e8,#1818e8,1,0.268547120299375
