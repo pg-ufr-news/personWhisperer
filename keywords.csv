@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Charlie Kirk',en,unknown,#111111,#111111,3,0.5108126147202787
 'Gervonta Davis',en,unknown,#111111,#111111,2,0.5019633517965782
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.4711711379302367
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.4705891947228518
@@ -27,6 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dua Lipa',en,unknown,#111111,#111111,3,0.462656408026326
 'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,3,0.4624479098448941
 'David Cameron',en,unknown,#111111,#111111,2,0.4622148780999999
+'Charlie Kirk',en,unknown,#111111,#111111,3,0.4620818052395096
 'Angelina Jolie',en,unknown,#111111,#111111,3,0.4620264017996788
 'Tom Brady',en,unknown,#111111,#111111,3,0.4619499078591072
 'Bret Baier',en,unknown,#111111,#111111,3,0.461924151361598
@@ -47,7 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barry Keoghan',en,unknown,#111111,#111111,3,0.4562759600374858
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4561885909179456
 'Julia Roberts',en,unknown,#111111,#111111,2,0.4553744303731222
-'Mo Lewis',en,unknown,#111111,#111111,3,0.45433437492159406
+'Mo Lewis',en,unknown,#111111,#111111,3,0.454334374921594
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.4542750438453295
 'Chuck Schumer',en,unknown,#111111,#111111,3,0.4540644097695283
 'Emily Blunt',en,unknown,#111111,#111111,3,0.4536855298980699
@@ -574,11 +574,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.273237491015442
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.2713462700287037
 'Shahzada Dawood',en,Pakistan,#111111,#111111,1,0.2708666586735794
-'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.2706602406249999
-'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.2706602406249999
-'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.2706602406249999
-'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.2706602406249999
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.2706602406249999
+'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.2706602406249999
+'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.2706602406249999
+'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.2706602406249999
+'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.2706602406249999
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.270626545570404
 'François Bayrou',en,unknown,#111111,#111111,2,0.2692801960093696
 'Georg Gänswein',en,Deutschland,#1818e8,#1818e8,1,0.268547120299375
