@@ -529,7 +529,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027019743
 'Robert Nozick',en,USA,#18e8e8,#18e8e8,2,0.3145020331079117
 'Kemal Kiliçdaroglu',en,Türkei,#111111,#111111,1,0.3142873823099106
-'Ulrike hermann',en,unknown,#111111,#111111,1,0.313531776549375
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
 'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
@@ -574,15 +573,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.273237491015442
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.2713462700287037
 'Shahzada Dawood',en,Pakistan,#111111,#111111,1,0.2708666586735794
-'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.2706602406249999
-'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.2706602406249999
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.2706602406249999
 'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.2706602406249999
 'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.2706602406249999
+'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.2706602406249999
+'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.2706602406249999
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.270626545570404
 'François Bayrou',en,unknown,#111111,#111111,2,0.2692801960093696
 'Georg Gänswein',en,Deutschland,#1818e8,#1818e8,1,0.268547120299375
 'Sergei Surovikin',en,Russland,#e81818,#e81818,1,0.2678160281175027
+'Ulrike hermann',en,unknown,#111111,#111111,1,0.2666520250669687
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.2663732025
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.2662231875
 'Maria Sacharowa',en,unknown,#111111,#111111,1,0.2662231875
