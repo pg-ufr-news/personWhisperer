@@ -529,7 +529,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027019743
 'Robert Nozick',en,USA,#18e8e8,#18e8e8,2,0.3145020331079117
 'Kemal Kiliçdaroglu',en,Türkei,#111111,#111111,1,0.3142873823099106
-'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.3134396485875
 'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.31320375
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.31320375
 'Christian Dürr',en,unknown,#111111,#111111,1,0.3131821227084813
@@ -583,6 +582,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Georg Gänswein',en,Deutschland,#1818e8,#1818e8,1,0.268547120299375
 'Sergei Surovikin',en,Russland,#e81818,#e81818,1,0.2678160281175027
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.2666520250669687
+'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.266573716299375
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.2663732025
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.2662231875
 'Maria Sacharowa',en,unknown,#111111,#111111,1,0.2662231875
