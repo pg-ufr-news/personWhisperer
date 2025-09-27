@@ -104,7 +104,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ainsley Earhardt',en,unknown,#111111,#111111,2,0.4319182379583223
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.4315208880259907
 'Al Nassr',en,unknown,#111111,#111111,3,0.4307583403553717
-'Gayle King',en,unknown,#111111,#111111,3,0.4304084903104364
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.4302015464457023
 'Andrew Cuomo',en,unknown,#111111,#111111,3,0.4298246273853561
 'Brittany Mahomes',en,unknown,#111111,#111111,3,0.4298013190336567
@@ -259,6 +258,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Travis Kelce',en,unknown,#111111,#111111,3,0.4007036210955546
 'Irina Shayk',en,unknown,#111111,#111111,2,0.4005355044221617
 'Greta Gerwig',en,unknown,#111111,#111111,2,0.4004360537482884
+'Gayle King',en,unknown,#111111,#111111,3,0.4003499767638709
 'Sergio Mattarella',en,Italien,#111111,#111111,2,0.4001925296022727
 'Wang Wentao',en,China,#e88818,#e88818,3,0.3999777646488787
 'Kim Mulkey',en,unknown,#111111,#111111,2,0.3999611512847337
