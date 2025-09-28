@@ -410,7 +410,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bridget Moynahan',en,unknown,#111111,#111111,1,0.3733481441511436
 'Steve Doocy',en,unknown,#111111,#111111,2,0.3727458997417774
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,1,0.3724918396875
-'Cillian Murphy',en,Irland,#111111,#111111,2,0.3724307661204279
 'Carey Mulligan',en,unknown,#111111,#111111,2,0.3721798688263684
 'Michelle O\'Neill',en,Irland,#111111,#111111,3,0.3721309198651624
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.3721206013182359
@@ -450,6 +449,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Camille Cottin',en,unknown,#111111,#111111,1,0.3618049566722732
 'Robert Badinter',en,unknown,#111111,#111111,1,0.3617923654366854
 'Gwede Mantashe',en,unknown,#111111,#111111,1,0.3614009565021562
+'Cillian Murphy',en,Irland,#111111,#111111,3,0.3610690312023637
 'Bradley Cooper',en,unknown,#111111,#111111,3,0.3608954445603705
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,2,0.3607716484759088
 'Robert Menendez',en,unknown,#111111,#111111,2,0.3597930317281296
@@ -615,9 +615,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sandra Maischberger',en,Deutschland,#1818e8,#1818e8,2,0.2444237637414039
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.2442728481777811
 'Gorbatschow',en,unknown,#111111,#111111,1,0.2442384356743749
-'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2440379218749999
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2440379218749999
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2440379218749999
+'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2440379218749999
 'François Braun',en,unknown,#111111,#111111,1,0.2423645035258981
 'Fumio Kishida',en,Japan,#111111,#111111,3,0.241218987042182
 'Anthony ',en,Australien,#111111,#111111,3,0.2397172450642132
