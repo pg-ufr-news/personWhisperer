@@ -805,7 +805,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Schäuble',en,Deutschland,#1818e8,#1818e8,1,0.1099819358340184
 'Benjamin Netanjahu',en,Israel,#111111,#111111,1,0.1084347203837064
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.1075516537014959
-'Nikos Androulakis',en,Griechenland,#1858e8,#1858e8,1,0.10660344246899785
+'Nikos Androulakis',en,Griechenland,#1858e8,#1858e8,1,0.1066034424689978
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.1063121783439901
 'Stefan Rahmstorf',en,Deutschland,#1818e8,#1818e8,1,0.1044355301282682
 'Steffen Große',en,Deutschland,#1818e8,#1818e8,1,0.103892870215073
@@ -814,7 +814,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winfried Kretschmann',en,Deutschland,#1818e8,#1818e8,1,0.1021721614652549
 'Frank Plasberg',en,Deutschland,#1818e8,#1818e8,1,0.1021666052941535
 'Yanis Varoufakis',en,Griechenland,#1858e8,#1858e8,1,0.102105240474468
-'Faisal Kawusi',en,Deutschland,#1818e8,#1818e8,1,0.1002090718094275
 'Chez Krömer',en,Deutschland,#1818e8,#1818e8,1,0.1000121974050872
 'Jewgenij Roisman',en,Russland,#e81818,#e81818,1,0.0996049671635477
 'Sergej Lawrow',en,Russland,#e81818,#e81818,1,0.0992418583621143
@@ -839,6 +838,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Amin Nasser',en,SaudiArabien,#111111,#111111,1,0.0891881330159011
 'Klaus Hasselmann',en,Deutschland,#1818e8,#1818e8,1,0.0875784932781971
 'Wolodymyr Selenski',en,Ukraine,#e818e8,#e818e8,1,0.0853857072264503
+'Faisal Kawusi',en,Deutschland,#1818e8,#1818e8,1,0.08517771103801337
 'Ali Chamenei',en,Iran,#111111,#111111,1,0.0849828870322317
 'Martin Sonneborn',en,Deutschland,#1818e8,#1818e8,1,0.0849028560485927
 'Ulrich Reitz',en,Deutschland,#1818e8,#1818e8,1,0.0842657795377508
