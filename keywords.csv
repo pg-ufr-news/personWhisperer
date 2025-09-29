@@ -789,7 +789,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Selenski',en,Ukraine,#e818e8,#e818e8,1,0.1241225429464252
 'Selenskyj',en,Ukraine,#e818e8,#e818e8,1,0.1233248047386064
 'Gabor Steingart',en,Deutschland,#1818e8,#1818e8,1,0.1228960403892998
-'Nikos Androulakis',en,Griechenland,#1858e8,#1858e8,1,0.1222390264341151
 'Martin Schirdewan',en,Deutschland,#1818e8,#1818e8,1,0.1221393562164923
 'Jan Böhmermann',en,Deutschland,#1818e8,#1818e8,1,0.1201410888172818
 'Stephan Harbarth',en,Deutschland,#1818e8,#1818e8,1,0.1178945717546694
@@ -806,6 +805,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Schäuble',en,Deutschland,#1818e8,#1818e8,1,0.1099819358340184
 'Benjamin Netanjahu',en,Israel,#111111,#111111,1,0.1084347203837064
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.1075516537014959
+'Nikos Androulakis',en,Griechenland,#1858e8,#1858e8,1,0.10660344246899785
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.1063121783439901
 'Stefan Rahmstorf',en,Deutschland,#1818e8,#1818e8,1,0.1044355301282682
 'Steffen Große',en,Deutschland,#1818e8,#1818e8,1,0.103892870215073
