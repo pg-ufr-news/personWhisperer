@@ -584,7 +584,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.266573716299375
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.2663732025
 'Maria Sacharowa',en,unknown,#111111,#111111,1,0.2662231875
-'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.2662231875
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.2662231875
 'Rishi Sunak',en,UK,#e838e8,#e838e8,3,0.265694943046221
 'Annalena Baerbock',en,Deutschland,#1818e8,#1818e8,3,0.2648909508118078
@@ -615,9 +614,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sandra Maischberger',en,Deutschland,#1818e8,#1818e8,2,0.2444237637414039
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.2442728481777811
 'Gorbatschow',en,unknown,#111111,#111111,1,0.2442384356743749
-'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2440379218749999
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2440379218749999
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2440379218749999
+'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2440379218749999
 'François Braun',en,unknown,#111111,#111111,1,0.2423645035258981
 'Fumio Kishida',en,Japan,#111111,#111111,3,0.241218987042182
 'Anthony ',en,Australien,#111111,#111111,3,0.2397172450642132
@@ -639,6 +638,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matthias Müller',en,Deutschland,#1818e8,#1818e8,1,0.2285554939281281
 'Michael Sandel',en,USA,#18e8e8,#18e8e8,1,0.2274157244837167
 'Kevin Kühnert',en,Deutschland,#1818e8,#1818e8,2,0.2266686225201619
+'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.226289709375
 'Wagner-Chef Prigoschin',en,unknown,#111111,#111111,1,0.2258261310183481
 'Saskia Esken',en,Deutschland,#1818e8,#1818e8,2,0.2256539630504326
 'Marguerite Cazeneuve',en,unknown,#111111,#111111,1,0.2255313971934661
@@ -838,7 +838,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Amin Nasser',en,SaudiArabien,#111111,#111111,1,0.0891881330159011
 'Klaus Hasselmann',en,Deutschland,#1818e8,#1818e8,1,0.0875784932781971
 'Wolodymyr Selenski',en,Ukraine,#e818e8,#e818e8,1,0.0853857072264503
-'Faisal Kawusi',en,Deutschland,#1818e8,#1818e8,1,0.08517771103801337
+'Faisal Kawusi',en,Deutschland,#1818e8,#1818e8,1,0.0851777110380133
 'Ali Chamenei',en,Iran,#111111,#111111,1,0.0849828870322317
 'Martin Sonneborn',en,Deutschland,#1818e8,#1818e8,1,0.0849028560485927
 'Ulrich Reitz',en,Deutschland,#1818e8,#1818e8,1,0.0842657795377508
