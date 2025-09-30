@@ -295,7 +295,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kanye West',en,USA,#18e8e8,#18e8e8,3,0.394949840065868
 'Cruz Beckham',en,unknown,#111111,#111111,3,0.3948394260474412
 'Jessica Biel',en,unknown,#111111,#111111,2,0.3947975027312674
-'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.39465764964795574
+'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.3946576496479557
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.394637604664062
 'Matt Winkelmeyer',en,unknown,#111111,#111111,2,0.394601458643609
 'nan nan',en,unknown,#111111,#111111,2,0.3942603856382875
@@ -791,7 +791,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gabor Steingart',en,Deutschland,#1818e8,#1818e8,1,0.1228960403892998
 'Martin Schirdewan',en,Deutschland,#1818e8,#1818e8,1,0.1221393562164923
 'Jan Böhmermann',en,Deutschland,#1818e8,#1818e8,1,0.1201410888172818
-'Stephan Harbarth',en,Deutschland,#1818e8,#1818e8,1,0.1178945717546694
 'Wolodymyr Selenskyj',en,Ukraine,#e818e8,#e818e8,1,0.1168924150396175
 'Patrick Pouyanné',en,Frankreich,#e8e808,#e8e808,2,0.1167028995116516
 'Wladimir Putin',en,Russland,#e81818,#e81818,1,0.1159473358026592
@@ -814,6 +813,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winfried Kretschmann',en,Deutschland,#1818e8,#1818e8,1,0.1021721614652549
 'Frank Plasberg',en,Deutschland,#1818e8,#1818e8,1,0.1021666052941535
 'Yanis Varoufakis',en,Griechenland,#1858e8,#1858e8,1,0.102105240474468
+'Stephan Harbarth',en,Deutschland,#1818e8,#1818e8,1,0.10021038599146899
 'Chez Krömer',en,Deutschland,#1818e8,#1818e8,1,0.1000121974050872
 'Jewgenij Roisman',en,Russland,#e81818,#e81818,1,0.0996049671635477
 'Sergej Lawrow',en,Russland,#e81818,#e81818,1,0.0992418583621143
