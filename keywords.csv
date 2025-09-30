@@ -115,7 +115,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Meadows',en,unknown,#111111,#111111,3,0.4273903153523611
 'Léon XIV',en,unknown,#111111,#111111,2,0.4268463919830752
 'Lewis Kaplan',en,unknown,#111111,#111111,3,0.4266894931156113
-'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.426389843970857
 'LeBron James',en,unknown,#111111,#111111,3,0.4263512152959414
 'Hailey Bieber',en,unknown,#111111,#111111,3,0.4262406806820313
 'Mark Cuban',en,unknown,#111111,#111111,3,0.42575876917349
@@ -296,6 +295,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kanye West',en,USA,#18e8e8,#18e8e8,3,0.394949840065868
 'Cruz Beckham',en,unknown,#111111,#111111,3,0.3948394260474412
 'Jessica Biel',en,unknown,#111111,#111111,2,0.3947975027312674
+'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.39465764964795574
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.394637604664062
 'Matt Winkelmeyer',en,unknown,#111111,#111111,2,0.394601458643609
 'nan nan',en,unknown,#111111,#111111,2,0.3942603856382875
@@ -538,7 +538,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.3089373655988346
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3072351945
 'Julian Reichelt',en,Deutschland,#1818e8,#1818e8,2,0.3072114763998855
-'Gwede Mantashe',en,unknown,#111111,#111111,1,0.30719081302683277
+'Gwede Mantashe',en,unknown,#111111,#111111,1,0.3071908130268327
 'Reinhard Marx',en,Deutschland,#1818e8,#1818e8,1,0.3071900777749999
 'Merrill McCollum',en,USA,#18e8e8,#18e8e8,1,0.3063970979589374
 'Giorgia Meloni',en,Italien,#111111,#111111,3,0.3062708534063517
