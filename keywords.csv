@@ -448,7 +448,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peregrine Pearson',en,unknown,#111111,#111111,1,0.3619517298160702
 'Camille Cottin',en,unknown,#111111,#111111,1,0.3618049566722732
 'Robert Badinter',en,unknown,#111111,#111111,1,0.3617923654366854
-'Gwede Mantashe',en,unknown,#111111,#111111,1,0.3614009565021562
 'Cillian Murphy',en,Irland,#111111,#111111,3,0.3610690312023637
 'Bradley Cooper',en,unknown,#111111,#111111,3,0.3608954445603705
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,2,0.3607716484759088
@@ -539,6 +538,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.3089373655988346
 'Peter Tschentscher',en,Deutschland,#1818e8,#1818e8,1,0.3072351945
 'Julian Reichelt',en,Deutschland,#1818e8,#1818e8,2,0.3072114763998855
+'Gwede Mantashe',en,unknown,#111111,#111111,1,0.30719081302683277
 'Reinhard Marx',en,Deutschland,#1818e8,#1818e8,1,0.3071900777749999
 'Merrill McCollum',en,USA,#18e8e8,#18e8e8,1,0.3063970979589374
 'Giorgia Meloni',en,Italien,#111111,#111111,3,0.3062708534063517
