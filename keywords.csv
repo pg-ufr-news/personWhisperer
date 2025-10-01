@@ -628,7 +628,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joana Cotar',en,Deutschland,#1818e8,#1818e8,2,0.2351355738865783
 'Friedrich Merz',en,Deutschland,#1818e8,#1818e8,3,0.233134248070145
 'Dalai Lama',en,Tibet,#111111,#111111,3,0.2325493460489374
-'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.23225186736312567
+'Benjamin Nethanaju',en,Israel,#111111,#111111,1,0.2322518673631256
 'Schellnhuber',en,Deutschland,#1818e8,#1818e8,2,0.2318943650865713
 'Joschka Fischer',en,Deutschland,#1818e8,#1818e8,1,0.2312800224899858
 'Hun Sen',en,Kambodscha,#111111,#111111,3,0.2302408503300224
@@ -683,7 +683,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Antony Blinken',en,USA,#18e8e8,#18e8e8,3,0.199068191882527
 'Joko Widodo',en,Indonesien,#111111,#111111,3,0.1973649177227948
 'Kim Jong-un',en,NordKorea,#e85858,#e85858,3,0.1966427331566715
-'Karl Nehammer',en,Oesterreich,#111111,#111111,2,0.1959981726832764
 'Paul Kagame',en,Ruanda,#111111,#111111,2,0.1959346358169176
 'Thierry Breton',en,EU,#111111,#111111,3,0.195529511703006
 'Rainer Maria Woelki',en,Deutschland,#1818e8,#1818e8,2,0.1952060872523144
@@ -734,6 +733,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lael Brainard',en,USA,#18e8e8,#18e8e8,1,0.1693440504326554
 'Sahra Wagenknecht',en,Deutschland,#1818e8,#1818e8,1,0.1690026935783271
 'Sergey Brin',en,USA,#18e8e8,#18e8e8,2,0.1682739976179721
+'Karl Nehammer',en,Oesterreich,#111111,#111111,2,0.16689847678078495
 'Justin Trudeau',en,Kanada,#111111,#111111,3,0.166648875106548
 'Thomas Bayes',en,UK,#e838e8,#e838e8,1,0.1638378620386333
 'Andreas Jung',en,Deutschland,#1818e8,#1818e8,1,0.1626560804347895
@@ -743,10 +743,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.1607073269345792
 'Jean-Denis Combrexelle',en,unknown,#111111,#111111,1,0.1605929618736927
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
-'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.1596048912553769
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1595440828683983
 'König Charles III',en,UK,#e838e8,#e838e8,1,0.1594131421112861
