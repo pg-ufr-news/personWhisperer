@@ -499,7 +499,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jan Lipavský',en,Tschechien,#111111,#111111,1,0.3410184166481249
 'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.3407477198811688
 'Yaël Braun-Pivet',en,unknown,#111111,#111111,1,0.3394825505353268
-'Paul-Henry Nargeolet',en,Frankreich,#e8e808,#e8e808,3,0.3391518067977272
 'Bruno Retailleau',en,Frankreich,#e8e808,#e8e808,2,0.3390892955819233
 'Barbara Sturm',en,Deutschland,#1818e8,#1818e8,2,0.3382935405793439
 'Ed McVey',en,UK,#e838e8,#e838e8,1,0.3382402632177319
@@ -555,6 +554,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jens Stoltenberg',en,Norwegen,#e818e8,#e818e8,3,0.2902723797470035
 'Olivier Marleix',en,Frankreich,#e8e808,#e8e808,1,0.2902067868125268
 'Liz Truss',en,UK,#e838e8,#e838e8,3,0.288453085811433
+'Paul-Henry Nargeolet',en,Frankreich,#e8e808,#e8e808,1,0.2882790357780681
 'Tim Müller',en,Deutschland,#1818e8,#1818e8,1,0.2868081261231731
 'Hamish Harding',en,UK,#e838e8,#e838e8,2,0.2866858959766135
 'Lars Klingbeil',en,Deutschland,#1818e8,#1818e8,2,0.286647458041668
