@@ -302,7 +302,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laura Ingraham',en,USA,#18e8e8,#18e8e8,3,0.3938946273010715
 'Jack Antonoff',en,unknown,#111111,#111111,2,0.3938720686086592
 'Geoffrey Hinton',en,UK,#e838e8,#e838e8,3,0.3933352143676561
-'Leonardo DiCaprio',en,USA,#18e8e8,#18e8e8,3,0.3932127394749063
 'Alex Jones',en,unknown,#111111,#111111,3,0.392996174189314
 'Jake Tapper',en,unknown,#111111,#111111,3,0.3929500047140949
 'Chip Somodevilla',en,USA,#18e8e8,#18e8e8,3,0.3928730043976705
@@ -454,6 +453,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Menendez',en,unknown,#111111,#111111,2,0.3597930317281296
 'Tiffany Chen',en,USA,#18e8e8,#18e8e8,2,0.3596866215582907
 'Jean-Luc Mélenchon',en,unknown,#111111,#111111,2,0.3594313078275103
+'Leonardo DiCaprio',en,USA,#18e8e8,#18e8e8,3,0.35927948372608415
 'Joy Behar',en,unknown,#111111,#111111,3,0.3591531291267809
 'Devon Archer',en,unknown,#111111,#111111,2,0.3587538482169662
 'Kemal Kilicdaroglu',en,Türkei,#111111,#111111,2,0.358678357602557
@@ -733,7 +733,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lael Brainard',en,USA,#18e8e8,#18e8e8,1,0.1693440504326554
 'Sahra Wagenknecht',en,Deutschland,#1818e8,#1818e8,1,0.1690026935783271
 'Sergey Brin',en,USA,#18e8e8,#18e8e8,2,0.1682739976179721
-'Karl Nehammer',en,Oesterreich,#111111,#111111,2,0.16689847678078495
+'Karl Nehammer',en,Oesterreich,#111111,#111111,2,0.1668984767807849
 'Justin Trudeau',en,Kanada,#111111,#111111,3,0.166648875106548
 'Thomas Bayes',en,UK,#e838e8,#e838e8,1,0.1638378620386333
 'Andreas Jung',en,Deutschland,#1818e8,#1818e8,1,0.1626560804347895
