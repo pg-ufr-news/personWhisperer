@@ -201,7 +201,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Berkshire Hathaway',en,USA,#18e8e8,#18e8e8,3,0.4090594962127167
 'Chris Hemsworth',en,unknown,#111111,#111111,3,0.4085847330236144
 'Finnegan Biden',en,USA,#18e8e8,#18e8e8,2,0.408326584215557
-'Benny Safdie',en,unknown,#111111,#111111,2,0.4081430721465018
 'Mary Lou McDonald',en,Irland,#111111,#111111,3,0.407910047
 'Brad Pitt',en,unknown,#111111,#111111,3,0.4077473559598492
 'Adolf Hitler',en,Deutschland,#1818e8,#1818e8,3,0.407361853270852
@@ -389,6 +388,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Julia Louis-Dreyfus',en,unknown,#111111,#111111,3,0.3771300851004842
 'Tim Scott',en,USA,#18e8e8,#18e8e8,3,0.3769338003657941
 'Herschel Walker',en,USA,#18e8e8,#18e8e8,2,0.3766604086611476
+'Benny Safdie',en,unknown,#111111,#111111,3,0.37642519632452653
 'Chris Hipkins',en,Neuseeland,#1818e8,#1818e8,3,0.3763690683000004
 'nan Si',en,unknown,#111111,#111111,1,0.3763188631801449
 'Faith Birol',en,unknown,#111111,#111111,1,0.3762829483975
