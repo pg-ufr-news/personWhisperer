@@ -388,7 +388,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Julia Louis-Dreyfus',en,unknown,#111111,#111111,3,0.3771300851004842
 'Tim Scott',en,USA,#18e8e8,#18e8e8,3,0.3769338003657941
 'Herschel Walker',en,USA,#18e8e8,#18e8e8,2,0.3766604086611476
-'Benny Safdie',en,unknown,#111111,#111111,3,0.37642519632452653
+'Benny Safdie',en,unknown,#111111,#111111,3,0.3764251963245265
 'Chris Hipkins',en,Neuseeland,#1818e8,#1818e8,3,0.3763690683000004
 'nan Si',en,unknown,#111111,#111111,1,0.3763188631801449
 'Faith Birol',en,unknown,#111111,#111111,1,0.3762829483975
@@ -527,7 +527,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Nozick',en,USA,#18e8e8,#18e8e8,2,0.3145020331079117
 'Kemal Kiliçdaroglu',en,Türkei,#111111,#111111,1,0.3142873823099106
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
-'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.3126485998643124
 'Lyna Khoudri',en,unknown,#111111,#111111,1,0.3110620007848081
 'Benjamin Hasselhorn',en,unknown,#111111,#111111,1,0.3105937187499999
 'Steve Milloy',en,USA,#18e8e8,#18e8e8,1,0.3104475480099431
@@ -568,11 +567,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boris Palmer',en,Deutschland,#1818e8,#1818e8,2,0.2733193360585281
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.2713462700287037
 'Shahzada Dawood',en,Pakistan,#111111,#111111,1,0.2708666586735794
+'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.2706602406249999
+'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.2706602406249999
 'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.2706602406249999
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.2706602406249999
 'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.2706602406249999
-'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.2706602406249999
-'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.2706602406249999
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.270626545570404
 'François Bayrou',en,unknown,#111111,#111111,2,0.2692801960093696
 'Georg Gänswein',en,Deutschland,#1818e8,#1818e8,1,0.268547120299375
@@ -580,10 +579,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.2666520250669687
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.266573716299375
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.2663732025
-'Melanie Guttmann',en,unknown,#111111,#111111,1,0.2662231875
 'Maria Sacharowa',en,unknown,#111111,#111111,1,0.2662231875
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.2662231875
+'Melanie Guttmann',en,unknown,#111111,#111111,1,0.2662231875
 'Christian Dürr',en,unknown,#111111,#111111,1,0.2662048043022091
+'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.26605133988466556
 'Rishi Sunak',en,UK,#e838e8,#e838e8,3,0.265694943046221
 'Annalena Baerbock',en,Deutschland,#1818e8,#1818e8,3,0.2648909508118078
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.2647351944999999
