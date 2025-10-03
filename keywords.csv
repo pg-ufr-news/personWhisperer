@@ -676,7 +676,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sundar Pichai',en,USA,#18e8e8,#18e8e8,2,0.2037454911510787
 'Andreas Baum',en,Deutschland,#1818e8,#1818e8,1,0.2027470980839064
 'Nancy Faeser',en,Deutschland,#1818e8,#1818e8,2,0.2025913901087565
-'Edward Snowden',en,USA,#18e8e8,#18e8e8,2,0.2022192049329624
 'Aleksandar Vucic',en,Serbien,#111111,#111111,3,0.2000764247801457
 'Salvador Dali',en,Spanien,#111111,#111111,1,0.1994050903953514
 'Mohammed bin Salman',en,SaudiArabien,#111111,#111111,2,0.199302301329668
@@ -725,6 +724,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alberto Ángel Fernández',en,Argentinien,#111111,#111111,2,0.1738234930430848
 'Dieter Bohlen',en,Deutschland,#1818e8,#1818e8,1,0.173562802588385
 'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.1731116276718749
+'Edward Snowden',en,USA,#18e8e8,#18e8e8,1,0.17188677419301804
 'Fidel Castro',en,Kuba,#111111,#111111,2,0.1718684397276514
 'Tino Chrupalla',en,Deutschland,#1818e8,#1818e8,2,0.1709994491436198
 'Greta Thunberg',en,Schweden,#111111,#111111,2,0.1709475994947313
@@ -858,4 +858,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.0721709001772753
 'Katalin Novak',en,Ungarn,#111111,#111111,1,0.0721205607764846
 'Michael Kretschmer',en,Deutschland,#1818e8,#1818e8,1,0.0719051994379377
-'Kurt Krömer',en,Deutschland,#1818e8,#1818e8,1,0.05240365235786798
+'Kurt Krömer',en,Deutschland,#1818e8,#1818e8,1,0.0524036523578679
