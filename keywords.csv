@@ -127,7 +127,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 "'Dwayne ""The Rock"" Johnson'",en,unknown,#111111,#111111,3,0.423910450039836
 'Adam Driver',en,unknown,#111111,#111111,3,0.4234875840798056
 'Sophie Turner',en,unknown,#111111,#111111,3,0.423425345005767
-'Chris Stapleton',en,unknown,#111111,#111111,3,0.4232389493764502
 'Billie Eilish',en,unknown,#111111,#111111,3,0.4231110614965397
 'Eva Green',en,unknown,#111111,#111111,3,0.4227806444809336
 'Lara Trump',en,unknown,#111111,#111111,3,0.4226405380464945
@@ -317,6 +316,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Francis Ford Coppola',en,unknown,#111111,#111111,3,0.3904199874327961
 'Miley Cyrus',en,unknown,#111111,#111111,3,0.3903348239677816
 'Michael Walzer',en,USA,#18e8e8,#18e8e8,1,0.3900818735987499
+'Chris Stapleton',en,unknown,#111111,#111111,3,0.3899663759354999
 'Sheryl Crow',en,unknown,#111111,#111111,3,0.3899055221323551
 'Ana Navarro',en,unknown,#111111,#111111,3,0.3897065375680558
 'Lauren Sánchez',en,USA,#18e8e8,#18e8e8,2,0.3895290462227273
@@ -724,7 +724,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alberto Ángel Fernández',en,Argentinien,#111111,#111111,2,0.1738234930430848
 'Dieter Bohlen',en,Deutschland,#1818e8,#1818e8,1,0.173562802588385
 'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.1731116276718749
-'Edward Snowden',en,USA,#18e8e8,#18e8e8,1,0.17188677419301804
+'Edward Snowden',en,USA,#18e8e8,#18e8e8,1,0.171886774193018
 'Fidel Castro',en,Kuba,#111111,#111111,2,0.1718684397276514
 'Tino Chrupalla',en,Deutschland,#1818e8,#1818e8,2,0.1709994491436198
 'Greta Thunberg',en,Schweden,#111111,#111111,2,0.1709475994947313
