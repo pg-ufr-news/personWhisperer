@@ -527,7 +527,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Nozick',en,USA,#18e8e8,#18e8e8,2,0.3145020331079117
 'Kemal Kiliçdaroglu',en,Türkei,#111111,#111111,1,0.3142873823099106
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
-'Lyna Khoudri',en,unknown,#111111,#111111,1,0.3110620007848081
 'Benjamin Hasselhorn',en,unknown,#111111,#111111,1,0.3105937187499999
 'Steve Milloy',en,USA,#18e8e8,#18e8e8,1,0.3104475480099431
 'Mareike Fallwickl',en,unknown,#111111,#111111,1,0.310132331215691
@@ -585,6 +584,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Dürr',en,unknown,#111111,#111111,1,0.2662048043022091
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.2660513398846655
 'Rishi Sunak',en,UK,#e838e8,#e838e8,3,0.265694943046221
+'Lyna Khoudri',en,unknown,#111111,#111111,1,0.2650027606670869
 'Annalena Baerbock',en,Deutschland,#1818e8,#1818e8,3,0.2648909508118078
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.2647351944999999
 'Jacques Doriot',en,unknown,#111111,#111111,1,0.2635227662437715
@@ -841,7 +841,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ali Chamenei',en,Iran,#111111,#111111,1,0.0849828870322317
 'Martin Sonneborn',en,Deutschland,#1818e8,#1818e8,1,0.0849028560485927
 'Ulrich Reitz',en,Deutschland,#1818e8,#1818e8,1,0.0842657795377508
-'Ulf Poschardt',en,Deutschland,#1818e8,#1818e8,1,0.08290795950365581
+'Ulf Poschardt',en,Deutschland,#1818e8,#1818e8,1,0.0829079595036558
 'Valery Gerasimov',en,Russland,#e81818,#e81818,1,0.0823769784789578
 'Igor Setschin',en,Russland,#e81818,#e81818,1,0.0813319142811791
 'Luisa Neubauer',en,Deutschland,#1818e8,#1818e8,1,0.0793549647187335
