@@ -75,7 +75,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Radical Optimism',en,unknown,#111111,#111111,3,0.4406333960161955
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.4401643720580503
 'Lil Yachty',en,unknown,#111111,#111111,2,0.4401640890990701
-'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.4393450350908844
 'Jared Kushner',en,unknown,#111111,#111111,3,0.4386865536117716
 'Olivia Rodrigo',en,unknown,#111111,#111111,3,0.4384650758556641
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.438328557806989
@@ -272,6 +271,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Alwyn',en,unknown,#111111,#111111,2,0.3979871360458984
 'Michael Cohen',en,USA,#18e8e8,#18e8e8,3,0.3979750659735508
 'Pope Leo',en,unknown,#111111,#111111,3,0.3977712686765411
+'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.39747795353692916
 'David Koch',en,unknown,#111111,#111111,3,0.3974271430474869
 'Sam H',en,unknown,#111111,#111111,2,0.3973205540488556
 'Viktor Shokin',en,unknown,#111111,#111111,1,0.3970082889217202
