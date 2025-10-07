@@ -271,7 +271,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Alwyn',en,unknown,#111111,#111111,2,0.3979871360458984
 'Michael Cohen',en,USA,#18e8e8,#18e8e8,3,0.3979750659735508
 'Pope Leo',en,unknown,#111111,#111111,3,0.3977712686765411
-'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.39747795353692916
+'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.3974779535369291
 'David Koch',en,unknown,#111111,#111111,3,0.3974271430474869
 'Sam H',en,unknown,#111111,#111111,2,0.3973205540488556
 'Viktor Shokin',en,unknown,#111111,#111111,1,0.3970082889217202
@@ -527,7 +527,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Nozick',en,USA,#18e8e8,#18e8e8,2,0.3145020331079117
 'Kemal Kiliçdaroglu',en,Türkei,#111111,#111111,1,0.3142873823099106
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.3128841453327725
-'Benjamin Hasselhorn',en,unknown,#111111,#111111,1,0.3105937187499999
 'Steve Milloy',en,USA,#18e8e8,#18e8e8,1,0.3104475480099431
 'Mareike Fallwickl',en,unknown,#111111,#111111,1,0.310132331215691
 'Mike Pence',en,USA,#18e8e8,#18e8e8,3,0.3089373655988346
@@ -588,6 +587,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lyna Khoudri',en,unknown,#111111,#111111,1,0.2650027606670869
 'Annalena Baerbock',en,Deutschland,#1818e8,#1818e8,3,0.2648909508118078
 'Malu Dreyer',en,Deutschland,#1818e8,#1818e8,1,0.2647351944999999
+'Benjamin Hasselhorn',en,unknown,#111111,#111111,1,0.2640046609374999
 'Jacques Doriot',en,unknown,#111111,#111111,1,0.2635227662437715
 'Sophia Chikirou',en,unknown,#111111,#111111,1,0.2632591513820523
 'Laura Maria Rypa',en,unknown,#111111,#111111,1,0.2630750968431297
@@ -614,9 +614,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sandra Maischberger',en,Deutschland,#1818e8,#1818e8,2,0.2444237637414039
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.2442728481777811
 'Gorbatschow',en,unknown,#111111,#111111,1,0.2442384356743749
-'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2440379218749999
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2440379218749999
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2440379218749999
+'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2440379218749999
 'François Braun',en,unknown,#111111,#111111,1,0.2423645035258981
 'Fumio Kishida',en,Japan,#111111,#111111,3,0.241218987042182
 'Anthony ',en,Australien,#111111,#111111,3,0.2397172450642132
