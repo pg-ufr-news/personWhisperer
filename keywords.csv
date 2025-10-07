@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pat McAfee',en,unknown,#111111,#111111,3,0.4694919830033678
 'Joe Jonas',en,unknown,#111111,#111111,3,0.4694881126354004
 'Francesca Albanese',en,Italien,#111111,#111111,3,0.4692376620110677
-'James Comey',en,unknown,#111111,#111111,3,0.46882039425787503
+'James Comey',en,unknown,#111111,#111111,3,0.468820394257875
 'Jennifer Garner',en,unknown,#111111,#111111,3,0.4686425332011358
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.4686009903766109
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.4678592201147728
@@ -858,4 +858,3 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.0723396394693468
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.0721709001772753
 'Katalin Novak',en,Ungarn,#111111,#111111,1,0.0721205607764846
-'Michael Kretschmer',en,Deutschland,#1818e8,#1818e8,1,0.0522290343439099
