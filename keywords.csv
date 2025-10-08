@@ -213,7 +213,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alvin Bragg',en,USA,#18e8e8,#18e8e8,3,0.4059719168387483
 'George Miller',en,unknown,#111111,#111111,3,0.4059020607355846
 'Nancy Mace',en,unknown,#111111,#111111,3,0.4053389904775589
-'Jerry Seinfeld',en,unknown,#111111,#111111,3,0.40531072874829543
+'Jerry Seinfeld',en,unknown,#111111,#111111,3,0.4053107287482954
 'Gavin Newsom',en,unknown,#111111,#111111,3,0.4051900359807795
 'Antonio Brown',en,unknown,#111111,#111111,3,0.4050791796721773
 'Ayo Edebiri',en,unknown,#111111,#111111,3,0.4047930057535533
@@ -360,7 +360,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jake Gyllenhaal',en,unknown,#111111,#111111,3,0.3840633793088598
 'Jordan Neely',en,USA,#18e8e8,#18e8e8,1,0.3840488497334579
 'Oisin Fanning',en,Irland,#111111,#111111,1,0.38350041625
-'Jimmy Carter',en,USA,#18e8e8,#18e8e8,3,0.3832220366334228
 'Willem Dafoe',en,unknown,#111111,#111111,3,0.3831414562660519
 'Rand Paul',en,unknown,#111111,#111111,3,0.3826937248065604
 'Linda Yaccarino',en,USA,#18e8e8,#18e8e8,1,0.38240500854276
@@ -449,6 +448,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cillian Murphy',en,Irland,#111111,#111111,3,0.3610690312023637
 'Bradley Cooper',en,unknown,#111111,#111111,3,0.3608954445603705
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,2,0.3607716484759088
+'Jimmy Carter',en,USA,#18e8e8,#18e8e8,3,0.3602424811384094
 'Robert Menendez',en,unknown,#111111,#111111,2,0.3597930317281296
 'Tiffany Chen',en,USA,#18e8e8,#18e8e8,2,0.3596866215582907
 'Jean-Luc Mélenchon',en,unknown,#111111,#111111,2,0.3594313078275103
@@ -614,9 +614,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sandra Maischberger',en,Deutschland,#1818e8,#1818e8,2,0.2444237637414039
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.2442728481777811
 'Gorbatschow',en,unknown,#111111,#111111,1,0.2442384356743749
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2440379218749999
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.2440379218749999
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.2440379218749999
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.2440379218749999
 'François Braun',en,unknown,#111111,#111111,1,0.2423645035258981
 'Fumio Kishida',en,Japan,#111111,#111111,3,0.241218987042182
 'Anthony ',en,Australien,#111111,#111111,3,0.2397172450642132
