@@ -164,7 +164,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pedro Pascal',en,unknown,#111111,#111111,3,0.4154405684136471
 'Bill Belichick',en,unknown,#111111,#111111,3,0.4153031150944907
 'Kylie Kelce',en,unknown,#111111,#111111,3,0.4152522173088588
-'Jerry Seinfeld',en,unknown,#111111,#111111,3,0.4148346691156417
 'Reed Richards',en,unknown,#111111,#111111,3,0.4148138029323683
 'Ron Howard',en,unknown,#111111,#111111,3,0.414758369603088
 'Laurent Berger',en,Frankreich,#e8e808,#e8e808,1,0.4144545539451922
@@ -214,6 +213,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alvin Bragg',en,USA,#18e8e8,#18e8e8,3,0.4059719168387483
 'George Miller',en,unknown,#111111,#111111,3,0.4059020607355846
 'Nancy Mace',en,unknown,#111111,#111111,3,0.4053389904775589
+'Jerry Seinfeld',en,unknown,#111111,#111111,3,0.40531072874829543
 'Gavin Newsom',en,unknown,#111111,#111111,3,0.4051900359807795
 'Antonio Brown',en,unknown,#111111,#111111,3,0.4050791796721773
 'Ayo Edebiri',en,unknown,#111111,#111111,3,0.4047930057535533
