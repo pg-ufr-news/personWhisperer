@@ -1,10 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Greta Thunberg',en,Schweden,#111111,#111111,2,0.5175377868432488
-'Iyad al-Rantisi',en,Palestina,#111111,#111111,2,0.5
 'Volker Wieland',en,Deutschland,#111111,#111111,2,0.5
 'Adnan al-Burj',en,Palestina,#111111,#111111,2,0.5
 'Khaled al Serr',en,Palestina,#111111,#111111,2,0.5
 'Munther Amira',en,Palestina,#111111,#111111,2,0.5
+'Iyad al-Rantisi',en,Palestina,#111111,#111111,2,0.5
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.4704755910967612
 'Sandy Hook',en,unknown,#111111,#111111,3,0.470008918993923
 'Ayatollah Khomeini',en,Iran,#111111,#111111,3,0.4699611006018565
@@ -15,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jennifer Garner',en,USA,#18e8e8,#18e8e8,3,0.4686425332011358
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.4686009903766109
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.4678592201147728
+'Greta Thunberg',en,Schweden,#111111,#111111,2,0.46759397654403423
 'Jason Kelce',en,unknown,#111111,#111111,3,0.4675272702557336
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.4675158013004009
 'Eddie Hearn',en,unknown,#111111,#111111,3,0.4671521037927336
