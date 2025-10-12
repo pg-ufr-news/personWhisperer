@@ -503,7 +503,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Malone',en,unknown,#111111,#111111,3,0.344133652966417
 'Kyle Pope',en,unknown,#111111,#111111,1,0.3440898213832953
 'Isaac Newton',en,UK,#e838e8,#e838e8,3,0.343819546867272
-'Rudolf Steiner',en,Oesterreich,#111111,#111111,1,0.3435430331076918
 'Kai Wegner',en,Deutschland,#1818e8,#1818e8,1,0.3430846826913157
 'Matt Lauer',en,unknown,#111111,#111111,1,0.3430634622554497
 'Cem Özdemir',en,Deutschland,#1818e8,#1818e8,2,0.3413336467196425
@@ -559,6 +558,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Suleika Jaouad',en,unknown,#111111,#111111,1,0.2945093636876431
 'Premier ministre',en,unknown,#111111,#111111,1,0.294332560596289
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.293322933515939
+'Rudolf Steiner',en,Oesterreich,#111111,#111111,1,0.292311623141538
 'Ferdinand Dudenhöffer',en,Deutschland,#1818e8,#1818e8,1,0.2921759602791249
 'Friederike Otto',en,Deutschland,#1818e8,#1818e8,1,0.2914819190027812
 'Jens Stoltenberg',en,Norwegen,#e818e8,#e818e8,3,0.2902723797470035
