@@ -432,7 +432,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerod Mayo',en,unknown,#111111,#111111,2,0.3695650160308142
 'Lauren Boebert',en,USA,#18e8e8,#18e8e8,3,0.3693501920090649
 'Drena De Niro',en,USA,#18e8e8,#18e8e8,2,0.3693221098636363
-'Greta Gerwig',en,unknown,#111111,#111111,2,0.36921570907314194
+'Greta Gerwig',en,unknown,#111111,#111111,2,0.3692157090731419
 'Afida Turner',en,Frankreich,#e8e808,#e8e808,1,0.3688026068634686
 'Petro Poroshenko',en,unknown,#111111,#111111,1,0.3685384025549144
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.3667259496198617
@@ -664,9 +664,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marlène Schiappa',en,unknown,#111111,#111111,1,0.2226069790479921
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.2225986352339375
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.2220026712499999
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2218526562499999
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Yoon Suk-yeol',en,SüdKorea,#111111,#111111,3,0.2212563484909562
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,1,0.2185231873055357
 'Michael Kahle',en,Deutschland,#1818e8,#1818e8,1,0.2181928889708125
@@ -857,7 +857,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Igor Setschin',en,Russland,#e81818,#e81818,1,0.0813319142811791
 'Gregor Gysi',en,Deutschland,#1818e8,#1818e8,1,0.0796725472172482
 'Luisa Neubauer',en,Deutschland,#1818e8,#1818e8,1,0.0793549647187335
-'Generalbundesanwalt Peter Frank',en,Deutschland,#1818e8,#1818e8,1,0.0792898128320868
 'Sergej Lavrov',en,Russland,#e81818,#e81818,1,0.0782058296490788
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.0779451634949702
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.076810548853533
@@ -868,4 +867,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ethan Bradley',en,USA,#18e8e8,#18e8e8,2,0.0734700489060472
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.0723396394693468
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.0721709001772753
+'Generalbundesanwalt Peter Frank',en,Deutschland,#1818e8,#1818e8,1,0.06739634090727378
 'Katalin Novak',en,Ungarn,#111111,#111111,1,0.0521071051610101
