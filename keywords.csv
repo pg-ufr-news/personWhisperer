@@ -264,7 +264,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,1,0.4007751275
 'Travis Kelce',en,unknown,#111111,#111111,3,0.4007036210955546
 'Irina Shayk',en,unknown,#111111,#111111,2,0.4005355044221617
-'Greta Gerwig',en,unknown,#111111,#111111,2,0.4004360537482884
 'Gayle King',en,unknown,#111111,#111111,3,0.4003499767638709
 'Sergio Mattarella',en,Italien,#111111,#111111,2,0.4001925296022727
 'Wang Wentao',en,China,#e88818,#e88818,3,0.3999777646488787
@@ -433,6 +432,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerod Mayo',en,unknown,#111111,#111111,2,0.3695650160308142
 'Lauren Boebert',en,USA,#18e8e8,#18e8e8,3,0.3693501920090649
 'Drena De Niro',en,USA,#18e8e8,#18e8e8,2,0.3693221098636363
+'Greta Gerwig',en,unknown,#111111,#111111,2,0.36921570907314194
 'Afida Turner',en,Frankreich,#e8e808,#e8e808,1,0.3688026068634686
 'Petro Poroshenko',en,unknown,#111111,#111111,1,0.3685384025549144
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.3667259496198617
@@ -664,14 +664,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marlène Schiappa',en,unknown,#111111,#111111,1,0.2226069790479921
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.2225986352339375
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.2220026712499999
+'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2218526562499999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
-'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
 'Yoon Suk-yeol',en,SüdKorea,#111111,#111111,3,0.2212563484909562
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,1,0.2185231873055357
 'Michael Kahle',en,Deutschland,#1818e8,#1818e8,1,0.2181928889708125
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,2,0.2175058004450625
-'Viktor Orbán',en,Ungarn,#111111,#111111,3,0.21678102985700548
+'Viktor Orbán',en,Ungarn,#111111,#111111,3,0.2167810298570054
 'Larry Ellison',en,USA,#18e8e8,#18e8e8,3,0.2151524799069186
 'Ursula von der Leyen',en,EU,#111111,#111111,3,0.2145914610119902
 'Warren Buffett',en,USA,#18e8e8,#18e8e8,2,0.2142821766320331
