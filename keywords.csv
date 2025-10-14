@@ -456,7 +456,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peregrine Pearson',en,unknown,#111111,#111111,1,0.3619517298160702
 'Camille Cottin',en,unknown,#111111,#111111,1,0.3618049566722732
 'Robert Badinter',en,unknown,#111111,#111111,1,0.3617923654366854
-'Stefan Kolev',en,Deutschland,#111111,#111111,1,0.36124999999999996
+'Stefan Kolev',en,Deutschland,#111111,#111111,1,0.3612499999999999
 'Cillian Murphy',en,Irland,#111111,#111111,3,0.3610690312023637
 'Bradley Cooper',en,unknown,#111111,#111111,3,0.3608954445603705
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,2,0.3607716484759088
@@ -658,7 +658,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marguerite Cazeneuve',en,unknown,#111111,#111111,1,0.2255313971934661
 'président de la République',en,unknown,#111111,#111111,1,0.2246312555629501
 'Karine Jean-Pierre',en,USA,#18e8e8,#18e8e8,3,0.2245664103292931
-'Viktor Orbán',en,Ungarn,#111111,#111111,3,0.2241244442762156
 'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,2,0.2238898789685879
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,3,0.223802778437948
 'Luc Terlinden',en,unknown,#111111,#111111,1,0.2234350604460097
@@ -672,6 +671,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,1,0.2185231873055357
 'Michael Kahle',en,Deutschland,#1818e8,#1818e8,1,0.2181928889708125
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,2,0.2175058004450625
+'Viktor Orbán',en,Ungarn,#111111,#111111,3,0.21678102985700548
 'Larry Ellison',en,USA,#18e8e8,#18e8e8,3,0.2151524799069186
 'Ursula von der Leyen',en,EU,#111111,#111111,3,0.2145914610119902
 'Warren Buffett',en,USA,#18e8e8,#18e8e8,2,0.2142821766320331
