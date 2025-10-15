@@ -647,7 +647,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joschka Fischer',en,Deutschland,#1818e8,#1818e8,1,0.2312800224899858
 'Hun Sen',en,Kambodscha,#111111,#111111,3,0.2302408503300224
 'Charles Michel',en,EU,#111111,#111111,3,0.2294120747899341
-'Gautam Adani',en,Indien,#111111,#111111,3,0.2291815237035603
 'Jens Spahn',en,Deutschland,#1818e8,#1818e8,1,0.2288372092545312
 'Matthias Müller',en,Deutschland,#1818e8,#1818e8,1,0.2285554939281281
 'Michael Sandel',en,USA,#18e8e8,#18e8e8,1,0.2274157244837167
@@ -662,10 +661,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Luc Terlinden',en,unknown,#111111,#111111,1,0.2234350604460097
 'Marlène Schiappa',en,unknown,#111111,#111111,1,0.2226069790479921
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.2225986352339375
+'Gautam Adani',en,Indien,#111111,#111111,3,0.22248429787529897
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.2220026712499999
-'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2218526562499999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
+'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
 'Yoon Suk-yeol',en,SüdKorea,#111111,#111111,3,0.2212563484909562
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,1,0.2185231873055357
 'Michael Kahle',en,Deutschland,#1818e8,#1818e8,1,0.2181928889708125
@@ -701,7 +701,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Miriam Adelson',en,USA,#18e8e8,#18e8e8,3,0.1940831153730318
 'David Malpass',en,USA,#18e8e8,#18e8e8,1,0.1923770590821915
 'Immanuel Kant',en,Deutschland,#1818e8,#1818e8,2,0.1919915532618756
-'Saskia Esken',en,Deutschland,#1818e8,#1818e8,1,0.19180588359286768
+'Saskia Esken',en,Deutschland,#1818e8,#1818e8,1,0.1918058835928676
 'Aurélien Rousseau',en,unknown,#111111,#111111,1,0.1912928125626652
 'Jair Bolsonaro',en,Brasilien,#58e838,#58e848,3,0.191220077650967
 'Charles Koch',en,USA,#18e8e8,#18e8e8,3,0.1909714172995987
@@ -760,8 +760,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.160288544140625
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
-'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.1602885441406249
+'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.1602885441406249
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.1596048912553769
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.1595440828683983
 'König Charles III',en,UK,#e838e8,#e838e8,1,0.1594131421112861
