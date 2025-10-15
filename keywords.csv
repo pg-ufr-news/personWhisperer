@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.4668058441424182
 'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.4662077231879415
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.4650267259940769
-'Javier Milei',en,Argentinien,#111111,#111111,3,0.4645711065155281
+'Javier Milei',en,Argentinien,#bb11cc,#bb11cc,3,0.4645711065155281
 'Sherri Shepherd',en,USA,#18e8e8,#18e8e8,3,0.4636128633383037
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.4629232464444818
 'Dua Lipa',en,UK,#e838e8,#e838e8,3,0.462656408026326
@@ -57,7 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andy Cohen',en,unknown,#111111,#111111,3,0.4503285563099509
 'Vinod Khosla',en,unknown,#111111,#111111,1,0.4499341433863636
 'Ryan Gosling',en,unknown,#111111,#111111,3,0.4497674587325411
-'David Beckham',en,unknown,#111111,#111111,2,0.448682487401623
+'David Beckham',en,UK,#e838e8,#e838e8,2,0.448682487401623
 'Ivanka Trump',en,unknown,#111111,#111111,3,0.4484103857354088
 'Joaquim Valente',en,unknown,#111111,#111111,2,0.4476062831451073
 'Keith Kellogg',en,unknown,#111111,#111111,3,0.4470770063304868
@@ -205,7 +205,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kevin McCarthy',en,USA,#18e8e8,#18e8e8,3,0.4094714433873795
 'Prince Harry',en,UK,#e838e8,#e838e8,3,0.4094499839178634
 'Matty Healy',en,unknown,#111111,#111111,2,0.4094319576586901
-'Victoria Beckham',en,unknown,#111111,#111111,3,0.4091184990000652
+'Victoria Beckham',en,UK,#e838e8,#e838e8,3,0.4091184990000652
 'Mahmud Abbas',en,Palistina,#111111,#111111,1,0.409075768645
 'Berkshire Hathaway',en,USA,#18e8e8,#18e8e8,3,0.4090594962127167
 'Chris Hemsworth',en,unknown,#111111,#111111,3,0.4085847330236144
@@ -350,12 +350,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Caroline Ellison',en,unknown,#111111,#111111,2,0.3868372884724917
 'Abraham Lincoln',en,unknown,#111111,#111111,3,0.3868265511260482
 'Maria Bartiromo',en,unknown,#111111,#111111,3,0.386723190736439
-'Lionel Messi',en,Argentinien,#111111,#111111,3,0.3867035267074307
+'Lionel Messi',en,Argentinien,#bb11cc,#bb11cc,3,0.3867035267074307
 'Hailey Van Lith',en,unknown,#111111,#111111,2,0.3865053476771335
 'Johnny Depp',en,USA,#18e8e8,#18e8e8,3,0.3863471999243401
 'Cristiano Ronaldo',en,Portugal,#111111,#111111,2,0.3862432000329546
 'Cara Delevingne',en,unknown,#111111,#111111,2,0.3856844648203191
-'Brooklyn Beckham',en,unknown,#111111,#111111,3,0.3856807415259285
+'Brooklyn Beckham',en,UK,#e838e8,#e838e8,3,0.3856807415259285
 'Andrea Arnold',en,unknown,#111111,#111111,2,0.385671814280316
 'Lance Bass',en,unknown,#111111,#111111,1,0.3856487052757034
 'Ted Cruz',en,USA,#18e8e8,#18e8e8,3,0.385593741133848
@@ -734,7 +734,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Drosten',en,Deutschland,#1818e8,#1818e8,2,0.1764376674725316
 'Rafael Grossi',en,UN,#e888e8,#e888e8,2,0.1753574323942936
 'Christine Lagarde',en,EU,#111111,#111111,3,0.174478726466027
-'Alberto Ángel Fernández',en,Argentinien,#111111,#111111,2,0.1738234930430848
+'Alberto Ángel Fernández',en,Argentinien,#bb11cc,#bb11cc,2,0.1738234930430848
 'Dieter Bohlen',en,Deutschland,#1818e8,#1818e8,1,0.173562802588385
 'Alfred Bernhard Nobel',en,Schweden,#111111,#111111,1,0.1731116276718749
 'Edward Snowden',en,USA,#18e8e8,#18e8e8,1,0.171886774193018
