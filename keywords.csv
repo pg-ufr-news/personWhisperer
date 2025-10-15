@@ -664,9 +664,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marlène Schiappa',en,unknown,#111111,#111111,1,0.2226069790479921
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.2225986352339375
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.2220026712499999
-'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2218526562499999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
+'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2218526562499999
 'Yoon Suk-yeol',en,SüdKorea,#111111,#111111,3,0.2212563484909562
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,1,0.2185231873055357
 'Michael Kahle',en,Deutschland,#1818e8,#1818e8,1,0.2181928889708125
@@ -741,6 +741,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fidel Castro',en,Kuba,#111111,#111111,2,0.1718684397276514
 'Tino Chrupalla',en,Deutschland,#1818e8,#1818e8,2,0.1709994491436198
 'Lula sa Silva',en,Brasilien,#58e838,#58e838,1,0.1709256340881491
+'John Kerry',en,USA,#18e8e8,#18e8e8,2,0.1694746902779259
 'Bodo Ramelow',en,Deutschland,#1818e8,#1818e8,2,0.1693969222938856
 'Lael Brainard',en,USA,#18e8e8,#18e8e8,1,0.1693440504326554
 'Sahra Wagenknecht',en,Deutschland,#1818e8,#1818e8,1,0.1690026935783271
@@ -775,7 +776,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Forrest',en,Australien,#111111,#111111,1,0.1513545018170211
 'Dimitry Peskov',en,Russland,#e81818,#e81818,2,0.1513210666214235
 'Daniel Freund',en,EU,#111111,#111111,1,0.1508721704192686
-'John Kerry',en,USA,#18e8e8,#18e8e8,2,0.1496125709152069
 'Joachim Gauck',en,Deutschland,#1818e8,#1818e8,1,0.1491947165939901
 'Christoph Heusgen',en,Deutschland,#1818e8,#1818e8,1,0.1490886010666645
 'Julian Assange',en,Australien,#111111,#111111,2,0.149083180581724
@@ -850,7 +850,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Faisal Kawusi',en,Deutschland,#1818e8,#1818e8,1,0.0851777110380133
 'Ali Chamenei',en,Iran,#111111,#111111,1,0.0849828870322317
 'Martin Sonneborn',en,Deutschland,#1818e8,#1818e8,1,0.0849028560485927
-'Jewgenij Roisman',en,Russland,#e81818,#e81818,1,0.08466422208901554
+'Jewgenij Roisman',en,Russland,#e81818,#e81818,1,0.0846642220890155
 'Ulrich Reitz',en,Deutschland,#1818e8,#1818e8,1,0.0842657795377508
 'Ulf Poschardt',en,Deutschland,#1818e8,#1818e8,1,0.0829079595036558
 'Valery Gerasimov',en,Russland,#e81818,#e81818,1,0.0823769784789578
