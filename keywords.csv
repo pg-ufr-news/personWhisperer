@@ -633,7 +633,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fumio Kishida',en,Japan,#111111,#111111,3,0.241218987042182
 'Anthony ',en,Australien,#111111,#111111,3,0.2397172450642132
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.2396008687499999
-'Aleksandar Vučić',en,Serbien,#111111,#111111,1,0.23931011864819693
+'Aleksandar Vučić',en,Serbien,#111111,#111111,1,0.2393101186481969
 'Angela Merkel',en,Deutschland,#1818e8,#1818e8,3,0.237179702498785
 'Michelle Obama',en,USA,#18e8e8,#18e8e8,3,0.2371359493612422
 'Cyril Ramaphosa',en,Südafrika,#111111,#111111,3,0.2367627036712652
@@ -664,9 +664,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marlène Schiappa',en,unknown,#111111,#111111,1,0.2226069790479921
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.2225986352339375
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.2220026712499999
+'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2218526562499999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
-'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2218526562499999
 'Yoon Suk-yeol',en,SüdKorea,#111111,#111111,3,0.2212563484909562
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,1,0.2185231873055357
 'Michael Kahle',en,Deutschland,#1818e8,#1818e8,1,0.2181928889708125
@@ -828,7 +828,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yanis Varoufakis',en,Griechenland,#1858e8,#1858e8,1,0.102105240474468
 'Stephan Harbarth',en,Deutschland,#1818e8,#1818e8,1,0.1002103859914689
 'Chez Krömer',en,Deutschland,#1818e8,#1818e8,1,0.1000121974050872
-'Jewgenij Roisman',en,Russland,#e81818,#e81818,1,0.0996049671635477
 'Sergej Lawrow',en,Russland,#e81818,#e81818,1,0.0992418583621143
 'Ramsan Kadyrow',en,Russland,#e81818,#e81818,1,0.0984372021703612
 'Erik Marquardt',en,EU,#111111,#111111,1,0.0982724945986338
@@ -851,6 +850,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Faisal Kawusi',en,Deutschland,#1818e8,#1818e8,1,0.0851777110380133
 'Ali Chamenei',en,Iran,#111111,#111111,1,0.0849828870322317
 'Martin Sonneborn',en,Deutschland,#1818e8,#1818e8,1,0.0849028560485927
+'Jewgenij Roisman',en,Russland,#e81818,#e81818,1,0.08466422208901554
 'Ulrich Reitz',en,Deutschland,#1818e8,#1818e8,1,0.0842657795377508
 'Ulf Poschardt',en,Deutschland,#1818e8,#1818e8,1,0.0829079595036558
 'Valery Gerasimov',en,Russland,#e81818,#e81818,1,0.0823769784789578
