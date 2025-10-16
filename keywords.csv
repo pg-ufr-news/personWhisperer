@@ -578,11 +578,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boris Palmer',en,Deutschland,#1818e8,#1818e8,2,0.2733193360585281
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.2713462700287037
 'Shahzada Dawood',en,Pakistan,#111111,#111111,1,0.2708666586735794
-'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.2706602406249999
+'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.2706602406249999
 'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.2706602406249999
 'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.2706602406249999
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.2706602406249999
-'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.2706602406249999
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.270626545570404
 'François Bayrou',en,unknown,#111111,#111111,2,0.2692801960093696
 'Georg Gänswein',en,Deutschland,#1818e8,#1818e8,1,0.268547120299375
@@ -646,6 +645,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schellnhuber',en,Deutschland,#1818e8,#1818e8,2,0.2318943650865713
 'Joschka Fischer',en,Deutschland,#1818e8,#1818e8,1,0.2312800224899858
 'Hun Sen',en,Kambodscha,#111111,#111111,3,0.2302408503300224
+'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.2300612045312499
 'Charles Michel',en,EU,#111111,#111111,3,0.2294120747899341
 'Jens Spahn',en,Deutschland,#1818e8,#1818e8,1,0.2288372092545312
 'Matthias Müller',en,Deutschland,#1818e8,#1818e8,1,0.2285554939281281
@@ -663,9 +663,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.2225986352339375
 'Gautam Adani',en,Indien,#111111,#111111,3,0.2224842978752989
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.2220026712499999
+'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2218526562499999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
-'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2218526562499999
 'Yoon Suk-yeol',en,SüdKorea,#111111,#111111,3,0.2212563484909562
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,1,0.2185231873055357
 'Michael Kahle',en,Deutschland,#1818e8,#1818e8,1,0.2181928889708125
