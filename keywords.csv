@@ -157,7 +157,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pedro Sánchez',en,Spanien,#111111,#111111,3,0.4193411537465908
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.4190735319931902
 'Charles Barkley',en,unknown,#111111,#111111,3,0.4187080674395769
-'Lady Gaga',en,USA,#18e8e8,#18e8e8,3,0.4187022339476163
 'António Guterres',en,unknown,#111111,#111111,3,0.418049004607304
 'Zach Bryan',en,unknown,#111111,#111111,3,0.4180259164888114
 'Patrick Mahomes',en,unknown,#111111,#111111,3,0.4179509408937998
@@ -344,6 +343,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Rutte',en,Niederlande,#111111,#111111,3,0.3885345692128921
 'Gérard Larcher',en,unknown,#111111,#111111,2,0.388331725401323
 'Billionaire Bunker',en,unknown,#111111,#111111,3,0.3881975012166186
+'Lady Gaga',en,USA,#18e8e8,#18e8e8,3,0.3881241711282011
 'George Washington',en,USA,#18e8e8,#18e8e8,3,0.3880506678617044
 'Stephen Hawking',en,UK,#e838e8,#e838e8,3,0.3871799265249015
 'Oprah Winfrey',en,USA,#18e8e8,#18e8e8,3,0.3869988664148384
@@ -663,9 +663,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.2225986352339375
 'Gautam Adani',en,Indien,#111111,#111111,3,0.2224842978752989
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.2220026712499999
+'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2218526562499999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
-'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
 'Yoon Suk-yeol',en,SüdKorea,#111111,#111111,3,0.2212563484909562
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,1,0.2185231873055357
 'Michael Kahle',en,Deutschland,#1818e8,#1818e8,1,0.2181928889708125
