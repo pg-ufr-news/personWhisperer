@@ -122,7 +122,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.4252730268909402
 'Teresa Giudice',en,unknown,#111111,#111111,2,0.4251467296536139
 'Veronika Grimm',en,Deutschland,#111111,#111111,1,0.42500003
-'Justus Haucap',en,Deutschland,#111111,#111111,1,0.425
 'Volker Wieland',en,Deutschland,#111111,#111111,1,0.425
 'Iyad al-Rantisi',en,Palestina,#111111,#111111,1,0.425
 'Munther Amira',en,Palestina,#111111,#111111,1,0.425
@@ -455,6 +454,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peregrine Pearson',en,unknown,#111111,#111111,1,0.3619517298160702
 'Camille Cottin',en,unknown,#111111,#111111,1,0.3618049566722732
 'Robert Badinter',en,unknown,#111111,#111111,1,0.3617923654366854
+'Justus Haucap',en,Deutschland,#111111,#111111,1,0.36124999999999996
 'Adnan al-Burj',en,Palestina,#111111,#111111,1,0.3612499999999999
 'Stefan Kolev',en,Deutschland,#111111,#111111,1,0.3612499999999999
 'Cillian Murphy',en,Irland,#111111,#111111,3,0.3610690312023637
@@ -663,9 +663,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.2225986352339375
 'Gautam Adani',en,Indien,#111111,#111111,3,0.2224842978752989
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.2220026712499999
-'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.2218526562499999
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
+'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.2218526562499999
 'Yoon Suk-yeol',en,SüdKorea,#111111,#111111,3,0.2212563484909562
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,1,0.2185231873055357
 'Michael Kahle',en,Deutschland,#1818e8,#1818e8,1,0.2181928889708125
@@ -856,7 +856,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Igor Setschin',en,Russland,#e81818,#e81818,1,0.0813319142811791
 'Gregor Gysi',en,Deutschland,#1818e8,#1818e8,1,0.0796725472172482
 'Luisa Neubauer',en,Deutschland,#1818e8,#1818e8,1,0.0793549647187335
-'Jürgen Grässlin',en,Deutschland,#1818e8,#1818e8,1,0.07850255254955037
+'Jürgen Grässlin',en,Deutschland,#1818e8,#1818e8,1,0.0785025525495503
 'Sergej Lavrov',en,Russland,#e81818,#e81818,1,0.0782058296490788
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.0779451634949702
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.076810548853533
