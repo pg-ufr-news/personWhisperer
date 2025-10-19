@@ -22,11 +22,14 @@ import hashlib
 import glob
 from difflib import SequenceMatcher
 
-
 import datetime
 #from datetime import timezone
 from dateutil import parser
 from datetime import date, timedelta, datetime, timezone
+
+from textblob import TextBlob
+import en_core_web_md
+nlp = en_core_web_md.load()
 
 DATA_PATH = Path.cwd()
 
@@ -154,7 +157,43 @@ def dataIsNotBlocked(data):
 #see 'https://www.stern.de/panorama/weltgeschehen/news-heute---ocean-viking--rettet-mehr-als-40-menschen-aus-dem-mittelmeer-30598826.html'
 
 
+def personInSearchCrc(person):
+    for index, column in keywordsDF.iterrows():
+        if((person in column['keyword']) or (column['keyword'].strip("'") in person)):
+             return column['crc']
+    return None
 
+def strangeCharacters(testString, testCharacters):
+     count = 0
+     for oneCharacter in testCharacters:
+          count += testString.count(oneCharacter)
+     return count
+
+def incrementPersonsInKeywords(data):
+
+    quote = str(data.title)+'. ' +str(data.description)+' '+str(data.content)
+    lang = data.language 
+    blob = TextBlob(quote)
+    for sentence in blob.sentences:
+        #sentence.sentiment.polarity
+        doc = nlp(str(sentence))
+        for entity in doc.ents:
+            if(entity.label_ in ['PER','PERSON']):
+             personText = entity.text
+             personText = personText.strip(" .,!?;:'…/-").strip('"')
+             if(strangeCharacters(personText,".,!?;:'…<>/\n\r")==0):
+               if(personText.count(' ')>0):
+                crc = personInSearchCrc(personText)
+                if(crc):
+                  newRatio = keywordsDF.loc[keywordsDF['crc'] == crc, 'ratioNew']
+                  newRatio = math.atan(math.tan(old*math.pi/2) + 1/100)*2/math.pi
+                  keywordsDF.loc[keywordsDF['crc'] == crc, 'ratioNew'] = newRatio  
+
+  
+
+
+
+    return True
 
 collectedNews = {}
 
@@ -164,6 +203,7 @@ def addNewsToCollection(data):
     fileDate = 'news_'+pubDate.strftime('%Y_%m')+'.csv'
     if(fileDate in collectedNews):
       if(not data['url'] in collectedNews[fileDate]):
+        incrementPersonsInKeywords(data)
         if(not 'archive' in data):
            data = archiveUrl(data)
         collectedNews[fileDate][data['url']] = data
