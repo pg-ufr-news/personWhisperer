@@ -324,7 +324,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Miley Cyrus',en,unknown,#111111,#111111,3,0.3903348239677816
 'Michael Walzer',en,USA,#18e8e8,#18e8e8,1,0.3900818735987499
 'Chris Stapleton',en,unknown,#111111,#111111,3,0.3899663759354999
-'Amber Heard',en,USA,#18e8e8,#18e8e8,3,0.38994518556590896
+'Amber Heard',en,USA,#18e8e8,#18e8e8,3,0.3899451855659089
 'Sheryl Crow',en,unknown,#111111,#111111,3,0.3899055221323551
 'Ana Navarro',en,unknown,#111111,#111111,3,0.3897065375680558
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.3895807399395192
@@ -815,7 +815,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holger Münch',en,Deutschland,#1818e8,#1818e8,1,0.1114288957440125
 'Michael Ballweg',en,Deutschland,#1818e8,#1818e8,1,0.1100016288819354
 'Wolfgang Schäuble',en,Deutschland,#1818e8,#1818e8,1,0.1099819358340184
-'Benjamin Netanjahu',en,Israel,#22bb33,#22bb33,1,0.1084347203837064
 'Erich Honecker',en,Deutschland,#1818e8,#1818e8,1,0.1075516537014959
 'Nikos Androulakis',en,Griechenland,#1858e8,#1858e8,1,0.1066034424689978
 'Maybritt Illner',en,Deutschland,#1818e8,#1818e8,1,0.1063121783439901
@@ -838,6 +837,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergej Schoigu',en,Russland,#e81818,#e81818,1,0.0943678995360839
 'Susanne Klatten',en,Deutschland,#1818e8,#1818e8,1,0.0938507755427247
 'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.0924213303338101
+'Benjamin Netanjahu',en,Israel,#22bb33,#22bb33,1,0.09216951232615044
 'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.0921662967792876
 'Dmitry Peskov',en,Russland,#e81818,#e81818,3,0.0909194178722618
 'Muhammad bin Zayid Al Nahyan',en,VAE,#111111,#111111,1,0.0905975055526118
