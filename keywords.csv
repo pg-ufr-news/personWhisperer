@@ -130,7 +130,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jon Hamm',en,unknown,#111111,#111111,3,0.4246290741755174
 'Yorgos Lanthimos',en,unknown,#111111,#111111,3,0.4244549411519211
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.4243564827530761
-'Amber Heard',en,USA,#18e8e8,#18e8e8,3,0.4240519771363635
 "'Dwayne ""The Rock"" Johnson'",en,unknown,#111111,#111111,3,0.423910450039836
 'Adam Driver',en,unknown,#111111,#111111,3,0.4234875840798056
 'Sophie Turner',en,unknown,#111111,#111111,3,0.423425345005767
@@ -325,6 +324,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Miley Cyrus',en,unknown,#111111,#111111,3,0.3903348239677816
 'Michael Walzer',en,USA,#18e8e8,#18e8e8,1,0.3900818735987499
 'Chris Stapleton',en,unknown,#111111,#111111,3,0.3899663759354999
+'Amber Heard',en,USA,#18e8e8,#18e8e8,3,0.38994518556590896
 'Sheryl Crow',en,unknown,#111111,#111111,3,0.3899055221323551
 'Ana Navarro',en,unknown,#111111,#111111,3,0.3897065375680558
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.3895807399395192
