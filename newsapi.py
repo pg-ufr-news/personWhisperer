@@ -27,9 +27,12 @@ import datetime
 from dateutil import parser
 from datetime import date, timedelta, datetime, timezone
 
+import nltk
+import spacy
 from textblob import TextBlob
 import en_core_web_md
 nlp = en_core_web_md.load()
+nltk.download('punkt')
 
 DATA_PATH = Path.cwd()
 
@@ -191,11 +194,6 @@ def incrementPersonsInKeywords(data):
                   newRatio = math.atan(math.tan(oldRatio*math.pi/2) + 1/500)*2/math.pi
                   print(['incrementPersonsInKeywords ratio',personText,oldRatio,newRatio])
                   keywordsDF.loc[keywordsDF['crc'] == crc, 'ratioNew'] = newRatio  
-
-  
-
-
-
     return True
 
 collectedNews = {}
