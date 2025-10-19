@@ -170,14 +170,16 @@ def strangeCharacters(testString, testCharacters):
      return count
 
 def incrementPersonsInKeywords(data):
-
-    quote = str(data.title)+'. ' +str(data.description)+' '+str(data.content)
-    lang = data.language 
+    #global keywordsDF
+    #print(['incrementPersonsInKeywords data',data]) 
+    quote = str(data['title'])+'. ' +str(data['description'])+' '+str(data['content'])
+    #lang = data['language'] 
     blob = TextBlob(quote)
     for sentence in blob.sentences:
         #sentence.sentiment.polarity
         doc = nlp(str(sentence))
         for entity in doc.ents:
+            #print(entity) 
             if(entity.label_ in ['PER','PERSON']):
              personText = entity.text
              personText = personText.strip(" .,!?;:'…/-").strip('"')
@@ -186,8 +188,8 @@ def incrementPersonsInKeywords(data):
                 crc = personInSearchCrc(personText)
                 if(crc):
                   oldRatio = keywordsDF.loc[keywordsDF['crc'] == crc, 'ratioNew']
-                  newRatio = math.atan(math.tan(oldRatio*math.pi/2) + 1/100)*2/math.pi
-                  print(['incrementPersonsInKeywords',oldRatio,newRatio])
+                  newRatio = math.atan(math.tan(oldRatio*math.pi/2) + 1/500)*2/math.pi
+                  print(['incrementPersonsInKeywords ratio',personText,oldRatio,newRatio])
                   keywordsDF.loc[keywordsDF['crc'] == crc, 'ratioNew'] = newRatio  
 
   
@@ -237,7 +239,7 @@ def storeCollection():
 # 
 async def saveArchive(saveUrl):
     async with aiohttp.ClientSession() as session:
-      async with session.get(saveUrl, timeout=120) as response:
+      async with session.get(saveUrl, timeout=20) as response:
         print("x")   
 
 async def getArchives(urlList):
