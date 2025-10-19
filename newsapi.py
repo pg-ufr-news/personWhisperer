@@ -185,8 +185,9 @@ def incrementPersonsInKeywords(data):
                if(personText.count(' ')>0):
                 crc = personInSearchCrc(personText)
                 if(crc):
-                  newRatio = keywordsDF.loc[keywordsDF['crc'] == crc, 'ratioNew']
-                  newRatio = math.atan(math.tan(old*math.pi/2) + 1/100)*2/math.pi
+                  oldRatio = keywordsDF.loc[keywordsDF['crc'] == crc, 'ratioNew']
+                  newRatio = math.atan(math.tan(oldRatio*math.pi/2) + 1/100)*2/math.pi
+                  print(['incrementPersonsInKeywords',oldRatio,newRatio])
                   keywordsDF.loc[keywordsDF['crc'] == crc, 'ratioNew'] = newRatio  
 
   
