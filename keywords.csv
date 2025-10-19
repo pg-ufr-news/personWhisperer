@@ -122,7 +122,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.4252730268909402
 'Teresa Giudice',en,unknown,#111111,#111111,2,0.4251467296536139
 'Veronika Grimm',en,Deutschland,#111111,#111111,1,0.42500003
-'Iyad al-Rantisi',en,Palestina,#111111,#111111,1,0.425
 'Munther Amira',en,Palestina,#111111,#111111,1,0.425
 'Khaled al Serr',en,Palestina,#111111,#111111,1,0.425
 'Guy Ritchie',en,unknown,#111111,#111111,2,0.4249178995504046
@@ -453,6 +452,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peregrine Pearson',en,unknown,#111111,#111111,1,0.3619517298160702
 'Camille Cottin',en,unknown,#111111,#111111,1,0.3618049566722732
 'Robert Badinter',en,unknown,#111111,#111111,1,0.3617923654366854
+'Iyad al-Rantisi',en,Palestina,#111111,#111111,1,0.36124999999999996
 'Volker Wieland',en,Deutschland,#111111,#111111,1,0.3612499999999999
 'Justus Haucap',en,Deutschland,#111111,#111111,1,0.3612499999999999
 'Adnan al-Burj',en,Palestina,#111111,#111111,1,0.3612499999999999
