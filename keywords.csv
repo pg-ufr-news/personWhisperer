@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Brian Kilmeade',en,unknown,#111111,#111111,3,0.5278224139616199
 'Sandy Hook',en,USA,#18e8e8,#18e8e8,3,0.470008918993923
 'Ayatollah Khomeini',en,Iran,#111111,#111111,3,0.4699611006018565
 'Pat McAfee',en,USA,#18e8e8,#18e8e8,3,0.4694919830033678
@@ -67,7 +68,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ben Affleck',en,unknown,#111111,#111111,3,0.4455094968076941
 'Eliot Wolf',en,unknown,#111111,#111111,3,0.4453004334225487
 'Howard Stern',en,unknown,#111111,#111111,3,0.4443239026123258
-'Brian Kilmeade',en,unknown,#111111,#111111,3,0.4439663281901411
 'Eric Trump',en,unknown,#111111,#111111,3,0.4430831541393932
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.442940595514424
 'Anant Ambani',en,unknown,#111111,#111111,1,0.4416426774618501
@@ -865,5 +865,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ethan Bradley',en,USA,#18e8e8,#18e8e8,2,0.0734700489060472
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.0723396394693468
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.0721709001772753
-'Ulf Poschardt',en,Deutschland,#1818e8,#1818e8,1,0.07047176557810743
+'Ulf Poschardt',en,Deutschland,#1818e8,#1818e8,1,0.0704717655781074
 'Gregor Gysi',en,Deutschland,#1818e8,#1818e8,1,0.0677216651346609
