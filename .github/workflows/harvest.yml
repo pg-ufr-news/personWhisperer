@@ -41,6 +41,8 @@ jobs:
         run: (cd /cre/python/)
       - name: Install spacy textblob
         run: (pip3 install spacy==2.2.4 textblob==0.18.0 nltk==3.8)
+      - name: Install download en_core_web_md
+        run: (python3 -m spacy download en_core_web_md)
       - name: cp mysecrets.py
         run: (cp mysecrets.orig.py mysecrets.py)
       - name: Run newsapi
