@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.5112237044251605
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.49462496830684094
 'Alyssa Farah Griffin',en,unknown,#111111,#111111,3,0.4775415525741237
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.4754665087552321
 'Sandy Hook',en,USA,#18e8e8,#18e8e8,3,0.470008918993923
@@ -229,7 +229,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demi Moore',en,unknown,#111111,#111111,3,0.4043202758805299
 'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.4041051823722685
 'Andrew Schulz',en,unknown,#111111,#111111,3,0.4040754100545948
-'Elizabeth Warren',en,unknown,#111111,#111111,3,0.40406831298298374
+'Elizabeth Warren',en,unknown,#111111,#111111,3,0.4040683129829837
 'Martin Luther King',en,USA,#18e8e8,#18e8e8,3,0.4040586180023721
 'Pablo Picasso',en,Spanien,#111111,#111111,3,0.4040473068863635
 'Princess Diana',en,UK,#e838e8,#e838e8,3,0.4039102505850775
@@ -270,6 +270,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Cameron',en,USA,#18e8e8,#18e8e8,3,0.3993062787741476
 'Chris Kirkpatrick',en,unknown,#111111,#111111,1,0.3990792051999169
 'Jacoby Brissett',en,unknown,#111111,#111111,2,0.3989851773143953
+'George Santos',en,USA,#18e8e8,#18e8e8,3,0.39871765263235065
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.398684223158772
 'Jeffrey Donaldson',en,Irland,#111111,#111111,2,0.3984304012259471
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.3981463995580676
@@ -289,7 +290,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Millie Mackintosh',en,UK,#e838e8,#e838e8,1,0.395864945181818
 'Paris Hilton',en,unknown,#111111,#111111,3,0.3956381054734756
 'Ahmed Al Jaber',en,unknown,#111111,#111111,2,0.3955922368840908
-'George Santos',en,USA,#18e8e8,#18e8e8,3,0.3953617993172756
 'Tony Bobulinski',en,unknown,#111111,#111111,2,0.3953409144632629
 'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.3951334553504385
 'Leandro De Niro-Rodriguez',en,unknown,#111111,#111111,1,0.3949519822603689
@@ -489,14 +489,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leandro De Niro Rodriguez',en,USA,#18e8e8,#18e8e8,1,0.3535226142999998
 'Kristen Wiig',en,unknown,#111111,#111111,3,0.3531260356519547
 'Alfred Nobel',en,Schweden,#77ff55,#77ff55,3,0.3525366704648069
-'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.35232886592558593
+'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.3523288659255859
 'Patti LaBelle',en,USA,#18e8e8,#18e8e8,1,0.3508700774763445
 'Johan Rockström',en,unknown,#111111,#111111,1,0.3499910154699999
 'Queen Camilla',en,UK,#e838e8,#e838e8,3,0.3494038458196475
+'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.34889966145827034
 'King Charles',en,UK,#e838e8,#e838e8,3,0.3480729068209602
 'Christian Günther',en,unknown,#111111,#111111,1,0.3476241380378571
 'Kemal Klçdarolu',en,Türkei,#111111,#111111,2,0.3473028833545453
-'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.3470411643397515
 'Margaret Thatcher',en,UK,#e838e8,#e838e8,3,0.3459014514086916
 'Tom Kaulitz',en,unknown,#111111,#111111,1,0.345828891223306
 'Henry Ford',en,USA,#18e8e8,#18e8e8,3,0.345432312287949
@@ -686,15 +686,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ricarda Lang',en,Deutschland,#1818e8,#1818e8,1,0.2067075456952076
 'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,1,0.2057878024996278
 'Jack Ma',en,China,#e88818,#e88818,3,0.2056546227271782
-'Sundar Pichai',en,USA,#18e8e8,#18e8e8,2,0.20489202247387905
+'Sundar Pichai',en,USA,#18e8e8,#18e8e8,2,0.204892022473879
 'Andreas Baum',en,Deutschland,#1818e8,#1818e8,1,0.2027470980839064
 'Nancy Faeser',en,Deutschland,#1818e8,#1818e8,2,0.2025913901087565
 'Aleksandar Vucic',en,Serbien,#111111,#111111,3,0.2000764247801457
 'Salvador Dali',en,Spanien,#111111,#111111,1,0.1994050903953514
 'Mohammed bin Salman',en,SaudiArabien,#111111,#111111,2,0.199302301329668
 'Antony Blinken',en,USA,#18e8e8,#18e8e8,3,0.199068191882527
+'Kim Jong-un',en,NordKorea,#e85858,#e85858,3,0.19895119675330203
 'Joko Widodo',en,Indonesien,#111111,#111111,3,0.1973649177227948
-'Kim Jong-un',en,NordKorea,#e85858,#e85858,3,0.1966427331566715
 'Paul Kagame',en,Ruanda,#111111,#111111,2,0.1959346358169176
 'Thierry Breton',en,EU,#111111,#111111,3,0.195529511703006
 'Rainer Maria Woelki',en,Deutschland,#1818e8,#1818e8,2,0.1952060872523144
