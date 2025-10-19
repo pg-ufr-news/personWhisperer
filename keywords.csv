@@ -495,7 +495,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Queen Camilla',en,UK,#e838e8,#e838e8,3,0.3494038458196475
 'King Charles',en,UK,#e838e8,#e838e8,3,0.3480729068209602
 'Christian Günther',en,unknown,#111111,#111111,1,0.3476241380378571
-'Bettina Stark-Watzinger',en,Deutschland,#1818e8,#1818e8,2,0.3475528720687499
 'Kemal Klçdarolu',en,Türkei,#111111,#111111,2,0.3473028833545453
 'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.3470411643397515
 'Margaret Thatcher',en,UK,#e838e8,#e838e8,3,0.3459014514086916
@@ -556,6 +555,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bill Geddie',en,unknown,#111111,#111111,1,0.299312102451869
 'Helmut Kohl',en,Deutschland,#1818e8,#1818e8,1,0.2992223550873022
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,2,0.2968952327053571
+'Bettina Stark-Watzinger',en,Deutschland,#1818e8,#1818e8,1,0.2954199412584374
 'Suleika Jaouad',en,unknown,#111111,#111111,1,0.2945093636876431
 'Premier ministre',en,unknown,#111111,#111111,1,0.294332560596289
 'Recep Tayyip Erdoğan',en,Türkei,#111111,#111111,3,0.293322933515939
@@ -866,4 +866,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.0723396394693468
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.0721709001772753
 'Ulf Poschardt',en,Deutschland,#1818e8,#1818e8,1,0.0704717655781074
-'Gregor Gysi',en,Deutschland,#1818e8,#1818e8,1,0.05756341536446176
+'Gregor Gysi',en,Deutschland,#1818e8,#1818e8,1,0.0575634153644617
