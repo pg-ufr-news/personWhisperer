@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Whoopi Goldberg',en,unknown,#111111,#111111,2,0.6066088466225644
-'Olivier Faure',en,unknown,#111111,#111111,2,0.5002560637163215
-'Alyssa Farah Griffin',en,unknown,#111111,#111111,3,0.4775415525741237
+'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,2,0.6066088466225644
+'Olivier Faure',en,Frankreich,#e8e808,#e8e808,2,0.5002560637163215
+'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.4775415525741237
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.4754665087552321
 'Sandy Hook',en,USA,#18e8e8,#18e8e8,3,0.470008918993923
 'Ayatollah Khomeini',en,Iran,#111111,#111111,3,0.4699611006018565
@@ -27,7 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gervonta Davis',en,USA,#18e8e8,#18e8e8,3,0.4620552967857122
 'Angelina Jolie',en,USA,#18e8e8,#18e8e8,3,0.4620264017996788
 'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.4619499078591072
-'Bret Baier',en,unknown,#111111,#111111,3,0.461924151361598
+'Bret Baier',en,USA,#18e8e8,#18e8e8,3,0.461924151361598
 'Justin Bieber',en,unknown,#111111,#111111,3,0.4608841223903918
 'Bronny James',en,unknown,#111111,#111111,3,0.4608577549967321
 'Nicusor Dan',en,unknown,#111111,#111111,1,0.4604657306967045
@@ -203,7 +203,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Berkshire Hathaway',en,USA,#18e8e8,#18e8e8,3,0.4090594962127167
 'Chris Hemsworth',en,unknown,#111111,#111111,3,0.4085847330236144
 'Finnegan Biden',en,USA,#18e8e8,#18e8e8,2,0.408326584215557
-'Mary Lou McDonald',en,Irland,#111111,#111111,3,0.407910047
+'Mary Lou McDonald',en,Irland,#3377bb,#3377bb,3,0.407910047
 'Brad Pitt',en,unknown,#111111,#111111,3,0.4077473559598492
 'Adolf Hitler',en,Deutschland,#1818e8,#1818e8,3,0.407361853270852
 'Mira Murati',en,unknown,#111111,#111111,2,0.4071792880336711
@@ -273,7 +273,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jacoby Brissett',en,unknown,#111111,#111111,2,0.3989851773143953
 'George Santos',en,USA,#18e8e8,#18e8e8,3,0.3987176526323506
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.398684223158772
-'Jeffrey Donaldson',en,Irland,#111111,#111111,2,0.3984304012259471
+'Jeffrey Donaldson',en,Irland,#3377bb,#3377bb,2,0.3984304012259471
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.3981463995580676
 'Joe Alwyn',en,unknown,#111111,#111111,2,0.3979871360458984
 'Michael Cohen',en,USA,#18e8e8,#18e8e8,3,0.3979750659735508
@@ -365,7 +365,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Downey Jr',en,unknown,#111111,#111111,3,0.3841726652666628
 'Jake Gyllenhaal',en,unknown,#111111,#111111,3,0.3840633793088598
 'Jordan Neely',en,USA,#18e8e8,#18e8e8,1,0.3840488497334579
-'Oisin Fanning',en,Irland,#111111,#111111,1,0.38350041625
+'Oisin Fanning',en,Irland,#3377bb,#3377bb,1,0.38350041625
 'Willem Dafoe',en,unknown,#111111,#111111,3,0.3831414562660519
 'Rand Paul',en,unknown,#111111,#111111,3,0.3826937248065604
 'Linda Yaccarino',en,USA,#18e8e8,#18e8e8,1,0.38240500854276
@@ -415,7 +415,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Doocy',en,unknown,#111111,#111111,2,0.3727458997417774
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,1,0.3724918396875
 'Carey Mulligan',en,unknown,#111111,#111111,2,0.3721798688263684
-'Michelle O\'Neill',en,Irland,#111111,#111111,3,0.3721309198651624
+'Michelle O\'Neill',en,Irland,#3377bb,#3377bb,3,0.3721309198651624
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.3721206013182359
 'Nawaz Sharif',en,unknown,#111111,#111111,2,0.372118088371302
 'Tasneem Essop',en,unknown,#111111,#111111,1,0.371473933
@@ -460,7 +460,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stefan Kolev',en,Deutschland,#111111,#111111,1,0.3612499999999999
 'Iyad al-Rantisi',en,Palestina,#111111,#111111,1,0.3612499999999999
 'Khaled al Serr',en,Palestina,#111111,#111111,1,0.3612499999999999
-'Cillian Murphy',en,Irland,#111111,#111111,3,0.3610690312023637
+'Cillian Murphy',en,Irland,#3377bb,#3377bb,3,0.3610690312023637
 'Bradley Cooper',en,unknown,#111111,#111111,3,0.3608954445603705
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,2,0.3607716484759088
 'Putin',en,Russland,#e81818,#e81818,3,0.3606293545094537
