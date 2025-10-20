@@ -178,22 +178,25 @@ def incrementPersonsInKeywords(data):
     quote = str(data['title'])+'. ' +str(data['description'])+' '+str(data['content'])
     #lang = data['language'] 
     blob = TextBlob(quote)
+    namesDone = []
     for sentence in blob.sentences:
         #sentence.sentiment.polarity
         doc = nlp(str(sentence))
         for entity in doc.ents:
-            #print(entity) 
-            if(entity.label_ in ['PER','PERSON']):
-             personText = entity.text
-             personText = personText.strip(" .,!?;:'…/-").strip('"')
-             if(strangeCharacters(personText,".,!?;:'…<>/\n\r")==0):
-               if(personText.count(' ')>0):
+          #print(entity) 
+          if(entity.label_ in ['PER','PERSON']):
+           personText = entity.text
+           personText = personText.strip(" .,!?;:'…/-").strip('"')
+           if(strangeCharacters(personText,".,!?;:'…<>/\n\r")==0):
+             if(personText.count(' ')>0):
+               if(not personText in namesDone):
                 crc = personInSearchCrc(personText)
                 if(crc):
                   oldRatio = float(keywordsDF.loc[keywordsDF['crc'] == crc, 'ratioNew'])
                   newRatio = math.atan(math.tan(oldRatio*math.pi/2) + 1/500)*2/math.pi
                   print(['incrementPersonsInKeywords ratio',personText,oldRatio,newRatio])
                   keywordsDF.loc[keywordsDF['crc'] == crc, 'ratioNew'] = newRatio  
+                  namesDone.append(personText) 
     return True
 
 collectedNews = {}
