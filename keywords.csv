@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,2,0.5766724696291798
+'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.5512265491848028
 'Olivier Faure',en,Frankreich,#e8e808,#e8e808,2,0.5002560637163215
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.4775415525741237
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.4754665087552321
@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.4668058441424182
 'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.4662077231879415
 'Javier Milei',en,Argentinien,#bb11cc,#bb11cc,3,0.4645711065155281
-'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.46350353342756345
+'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.4642122819197801
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.4629232464444818
 'Dua Lipa',en,UK,#e838e8,#e838e8,3,0.462656408026326
 'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,3,0.4624479098448941
@@ -30,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bret Baier',en,USA,#18e8e8,#18e8e8,3,0.461924151361598
 'Justin Bieber',en,unknown,#111111,#111111,3,0.4608841223903918
 'Bronny James',en,unknown,#111111,#111111,3,0.4608577549967321
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.4606620769279113
 'Nicusor Dan',en,unknown,#111111,#111111,1,0.4604657306967045
 'Bezalel Smotrich',en,Israel,#22bb33,#22bb33,3,0.4603896577586207
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,2,0.4603892077586207
@@ -37,7 +38,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Luxon',en,unknown,#111111,#111111,3,0.4593079169413042
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.4593023437251335
 'Hunter Biden',en,USA,#18e8e8,#18e8e8,3,0.4592660039851062
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.4592290441310315
 'Martha MacCallum',en,unknown,#111111,#111111,3,0.4589351934361841
 'König Felipe VI',en,Spanien,#111111,#111111,2,0.4585471131874999
 'Margaret Qualley',en,unknown,#111111,#111111,3,0.4580406676904386
@@ -48,21 +48,21 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.4563861885906472
 'Barry Keoghan',en,unknown,#111111,#111111,3,0.4562759600374858
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.4561885909179456
+'Emily Blunt',en,unknown,#111111,#111111,3,0.45586581627419526
+'Aubrey Plaza',en,unknown,#111111,#111111,3,0.4554344684109788
 'Julia Roberts',en,unknown,#111111,#111111,2,0.4553744303731222
-'Emily Blunt',en,unknown,#111111,#111111,3,0.454413731296741
 'Mo Lewis',en,unknown,#111111,#111111,3,0.454334374921594
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.4542750438453295
-'Aubrey Plaza',en,unknown,#111111,#111111,3,0.4532516126563859
 'Rupert Murdoch',en,unknown,#111111,#111111,3,0.4531533320759681
 'Leo XIV',en,Vatikan,#111111,#111111,3,0.4513334124459505
 'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.4511525033400244
 'Andy Cohen',en,unknown,#111111,#111111,3,0.4503285563099509
+'Jimmy Kimmel',en,unknown,#111111,#111111,3,0.45024001866997737
 'Vinod Khosla',en,unknown,#111111,#111111,1,0.4499341433863636
 'Ryan Gosling',en,unknown,#111111,#111111,3,0.4497674587325411
 'Mike Johnson',en,unknown,#111111,#111111,3,0.4492420874352915
 'David Beckham',en,UK,#e838e8,#e838e8,2,0.448682487401623
 'Ivanka Trump',en,unknown,#111111,#111111,3,0.4484103857354088
-'Jimmy Kimmel',en,unknown,#111111,#111111,3,0.4480262626108197
 'Joaquim Valente',en,unknown,#111111,#111111,2,0.4476062831451073
 'Keith Kellogg',en,unknown,#111111,#111111,3,0.4470770063304868
 'Nicola Peltz',en,unknown,#111111,#111111,3,0.4461269189822506
@@ -214,11 +214,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'William Shakespeare',en,UK,#e838e8,#e838e8,2,0.406575647129545
 'Jane Fonda',en,unknown,#111111,#111111,3,0.4065702511529833
 'Greg Brockman',en,unknown,#111111,#111111,1,0.4062128307391993
+'Gavin Newsom',en,unknown,#111111,#111111,3,0.40601269743789925
 'Alvin Bragg',en,USA,#18e8e8,#18e8e8,3,0.4059719168387483
 'George Miller',en,unknown,#111111,#111111,3,0.4059020607355846
 'Nancy Mace',en,unknown,#111111,#111111,3,0.4053389904775589
 'Jerry Seinfeld',en,unknown,#111111,#111111,3,0.4053107287482954
-'Gavin Newsom',en,unknown,#111111,#111111,3,0.4051900359807795
 'Antonio Brown',en,unknown,#111111,#111111,3,0.4050791796721773
 'Ayo Edebiri',en,unknown,#111111,#111111,3,0.4047930057535533
 'Martin Scorsese',en,USA,#18e8e8,#18e8e8,2,0.4045932111613636
@@ -423,8 +423,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.3709641794664772
 'Gisele Bündchen',en,unknown,#111111,#111111,2,0.370915395973492
 'Cassidy Hutchinson',en,unknown,#111111,#111111,2,0.3708635759279836
+'Joy Behar',en,unknown,#111111,#111111,3,0.37083431356708685
 'Meg Bellamy',en,UK,#e838e8,#e838e8,1,0.3705102104862445
-'Joy Behar',en,unknown,#111111,#111111,3,0.36994557786517085
 'Julian Edelman',en,unknown,#111111,#111111,2,0.3699113363884334
 'Akshata Murty',en,Indien,#111111,#111111,2,0.3698238303765608
 'Jerod Mayo',en,unknown,#111111,#111111,2,0.3695650160308142
