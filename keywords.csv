@@ -1,6 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Fred Ramsdel',en,USA,#18e8e8,#18e8e8,2,0.500635983577
-'Omar M. Yaghi',en,USA,#18e8e8,#18e8e8,2,0.500000000000
 'Shimon Sakaguchi',en,Japan,#111111,#111111,2,0.500000000000
 'László Krasznahorkai',en,Ungarn,#111111,#111111,2,0.500000000000
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,2,0.500000000000
@@ -11,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John M. Martinis',en,USA,#18e8e8,#18e8e8,2,0.500000000000
 'Michel H. Devoret',en,USA,#18e8e8,#18e8e8,2,0.500000000000
 'John Clarke',en,USA,#18e8e8,#18e8e8,2,0.500000000000
+'Omar M. Yaghi',en,USA,#18e8e8,#18e8e8,2,0.500000000000
 'Susumu Kitagawa',en,Japan,#111111,#111111,3,0.496656028849
 'Richard Robson',en,Australien,#111111,#111111,2,0.492542394078
 'Olivier Faure',en,Frankreich,#e8e808,#e8e808,3,0.488538687164
@@ -135,6 +134,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lewis Kaplan',en,unknown,#111111,#111111,3,0.426689493116
 'Mark Cuban',en,unknown,#111111,#111111,3,0.426541766659
 'Hailey Bieber',en,unknown,#111111,#111111,3,0.426240680682
+'Fred Ramsdel',en,USA,#18e8e8,#18e8e8,1,0.425540586040
 'James Comer',en,unknown,#111111,#111111,3,0.425379648356
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.425273026891
 'Teresa Giudice',en,unknown,#111111,#111111,2,0.425146729654
@@ -605,9 +605,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.266652025067
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.266573716299
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.266373202500
+'Henning Jeschke',en,unknown,#111111,#111111,1,0.266223187500
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.266223187500
 'Maria Sacharowa',en,unknown,#111111,#111111,1,0.266223187500
-'Henning Jeschke',en,unknown,#111111,#111111,1,0.266223187500
 'Christian Dürr',en,unknown,#111111,#111111,1,0.266204804302
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.266051339885
 'Rishi Sunak',en,UK,#e838e8,#e838e8,3,0.265694943046
@@ -773,10 +773,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edir Macedo',en,Brasilien,#58e838,#58e848,1,0.160999558658
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.160707326935
 'Jean-Denis Combrexelle',en,unknown,#111111,#111111,1,0.160592961874
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
-'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
+'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.160288544141
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.159604891255
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.159544082868
