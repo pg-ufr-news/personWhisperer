@@ -21,12 +21,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.464919623264
 'Javier Milei',en,Argentinien,#bb11cc,#bb11cc,3,0.464571106516
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.462923246444
+'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.462661739660
 'Dua Lipa',en,UK,#e838e8,#e838e8,3,0.462656408026
 'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,3,0.462447909845
 'David Cameron',en,UK,#e838e8,#e838e8,2,0.462214878100
 'Gervonta Davis',en,USA,#18e8e8,#18e8e8,3,0.462055296786
 'Angelina Jolie',en,USA,#18e8e8,#18e8e8,3,0.462026401800
-'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.461949907859
 'Bret Baier',en,USA,#18e8e8,#18e8e8,3,0.461924151362
 'Sébastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.461499409399
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.461376463193
@@ -116,10 +116,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benny Blanco',en,unknown,#111111,#111111,2,0.428560364158
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.427776743145
 'Mark Meadows',en,unknown,#111111,#111111,3,0.427390315352
+'LeBron James',en,unknown,#111111,#111111,3,0.427133060505
 'Léon XIV',en,unknown,#111111,#111111,2,0.426846391983
 'Lewis Kaplan',en,unknown,#111111,#111111,3,0.426689493116
 'Mark Cuban',en,unknown,#111111,#111111,3,0.426541766659
-'LeBron James',en,unknown,#111111,#111111,3,0.426351215296
 'Hailey Bieber',en,unknown,#111111,#111111,3,0.426240680682
 'James Comer',en,unknown,#111111,#111111,3,0.425379648356
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.425273026891
@@ -297,6 +297,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kanye West',en,USA,#18e8e8,#18e8e8,3,0.394949840066
 'Cruz Beckham',en,unknown,#111111,#111111,3,0.394839426047
 'Jessica Biel',en,unknown,#111111,#111111,2,0.394797502731
+'Cristiano Ronaldo',en,Portugal,#111111,#111111,2,0.394735270545
 'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.394657649648
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.394637604664
 'Matt Winkelmeyer',en,unknown,#111111,#111111,2,0.394601458644
@@ -336,6 +337,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hugh Grant',en,unknown,#111111,#111111,3,0.388733145116
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#111111,#111111,1,0.388630637750
 'Mark Rutte',en,Niederlande,#111111,#111111,3,0.388534569213
+'Lionel Messi',en,Argentinien,#bb11cc,#bb11cc,3,0.388417227044
 'Gérard Larcher',en,unknown,#111111,#111111,2,0.388331725401
 'Billionaire Bunker',en,unknown,#111111,#111111,3,0.388197501217
 'Lady Gaga',en,USA,#18e8e8,#18e8e8,3,0.388124171128
@@ -345,10 +347,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Caroline Ellison',en,unknown,#111111,#111111,2,0.386837288472
 'Abraham Lincoln',en,unknown,#111111,#111111,3,0.386826551126
 'Maria Bartiromo',en,unknown,#111111,#111111,3,0.386723190736
-'Lionel Messi',en,Argentinien,#bb11cc,#bb11cc,3,0.386703526707
 'Hailey Van Lith',en,unknown,#111111,#111111,2,0.386505347677
 'Johnny Depp',en,USA,#18e8e8,#18e8e8,3,0.386347199924
-'Cristiano Ronaldo',en,Portugal,#111111,#111111,2,0.386243200033
 'Cara Delevingne',en,unknown,#111111,#111111,2,0.385684464820
 'Brooklyn Beckham',en,UK,#e838e8,#e838e8,3,0.385680741526
 'Andrea Arnold',en,unknown,#111111,#111111,2,0.385671814280
