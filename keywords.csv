@@ -55,11 +55,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mo Lewis',en,unknown,#111111,#111111,3,0.454334374922
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.454275043845
 'Rupert Murdoch',en,unknown,#111111,#111111,3,0.453153332076
-'Leo XIV',en,Vatikan,#111111,#111111,3,0.451333412446
+'Leo XIV',en,Vatikan,#58b8e8,#58b8e8,3,0.451333412446
 'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.451152503340
-'Andy Cohen',en,unknown,#111111,#111111,3,0.450328556310
-'Mike Johnson',en,unknown,#111111,#111111,3,0.449979065403
-'Vinod Khosla',en,unknown,#111111,#111111,1,0.449934143386
+'Andy Cohen',en,USA,#18e8e8,#18e8e8,3,0.450328556310
+'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.449979065403
+'Vinod Khosla',en,Indien,#cc3388,#cc3388,1,0.449934143386
 'Ryan Gosling',en,unknown,#111111,#111111,3,0.449767458733
 'David Beckham',en,UK,#e838e8,#e838e8,2,0.448682487402
 'Ivanka Trump',en,unknown,#111111,#111111,3,0.448410385735
@@ -329,7 +329,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sheryl Crow',en,unknown,#111111,#111111,3,0.389905522132
 'Hendrik Wüst',en,Deutschland,#1818e8,#1818e8,1,0.389580739940
 'Lauren Sánchez',en,USA,#18e8e8,#18e8e8,2,0.389529046223
-'Narendra Modi',en,Indien,#111111,#111111,3,0.389458846228
+'Narendra Modi',en,Indien,#cc3388,#cc3388,3,0.389458846228
 'Michel Barnier',en,Frankreich,#e8e808,#e8e808,2,0.389157432200
 'Steffen Kotre',en,unknown,#111111,#111111,1,0.388972974229
 'Robin Roberts',en,unknown,#111111,#111111,3,0.388941178168
@@ -426,7 +426,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cassidy Hutchinson',en,unknown,#111111,#111111,2,0.370863575928
 'Meg Bellamy',en,UK,#e838e8,#e838e8,1,0.370510210486
 'Julian Edelman',en,unknown,#111111,#111111,2,0.369911336388
-'Akshata Murty',en,Indien,#111111,#111111,2,0.369823830377
+'Akshata Murty',en,Indien,#cc3388,#cc3388,2,0.369823830377
 'Jerod Mayo',en,unknown,#111111,#111111,2,0.369565016031
 'Lauren Boebert',en,USA,#18e8e8,#18e8e8,3,0.369350192009
 'Drena De Niro',en,USA,#18e8e8,#18e8e8,2,0.369322109864
@@ -663,7 +663,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Luc Terlinden',en,unknown,#111111,#111111,1,0.223435060446
 'Marlène Schiappa',en,unknown,#111111,#111111,1,0.222606979048
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.222598635234
-'Gautam Adani',en,Indien,#111111,#111111,3,0.222484297875
+'Gautam Adani',en,Indien,#cc3388,#cc3388,3,0.222484297875
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.222002671250
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.221852656250
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.221852656250
@@ -724,7 +724,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bill Gates',en,USA,#18e8e8,#18e8e8,3,0.184973183264
 'Vitali Klitschko',en,Ukraine,#e818e8,#e818e8,3,0.183834986345
 'Katarina Barley',en,EU,#111111,#111111,1,0.182888300900
-'Subrahmanyam Jaishankar',en,Indien,#111111,#111111,2,0.182126549545
+'Subrahmanyam Jaishankar',en,Indien,#cc3388,#cc3388,2,0.182126549545
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,1,0.180689997180
 'Antonio Guterres',en,UN,#e888e8,#e888e8,3,0.180472746171
 'Kyrill',en,Ukraine,#e818e8,#e818e8,2,0.179284182497
