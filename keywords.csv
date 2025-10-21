@@ -97,6 +97,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Yo Jong',en,NordKorea,#111111,#111111,2,0.433633944123
 'Charlie Munger',en,unknown,#111111,#111111,3,0.433457603217
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.433421907241
+'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.433421518069
 'Gérald Darmanin',en,Frankreich,#e8e808,#e8e808,2,0.433389376321
 'Robert Kennedy',en,USA,#18e8e8,#18e8e8,3,0.432612329690
 'Meryl Streep',en,unknown,#111111,#111111,3,0.432493571316
@@ -112,7 +113,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Carney',en,unknown,#111111,#111111,3,0.429517361713
 'Sean Hannity',en,unknown,#111111,#111111,3,0.429495024269
 'Katherina Reiche',en,unknown,#111111,#111111,1,0.429489103597
-'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.429332622098
 'Benny Blanco',en,unknown,#111111,#111111,2,0.428560364158
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.427776743145
 'Mark Meadows',en,unknown,#111111,#111111,3,0.427390315352
@@ -204,6 +204,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Hemsworth',en,unknown,#111111,#111111,3,0.408584733024
 'Finnegan Biden',en,USA,#18e8e8,#18e8e8,2,0.408326584216
 'Jane Fonda',en,unknown,#111111,#111111,3,0.408208726170
+'Prince William',en,UK,#e838e8,#e838e8,3,0.408059355480
 'Mary Lou McDonald',en,Irland,#3377bb,#3377bb,3,0.407910047000
 'Brad Pitt',en,unknown,#111111,#111111,3,0.407747355960
 'Adolf Hitler',en,Deutschland,#1818e8,#1818e8,3,0.407361853271
@@ -239,12 +240,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Kerr',en,unknown,#111111,#111111,3,0.403865583056
 'Sunny Hostin',en,unknown,#111111,#111111,2,0.403753807608
 'Tom Hanks',en,unknown,#111111,#111111,3,0.403594682986
+'Camilla',en,UK,#e838e8,#e838e8,3,0.402975231427
 'Al Pacino',en,USA,#18e8e8,#18e8e8,3,0.402951881179
 'Kate Hudson',en,unknown,#111111,#111111,3,0.402945991628
 'Robert de Niro',en,USA,#18e8e8,#18e8e8,3,0.402531292008
 'Itamar Ben-Gvir',en,Israel,#22bb33,#22bb33,2,0.402333515500
-'Prince William',en,UK,#e838e8,#e838e8,3,0.402295149827
-'Camilla',en,UK,#e838e8,#e838e8,3,0.402146763252
 'Mohammad Mustafa',en,Palistina,#111111,#111111,2,0.402074649681
 'Jennifer Lopez',en,unknown,#111111,#111111,3,0.401907207585
 'Camille Etienne',en,Frankreich,#e8e808,#e8e808,2,0.401821122864
@@ -414,6 +414,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kevin Hart',en,unknown,#111111,#111111,3,0.373398968191
 'Bridget Moynahan',en,unknown,#111111,#111111,1,0.373348144151
 'Steve Doocy',en,unknown,#111111,#111111,2,0.372745899742
+'Gisele Bündchen',en,unknown,#111111,#111111,2,0.372687675738
 'Patrick Graichen',en,Deutschland,#1818e8,#1818e8,1,0.372491839687
 'Carey Mulligan',en,unknown,#111111,#111111,2,0.372179868826
 'Michelle O\'Neill',en,Irland,#3377bb,#3377bb,3,0.372130919865
@@ -422,7 +423,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tasneem Essop',en,unknown,#111111,#111111,1,0.371473933000
 'James Cleverly',en,UK,#e838e8,#e838e8,3,0.371088711955
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.370964179466
-'Gisele Bündchen',en,unknown,#111111,#111111,2,0.370915395973
 'Cassidy Hutchinson',en,unknown,#111111,#111111,2,0.370863575928
 'Meg Bellamy',en,UK,#e838e8,#e838e8,1,0.370510210486
 'Julian Edelman',en,unknown,#111111,#111111,2,0.369911336388
