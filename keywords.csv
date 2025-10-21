@@ -6,7 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ayatollah Khomeini',en,Iran,#117733,#117733,3,0.469961100602
 'Pat McAfee',en,USA,#18e8e8,#18e8e8,3,0.469491983003
 'Francesca Albanese',en,Italien,#773344,#773344,3,0.469237662011
-'James Comey',en,USA,#18e8e8,#18e8e8,3,0.468820394258
 'Jennifer Garner',en,USA,#18e8e8,#18e8e8,3,0.468642533201
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.468600990377
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.467859220115
@@ -14,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.467515801300
 'Eddie Hearn',en,UK,#e838e8,#e838e8,3,0.467152103793
 'Sherri Shepherd',en,USA,#18e8e8,#18e8e8,3,0.467141477363
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.467040750854
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.466805844142
 'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.466207723188
 'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.465911654925
@@ -28,7 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Angelina Jolie',en,USA,#18e8e8,#18e8e8,3,0.462026401800
 'Bret Baier',en,USA,#18e8e8,#18e8e8,3,0.461924151362
 'Sébastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.461499409399
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.461376463193
 'Justin Bieber',en,Kanada,#443388,#443388,3,0.460884122390
 'Bronny James',en,USA,#18e8e8,#18e8e8,3,0.460857754997
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.460701918719
@@ -54,6 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mo Lewis',en,unknown,#111111,#111111,3,0.454334374922
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.454275043845
 'Jason Kelce',en,USA,#18e8e8,#18e8e8,3,0.453767774718
+'James Comey',en,USA,#18e8e8,#18e8e8,3,0.453478790119
 'Rupert Murdoch',en,unknown,#111111,#111111,3,0.453153332076
 'Leo XIV',en,Vatikan,#58b8e8,#58b8e8,3,0.451333412446
 'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.451152503340
