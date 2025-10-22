@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Joel Mokyr',en,USA,#18e8e8,#18e8e8,2,0.505052431797
 'Philipp Aghion',en,Frankreich,#e8e808,#e8e808,2,0.500000000000
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.500000000000
 'John M. Martinis',en,USA,#18e8e8,#18e8e8,2,0.500000000000
@@ -7,10 +6,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Clarke',en,USA,#18e8e8,#18e8e8,2,0.500000000000
 'Omar M. Yaghi',en,USA,#18e8e8,#18e8e8,2,0.500000000000
 'Susumu Kitagawa',en,Japan,#aa9933,#aa9933,3,0.497940074338
+'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.497725787009
 'Maria Corina Machado',en,Venezuela,#aa3399,#aa3399,3,0.493099001847
-'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.492555190806
 'Richard Robson',en,Australien,#99aa33,#99aa33,2,0.492542394078
 'Shimon Sakaguchi',en,Japan,#aa9933,#aa9933,2,0.489502205000
+'Joel Mokyr',en,USA,#18e8e8,#18e8e8,2,0.488791941573
 'Olivier Faure',en,Frankreich,#e8e808,#e8e808,3,0.488538687164
 'Sanae Takaichi',en,Japan,#aa9933,#aa9933,2,0.487726771129
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
@@ -472,9 +472,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Volker Wieland',en,Deutschland,#111111,#111111,1,0.361250000000
 'Justus Haucap',en,Deutschland,#111111,#111111,1,0.361250000000
 'Adnan al-Burj',en,Palestina,#cc2255,#cc2255,1,0.361250000000
-'Stefan Kolev',en,Deutschland,#111111,#111111,1,0.361250000000
 'Iyad al-Rantisi',en,Palestina,#cc2255,#cc2255,1,0.361250000000
 'Khaled al Serr',en,Palestina,#cc2255,#cc2255,1,0.361250000000
+'Stefan Kolev',en,Deutschland,#111111,#111111,1,0.361250000000
 'Cillian Murphy',en,Irland,#3377bb,#3377bb,3,0.361069031202
 'Bradley Cooper',en,unknown,#111111,#111111,3,0.360895444560
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,2,0.360771648476
@@ -493,6 +493,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edouard Philippe',en,unknown,#111111,#111111,1,0.357637008100
 'Matt Gaetz',en,unknown,#111111,#111111,3,0.357485325990
 'Leonard Bernstein',en,unknown,#111111,#111111,1,0.357453823136
+'Alfred Nobel',en,Schweden,#77ff55,#77ff55,3,0.357121630357
 'Lula da Silva',en,Brasilien,#58e838,#58e848,3,0.356733587934
 'Kemal Kılıçdaroğlu',en,Türkei,#111111,#111111,1,0.356600078864
 'Daniel Penny',en,USA,#18e8e8,#18e8e8,3,0.356064113793
@@ -500,7 +501,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bill Barr',en,unknown,#111111,#111111,2,0.355360898530
 'Elisabeth Borne',en,Frankreich,#e8e808,#e8e808,1,0.355032715944
 'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.354691968009
-'Alfred Nobel',en,Schweden,#77ff55,#77ff55,3,0.354375594336
 'Andrew Tate',en,USA,#18e8e8,#18e8e8,2,0.354289391750
 'Stockton Rush',en,USA,#18e8e8,#18e8e8,3,0.354280082348
 'Hans-Werner Sinn',en,unknown,#111111,#111111,1,0.353983784577
@@ -606,9 +606,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.266652025067
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.266573716299
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.266373202500
+'Henning Jeschke',en,unknown,#111111,#111111,1,0.266223187500
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.266223187500
 'Maria Sacharowa',en,unknown,#111111,#111111,1,0.266223187500
-'Henning Jeschke',en,unknown,#111111,#111111,1,0.266223187500
 'Christian Dürr',en,unknown,#111111,#111111,1,0.266204804302
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.266051339885
 'Rishi Sunak',en,UK,#e838e8,#e838e8,3,0.265694943046
@@ -774,10 +774,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edir Macedo',en,Brasilien,#58e838,#58e848,1,0.160999558658
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.160707326935
 'Jean-Denis Combrexelle',en,unknown,#111111,#111111,1,0.160592961874
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
-'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
+'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.160288544141
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.159604891255
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.159544082868
