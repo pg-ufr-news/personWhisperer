@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'John M. Martinis',en,USA,#18e8e8,#18e8e8,2,0.500000000000
+'John Clarke',en,USA,#18e8e8,#18e8e8,2,0.506926351317
 'Michel H. Devoret',en,USA,#18e8e8,#18e8e8,2,0.500000000000
-'John Clarke',en,USA,#18e8e8,#18e8e8,2,0.500000000000
 'Omar M. Yaghi',en,USA,#18e8e8,#18e8e8,2,0.500000000000
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.500000000000
-'Susumu Kitagawa',en,Japan,#aa9933,#aa9933,3,0.497940074338
+'Susumu Kitagawa',en,Japan,#aa9933,#aa9933,3,0.499218994018
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.497725787009
+'John M. Martinis',en,USA,#18e8e8,#18e8e8,3,0.495717611667
+'Richard Robson',en,Australien,#99aa33,#99aa33,2,0.493842859288
 'Maria Corina Machado',en,Venezuela,#aa3399,#aa3399,3,0.493099001847
-'Richard Robson',en,Australien,#99aa33,#99aa33,2,0.492542394078
 'Shimon Sakaguchi',en,Japan,#aa9933,#aa9933,2,0.489502205000
 'Joel Mokyr',en,USA,#18e8e8,#18e8e8,2,0.488791941573
 'Olivier Faure',en,Frankreich,#e8e808,#e8e808,3,0.488538687164
@@ -318,11 +318,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matt Winkelmeyer',en,unknown,#111111,#111111,2,0.394601458644
 'nan nan',en,unknown,#dddddd,#dddddd,2,0.394260385638
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.394226217909
+'Geoffrey Hinton',en,UK,#e838e8,#e838e8,3,0.394180394930
 'James Biden',en,unknown,#111111,#111111,3,0.394084618023
 'Ana Navarro',en,unknown,#111111,#111111,3,0.393950611021
 'Laura Ingraham',en,USA,#18e8e8,#18e8e8,3,0.393894627301
 'Jack Antonoff',en,unknown,#111111,#111111,2,0.393872068609
-'Geoffrey Hinton',en,UK,#e838e8,#e838e8,3,0.393335214368
 'Alex Jones',en,unknown,#111111,#111111,3,0.392996174189
 'Jake Tapper',en,unknown,#111111,#111111,3,0.392950004714
 'Oleksandr Usyk',en,unknown,#111111,#111111,3,0.392934782319
@@ -490,10 +490,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rosalynn Carter',en,USA,#18e8e8,#18e8e8,2,0.358125206943
 'Jack Teixeira',en,USA,#18e8e8,#18e8e8,2,0.358057701856
 'Leonardo da Vinci',en,Italien,#773344,#773344,3,0.358052266997
+'Alfred Nobel',en,Schweden,#77ff55,#77ff55,3,0.358033685014
 'Edouard Philippe',en,unknown,#111111,#111111,1,0.357637008100
 'Matt Gaetz',en,unknown,#111111,#111111,3,0.357485325990
 'Leonard Bernstein',en,unknown,#111111,#111111,1,0.357453823136
-'Alfred Nobel',en,Schweden,#77ff55,#77ff55,3,0.357121630357
 'Lula da Silva',en,Brasilien,#58e838,#58e848,3,0.356733587934
 'Kemal Kılıçdaroğlu',en,Türkei,#111111,#111111,1,0.356600078864
 'Daniel Penny',en,USA,#18e8e8,#18e8e8,3,0.356064113793
@@ -606,9 +606,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.266652025067
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.266573716299
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.266373202500
+'Melanie Guttmann',en,unknown,#111111,#111111,1,0.266223187500
 'Maria Sacharowa',en,unknown,#111111,#111111,1,0.266223187500
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.266223187500
-'Melanie Guttmann',en,unknown,#111111,#111111,1,0.266223187500
 'Christian Dürr',en,unknown,#111111,#111111,1,0.266204804302
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.266051339885
 'Rishi Sunak',en,UK,#e838e8,#e838e8,3,0.265694943046
@@ -774,10 +774,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edir Macedo',en,Brasilien,#58e838,#58e848,1,0.160999558658
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.160707326935
 'Jean-Denis Combrexelle',en,unknown,#111111,#111111,1,0.160592961874
-'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.160288544141
-'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
+'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
+'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.160288544141
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.159604891255
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.159544082868
