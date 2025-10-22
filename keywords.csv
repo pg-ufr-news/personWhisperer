@@ -1,17 +1,17 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Shimon Sakaguchi',en,Japan,#111111,#111111,2,0.500000000000
+'Maria Corina Machado',en,Venezuela,#111111,#111111,2,0.500635983577
 'László Krasznahorkai',en,Ungarn,#111111,#111111,2,0.500000000000
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,2,0.500000000000
 'Philipp Aghion',en,Frankreich,#e8e808,#e8e808,2,0.500000000000
 'Joel Mokyr',en,USA,#18e8e8,#18e8e8,2,0.500000000000
-'Maria Corina Machado',en,Venezuela,#111111,#111111,2,0.500000000000
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.500000000000
 'John M. Martinis',en,USA,#18e8e8,#18e8e8,2,0.500000000000
 'Michel H. Devoret',en,USA,#18e8e8,#18e8e8,2,0.500000000000
 'John Clarke',en,USA,#18e8e8,#18e8e8,2,0.500000000000
 'Omar M. Yaghi',en,USA,#18e8e8,#18e8e8,2,0.500000000000
-'Susumu Kitagawa',en,Japan,#111111,#111111,3,0.496656028849
+'Susumu Kitagawa',en,Japan,#111111,#111111,3,0.497940074338
 'Richard Robson',en,Australien,#111111,#111111,2,0.492542394078
+'Shimon Sakaguchi',en,Japan,#111111,#111111,2,0.489502205000
 'Olivier Faure',en,Frankreich,#e8e808,#e8e808,3,0.488538687164
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.477541552574
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.476835054057
@@ -127,6 +127,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sean Hannity',en,unknown,#111111,#111111,3,0.429495024269
 'Katherina Reiche',en,unknown,#111111,#111111,1,0.429489103597
 'Benny Blanco',en,unknown,#111111,#111111,2,0.428560364158
+'Fred Ramsdel',en,USA,#18e8e8,#18e8e8,1,0.427886282541
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.427776743145
 'Mark Meadows',en,unknown,#111111,#111111,3,0.427390315352
 'LeBron James',en,unknown,#111111,#111111,3,0.427133060505
@@ -134,7 +135,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lewis Kaplan',en,unknown,#111111,#111111,3,0.426689493116
 'Mark Cuban',en,unknown,#111111,#111111,3,0.426541766659
 'Hailey Bieber',en,unknown,#111111,#111111,3,0.426240680682
-'Fred Ramsdel',en,USA,#18e8e8,#18e8e8,1,0.425540586040
 'James Comer',en,unknown,#111111,#111111,3,0.425379648356
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.425273026891
 'Teresa Giudice',en,unknown,#111111,#111111,2,0.425146729654
@@ -504,8 +504,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hans-Werner Sinn',en,unknown,#111111,#111111,1,0.353983784577
 'Olaf Scholz',en,Deutschland,#1818e8,#1818e8,3,0.353801249417
 'Leandro De Niro Rodriguez',en,USA,#18e8e8,#18e8e8,1,0.353522614300
+'Alfred Nobel',en,Schweden,#77ff55,#77ff55,3,0.353456956131
 'Kristen Wiig',en,unknown,#111111,#111111,3,0.353126035652
-'Alfred Nobel',en,Schweden,#77ff55,#77ff55,3,0.352536670465
 'Kamala Harris',en,USA,#18e8e8,#18e8e8,3,0.352328865926
 'Patti LaBelle',en,USA,#18e8e8,#18e8e8,1,0.350870077476
 'Johan Rockström',en,unknown,#111111,#111111,1,0.349991015470
@@ -605,9 +605,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.266652025067
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.266573716299
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.266373202500
+'Maria Sacharowa',en,unknown,#111111,#111111,1,0.266223187500
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.266223187500
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.266223187500
-'Maria Sacharowa',en,unknown,#111111,#111111,1,0.266223187500
 'Christian Dürr',en,unknown,#111111,#111111,1,0.266204804302
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.266051339885
 'Rishi Sunak',en,UK,#e838e8,#e838e8,3,0.265694943046
@@ -773,10 +773,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edir Macedo',en,Brasilien,#58e838,#58e848,1,0.160999558658
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.160707326935
 'Jean-Denis Combrexelle',en,unknown,#111111,#111111,1,0.160592961874
-'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
-'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.160288544141
+'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
+'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.159604891255
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.159544082868
