@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Richard Robson',en,Australien,#99aa33,#99aa33,2,0.495783831287
 'John M. Martinis',en,USA,#18e8e8,#18e8e8,3,0.495717611667
 'Maria Corina Machado',en,Venezuela,#aa3399,#aa3399,3,0.493099001847
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.489212464317
@@ -60,11 +59,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aubrey Plaza',en,unknown,#111111,#111111,3,0.455434468411
 'Julia Roberts',en,unknown,#111111,#111111,2,0.455374430373
 'Jimmy Kimmel',en,unknown,#111111,#111111,3,0.455354685999
+'Susumu Kitagawa',en,Japan,#aa9933,#aa9933,3,0.454814235015
 'Mo Lewis',en,unknown,#111111,#111111,3,0.454334374922
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.454275043845
 'Jason Kelce',en,USA,#18e8e8,#18e8e8,3,0.453767774718
 'James Comey',en,USA,#18e8e8,#18e8e8,3,0.453478790119
-'Susumu Kitagawa',en,Japan,#aa9933,#aa9933,3,0.453357978151
 'Rupert Murdoch',en,unknown,#111111,#111111,3,0.453153332076
 'Leo XIV',en,Vatikan,#58b8e8,#58b8e8,3,0.451333412446
 'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.451152503340
@@ -92,6 +91,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anant Ambani',en,unknown,#111111,#111111,1,0.441642677462
 'Anne Hathaway',en,unknown,#111111,#111111,2,0.441198870564
 'Radical Optimism',en,unknown,#111111,#111111,3,0.440633396016
+'Richard Robson',en,Australien,#99aa33,#99aa33,2,0.440280061594
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.440164372058
 'Lil Yachty',en,unknown,#111111,#111111,2,0.440164089099
 'Omar M. Yaghi',en,USA,#18e8e8,#18e8e8,2,0.439300675000
@@ -606,9 +606,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.266652025067
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.266573716299
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.266373202500
+'Melanie Guttmann',en,unknown,#111111,#111111,1,0.266223187500
 'Maria Sacharowa',en,unknown,#111111,#111111,1,0.266223187500
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.266223187500
-'Melanie Guttmann',en,unknown,#111111,#111111,1,0.266223187500
 'Christian Dürr',en,unknown,#111111,#111111,1,0.266204804302
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.266051339885
 'Rishi Sunak',en,UK,#e838e8,#e838e8,3,0.265694943046
@@ -774,10 +774,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edir Macedo',en,Brasilien,#58e838,#58e848,1,0.160999558658
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.160707326935
 'Jean-Denis Combrexelle',en,unknown,#111111,#111111,1,0.160592961874
-'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.160288544141
-'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
+'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
+'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.160288544141
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.159604891255
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.159544082868
