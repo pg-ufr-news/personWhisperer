@@ -607,8 +607,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.266573716299
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.266373202500
 'Maria Sacharowa',en,unknown,#111111,#111111,1,0.266223187500
-'Henning Jeschke',en,unknown,#111111,#111111,1,0.266223187500
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.266223187500
+'Henning Jeschke',en,unknown,#111111,#111111,1,0.266223187500
 'Christian Dürr',en,unknown,#111111,#111111,1,0.266204804302
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.266051339885
 'Rishi Sunak',en,UK,#e838e8,#e838e8,3,0.265694943046
@@ -730,9 +730,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.188998351235
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.188724772812
 'Gilbert Plass',en,Kanada,#443388,#443388,1,0.188653066580
-'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.188574757812
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.188574757812
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.188574757812
+'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.188574757812
 'Richard Ferrand',en,Frankreich,#e8e808,#e8e808,1,0.187345317464
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.187004273469
 'Gerhard Schröder',en,Deutschland,#1818e8,#1818e8,1,0.185328026095
@@ -774,11 +774,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edir Macedo',en,Brasilien,#58e838,#58e848,1,0.160999558658
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.160707326935
 'Jean-Denis Combrexelle',en,unknown,#111111,#111111,1,0.160592961874
-'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.160288544141
-'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
+'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.160288544141
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
+'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.159604891255
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.159544082868
 'König Charles III',en,UK,#e838e8,#e838e8,1,0.159413142111
@@ -883,4 +883,3 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.072339639469
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.072170900177
 'Ulf Poschardt',en,Deutschland,#1818e8,#1818e8,1,0.059901000741
-'Gregor Gysi',en,Deutschland,#1818e8,#1818e8,1,0.057563415364
