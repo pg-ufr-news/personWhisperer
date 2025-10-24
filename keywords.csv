@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'John M. Martinis',en,USA,#18e8e8,#18e8e8,3,0.495717611667
 'Maria Corina Machado',en,Venezuela,#aa3399,#aa3399,3,0.493099001847
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.489212464317
 'Olivier Faure',en,Frankreich,#e8e808,#e8e808,3,0.488538687164
@@ -7,8 +6,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joel Mokyr',en,USA,#18e8e8,#18e8e8,3,0.485610691184
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,3,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
+'John Clarke',en,USA,#18e8e8,#18e8e8,2,0.483314145533
 'Shimon Sakaguchi',en,Japan,#aa9933,#aa9933,2,0.482663285773
-'John Clarke',en,USA,#18e8e8,#18e8e8,2,0.481971513544
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.477541552574
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.476835054057
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.473995501833
@@ -99,6 +98,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.438328557807
 'Phoebe Bridgers',en,unknown,#111111,#111111,3,0.437434358110
 'Kamilla Cardoso',en,unknown,#111111,#111111,2,0.436438180436
+'John M. Martinis',en,USA,#18e8e8,#18e8e8,3,0.436055757503
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.435968781211
 'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,2,0.435612901389
 'Aaron Rodgers',en,unknown,#111111,#111111,3,0.434834502691
@@ -606,9 +606,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.266652025067
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.266573716299
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.266373202500
+'Henning Jeschke',en,unknown,#111111,#111111,1,0.266223187500
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.266223187500
 'Maria Sacharowa',en,unknown,#111111,#111111,1,0.266223187500
-'Henning Jeschke',en,unknown,#111111,#111111,1,0.266223187500
 'Christian Dürr',en,unknown,#111111,#111111,1,0.266204804302
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.266051339885
 'Rishi Sunak',en,UK,#e838e8,#e838e8,3,0.265694943046
@@ -774,10 +774,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edir Macedo',en,Brasilien,#58e838,#58e848,1,0.160999558658
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.160707326935
 'Jean-Denis Combrexelle',en,unknown,#111111,#111111,1,0.160592961874
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
-'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
+'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.160288544141
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.159604891255
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.159544082868
