@@ -552,6 +552,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard Feynman',en,USA,#18e8e8,#18e8e8,2,0.320008709520
 'MacKenzie Scott',en,USA,#18e8e8,#18e8e8,3,0.317617125458
 'Warren Buffet',en,USA,#18e8e8,#18e8e8,3,0.317122027020
+'Melinda Gates',en,USA,#18e8e8,#18e8e8,3,0.315495957940
 'Robert Nozick',en,USA,#18e8e8,#18e8e8,2,0.314502033108
 'Kemal Kiliçdaroglu',en,Türkei,#66bb22,#66bb22,1,0.314287382310
 'Buzz Aldrin',en,USA,#18e8e8,#18e8e8,2,0.312884145333
@@ -565,7 +566,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Reinhard Marx',en,Deutschland,#1818e8,#1818e8,1,0.307190077775
 'Merrill McCollum',en,USA,#18e8e8,#18e8e8,1,0.306397097959
 'Giorgia Meloni',en,Italien,#773344,#773344,3,0.306270853406
-'Melinda Gates',en,USA,#18e8e8,#18e8e8,3,0.304861532870
 'Ottmar Edenhofer',en,Deutschland,#1818e8,#1818e8,1,0.304700885740
 'Jean-Jacques Rousseau',en,Schweiz,#111111,#111111,1,0.303015848771
 'Jassir Arafat',en,Palestina,#cc2255,#cc2255,1,0.301719612500
@@ -723,6 +723,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jair Bolsonaro',en,Brasilien,#58e838,#58e848,3,0.191220077651
 'Charles Koch',en,USA,#18e8e8,#18e8e8,3,0.190971417300
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.190824040555
+'Bill Gates',en,USA,#18e8e8,#18e8e8,3,0.190800728360
 'Andrés Manuel López Obrador',en,Mexiko,#111111,#111111,3,0.190780487342
 'Jessy Wellmer',en,unknown,#111111,#111111,1,0.190505066564
 'Daniel Zhang',en,China,#e88818,#e88818,2,0.189844120282
@@ -736,7 +737,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard Ferrand',en,Frankreich,#e8e808,#e8e808,1,0.187345317464
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.187004273469
 'Gerhard Schröder',en,Deutschland,#1818e8,#1818e8,1,0.185328026095
-'Bill Gates',en,USA,#18e8e8,#18e8e8,3,0.184973183264
 'Vitali Klitschko',en,Ukraine,#e818e8,#e818e8,3,0.183834986345
 'Katarina Barley',en,EU,#111111,#111111,1,0.182888300900
 'Subrahmanyam Jaishankar',en,Indien,#cc3388,#cc3388,2,0.182126549545
