@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Joel Mokyr',en,USA,#18e8e8,#18e8e8,3,0.490891474698
 'Olivier Faure',en,Frankreich,#e8e808,#e8e808,3,0.488538687164
 'Sanae Takaichi',en,Japan,#aa9933,#aa9933,2,0.487726771129
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,3,0.484501395000
@@ -20,8 +19,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.467515801300
 'Eddie Hearn',en,UK,#e838e8,#e838e8,3,0.467152103793
 'Sherri Shepherd',en,USA,#18e8e8,#18e8e8,3,0.467141477363
+'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.466805844142
-'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466237180124
 'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.466207723188
 'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.465911654925
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.464919623264
@@ -132,6 +131,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Meadows',en,unknown,#111111,#111111,3,0.427390315352
 'LeBron James',en,unknown,#111111,#111111,3,0.427133060505
 'Léon XIV',en,unknown,#111111,#111111,2,0.426846391983
+'Joel Mokyr',en,USA,#18e8e8,#18e8e8,3,0.426755218039
 'Lewis Kaplan',en,unknown,#111111,#111111,3,0.426689493116
 'Mark Cuban',en,unknown,#111111,#111111,3,0.426541766659
 'Hailey Bieber',en,unknown,#111111,#111111,3,0.426240680682
@@ -730,9 +730,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.188998351235
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.188724772812
 'Gilbert Plass',en,Kanada,#443388,#443388,1,0.188653066580
+'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.188574757812
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.188574757812
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.188574757812
-'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.188574757812
 'Richard Ferrand',en,Frankreich,#e8e808,#e8e808,1,0.187345317464
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.187004273469
 'Gerhard Schröder',en,Deutschland,#1818e8,#1818e8,1,0.185328026095
