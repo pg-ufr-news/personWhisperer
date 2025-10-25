@@ -596,7 +596,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.271346270029
 'Shahzada Dawood',en,Pakistan,#111111,#111111,1,0.270866658674
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.270660240625
-'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.270660240625
 'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.270660240625
 'Hilda Nakabuye',en,Uganda,#111111,#111111,1,0.270660240625
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.270626545570
@@ -621,8 +620,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eva Kaili',en,EU,#111111,#111111,3,0.262505447988
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.261364110525
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.261191158022
-'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.261003125000
 'Pierre-Yves Dermagne',en,Belgien,#111111,#111111,1,0.261003125000
+'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.261003125000
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.260231479775
 'Xi Jinping',en,China,#e88818,#e88818,3,0.258922771229
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.257219495474
@@ -662,6 +661,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,3,0.231622815357
 'Joschka Fischer',en,Deutschland,#1818e8,#1818e8,1,0.231280022490
 'Hun Sen',en,Kambodscha,#111111,#111111,3,0.230240850330
+'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.230061204531
 'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.230061204531
 'Charles Michel',en,EU,#111111,#111111,3,0.229412074790
 'Jens Spahn',en,Deutschland,#1818e8,#1818e8,1,0.228837209255
@@ -730,9 +730,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.188998351235
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.188724772812
 'Gilbert Plass',en,Kanada,#443388,#443388,1,0.188653066580
+'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.188574757812
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.188574757812
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.188574757812
-'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.188574757812
 'Richard Ferrand',en,Frankreich,#e8e808,#e8e808,1,0.187345317464
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.187004273469
 'Gerhard Schröder',en,Deutschland,#1818e8,#1818e8,1,0.185328026095
