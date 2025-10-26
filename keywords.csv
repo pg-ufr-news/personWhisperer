@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dua Lipa',en,UK,#e838e8,#e838e8,3,0.516003494682
+'Dua Lipa',en,UK,#e838e8,#e838e8,3,0.501320186609
 'Sanae Takaichi',en,Japan,#aa9933,#aa9933,2,0.487726771129
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,3,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
@@ -31,10 +31,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.462661739660
 'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,3,0.462447909845
 'David Cameron',en,UK,#e838e8,#e838e8,2,0.462214878100
+'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.462129116506
 'Gervonta Davis',en,USA,#18e8e8,#18e8e8,3,0.462055296786
 'Angelina Jolie',en,USA,#18e8e8,#18e8e8,3,0.462026401800
 'Bret Baier',en,USA,#18e8e8,#18e8e8,3,0.461924151362
-'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.461416225975
 'Justin Bieber',en,Kanada,#443388,#443388,3,0.460884122390
 'Bronny James',en,USA,#18e8e8,#18e8e8,3,0.460857754997
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.460506658098
@@ -98,11 +98,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Phoebe Bridgers',en,unknown,#111111,#111111,3,0.438194559072
 'Kamilla Cardoso',en,unknown,#111111,#111111,2,0.436438180436
 'John M. Martinis',en,USA,#18e8e8,#18e8e8,3,0.436055757503
+'Britney Spears',en,unknown,#111111,#111111,3,0.436049402156
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.435968781211
 'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,2,0.435612901389
 'Aaron Rodgers',en,unknown,#111111,#111111,3,0.435599795285
 'Michel H. Devoret',en,USA,#18e8e8,#18e8e8,2,0.434523373793
-'Britney Spears',en,unknown,#111111,#111111,3,0.434519081460
 'Mark Hertsgaard',en,unknown,#111111,#111111,2,0.434068756267
 'Melania Trump',en,unknown,#111111,#111111,3,0.434067627088
 'Lindsey Graham',en,USA,#18e8e8,#18e8e8,3,0.433931761555
@@ -121,12 +121,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ainsley Earhardt',en,unknown,#111111,#111111,2,0.431918237958
 'Al Nassr',en,unknown,#111111,#111111,3,0.430758340355
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.430201546446
+'Benny Blanco',en,unknown,#111111,#111111,2,0.430113936994
 'Andrew Cuomo',en,unknown,#111111,#111111,3,0.429824627385
 'Brittany Mahomes',en,unknown,#111111,#111111,3,0.429801319034
 'Mark Carney',en,unknown,#111111,#111111,3,0.429517361713
 'Sean Hannity',en,unknown,#111111,#111111,3,0.429495024269
 'Katherina Reiche',en,unknown,#111111,#111111,1,0.429489103597
-'Benny Blanco',en,unknown,#111111,#111111,2,0.428560364158
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.427776743145
 'Mark Meadows',en,unknown,#111111,#111111,3,0.427390315352
 'LeBron James',en,unknown,#111111,#111111,3,0.427133060505
@@ -171,10 +171,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'António Guterres',en,unknown,#111111,#111111,3,0.418049004607
 'Zach Bryan',en,unknown,#111111,#111111,3,0.418025916489
 'Patrick Mahomes',en,unknown,#111111,#111111,3,0.417950940894
+'Selena Gomez',en,unknown,#111111,#111111,3,0.417837980003
 'Kara Hurst',en,unknown,#111111,#111111,2,0.417700594288
 'Merrick Garland',en,unknown,#111111,#111111,3,0.417416045257
 'Pete Davidson',en,USA,#18e8e8,#18e8e8,3,0.417365238278
-'Selena Gomez',en,unknown,#111111,#111111,3,0.417038081845
 'Prince George',en,UK,#e838e8,#e838e8,3,0.416868143439
 'Matt Damon',en,USA,#18e8e8,#18e8e8,3,0.416754940017
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.416662112209
@@ -731,9 +731,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.188998351235
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.188724772812
 'Gilbert Plass',en,Kanada,#443388,#443388,1,0.188653066580
-'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.188574757812
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.188574757812
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.188574757812
+'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.188574757812
 'Richard Ferrand',en,Frankreich,#e8e808,#e8e808,1,0.187345317464
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.187004273469
 'Gerhard Schröder',en,Deutschland,#1818e8,#1818e8,1,0.185328026095
