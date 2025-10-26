@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dua Lipa',en,UK,#e838e8,#e838e8,3,0.501320186609
 'Sanae Takaichi',en,Japan,#aa9933,#aa9933,2,0.487726771129
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,3,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
@@ -28,10 +27,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Javier Milei',en,Argentinien,#bb11cc,#bb11cc,3,0.464571106516
 'Sébastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.462923446434
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.462923246444
+'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.462840592741
 'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.462661739660
 'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,3,0.462447909845
 'David Cameron',en,UK,#e838e8,#e838e8,2,0.462214878100
-'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.462129116506
 'Gervonta Davis',en,USA,#18e8e8,#18e8e8,3,0.462055296786
 'Angelina Jolie',en,USA,#18e8e8,#18e8e8,3,0.462026401800
 'Bret Baier',en,USA,#18e8e8,#18e8e8,3,0.461924151362
@@ -44,6 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Luxon',en,Neuseeland,#1818e8,#1818e8,3,0.459307916941
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.459302343725
 'Hunter Biden',en,USA,#18e8e8,#18e8e8,3,0.459266003985
+'Dua Lipa',en,UK,#e838e8,#e838e8,3,0.459049768618
 'Martha MacCallum',en,USA,#18e8e8,#18e8e8,3,0.458935193436
 'König Felipe VI',en,Spanien,#9933aa,#9933aa,2,0.458547113187
 'Margaret Qualley',en,USA,#18e8e8,#18e8e8,3,0.458040667690
@@ -731,9 +731,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.188998351235
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.188724772812
 'Gilbert Plass',en,Kanada,#443388,#443388,1,0.188653066580
-'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.188574757812
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.188574757812
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.188574757812
+'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.188574757812
 'Richard Ferrand',en,Frankreich,#e8e808,#e8e808,1,0.187345317464
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.187004273469
 'Gerhard Schröder',en,Deutschland,#1818e8,#1818e8,1,0.185328026095
