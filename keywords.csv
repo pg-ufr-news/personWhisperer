@@ -731,9 +731,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.188998351235
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.188724772812
 'Gilbert Plass',en,Kanada,#443388,#443388,1,0.188653066580
-'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.188574757812
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.188574757812
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.188574757812
+'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.188574757812
 'Richard Ferrand',en,Frankreich,#e8e808,#e8e808,1,0.187345317464
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.187004273469
 'Gerhard Schröder',en,Deutschland,#1818e8,#1818e8,1,0.185328026095
@@ -878,8 +878,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Franziska Giffey',en,Deutschland,#1818e8,#1818e8,1,0.076361557358
 'Carola Rackete',en,Deutschland,#1818e8,#1818e8,1,0.075217165781
 'Wolodimir Selenski',en,Ukraine,#e818e8,#e818e8,1,0.073823471954
-'Jair Lapid',en,Israel,#22bb33,#22bb33,1,0.073516482516
 'Ethan Bradley',en,USA,#18e8e8,#18e8e8,2,0.073470048906
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.072339639469
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.072170900177
+'Jair Lapid',en,Israel,#22bb33,#22bb33,1,0.062489010139
 'Ulf Poschardt',en,Deutschland,#1818e8,#1818e8,1,0.059901000741
