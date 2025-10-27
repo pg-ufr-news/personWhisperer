@@ -7,7 +7,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.479460360948
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.477541552574
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.476835054057
-'Olivier Faure',en,Frankreich,#e8e808,#e8e808,3,0.476308649089
 'Sandy Hook',en,USA,#18e8e8,#18e8e8,3,0.470008918994
 'Ayatollah Khomeini',en,Iran,#117733,#117733,3,0.469961100602
 'Pat McAfee',en,USA,#18e8e8,#18e8e8,3,0.469491983003
@@ -23,9 +22,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.466911100932
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.466805844142
 'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.465911654925
+'Sébastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.465754601073
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.464919623264
 'Javier Milei',en,Argentinien,#bb11cc,#bb11cc,3,0.464571106516
-'Sébastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.462923446434
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.462923246444
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.462840592741
 'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.462661739660
@@ -85,6 +84,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.443689555832
 'Maria Corina Machado',en,Venezuela,#aa3399,#aa3399,3,0.443144285280
 'Eric Trump',en,unknown,#111111,#111111,3,0.443083154139
+'Olivier Faure',en,Frankreich,#e8e808,#e8e808,3,0.442707234373
 'Jared Kushner',en,unknown,#111111,#111111,3,0.442460437558
 'Anant Ambani',en,unknown,#111111,#111111,1,0.441642677462
 'Anne Hathaway',en,unknown,#111111,#111111,2,0.441198870564
@@ -466,13 +466,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jim Jordan',en,unknown,#111111,#111111,3,0.362498764700
 'Mick Jagger',en,unknown,#111111,#111111,3,0.362148917977
 'Scott Morrison',en,Australien,#99aa33,#99aa33,3,0.362109790162
+'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.361977307889
 'Peregrine Pearson',en,unknown,#111111,#111111,1,0.361951729816
 'Camille Cottin',en,unknown,#111111,#111111,1,0.361804956672
 'Robert Badinter',en,unknown,#111111,#111111,1,0.361792365437
-'Justus Haucap',en,Deutschland,#111111,#111111,1,0.361250000000
-'Volker Wieland',en,Deutschland,#111111,#111111,1,0.361250000000
 'Adnan al-Burj',en,Palestina,#cc2255,#cc2255,1,0.361250000000
+'Volker Wieland',en,Deutschland,#111111,#111111,1,0.361250000000
 'Stefan Kolev',en,Deutschland,#111111,#111111,1,0.361250000000
+'Justus Haucap',en,Deutschland,#111111,#111111,1,0.361250000000
 'Khaled al Serr',en,Palestina,#cc2255,#cc2255,1,0.361250000000
 'Iyad al-Rantisi',en,Palestina,#cc2255,#cc2255,1,0.361250000000
 'Cillian Murphy',en,Irland,#3377bb,#3377bb,3,0.361069031202
@@ -480,7 +481,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,2,0.360771648476
 'Putin',en,Russland,#e81818,#e81818,3,0.360629354509
 'Jimmy Carter',en,USA,#18e8e8,#18e8e8,3,0.360242481138
-'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.360165833432
 'Robert Menendez',en,unknown,#111111,#111111,2,0.359793031728
 'Tiffany Chen',en,USA,#18e8e8,#18e8e8,2,0.359686621558
 'Jean-Luc Mélenchon',en,unknown,#111111,#111111,2,0.359431307828
@@ -731,9 +731,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.188998351235
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.188724772812
 'Gilbert Plass',en,Kanada,#443388,#443388,1,0.188653066580
-'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.188574757812
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.188574757812
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.188574757812
+'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.188574757812
 'Richard Ferrand',en,Frankreich,#e8e808,#e8e808,1,0.187345317464
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.187004273469
 'Gerhard Schröder',en,Deutschland,#1818e8,#1818e8,1,0.185328026095
