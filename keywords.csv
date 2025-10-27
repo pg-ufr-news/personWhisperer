@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.606669226343
 'Mary Brunkow',en,USA,#18e8e8,#18e8e8,2,0.603815238625
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,2,0.603400436286
 'Callum Turner',en,UK,#e838e8,#e838e8,2,0.601233973845
 'John Martinis',en,USA,#18e8e8,#18e8e8,2,0.600005634211
+'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.576724737392
 'Michel Devoret',en,Frankreich,#e8e808,#e8e808,2,0.505734342100
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.503558197482
 'Omar Yaghi',en,Jordanien,#335599,#335599,2,0.502918111552
@@ -456,6 +456,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Greta Gerwig',en,unknown,#111111,#111111,2,0.369215709073
 'Afida Turner',en,Frankreich,#e8e808,#e8e808,1,0.368802606863
 'Petro Poroshenko',en,unknown,#111111,#111111,1,0.368538402555
+'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.367372378370
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.366725949620
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,2,0.366424234782
 'Rachida Dati',en,unknown,#111111,#111111,1,0.366243590116
@@ -474,7 +475,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jim Jordan',en,unknown,#111111,#111111,3,0.362498764700
 'Mick Jagger',en,unknown,#111111,#111111,3,0.362148917977
 'Scott Morrison',en,Australien,#99aa33,#99aa33,3,0.362109790162
-'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.361977307889
 'Peregrine Pearson',en,unknown,#111111,#111111,1,0.361951729816
 'Camille Cottin',en,unknown,#111111,#111111,1,0.361804956672
 'Robert Badinter',en,unknown,#111111,#111111,1,0.361792365437
@@ -613,9 +613,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.266652025067
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.266573716299
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.266373202500
-'Maria Sacharowa',en,unknown,#111111,#111111,1,0.266223187500
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.266223187500
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.266223187500
+'Maria Sacharowa',en,unknown,#111111,#111111,1,0.266223187500
 'Christian Dürr',en,unknown,#111111,#111111,1,0.266204804302
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.266051339885
 'Rishi Sunak',en,UK,#e838e8,#e838e8,3,0.265694943046
