@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Mary Brunkow',en,USA,#18e8e8,#18e8e8,3,0.553802129383
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.551834784467
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.549721861783
 'John Martinis',en,USA,#18e8e8,#18e8e8,3,0.544435422613
@@ -15,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.480137355656
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.477541552574
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.476835054057
+'Mary Brunkow',en,USA,#18e8e8,#18e8e8,3,0.475534104976
 'Sandy Hook',en,USA,#18e8e8,#18e8e8,3,0.470008918994
 'Ayatollah Khomeini',en,Iran,#117733,#117733,3,0.469961100602
 'Pat McAfee',en,USA,#18e8e8,#18e8e8,3,0.469491983003
@@ -613,9 +613,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.266652025067
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.266573716299
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.266373202500
-'Maria Sacharowa',en,unknown,#111111,#111111,1,0.266223187500
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.266223187500
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.266223187500
+'Maria Sacharowa',en,unknown,#111111,#111111,1,0.266223187500
 'Christian Dürr',en,unknown,#111111,#111111,1,0.266204804302
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.266051339885
 'Rishi Sunak',en,UK,#e838e8,#e838e8,3,0.265694943046
