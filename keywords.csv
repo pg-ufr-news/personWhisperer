@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.576724737392
 'Callum Turner',en,UK,#e838e8,#e838e8,2,0.570545307314
 'Mary Brunkow',en,USA,#18e8e8,#18e8e8,3,0.553802129383
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.551834784467
+'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.549721861783
 'John Martinis',en,USA,#18e8e8,#18e8e8,3,0.544435422613
 'Michel Devoret',en,Frankreich,#e8e808,#e8e808,2,0.510695769536
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.503558197482
@@ -29,8 +29,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
 'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.466911100932
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.466805844142
+'Sébastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.466458879101
 'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.465911654925
-'Sébastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.465754601073
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.464919623264
 'Javier Milei',en,Argentinien,#bb11cc,#bb11cc,3,0.464571106516
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.464259312056
@@ -443,6 +443,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michelle O\'Neill',en,Irland,#3377bb,#3377bb,3,0.372130919865
 'Steve Jobs',en,USA,#18e8e8,#18e8e8,3,0.372120601318
 'Nawaz Sharif',en,unknown,#111111,#111111,2,0.372118088371
+'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.371823286596
 'Tasneem Essop',en,unknown,#111111,#111111,1,0.371473933000
 'James Cleverly',en,UK,#e838e8,#e838e8,3,0.371088711955
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.370964179466
@@ -456,7 +457,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Greta Gerwig',en,unknown,#111111,#111111,2,0.369215709073
 'Afida Turner',en,Frankreich,#e8e808,#e8e808,1,0.368802606863
 'Petro Poroshenko',en,unknown,#111111,#111111,1,0.368538402555
-'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.367372378370
 'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.366725949620
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,2,0.366424234782
 'Rachida Dati',en,unknown,#111111,#111111,1,0.366243590116
@@ -613,8 +613,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.266652025067
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.266573716299
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.266373202500
-'Maria Sacharowa',en,unknown,#111111,#111111,1,0.266223187500
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.266223187500
+'Maria Sacharowa',en,unknown,#111111,#111111,1,0.266223187500
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.266223187500
 'Christian Dürr',en,unknown,#111111,#111111,1,0.266204804302
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.266051339885
@@ -669,8 +669,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,3,0.231622815357
 'Joschka Fischer',en,Deutschland,#1818e8,#1818e8,1,0.231280022490
 'Hun Sen',en,Kambodscha,#33aadd,#33aadd,3,0.230240850330
-'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.230061204531
 'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.230061204531
+'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.230061204531
 'Charles Michel',en,EU,#4488cc,#4488cc,3,0.229412074790
 'Jens Spahn',en,Deutschland,#1818e8,#1818e8,1,0.228837209255
 'Matthias Müller',en,Deutschland,#1818e8,#1818e8,1,0.228555493928
@@ -739,9 +739,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.188998351235
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.188724772812
 'Gilbert Plass',en,Kanada,#443388,#443388,1,0.188653066580
-'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.188574757812
-'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.188574757812
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.188574757812
+'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.188574757812
+'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.188574757812
 'Richard Ferrand',en,Frankreich,#e8e808,#e8e808,1,0.187345317464
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.187004273469
 'Gerhard Schröder',en,Deutschland,#1818e8,#1818e8,1,0.185328026095
