@@ -78,12 +78,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fred Ramsdel',en,USA,#18e8e8,#18e8e8,1,0.449127879511
 'David Beckham',en,UK,#e838e8,#e838e8,2,0.448682487402
 'Ivanka Trump',en,USA,#18e8e8,#18e8e8,3,0.448410385735
-'Joaquim Valente',en,unknown,#111111,#111111,2,0.447606283145
+'Joaquim Valente',en,USA,#18e8e8,#18e8e8,2,0.447606283145
 'Keith Kellogg',en,USA,#18e8e8,#18e8e8,3,0.447077006330
-'Nicola Peltz',en,unknown,#111111,#111111,3,0.446126918982
-'Henry Samuel',en,unknown,#111111,#111111,2,0.446124367798
+'Nicola Peltz',en,USA,#18e8e8,#18e8e8,3,0.446126918982
+'Henry Samuel',en,USA,#18e8e8,#18e8e8,2,0.446124367798
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.445776251093
-'Mukesh Ambani',en,unknown,#111111,#111111,3,0.445636312800
+'Mukesh Ambani',en,Indien,#cc3388,#cc3388,3,0.445636312800
 'Castel Gandolfo',en,unknown,#111111,#111111,2,0.445549925097
 'Ben Affleck',en,unknown,#111111,#111111,3,0.445509496808
 'Eliot Wolf',en,unknown,#111111,#111111,3,0.445300433423
@@ -668,7 +668,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schellnhuber',en,Deutschland,#1818e8,#1818e8,2,0.231894365087
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,3,0.231622815357
 'Joschka Fischer',en,Deutschland,#1818e8,#1818e8,1,0.231280022490
-'Hun Sen',en,Kambodscha,#111111,#111111,3,0.230240850330
+'Hun Sen',en,Kambodscha,#33aadd,#33aadd,3,0.230240850330
 'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.230061204531
 'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.230061204531
 'Charles Michel',en,EU,#4488cc,#4488cc,3,0.229412074790
@@ -719,8 +719,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mohammed bin Salman',en,SaudiArabien,#1144ee,#1144ee,2,0.199302301330
 'Antony Blinken',en,USA,#18e8e8,#18e8e8,3,0.199068191883
 'Kim Jong-un',en,NordKorea,#e85858,#e85858,3,0.198951196753
-'Joko Widodo',en,Indonesien,#111111,#111111,3,0.197364917723
-'Paul Kagame',en,Ruanda,#111111,#111111,2,0.195934635817
+'Joko Widodo',en,Indonesien,#aa33dd,#aa33dd,3,0.197364917723
+'Paul Kagame',en,Ruanda,#33ddaa,#33ddaa,2,0.195934635817
 'Thierry Breton',en,EU,#4488cc,#4488cc,3,0.195529511703
 'Rainer Maria Woelki',en,Deutschland,#1818e8,#1818e8,2,0.195206087252
 'Miriam Adelson',en,USA,#18e8e8,#18e8e8,3,0.194083115373
@@ -732,7 +732,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Koch',en,USA,#18e8e8,#18e8e8,3,0.190971417300
 'Michael Mann',en,USA,#18e8e8,#18e8e8,3,0.190824040555
 'Bill Gates',en,USA,#18e8e8,#18e8e8,3,0.190800728360
-'Andrés Manuel López Obrador',en,Mexiko,#111111,#111111,3,0.190780487342
+'Andrés Manuel López Obrador',en,Mexiko,#aadd33,#aadd33,3,0.190780487342
 'Jessy Wellmer',en,unknown,#111111,#111111,1,0.190505066564
 'Daniel Zhang',en,China,#e88818,#e88818,2,0.189844120282
 'Jean Jouzel',en,unknown,#111111,#111111,1,0.189341680837
@@ -764,7 +764,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dieter Bohlen',en,Deutschland,#1818e8,#1818e8,1,0.173562802588
 'Alfred Bernhard Nobel',en,Schweden,#77ff55,#77ff55,1,0.173111627672
 'Edward Snowden',en,USA,#18e8e8,#18e8e8,1,0.171886774193
-'Fidel Castro',en,Kuba,#111111,#111111,2,0.171868439728
+'Fidel Castro',en,Kuba,#dd33aa,#dd33aa,2,0.171868439728
 'Tino Chrupalla',en,Deutschland,#1818e8,#1818e8,2,0.170999449144
 'Lula sa Silva',en,Brasilien,#58e838,#58e838,1,0.170925634088
 'John Kerry',en,USA,#18e8e8,#18e8e8,2,0.169474690278
@@ -779,7 +779,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Amin Nasser',en,SaudiArabien,#1144ee,#1144ee,2,0.162574303778
 'Markus Söder',en,Deutschland,#1818e8,#1818e8,1,0.162508839523
 'Missy Motown',en,Deutschland,#1818e8,#1818e8,1,0.162307314421
-'Lee Hsien Loong',en,Singapur,#111111,#111111,3,0.162165638081
+'Lee Hsien Loong',en,Singapur,#ddaa33,#ddaa33,3,0.162165638081
 'Edir Macedo',en,Brasilien,#58e838,#58e848,1,0.160999558658
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.160707326935
 'Jean-Denis Combrexelle',en,unknown,#111111,#111111,1,0.160592961874
@@ -791,7 +791,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.159604891255
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.159544082868
 'König Charles III',en,UK,#e838e8,#e838e8,1,0.159413142111
-'Miguel Díaz-Canel',en,Kuba,#111111,#111111,1,0.158143494816
+'Miguel Díaz-Canel',en,Kuba,#dd33aa,#dd33aa,1,0.158143494816
 'Roland Busch',en,Deutschland,#1818e8,#1818e8,1,0.157814453375
 'Nicola Beer',en,EU,#4488cc,#4488cc,1,0.157774150060
 'Robin Li',en,China,#e88818,#e88818,3,0.156039691507
