@@ -1,14 +1,14 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'John Martinis',en,USA,#18e8e8,#18e8e8,2,0.600883728881
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.577391975843
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.576724737392
 'Callum Turner',en,UK,#e838e8,#e838e8,2,0.570545307314
 'Mary Brunkow',en,USA,#18e8e8,#18e8e8,3,0.553802129383
-'Michel Devoret',en,Frankreich,#e8e808,#e8e808,2,0.506982148708
+'John Martinis',en,USA,#18e8e8,#18e8e8,3,0.544435422613
+'Michel Devoret',en,Frankreich,#e8e808,#e8e808,2,0.510695769536
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.503558197482
 'Omar Yaghi',en,Jordanien,#335599,#335599,2,0.502918111552
+'John Clarke',en,USA,#18e8e8,#18e8e8,2,0.489290045010
 'Sanae Takaichi',en,Japan,#aa9933,#aa9933,2,0.487726771129
-'John Clarke',en,USA,#18e8e8,#18e8e8,2,0.485318063997
 'Shimon Sakaguchi',en,Japan,#aa9933,#aa9933,2,0.484671092789
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,3,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
@@ -613,9 +613,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.266652025067
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.266573716299
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.266373202500
-'Melanie Guttmann',en,unknown,#111111,#111111,1,0.266223187500
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.266223187500
 'Maria Sacharowa',en,unknown,#111111,#111111,1,0.266223187500
+'Melanie Guttmann',en,unknown,#111111,#111111,1,0.266223187500
 'Christian Dürr',en,unknown,#111111,#111111,1,0.266204804302
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.266051339885
 'Rishi Sunak',en,UK,#e838e8,#e838e8,3,0.265694943046
