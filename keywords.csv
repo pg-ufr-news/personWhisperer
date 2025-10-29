@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'John Martinis',en,USA,#18e8e8,#18e8e8,3,0.544435422613
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.538561186797
-'Michel Devoret',en,Frankreich,#e8e808,#e8e808,2,0.510695769536
+'Michel Devoret',en,Frankreich,#e8e808,#e8e808,2,0.513146887472
 'Callum Turner',en,UK,#e838e8,#e838e8,3,0.508969324927
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.503558197482
 'Omar Yaghi',en,Jordanien,#335599,#335599,2,0.502918111552
-'John Clarke',en,USA,#18e8e8,#18e8e8,2,0.489290045010
+'John Martinis',en,USA,#18e8e8,#18e8e8,3,0.499114976364
+'John Clarke',en,USA,#18e8e8,#18e8e8,2,0.491911692042
 'Sanae Takaichi',en,Japan,#aa9933,#aa9933,2,0.487726771129
 'Shimon Sakaguchi',en,Japan,#aa9933,#aa9933,2,0.484671092789
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,3,0.484501395000
@@ -613,9 +613,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.266652025067
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.266573716299
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.266373202500
-'Maria Sacharowa',en,unknown,#111111,#111111,1,0.266223187500
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.266223187500
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.266223187500
+'Maria Sacharowa',en,unknown,#111111,#111111,1,0.266223187500
 'Christian Dürr',en,unknown,#111111,#111111,1,0.266204804302
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.266051339885
 'Rishi Sunak',en,UK,#e838e8,#e838e8,3,0.265694943046
@@ -709,9 +709,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katja Krasavice',en,Deutschland,#1818e8,#1818e8,1,0.207510555673
 'Minka Indigena',en,unknown,#111111,#111111,1,0.207432233594
 'Ricarda Lang',en,Deutschland,#1818e8,#1818e8,1,0.206707545695
+'Sundar Pichai',en,USA,#18e8e8,#18e8e8,2,0.206037178446
 'Alexander von Humboldt',en,Deutschland,#1818e8,#1818e8,1,0.205787802500
 'Jack Ma',en,China,#e88818,#e88818,3,0.205654622727
-'Sundar Pichai',en,USA,#18e8e8,#18e8e8,2,0.204892022474
 'Andreas Baum',en,Deutschland,#1818e8,#1818e8,1,0.202747098084
 'Nancy Faeser',en,Deutschland,#1818e8,#1818e8,2,0.202591390109
 'Aleksandar Vucic',en,Serbien,#88cc44,#88cc44,3,0.200076424780
