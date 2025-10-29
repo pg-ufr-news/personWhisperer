@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'John Martinis',en,USA,#18e8e8,#18e8e8,3,0.499752728218
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.495758756506
 'John Clarke',en,USA,#18e8e8,#18e8e8,2,0.492563834529
 'Sanae Takaichi',en,Japan,#aa9933,#aa9933,2,0.487726771129
@@ -135,6 +134,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Carney',en,unknown,#111111,#111111,3,0.429517361713
 'Sean Hannity',en,unknown,#111111,#111111,3,0.429495024269
 'Katherina Reiche',en,unknown,#111111,#111111,1,0.429489103597
+'John Martinis',en,USA,#18e8e8,#18e8e8,3,0.429441828985
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.427776743145
 'Mark Meadows',en,unknown,#111111,#111111,3,0.427390315352
 'LeBron James',en,unknown,#111111,#111111,3,0.427133060505
@@ -613,9 +613,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.266652025067
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.266573716299
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.266373202500
-'Henning Jeschke',en,unknown,#111111,#111111,1,0.266223187500
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.266223187500
 'Maria Sacharowa',en,unknown,#111111,#111111,1,0.266223187500
+'Henning Jeschke',en,unknown,#111111,#111111,1,0.266223187500
 'Christian Dürr',en,unknown,#111111,#111111,1,0.266204804302
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.266051339885
 'Rishi Sunak',en,UK,#e838e8,#e838e8,3,0.265694943046
