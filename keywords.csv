@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Callum Turner',en,UK,#e838e8,#e838e8,3,0.508969324927
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.503558197482
 'Omar Yaghi',en,Jordanien,#335599,#335599,2,0.502918111552
 'John Martinis',en,USA,#18e8e8,#18e8e8,3,0.499752728218
@@ -121,6 +120,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.433421907241
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.433421518069
 'Gérald Darmanin',en,Frankreich,#e8e808,#e8e808,2,0.433389376321
+'Callum Turner',en,UK,#e838e8,#e838e8,2,0.432624901188
 'Meryl Streep',en,unknown,#111111,#111111,3,0.432493571316
 'Chris Wright',en,USA,#18e8e8,#18e8e8,3,0.432250407848
 'Chelsea Handler',en,USA,#18e8e8,#18e8e8,3,0.432229123809
@@ -613,9 +613,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.266652025067
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.266573716299
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.266373202500
-'Henning Jeschke',en,unknown,#111111,#111111,1,0.266223187500
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.266223187500
 'Maria Sacharowa',en,unknown,#111111,#111111,1,0.266223187500
+'Henning Jeschke',en,unknown,#111111,#111111,1,0.266223187500
 'Christian Dürr',en,unknown,#111111,#111111,1,0.266204804302
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.266051339885
 'Rishi Sunak',en,UK,#e838e8,#e838e8,3,0.265694943046
