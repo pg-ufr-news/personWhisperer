@@ -85,16 +85,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.445776251093
 'Mukesh Ambani',en,Indien,#cc3388,#cc3388,3,0.445636312800
 'Castel Gandolfo',en,unknown,#111111,#111111,2,0.445549925097
-'Ben Affleck',en,unknown,#111111,#111111,3,0.445509496808
-'Eliot Wolf',en,unknown,#111111,#111111,3,0.445300433423
+'Ben Affleck',en,USA,#18e8e8,#18e8e8,3,0.445509496808
+'Eliot Wolf',en,USA,#18e8e8,#18e8e8,3,0.445300433423
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.444964191365
-'Howard Stern',en,unknown,#111111,#111111,3,0.444323902612
+'Howard Stern',en,USA,#18e8e8,#18e8e8,3,0.444323902612
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.443689555832
 'Maria Corina Machado',en,Venezuela,#aa3399,#aa3399,3,0.443144285280
-'Eric Trump',en,unknown,#111111,#111111,3,0.443083154139
+'Eric Trump',en,USA,#18e8e8,#18e8e8,3,0.443083154139
 'Olivier Faure',en,Frankreich,#e8e808,#e8e808,3,0.442707234373
-'Jared Kushner',en,unknown,#111111,#111111,3,0.442460437558
-'Anant Ambani',en,unknown,#111111,#111111,1,0.441642677462
+'Jared Kushner',en,USA,#18e8e8,#18e8e8,3,0.442460437558
+'Anant Ambani',en,Indien,#cc3388,#cc3388,1,0.441642677462
 'Anne Hathaway',en,unknown,#111111,#111111,2,0.441198870564
 'Radical Optimism',en,unknown,#111111,#111111,3,0.440633396016
 'Richard Robson',en,Australien,#99aa33,#99aa33,2,0.440280061594
@@ -808,7 +808,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Carl Friedrich Gauß',en,Deutschland,#1818e8,#1818e8,1,0.147144883521
 'Patriarch Kyrill',en,Ukraine,#e818e8,#e818e8,1,0.143922702419
 'Klaus-Michael Kühne',en,Deutschland,#1818e8,#1818e8,1,0.143665233328
-'Macky Sall',en,Senegal,#111111,#111111,1,0.143012775400
+'Macky Sall',en,Senegal,#5577bb,#5577bb,1,0.143012775400
 'Markus Krebber',en,Deutschland,#1818e8,#1818e8,1,0.140475681526
 'Dmitri Medwedew',en,Russland,#e81818,#e81818,1,0.138970167770
 'Wolfgang Kubicki',en,Deutschland,#1818e8,#1818e8,1,0.138310119877
@@ -833,7 +833,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wladimir Putin',en,Russland,#e81818,#e81818,1,0.115947335803
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.115808473142
 'Ebrahim Raisi',en,Iran,#117733,#117733,2,0.114473053686
-'Frank Bainimarama',en,Fidschi,#111111,#111111,1,0.113346782585
+'Frank Bainimarama',en,Fidschi,#7755bb,#7755bb,1,0.113346782585
 'Andreas Jödecke',en,Deutschland,#1818e8,#1818e8,1,0.112010352882
 'Alexej Kudrin',en,Russland,#e81818,#e81818,1,0.111888838708
 'Holger Münch',en,Deutschland,#1818e8,#1818e8,1,0.111428895744
