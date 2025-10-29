@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.503558197482
 'Omar Yaghi',en,Jordanien,#335599,#335599,2,0.502918111552
 'John Martinis',en,USA,#18e8e8,#18e8e8,3,0.499752728218
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.495758756506
@@ -22,12 +21,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.467859220115
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.467515801300
+'Sébastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.467161757778
 'Eddie Hearn',en,UK,#e838e8,#e838e8,3,0.467152103793
 'Sherri Shepherd',en,USA,#18e8e8,#18e8e8,3,0.467141477363
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
 'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.466911100932
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.466805844142
-'Sébastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.466458879101
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.466330094293
 'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.465911654925
 'Javier Milei',en,Argentinien,#bb11cc,#bb11cc,3,0.464571106516
@@ -103,6 +102,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olivia Rodrigo',en,unknown,#111111,#111111,3,0.438465075856
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.438328557807
 'Phoebe Bridgers',en,unknown,#111111,#111111,3,0.438194559072
+'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.437522067405
 'Kamilla Cardoso',en,unknown,#111111,#111111,2,0.436438180436
 'John M. Martinis',en,USA,#18e8e8,#18e8e8,3,0.436055757503
 'Britney Spears',en,unknown,#111111,#111111,3,0.436049402156
@@ -613,9 +613,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.266652025067
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.266573716299
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.266373202500
-'Melanie Guttmann',en,unknown,#111111,#111111,1,0.266223187500
 'Maria Sacharowa',en,unknown,#111111,#111111,1,0.266223187500
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.266223187500
+'Melanie Guttmann',en,unknown,#111111,#111111,1,0.266223187500
 'Christian Dürr',en,unknown,#111111,#111111,1,0.266204804302
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.266051339885
 'Rishi Sunak',en,UK,#e838e8,#e838e8,3,0.265694943046
