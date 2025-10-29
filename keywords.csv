@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'John Clarke',en,USA,#18e8e8,#18e8e8,2,0.492563834529
 'Sanae Takaichi',en,Japan,#aa9933,#aa9933,2,0.487726771129
 'Shimon Sakaguchi',en,Japan,#aa9933,#aa9933,2,0.484671092789
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,3,0.484501395000
@@ -79,12 +78,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicola Peltz',en,USA,#18e8e8,#18e8e8,3,0.446126918982
 'Henry Samuel',en,USA,#18e8e8,#18e8e8,2,0.446124367798
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.445776251093
+'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.445709600516
 'Michel Devoret',en,Frankreich,#e8e808,#e8e808,2,0.445699203144
 'Mukesh Ambani',en,Indien,#cc3388,#cc3388,3,0.445636312800
 'Castel Gandolfo',en,unknown,#111111,#111111,2,0.445549925097
 'Ben Affleck',en,USA,#18e8e8,#18e8e8,3,0.445509496808
 'Eliot Wolf',en,USA,#18e8e8,#18e8e8,3,0.445300433423
-'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.444964191365
 'Howard Stern',en,USA,#18e8e8,#18e8e8,3,0.444323902612
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.443689555832
 'Richard Robson',en,Australien,#99aa33,#99aa33,2,0.443289652670
@@ -92,6 +91,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eric Trump',en,USA,#18e8e8,#18e8e8,3,0.443083154139
 'Olivier Faure',en,Frankreich,#e8e808,#e8e808,3,0.442707234373
 'Jared Kushner',en,USA,#18e8e8,#18e8e8,3,0.442460437558
+'John Clarke',en,USA,#18e8e8,#18e8e8,3,0.442235454350
 'Anant Ambani',en,Indien,#cc3388,#cc3388,1,0.441642677462
 'Anne Hathaway',en,unknown,#111111,#111111,2,0.441198870564
 'Radical Optimism',en,unknown,#111111,#111111,3,0.440633396016
@@ -613,9 +613,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.266652025067
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.266573716299
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.266373202500
-'Maria Sacharowa',en,unknown,#111111,#111111,1,0.266223187500
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.266223187500
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.266223187500
+'Maria Sacharowa',en,unknown,#111111,#111111,1,0.266223187500
 'Christian Dürr',en,unknown,#111111,#111111,1,0.266204804302
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.266051339885
 'Rishi Sunak',en,UK,#e838e8,#e838e8,3,0.265694943046
@@ -653,7 +653,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.244037921875
 'François Braun',en,unknown,#111111,#111111,1,0.242364503526
 'Fumio Kishida',en,Japan,#aa9933,#aa9933,3,0.241218987042
-'Anthony ',en,Australien,#99aa33,#99aa33,3,0.239717245064
+'Anthony ',en,Australien,#99aa33,#99aa33,3,0.240817574002
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.239600868750
 'Aleksandar Vučić',en,Serbien,#88cc44,#88cc44,1,0.239310118648
 'Michelle Obama',en,USA,#18e8e8,#18e8e8,3,0.238239797819
