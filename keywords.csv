@@ -94,11 +94,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Clarke',en,USA,#18e8e8,#18e8e8,3,0.442235454350
 'Anant Ambani',en,Indien,#cc3388,#cc3388,1,0.441642677462
 'Anne Hathaway',en,unknown,#111111,#111111,2,0.441198870564
+'Olivia Rodrigo',en,unknown,#111111,#111111,3,0.440735156313
 'Radical Optimism',en,unknown,#111111,#111111,3,0.440633396016
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.440164372058
 'Lil Yachty',en,unknown,#111111,#111111,2,0.440164089099
 'Omar M. Yaghi',en,USA,#18e8e8,#18e8e8,2,0.439300675000
-'Olivia Rodrigo',en,unknown,#111111,#111111,3,0.438465075856
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.438328557807
 'Phoebe Bridgers',en,unknown,#111111,#111111,3,0.438194559072
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.437522067405
@@ -171,10 +171,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chuck Todd',en,USA,#18e8e8,#18e8e8,3,0.420678382977
 'Drake Maye',en,unknown,#111111,#111111,3,0.420042753686
 'Jennifer Morgan',en,unknown,#111111,#111111,3,0.419862032798
-'Missy Elliott',en,unknown,#111111,#111111,3,0.419783404135
 'Pete Davidson',en,USA,#18e8e8,#18e8e8,3,0.419758405529
 'Cameron Brink',en,unknown,#111111,#111111,3,0.419719128376
 'Hubert Aiwanger',en,unknown,#111111,#111111,2,0.419657048815
+'Missy Elliott',en,unknown,#111111,#111111,3,0.419531939644
 'Pedro Sánchez',en,Spanien,#9933aa,#9933aa,3,0.419341153747
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.419073531993
 'Charles Barkley',en,unknown,#111111,#111111,3,0.418708067440
@@ -187,6 +187,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince George',en,UK,#e838e8,#e838e8,3,0.416868143439
 'Matt Damon',en,USA,#18e8e8,#18e8e8,3,0.416754940017
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.416662112209
+'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.416615665659
 'Kim Kardashian',en,USA,#18e8e8,#18e8e8,3,0.416510826153
 'Emma Stone',en,unknown,#111111,#111111,3,0.416480825672
 'Jeff Ross',en,unknown,#111111,#111111,3,0.416120812153
@@ -197,7 +198,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laurent Berger',en,Frankreich,#e8e808,#e8e808,1,0.414454553945
 'Gigi Hadid',en,unknown,#111111,#111111,3,0.414228755485
 'Chuck Schumer',en,unknown,#111111,#111111,3,0.414209873304
-'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.414204226791
 'Bill Belichick',en,unknown,#111111,#111111,3,0.414068102830
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.414062952533
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.413880588854
@@ -613,9 +613,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.266652025067
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.266573716299
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.266373202500
-'Maria Sacharowa',en,unknown,#111111,#111111,1,0.266223187500
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.266223187500
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.266223187500
+'Maria Sacharowa',en,unknown,#111111,#111111,1,0.266223187500
 'Christian Dürr',en,unknown,#111111,#111111,1,0.266204804302
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.266051339885
 'Rishi Sunak',en,UK,#e838e8,#e838e8,3,0.265694943046
