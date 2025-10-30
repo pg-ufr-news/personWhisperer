@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shimon Sakaguchi',en,Japan,#aa9933,#aa9933,2,0.484671092789
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,3,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.482831859605
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.483502129470
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.481444357516
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.478222372598
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.477517282153
@@ -114,7 +114,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Melania Trump',en,unknown,#111111,#111111,3,0.434067627088
 'Lindsey Graham',en,USA,#18e8e8,#18e8e8,3,0.433931761555
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.433778495279
-'Kim Yo Jong',en,NordKorea,#e85858,#e85858,2,0.433633944123
 'Charlie Munger',en,unknown,#111111,#111111,3,0.433457603217
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.433421907241
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.433421518069
@@ -213,9 +212,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mindy Kaling',en,unknown,#111111,#111111,3,0.411473910045
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.411393341105
 'Prince Harry',en,UK,#e838e8,#e838e8,3,0.411077430516
+'Kim Jong Un',en,NordKorea,#e85858,#e85858,3,0.410793217041
 'Axel Springer',en,Deutschland,#1818e8,#1818e8,3,0.410543768460
 'Robin Wall Kimmerer',en,unknown,#111111,#111111,1,0.410189635964
-'Kim Jong Un',en,NordKorea,#e85858,#e85858,3,0.409979728698
 'Mohammed Bin Salman',en,SaudiArabien,#1144ee,#1144ee,3,0.409947128783
 'Heidi Klum',en,unknown,#111111,#111111,3,0.409825278376
 'Sunny Hostin',en,unknown,#111111,#111111,2,0.409498608275
@@ -263,6 +262,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pablo Picasso',en,Spanien,#9933aa,#9933aa,3,0.404047306886
 'Mark Kerr',en,unknown,#111111,#111111,3,0.403865583056
 'Tom Hanks',en,unknown,#111111,#111111,3,0.403594682986
+'Kim Yo Jong',en,NordKorea,#e85858,#e85858,2,0.403272320838
 'Camilla',en,UK,#e838e8,#e838e8,3,0.402975231427
 'Al Pacino',en,USA,#18e8e8,#18e8e8,3,0.402951881179
 'Kate Hudson',en,unknown,#111111,#111111,3,0.402945991628
@@ -613,9 +613,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.266652025067
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.266573716299
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.266373202500
-'Maria Sacharowa',en,unknown,#111111,#111111,1,0.266223187500
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.266223187500
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.266223187500
+'Maria Sacharowa',en,unknown,#111111,#111111,1,0.266223187500
 'Christian Dürr',en,unknown,#111111,#111111,1,0.266204804302
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.266051339885
 'Rishi Sunak',en,UK,#e838e8,#e838e8,3,0.265694943046
