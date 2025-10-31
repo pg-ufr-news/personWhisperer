@@ -630,7 +630,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patricia Blanco',en,Deutschland,#1818e8,#1818e8,1,0.261364110525
 'Maybrit Illner',en,Deutschland,#1818e8,#1818e8,1,0.261191158022
 'Andreas Ellermann',en,Deutschland,#1818e8,#1818e8,1,0.261003125000
-'Pierre-Yves Dermagne',en,Belgien,#33bbff,#33bbff,1,0.261003125000
 'Markus Lanz',en,Deutschland,#1818e8,#1818e8,1,0.260231479775
 'Xi Jinping',en,China,#e88818,#e88818,3,0.258922771229
 'Nicola Sturgeon',en,UK,#e838e8,#e838e8,3,0.257219495474
@@ -669,8 +668,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,3,0.231622815357
 'Joschka Fischer',en,Deutschland,#1818e8,#1818e8,1,0.231280022490
 'Hun Sen',en,Kambodscha,#33aadd,#33aadd,3,0.230240850330
-'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.230061204531
 'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.230061204531
+'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.230061204531
 'Charles Michel',en,EU,#4488cc,#4488cc,3,0.229412074790
 'Jens Spahn',en,Deutschland,#1818e8,#1818e8,1,0.228837209255
 'Matthias Müller',en,Deutschland,#1818e8,#1818e8,1,0.228555493928
@@ -688,9 +687,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marlène Schiappa',en,unknown,#111111,#111111,1,0.222606979048
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.222598635234
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.222002671250
-'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.221852656250
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.221852656250
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.221852656250
+'Pierre-Yves Dermagne',en,Belgien,#33bbff,#33bbff,1,0.221852656250
+'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.221852656250
 'Yoon Suk-yeol',en,SüdKorea,#22bb66,#22bb66,3,0.221256348491
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,1,0.218523187306
 'Michael Kahle',en,Deutschland,#1818e8,#1818e8,1,0.218192888971
