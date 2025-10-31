@@ -80,7 +80,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.445776251093
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.445709600516
 'Michel Devoret',en,Frankreich,#e8e808,#e8e808,2,0.445699203144
-'Mukesh Ambani',en,Indien,#cc3388,#cc3388,3,0.445636312800
 'Castel Gandolfo',en,unknown,#111111,#111111,2,0.445549925097
 'Ben Affleck',en,USA,#18e8e8,#18e8e8,3,0.445509496808
 'Eliot Wolf',en,USA,#18e8e8,#18e8e8,3,0.445300433423
@@ -103,11 +102,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Phoebe Bridgers',en,USA,#18e8e8,#18e8e8,3,0.438194559072
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.437522067405
 'Kamilla Cardoso',en,Brasilien,#58e838,#58e838,2,0.436438180436
+'Aaron Rodgers',en,USA,#18e8e8,#18e8e8,3,0.436363589982
 'John M. Martinis',en,USA,#18e8e8,#18e8e8,3,0.436055757503
 'Britney Spears',en,USA,#18e8e8,#18e8e8,3,0.436049402156
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.435968781211
 'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,2,0.435612901389
-'Aaron Rodgers',en,USA,#18e8e8,#18e8e8,3,0.435599795285
 'Michel H. Devoret',en,USA,#18e8e8,#18e8e8,2,0.434523373793
 'Robert Kennedy',en,USA,#18e8e8,#18e8e8,3,0.434150101056
 'Mark Hertsgaard',en,unknown,#111111,#111111,2,0.434068756267
@@ -212,6 +211,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mindy Kaling',en,unknown,#111111,#111111,3,0.411473910045
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.411393341105
 'Prince Harry',en,UK,#e838e8,#e838e8,3,0.411077430516
+'Mukesh Ambani',en,Indien,#cc3388,#cc3388,3,0.411015363153
 'Kim Jong Un',en,NordKorea,#e85858,#e85858,3,0.410793217041
 'Axel Springer',en,Deutschland,#1818e8,#1818e8,3,0.410543768460
 'Robin Wall Kimmerer',en,unknown,#111111,#111111,1,0.410189635964
@@ -677,6 +677,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Sandel',en,USA,#18e8e8,#18e8e8,1,0.227415724484
 'Kevin Kühnert',en,Deutschland,#1818e8,#1818e8,2,0.226668622520
 'Tulsin Gabbard',en,USA,#18e8e8,#18e8e8,1,0.226289709375
+'Gautam Adani',en,Indien,#cc3388,#cc3388,3,0.225849655654
 'Wagner-Chef Prigoschin',en,unknown,#111111,#111111,1,0.225826131018
 'Marguerite Cazeneuve',en,unknown,#111111,#111111,1,0.225531397193
 'président de la République',en,unknown,#111111,#111111,1,0.224631255563
@@ -686,7 +687,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Luc Terlinden',en,unknown,#111111,#111111,1,0.223435060446
 'Marlène Schiappa',en,unknown,#111111,#111111,1,0.222606979048
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.222598635234
-'Gautam Adani',en,Indien,#cc3388,#cc3388,3,0.222484297875
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.222002671250
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.221852656250
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.221852656250
