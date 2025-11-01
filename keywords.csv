@@ -80,7 +80,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.445776251093
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.445709600516
 'Michel Devoret',en,Frankreich,#e8e808,#e8e808,2,0.445699203144
-'Castel Gandolfo',en,unknown,#111111,#111111,2,0.445549925097
+'Castel Gandolfo',en,Vatikan,#58b8e8,#58b8e8,2,0.445549925097
 'Ben Affleck',en,USA,#18e8e8,#18e8e8,3,0.445509496808
 'Eliot Wolf',en,USA,#18e8e8,#18e8e8,3,0.445300433423
 'Howard Stern',en,USA,#18e8e8,#18e8e8,3,0.444323902612
@@ -125,11 +125,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Theodor Herzl',en,Ungarn,#33aa99,#33aa99,1,0.432162231302
 'Ainsley Earhardt',en,USA,#18e8e8,#18e8e8,2,0.431918237958
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.431656941518
-'Al Nassr',en,unknown,#111111,#111111,3,0.430758340355
+'Al Nassr',en,SaudiArabien,#1144ee,#1144ee,3,0.430758340355
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.430201546446
-'Andrew Cuomo',en,unknown,#111111,#111111,3,0.429824627385
-'Brittany Mahomes',en,unknown,#111111,#111111,3,0.429801319034
-'Mark Carney',en,unknown,#111111,#111111,3,0.429517361713
+'Andrew Cuomo',en,USA,#18e8e8,#18e8e8,3,0.429824627385
+'Brittany Mahomes',en,USA,#18e8e8,#18e8e8,3,0.429801319034
+'Mark Carney',en,Kanada,#443388,#443388,3,0.429517361713
 'Sean Hannity',en,unknown,#111111,#111111,3,0.429495024269
 'Katherina Reiche',en,unknown,#111111,#111111,1,0.429489103597
 'John Martinis',en,USA,#18e8e8,#18e8e8,3,0.429441828985
