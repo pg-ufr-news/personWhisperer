@@ -477,7 +477,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peregrine Pearson',en,unknown,#111111,#111111,1,0.361951729816
 'Camille Cottin',en,unknown,#111111,#111111,1,0.361804956672
 'Robert Badinter',en,unknown,#111111,#111111,1,0.361792365437
-'Justus Haucap',en,Deutschland,#111111,#111111,1,0.361250000000
 'Volker Wieland',en,Deutschland,#111111,#111111,1,0.361250000000
 'Stefan Kolev',en,Deutschland,#111111,#111111,1,0.361250000000
 'Iyad al-Rantisi',en,Palestina,#cc2255,#cc2255,1,0.361250000000
@@ -569,9 +568,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Julian Reichelt',en,Deutschland,#1818e8,#1818e8,2,0.307211476400
 'Gwede Mantashe',en,unknown,#111111,#111111,1,0.307190813027
 'Reinhard Marx',en,Deutschland,#1818e8,#1818e8,1,0.307190077775
+'Justus Haucap',en,Deutschland,#111111,#111111,1,0.307062500000
 'Adnan al-Burj',en,Palestina,#cc2255,#cc2255,1,0.307062500000
-'Khaled al Serr',en,Palestina,#cc2255,#cc2255,1,0.307062500000
 'Munther Amira',en,Palestina,#cc2255,#cc2255,1,0.307062500000
+'Khaled al Serr',en,Palestina,#cc2255,#cc2255,1,0.307062500000
 'Merrill McCollum',en,USA,#18e8e8,#18e8e8,1,0.306397097959
 'Giorgia Meloni',en,Italien,#773344,#773344,3,0.306270853406
 'Ottmar Edenhofer',en,Deutschland,#1818e8,#1818e8,1,0.304700885740
