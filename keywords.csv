@@ -668,8 +668,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,3,0.231622815357
 'Joschka Fischer',en,Deutschland,#1818e8,#1818e8,1,0.231280022490
 'Hun Sen',en,Kambodscha,#33aadd,#33aadd,3,0.230240850330
-'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.230061204531
 'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.230061204531
+'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.230061204531
 'Charles Michel',en,EU,#4488cc,#4488cc,3,0.229412074790
 'Jens Spahn',en,Deutschland,#1818e8,#1818e8,1,0.228837209255
 'Matthias Müller',en,Deutschland,#1818e8,#1818e8,1,0.228555493928
@@ -739,9 +739,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerome Powell',en,USA,#18e8e8,#18e8e8,3,0.188998351235
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.188724772812
 'Gilbert Plass',en,Kanada,#443388,#443388,1,0.188653066580
+'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.188574757812
 'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.188574757812
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.188574757812
-'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.188574757812
 'Richard Ferrand',en,Frankreich,#e8e808,#e8e808,1,0.187345317464
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.187004273469
 'Gerhard Schröder',en,Deutschland,#1818e8,#1818e8,1,0.185328026095
@@ -890,4 +890,3 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.072170900177
 'Ulrich Reitz',en,Deutschland,#1818e8,#1818e8,1,0.071625912607
 'Jair Lapid',en,Israel,#22bb33,#22bb33,1,0.062489010139
-'Ulf Poschardt',en,Deutschland,#1818e8,#1818e8,1,0.050915850630
