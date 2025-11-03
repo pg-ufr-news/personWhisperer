@@ -1,802 +1,1109 @@
 ,phrase,label,sentiment,subjectivity,language,count
-first,first,ORDINAL,,,en,159
-2025,2025,CARDINAL,,,en,126
-Wednesday,Wednesday,DATE,,,en,118
-Monday,Monday,DATE,,,en,116
-Tuesday,Tuesday,DATE,,,en,102
-Friday,Friday,DATE,,,en,86
-Thursday,Thursday,DATE,,,en,82
-one,one,CARDINAL,,,en,80
-French,French,NORP,,,en,73
+first,first,ORDINAL,,,en,182
+2025,2025,DATE,,,en,145
+Wednesday,Wednesday,DATE,,,en,125
+Monday,Monday,DATE,,,en,123
+French,French,NORP,,,en,123
+Tuesday,Tuesday,DATE,,,en,119
+Friday,Friday,DATE,,,en,112
+Thursday,Thursday,DATE,,,en,91
+one,one,CARDINAL,,,en,83
 Israeli,Israeli,NORP,,,en,67
-Russian,Russian,NORP,,,en,63
+Russian,Russian,NORP,,,en,65
+three,three,CARDINAL,,,en,64
 Sunday,Sunday,DATE,,,en,61
-three,three,CARDINAL,,,en,54
-two,two,CARDINAL,,,en,50
-The View,The View,WORK_OF_ART,,,en,48
-Nobel,Nobel,WORK_OF_ART,,,en,43
-Democrats,Democrats,NORP,,,en,41
-One,One,CARDINAL,,,en,40
-Republican,Republican,NORP,,,en,37
-American,American,NORP,,,en,36
-this week,this week,DATE,,,en,35
+The View,The View,WORK_OF_ART,,,en,59
+two,two,CARDINAL,,,en,55
+Saturday,Saturday,DATE,,,en,54
+Nobel,Nobel,WORK_OF_ART,,,en,50
+German,German,NORP,,,en,42
+Democrats,Democrats,NORP,,,en,40
+American,American,NORP,,,en,40
+One,One,CARDINAL,,,en,39
+Nobel Prize,Nobel Prize,WORK_OF_ART,,,en,37
+this week,this week,DATE,,,en,36
+the Nobel Prize,the Nobel Prize,WORK_OF_ART,,,en,35
 Ukrainian,Ukrainian,NORP,,,en,34
-German,German,NORP,,,en,34
-Saturday,Saturday,DATE,,,en,32
-Nobel Prize,Nobel Prize,WORK_OF_ART,,,en,32
-the Nobel Prize,the Nobel Prize,WORK_OF_ART,,,en,31
-European,European,NORP,,,en,30
-second,second,ORDINAL,,,en,28
-3,3,CARDINAL,,,en,28
-morning,morning,TIME,,,en,27
+Republican,Republican,NORP,,,en,33
+second,second,ORDINAL,,,en,33
+European,European,NORP,,,en,32
+today,today,DATE,,,en,31
+morning,morning,TIME,,,en,29
+Japanese,Japanese,NORP,,,en,28
+3,3,CARDINAL,,,en,26
 late-night,late-night,TIME,,,en,26
+2024,2024,DATE,,,en,25
+Canadian,Canadian,NORP,,,en,24
 First,First,ORDINAL,,,en,23
-Japanese,Japanese,NORP,,,en,22
+year,year,DATE,,,en,23
+Palestinian,Palestinian,NORP,,,en,22
 Democratic,Democratic,NORP,,,en,22
-today,today,DATE,,,en,20
-Canadian,Canadian,NORP,,,en,20
-Palestinian,Palestinian,NORP,,,en,19
+24,24,CARDINAL,,,en,21
+2026,2026,DATE,,,en,20
+Republicans,Republicans,NORP,,,en,20
 British,British,NORP,,,en,19
-Republicans,Republicans,NORP,,,en,18
-year,year,DATE,,,en,18
-Catholic,Catholic,NORP,,,en,18
-2026,2026,DATE,,,en,18
-last week,last week,DATE,,,en,16
-four,four,CARDINAL,,,en,16
+Chinese,Chinese,NORP,,,en,18
+Curb Your Enthusiasm,Curb Your Enthusiasm,WORK_OF_ART,,,en,16
+night,night,TIME,,,en,16
+Americans,Americans,NORP,,,en,16
 Turkish,Turkish,NORP,,,en,16
-24,24,CARDINAL,,,en,15
+four,four,CARDINAL,,,en,16
+Three,Three,CARDINAL,,,en,15
 The Life of a Showgirl,The Life of a Showgirl,WORK_OF_ART,,,en,15
-Today,Today,DATE,,,en,15
-Three,Three,CARDINAL,,,en,14
+South Korean,South Korean,NORP,,,en,15
 World Cup,World Cup,EVENT,,,en,14
+this year,this year,DATE,,,en,14
+the Nobel Prize in Physics,the Nobel Prize in Physics,WORK_OF_ART,,,en,14
+last week,last week,DATE,,,en,14
 Hungarian,Hungarian,NORP,,,en,14
-Americans,Americans,NORP,,,en,14
-night,night,TIME,,,en,14
-2024,2024,DATE,,,en,13
-November 14,November 14,DATE,,,en,12
-10,10,CARDINAL,,,en,12
+Today,Today,DATE,,,en,14
+Boots,Boots,WORK_OF_ART,,,en,13
+just days,just days,DATE,,,en,13
+10,10,CARDINAL,,,en,13
+Nobel Prize in Chemistry,Nobel Prize in Chemistry,WORK_OF_ART,,,en,13
 200,200,CARDINAL,,,en,12
-Two,Two,CARDINAL,,,en,12
+1,1,CARDINAL,,,en,12
+Italian,Italian,NORP,,,en,12
 Venezuelan,Venezuelan,NORP,,,en,12
-50,50,DATE,,,en,11
+November 14,November 14,DATE,,,en,12
+December,December,DATE,,,en,12
+Christians,Christians,NORP,,,en,12
 Battle After Another,Battle After Another,WORK_OF_ART,,,en,11
-1,1,CARDINAL,,,en,11
-the Nobel Peace Prize,the Nobel Peace Prize,WORK_OF_ART,,,en,11
-this year,this year,DATE,,,en,11
+evening,evening,TIME,,,en,11
+days,days,DATE,,,en,11
 5,5,CARDINAL,,,en,11
-Italian,Italian,NORP,,,en,10
-2,2,CARDINAL,,,en,10
-30,30,CARDINAL,,,en,10
-just days,just days,DATE,,,en,10
+the Nobel Peace Prize,the Nobel Peace Prize,WORK_OF_ART,,,en,11
+Ennis,Ennis,WORK_OF_ART,,,en,11
+the 2025 Nobel Prize in Physics,the 2025 Nobel Prize in Physics,WORK_OF_ART,,,en,11
+50,50,DATE,,,en,11
+Saudi,Saudi,NORP,,,en,10
+Nobel Prize in Physics,Nobel Prize in Physics,WORK_OF_ART,,,en,10
+North Korean,North Korean,NORP,,,en,10
 September,September,DATE,,,en,10
-2023,2023,DATE,,,en,10
-days,days,DATE,,,en,10
-third,third,ORDINAL,,,en,10
+the 2025 Nobel Prize in Chemistry,the 2025 Nobel Prize in Chemistry,WORK_OF_ART,,,en,10
+Two,Two,CARDINAL,,,en,10
+Nobel Peace Prize,Nobel Peace Prize,WORK_OF_ART,,,en,10
 Swedish,Swedish,NORP,,,en,10
-Paris Fashion Week,Paris Fashion Week,EVENT,,,en,10
-Biden,Biden,NORP,,,en,10
-the day,the day,DATE,,,en,9
-Boots,Boots,WORK_OF_ART,,,en,9
-2022,2022,DATE,,,en,9
-summer,summer,DATE,,,en,9
-Saudi,Saudi,NORP,,,en,9
-Nobel Peace Prize,Nobel Peace Prize,WORK_OF_ART,,,en,9
-half,half,CARDINAL,,,en,9
-Nobel Prize in Chemistry,Nobel Prize in Chemistry,WORK_OF_ART,,,en,9
+third,third,ORDINAL,,,en,10
+October,October,DATE,,,en,9
+annual,annual,DATE,,,en,9
 earlier this month,earlier this month,DATE,,,en,9
-Consent Framework,Consent Framework,WORK_OF_ART,,,en,9
-the 2025 Nobel Prize in Chemistry,the 2025 Nobel Prize in Chemistry,WORK_OF_ART,,,en,9
-the White House,the White House,FAC,,,en,9
-the Nobel Prize in Physics,the Nobel Prize in Physics,WORK_OF_ART,,,en,9
-evening,evening,TIME,,,en,8
-Ennis,Ennis,WORK_OF_ART,,,en,8
-North Korean,North Korean,NORP,,,en,8
-the weekend,the weekend,DATE,,,en,8
-years,years,DATE,,,en,8
+the day,the day,DATE,,,en,9
+2023,2023,DATE,,,en,9
+five,five,CARDINAL,,,en,9
+the 2025 Nobel Prize in Physiology or Medicine,the 2025 Nobel Prize in Physiology or Medicine,WORK_OF_ART,,,en,9
+PM,PM,TIME,,,en,9
+Catholic,Catholic,NORP,,,en,9
 yesterday,yesterday,DATE,,,en,8
+the Nobel Prize in Chemistry,the Nobel Prize in Chemistry,WORK_OF_ART,,,en,8
+the White House,the White House,FAC,,,en,8
 Season 4,Season 4,DATE,,,en,8
-English,English,LANGUAGE,,,en,8
+2,2,CARDINAL,,,en,8
 the Nobel memorial prize in economics Monday,the Nobel memorial prize in economics Monday,WORK_OF_ART,,,en,8
-three years,three years,DATE,,,en,7
-Nobel Prize in Physics,Nobel Prize in Physics,WORK_OF_ART,,,en,7
-the years,the years,DATE,,,en,7
-2020,2020,DATE,,,en,7
-the year,the year,DATE,,,en,7
-Mornings,Mornings,TIME,,,en,7
-13,13,CARDINAL,,,en,7
+2020,2020,DATE,,,en,8
+less than a month,less than a month,DATE,,,en,8
+English,English,LANGUAGE,,,en,8
+the next 48 hours,the next 48 hours,TIME,,,en,8
+Paris Fashion Week,Paris Fashion Week,EVENT,,,en,8
+half,half,CARDINAL,,,en,8
 Netflix,Netflix,WORK_OF_ART,,,en,7
-two-day,two-day,DATE,,,en,7
+Mornings,Mornings,TIME,,,en,7
+November,November,DATE,,,en,7
 eight,eight,CARDINAL,,,en,7
-October,October,DATE,,,en,7
-Wednesday night,Wednesday night,TIME,,,en,7
-26,26,CARDINAL,,,en,7
-five,five,CARDINAL,,,en,6
-PM,PM,TIME,,,en,6
+the years,the years,DATE,,,en,7
+Windsor Castle,Windsor Castle,FAC,,,en,7
+fourth,fourth,ORDINAL,,,en,7
+millions,millions,CARDINAL,,,en,7
+daily,daily,DATE,,,en,7
+13,13,CARDINAL,,,en,7
+two-day,two-day,DATE,,,en,7
+70,70,DATE,,,en,7
+One Night,One Night,TIME,,,en,7
+the year,the year,DATE,,,en,7
 Super Bowl,Super Bowl,EVENT,,,en,6
-Qatari,Qatari,NORP,,,en,6
-Bridgegate,Bridgegate,WORK_OF_ART,,,en,6
-The Odyssey,The Odyssey,WORK_OF_ART,,,en,6
 the Nobel memorial prize in economics,the Nobel memorial prize in economics,WORK_OF_ART,,,en,6
-daily,daily,DATE,,,en,6
-This week,This week,DATE,,,en,6
-August,August,DATE,,,en,6
-2006,2006,DATE,,,en,6
-millions,millions,CARDINAL,,,en,6
-two weeks,two weeks,DATE,,,en,6
-North American,North American,NORP,,,en,6
-January,January,DATE,,,en,6
-the 2025 Nobel Prize in Physiology or Medicine,the 2025 Nobel Prize in Physiology or Medicine,WORK_OF_ART,,,en,6
-12th,12th,DATE,,,en,6
-87,87,DATE,,,en,6
 the 1980s,the 1980s,DATE,,,en,6
-the 2025 Nobel Prize in Physics,the 2025 Nobel Prize in Physics,WORK_OF_ART,,,en,5
-annual,annual,DATE,,,en,5
-Chinese,Chinese,NORP,,,en,5
-46th,46th,ORDINAL,,,en,5
-August 2025,August 2025,DATE,,,en,5
-2001,2001,DATE,,,en,5
-the week,the week,DATE,,,en,5
+Wednesday night,Wednesday night,TIME,,,en,6
+two weeks,two weeks,DATE,,,en,6
+summer,summer,DATE,,,en,6
+12th,12th,DATE,,,en,6
+three years,three years,DATE,,,en,6
+30,30,DATE,,,en,6
+2006,2006,DATE,,,en,6
+Asian,Asian,NORP,,,en,6
+January,January,DATE,,,en,6
+87,87,DATE,,,en,6
+Secret Fashion Show,Secret Fashion Show,WORK_OF_ART,,,en,6
+Bridgegate,Bridgegate,WORK_OF_ART,,,en,6
+$550 billion,$550 billion,MONEY,,,en,6
+North American,North American,NORP,,,en,6
+The Fine Print,The Fine Print,WORK_OF_ART,,,en,6
+2022,2022,DATE,,,en,6
+Qatari,Qatari,NORP,,,en,6
+2001,2001,DATE,,,en,6
+Hit Man,Hit Man,WORK_OF_ART,,,en,6
 recent days,recent days,DATE,,,en,5
-The Fine Print,The Fine Print,WORK_OF_ART,,,en,5
-15,15,CARDINAL,,,en,5
-decades,decades,DATE,,,en,5
-Sept. 9,Sept. 9,DATE,,,en,5
-28 Years Later,28 Years Later,DATE,,,en,5
-Broadway,Broadway,FAC,,,en,5
-the Nobel prize,the Nobel prize,WORK_OF_ART,,,en,5
-the Nobel Prize in Chemistry,the Nobel Prize in Chemistry,WORK_OF_ART,,,en,5
-Irish,Irish,NORP,,,en,5
-November,November,DATE,,,en,5
-Yesterday,Yesterday,DATE,,,en,5
-the next 48 hours,the next 48 hours,TIME,,,en,5
-25,25,CARDINAL,,,en,5
-6,6,CARDINAL,,,en,5
+last year,last year,DATE,,,en,5
 the Nobel Prize in Economics,the Nobel Prize in Economics,WORK_OF_ART,,,en,5
-dozens,dozens,CARDINAL,,,en,5
-Democrat,Democrat,NORP,,,en,5
-$1.36 million,$1.36 million,MONEY,,,en,5
-Camp Rock 3,Camp Rock 3,EVENT,2.0,3.15,en,5
-months,months,DATE,,,en,5
-11,11,CARDINAL,,,en,5
-18,18,CARDINAL,,,en,5
-236,236,CARDINAL,,,en,5
-Season 1,Season 1,DATE,,,en,5
+decades,decades,DATE,,,en,5
+15,15,CARDINAL,,,en,5
+Sept. 9,Sept. 9,DATE,,,en,5
+the week,the week,DATE,,,en,5
 Nobel Memorial Prize,Nobel Memorial Prize,WORK_OF_ART,,,en,5
+48 hours,48 hours,TIME,,,en,5
+28 Years Later,28 Years Later,DATE,,,en,5
+two days,two days,DATE,,,en,5
+August 2025,August 2025,DATE,,,en,5
+2017,2017,DATE,,,en,5
+August,August,DATE,,,en,5
+'The View','The View',WORK_OF_ART,,,en,5
+the weekend,the weekend,DATE,,,en,5
 Last month,Last month,DATE,,,en,5
-Last week,Last week,DATE,,,en,4
-the 2025 Nobel Prize,the 2025 Nobel Prize,WORK_OF_ART,,,en,4
-the Super Bowl,the Super Bowl,EVENT,,,en,4
-earlier this week,earlier this week,DATE,,,en,4
-last year,last year,DATE,,,en,4
-less than a month,less than a month,DATE,,,en,4
-69,69,CARDINAL,,,en,4
-The Late Show,The Late Show,WORK_OF_ART,,,en,4
-Tuesday night,Tuesday night,TIME,,,en,4
-early 2026,early 2026,DATE,,,en,4
-44,44,DATE,,,en,4
-2017,2017,DATE,,,en,4
-2009,2009,DATE,,,en,4
-six,six,CARDINAL,,,en,4
+Broadway,Broadway,FAC,,,en,5
+Indian,Indian,NORP,,,en,5
+Camp Rock 3,Camp Rock 3,EVENT,2.0,3.15,en,5
+$1.36 million,$1.36 million,MONEY,,,en,5
+Last week,Last week,DATE,,,en,5
+Yesterday,Yesterday,DATE,,,en,5
+years,years,DATE,,,en,5
+Rs 9.55 lakh crore,Rs 9.55 lakh crore,MONEY,,,en,5
+months,months,DATE,,,en,5
+hours,hours,TIME,,,en,5
+the Nobel prize,the Nobel prize,WORK_OF_ART,,,en,5
+46th,46th,ORDINAL,,,en,5
+May I Finish,May I Finish,WORK_OF_ART,,,en,5
+100%,100%,PERCENT,,,en,5
+dozens,dozens,CARDINAL,,,en,5
+11,11,CARDINAL,,,en,5
+Consent Framework,Consent Framework,WORK_OF_ART,,,en,5
+Bugonia,Bugonia,WORK_OF_ART,,,en,5
+18,18,CARDINAL,,,en,5
+Season 1,Season 1,DATE,,,en,5
+hundreds,hundreds,CARDINAL,,,en,4
+Madison Beer,Madison Beer,WORK_OF_ART,,,en,4
+daytime,daytime,TIME,,,en,4
 the 2025 Nobel Prize in Literature,the 2025 Nobel Prize in Literature,WORK_OF_ART,,,en,4
-The Devil Wears Prada 2,The Devil Wears Prada 2,WORK_OF_ART,,,en,4
-Palestinians,Palestinians,NORP,,,en,4
-Spanish,Spanish,LANGUAGE,,,en,4
-South Korean,South Korean,NORP,,,en,4
-Vatican,Vatican,FAC,0.3738095238095239,1.3761904761904762,en,4
-early next year,early next year,DATE,,,en,4
 three-year,three-year,DATE,,,en,4
-20,20,DATE,,,en,4
-Moroccan,Moroccan,NORP,,,en,4
-Venezuelan Nobel Peace Prize,Venezuelan Nobel Peace Prize,WORK_OF_ART,,,en,4
-26 years,26 years,DATE,,,en,4
-70%,70%,PERCENT,,,en,4
-Jews,Jews,NORP,,,en,4
-Windsor Castle,Windsor Castle,FAC,,,en,4
-Thursday night,Thursday night,TIME,,,en,4
-Venice Film Festival,Venice Film Festival,EVENT,,,en,4
-the 2025 Venice Film Festival,the 2025 Venice Film Festival,EVENT,,,en,4
-Indian,Indian,NORP,,,en,4
-56,56,DATE,,,en,4
-4,4,CARDINAL,,,en,4
-three-day,three-day,DATE,,,en,4
-70,70,DATE,,,en,4
-Sunday evening,Sunday evening,TIME,,,en,4
-fourth,fourth,ORDINAL,,,en,4
 A few weeks ago,A few weeks ago,DATE,,,en,4
+69,69,CARDINAL,,,en,4
+This week,This week,DATE,,,en,4
+early 2026,early 2026,DATE,,,en,4
+Thursday night,Thursday night,TIME,,,en,4
 Socialists,Socialists,NORP,,,en,4
-41,41,CARDINAL,,,en,4
-35,35,CARDINAL,,,en,4
-The Smashing Machine,The Smashing Machine,WORK_OF_ART,,,en,4
-67,67,DATE,,,en,4
-Nobel economics prize,Nobel economics prize,WORK_OF_ART,,,en,4
-Israels,Israels,NORP,,,en,4
-Leagues Cup,Leagues Cup,EVENT,,,en,4
+25,25,CARDINAL,,,en,4
+Palestinians,Palestinians,NORP,,,en,4
+2009,2009,DATE,,,en,4
+countrys,countrys,NORP,,,en,4
+the Super Bowl,the Super Bowl,EVENT,,,en,4
+the 2025 Nobel Prize,the 2025 Nobel Prize,WORK_OF_ART,,,en,4
 Meet the Press,Meet the Press,WORK_OF_ART,,,en,4
-countrys,countrys,NORP,,,en,3
-2018,2018,DATE,,,en,3
-“The View”,“The View”,WORK_OF_ART,,,en,3
-more than two years,more than two years,DATE,,,en,3
-43,43,CARDINAL,,,en,3
-31,31,CARDINAL,,,en,3
-tomorrow,tomorrow,DATE,,,en,3
-a few days,a few days,DATE,,,en,3
-Air Force One,Air Force One,PRODUCT,,,en,3
-+4312,+4312,NORP,,,en,3
-October 13,October 13,DATE,,,en,3
-$7.8 billion,$7.8 billion,MONEY,,,en,3
-Cardi,Cardi,PRODUCT,,,en,3
-less than two months,less than two months,DATE,,,en,3
-Sept. 17,Sept. 17,DATE,,,en,3
-1980,1980,DATE,,,en,3
-last December,last December,DATE,,,en,3
+Venice Film Festival,Venice Film Festival,EVENT,,,en,4
+Frenchman,Frenchman,NORP,,,en,4
+Israels,Israels,NORP,,,en,4
+41,41,CARDINAL,,,en,4
+this years,this years,DATE,,,en,4
+Democrat,Democrat,NORP,,,en,4
+The Smashing Machine,The Smashing Machine,WORK_OF_ART,,,en,4
+Australian,Australian,NORP,,,en,4
+35,35,CARDINAL,,,en,4
+“The View”,“The View”,WORK_OF_ART,,,en,4
+2014,2014,DATE,,,en,4
+the 2025 Venice Film Festival,the 2025 Venice Film Festival,EVENT,,,en,4
+Biden,Biden,NORP,,,en,4
+56,56,DATE,,,en,4
+Sunday evening,Sunday evening,TIME,,,en,4
+Jews,Jews,NORP,,,en,4
+Venezuelan Nobel Peace Prize,Venezuelan Nobel Peace Prize,WORK_OF_ART,,,en,4
+six,six,CARDINAL,,,en,4
+Spanish,Spanish,LANGUAGE,,,en,4
+44,44,DATE,,,en,4
+6,6,DATE,,,en,4
+early next year,early next year,DATE,,,en,4
+26,26,DATE,,,en,4
+The Boys in the Boat,The Boys in the Boat,WORK_OF_ART,,,en,4
+Alone Together,Alone Together,WORK_OF_ART,,,en,4
+32,32,CARDINAL,,,en,4
+The Late Show,The Late Show,WORK_OF_ART,,,en,4
+26 years,26 years,DATE,,,en,4
+20,20,DATE,,,en,4
+51,51,DATE,,,en,4
+Nobel economics prize,Nobel economics prize,WORK_OF_ART,,,en,4
+Tuesday night,Tuesday night,TIME,,,en,4
+three-day,three-day,DATE,,,en,4
+over a decade,over a decade,DATE,,,en,3
+Greek,Greek,NORP,,,en,3
+next year's,next year's,DATE,,,en,3
 Latin,Latin,LANGUAGE,,,en,3
-next summer,next summer,DATE,,,en,3
+two years,two years,DATE,,,en,3
+2028,2028,DATE,,,en,3
+"Sunday, August 10","Sunday, August 10",DATE,,,en,3
+62,62,DATE,,,en,3
++4312,+4312,NORP,,,en,3
+January 2026,January 2026,DATE,,,en,3
+This year,This year,DATE,,,en,3
+After the Hunt,After the Hunt,WORK_OF_ART,,,en,3
+this past week,this past week,DATE,,,en,3
+fifth,fifth,ORDINAL,,,en,3
+Christian,Christian,NORP,,,en,3
+Kensington Palace,Kensington Palace,FAC,,,en,3
+Nobel prize,Nobel prize,WORK_OF_ART,,,en,3
+The Lead,The Lead,WORK_OF_ART,,,en,3
+1980,1980,DATE,,,en,3
+Good Night,Good Night,WORK_OF_ART,,,en,3
+25 years,25 years,DATE,,,en,3
+next week,next week,DATE,,,en,3
+Hamnet,Hamnet,WORK_OF_ART,,,en,3
+Eternity,Eternity,WORK_OF_ART,,,en,3
+Special Forces:,Special Forces:,WORK_OF_ART,,,en,3
+day 9,day 9,DATE,,,en,3
+seven,seven,CARDINAL,,,en,3
+the Leagues Cup,the Leagues Cup,EVENT,,,en,3
+27,27,CARDINAL,,,en,3
+43,43,CARDINAL,,,en,3
+Bollywood,Bollywood,NORP,,,en,3
+Indias,Indias,NORP,,,en,3
+"over 250,000 euros","over 250,000 euros",MONEY,,,en,3
+The Don Lemon Show,The Don Lemon Show,WORK_OF_ART,,,en,3
+last December,last December,DATE,,,en,3
+year-end,year-end,DATE,,,en,3
+The Bone Temple,The Bone Temple,FAC,,,en,3
+Jewish,Jewish,NORP,,,en,3
+Earlier this month,Earlier this month,DATE,,,en,3
+August 19,August 19,DATE,,,en,3
+The 2025 Nobel Prize in Physiology or Medicine,The 2025 Nobel Prize in Physiology or Medicine,WORK_OF_ART,,,en,3
+The Nobel Prize,The Nobel Prize,WORK_OF_ART,,,en,3
 Spice,Spice,PRODUCT,,,en,3
+tomorrow,tomorrow,DATE,,,en,3
+$2.5M,$2.5M,MONEY,,,en,3
+June,June,DATE,,,en,3
+31,31,CARDINAL,,,en,3
+400,400,CARDINAL,,,en,3
+Nov. 14,Nov. 14,DATE,,,en,3
+£6.2m,£6.2m,MONEY,,,en,3
+November 14th,November 14th,DATE,,,en,3
+Sept. 17,Sept. 17,DATE,,,en,3
+eight months,eight months,DATE,,,en,3
+less than two months,less than two months,DATE,,,en,3
+Cardi,Cardi,PRODUCT,,,en,3
+Irish,Irish,NORP,,,en,3
+earlier this week,earlier this week,DATE,,,en,3
+67,67,CARDINAL,,,en,3
+Trump,Trump,PRODUCT,,,en,3
+2018,2018,DATE,,,en,3
+33,33,DATE,,,en,3
+Nobel Prizes,Nobel Prizes,WORK_OF_ART,,,en,3
+$7.8 billion,$7.8 billion,MONEY,,,en,3
+Nigerian,Nigerian,NORP,,,en,3
+later this week,later this week,DATE,,,en,3
+more than two years,more than two years,DATE,,,en,3
+"With Love, Meghan","With Love, Meghan",WORK_OF_ART,,,en,3
+More than 7 million,More than 7 million,CARDINAL,,,en,3
+Jimmy Kimmel Live,Jimmy Kimmel Live,WORK_OF_ART,,,en,3
+Syrian,Syrian,NORP,,,en,3
 Season 2,Season 2,DATE,,,en,3
 zero,zero,CARDINAL,,,en,3
-last night,last night,TIME,,,en,3
-The Nobel prize,The Nobel prize,WORK_OF_ART,,,en,3
-The Bone Temple,The Bone Temple,FAC,,,en,3
-Catholics,Catholics,NORP,,,en,3
-More than 7 million,More than 7 million,CARDINAL,,,en,3
-32,32,CARDINAL,,,en,3
-Kensington Palace,Kensington Palace,FAC,,,en,3
-100%,100%,PERCENT,,,en,3
-this past week,this past week,DATE,,,en,3
-the Leagues Cup,the Leagues Cup,EVENT,,,en,3
-The Lead,The Lead,WORK_OF_ART,,,en,3
-Superman,Superman,WORK_OF_ART,,,en,3
-After the Hunt,After the Hunt,WORK_OF_ART,,,en,3
-$2.5M,$2.5M,MONEY,,,en,3
-Special Forces:,Special Forces:,WORK_OF_ART,,,en,3
-August 19,August 19,DATE,,,en,3
-hundreds,hundreds,CARDINAL,,,en,3
-£6.2m,£6.2m,MONEY,,,en,3
-Jimmy Kimmel Live,Jimmy Kimmel Live,WORK_OF_ART,,,en,3
-daytime,daytime,TIME,,,en,3
-Nobel Prizes,Nobel Prizes,WORK_OF_ART,,,en,3
-Trump,Trump,PRODUCT,,,en,3
-"Sunday, August 10","Sunday, August 10",DATE,,,en,3
-51,51,DATE,,,en,3
-eight months,eight months,DATE,,,en,3
-this weekend,this weekend,DATE,,,en,3
-next year's,next year's,DATE,,,en,3
-Nov. 14,Nov. 14,DATE,,,en,3
-Argentine,Argentine,NORP,,,en,3
-The 2025 Nobel Prize in Physiology or Medicine,The 2025 Nobel Prize in Physiology or Medicine,WORK_OF_ART,,,en,3
-Brooklyn Beckham,Brooklyn Beckham,FAC,,,en,3
-2028,2028,DATE,,,en,3
-the Hatch Act,the Hatch Act,LAW,,,en,3
-Jewish,Jewish,NORP,,,en,3
-The Don Lemon Show,The Don Lemon Show,WORK_OF_ART,,,en,3
-1159,1159,CARDINAL,,,en,3
-Bollywood,Bollywood,NORP,,,en,3
-400,400,CARDINAL,,,en,3
-2014,2014,DATE,,,en,3
-33,33,DATE,,,en,3
-|,|,CARDINAL,,,en,3
-a decade,a decade,DATE,,,en,3
 this evening,this evening,TIME,,,en,3
-2002,2002,DATE,,,en,3
-Good Night,Good Night,WORK_OF_ART,,,en,3
-This year,This year,DATE,,,en,3
-nationalists,nationalists,NORP,,,en,3
-Madison Beer,Madison Beer,WORK_OF_ART,,,en,3
-Greek,Greek,NORP,,,en,3
-Nobel prize,Nobel prize,WORK_OF_ART,,,en,3
-Inception,Inception,EVENT,,,en,3
-November 14th,November 14th,DATE,,,en,3
-"With Love, Meghan","With Love, Meghan",WORK_OF_ART,,,en,3
-Six,Six,CARDINAL,,,en,3
 Nobel Prize in Economics,Nobel Prize in Economics,WORK_OF_ART,,,en,3
+later this year,later this year,DATE,,,en,3
+nationalists,nationalists,NORP,,,en,3
 the First Amendment,the First Amendment,LAW,,,en,3
-next week,next week,DATE,,,en,3
-Karwa Chauth 2025,Karwa Chauth 2025,WORK_OF_ART,,,en,2
-8,8,CARDINAL,,,en,2
-the 2026 Super Bowl,the 2026 Super Bowl,EVENT,,,en,2
-State of the Union,State of the Union,WORK_OF_ART,,,en,2
-Wake Up Dead Man,Wake Up Dead Man,WORK_OF_ART,,,en,2
-August 24,August 24,DATE,,,en,2
-+69,+69,NORP,,,en,2
-more than a month,more than a month,DATE,,,en,2
-the Southbank Centre’s,the Southbank Centre’s,FAC,,,en,2
-$70 million,$70 million,MONEY,,,en,2
-1997,1997,DATE,,,en,2
-the Nobel Prize in Literature,the Nobel Prize in Literature,WORK_OF_ART,,,en,2
-$30 million,$30 million,MONEY,,,en,2
-the next few days,the next few days,DATE,,,en,2
-Sunday Morning Talk Show Thread 17 August 2025,Sunday Morning Talk Show Thread 17 August 2025,DATE,,,en,2
-"10,000","10,000",CARDINAL,,,en,2
-Sunday Morning,Sunday Morning,DATE,,,en,2
-anti-Russian,anti-Russian,NORP,,,en,2
-Royal Festival Hall,Royal Festival Hall,FAC,,,en,2
-Two-Minute,Two-Minute,TIME,,,en,2
-Spare,Spare,WORK_OF_ART,,,en,2
-October 9,October 9,DATE,,,en,2
-The Lion King,The Lion King,FAC,,,en,2
-'The View','The View',WORK_OF_ART,,,en,2
-You Know What They Say About a Blind Squirrel,You Know What They Say About a Blind Squirrel,WORK_OF_ART,,,en,2
-next spring,next spring,DATE,,,en,2
-Nobel Prize 2025 in Literature:,Nobel Prize 2025 in Literature:,WORK_OF_ART,,,en,2
-14 November,14 November,DATE,,,en,2
-Honeymoon With Harry,Honeymoon With Harry,WORK_OF_ART,,,en,2
-World War II,World War II,EVENT,,,en,2
-later this year,later this year,DATE,,,en,2
-Dozens,Dozens,CARDINAL,,,en,2
-State Farm Arena,State Farm Arena,FAC,,,en,2
-age 87,age 87,DATE,,,en,2
-"Gervonta ""Tank"" Davis","Gervonta ""Tank"" Davis",FAC,,,en,2
-"Friday, November 14","Friday, November 14",DATE,,,en,2
-Trump Has the Cards,Trump Has the Cards,WORK_OF_ART,,,en,2
-Nobel Prize in Literature,Nobel Prize in Literature,WORK_OF_ART,,,en,2
-+1543 chars,+1543 chars,WORK_OF_ART,,,en,2
-A Ridiculous Thing to Say,A Ridiculous Thing to Say,WORK_OF_ART,,,en,2
-months-old,months-old,DATE,,,en,2
-Union Station,Union Station,FAC,,,en,2
-August 18,August 18,DATE,,,en,2
-August 22,August 22,DATE,,,en,2
-Gervonta 'Tank' Davis,Gervonta 'Tank' Davis,FAC,,,en,2
-August 5,August 5,DATE,,,en,2
-2025 Nobel,2025 Nobel,WORK_OF_ART,,,en,2
-December 2023,December 2023,DATE,,,en,2
-the next two weeks,the next two weeks,DATE,,,en,2
-2 Weeks,2 Weeks,DATE,,,en,2
-22,22,CARDINAL,,,en,2
-six decades,six decades,DATE,,,en,2
-$1M,$1M,MONEY,,,en,2
-World War I,World War I,EVENT,,,en,2
-later Friday,later Friday,DATE,,,en,2
-Draft Day,Draft Day,DATE,,,en,2
-$1.4 billion,$1.4 billion,MONEY,,,en,2
-Camo,Camo,FAC,,,en,2
-a week,a week,DATE,,,en,2
-End France Crisis,End France Crisis,EVENT,,,en,2
-Swag’ Album,Swag’ Album,WORK_OF_ART,,,en,2
-Days,Days,DATE,,,en,2
-Path to Redemption,Path to Redemption,WORK_OF_ART,,,en,2
-Four,Four,CARDINAL,,,en,2
-43%,43%,PERCENT,,,en,2
-FIRST,FIRST,ORDINAL,,,en,2
-Knives Out,Knives Out,WORK_OF_ART,,,en,2
-Flub,Flub,WORK_OF_ART,,,en,2
-The Chosen,The Chosen,WORK_OF_ART,,,en,2
-August 19th,August 19th,DATE,,,en,2
-later this week,later this week,DATE,,,en,2
-Portuguese,Portuguese,NORP,,,en,2
-Australian,Australian,NORP,,,en,2
-Chapter 2,Chapter 2,LAW,,,en,2
-A week,A week,DATE,,,en,2
-25-54,25-54,DATE,,,en,2
-9/11,9/11,CARDINAL,,,en,2
-later in the evening,later in the evening,TIME,,,en,2
-seven,seven,CARDINAL,,,en,2
-the 2025/26 season,the 2025/26 season,DATE,,,en,2
-Caring for Women,Caring for Women,WORK_OF_ART,,,en,2
-Gemini,Gemini,PRODUCT,,,en,2
-Nano Banana,Nano Banana,WORK_OF_ART,,,en,2
-over 10 million,over 10 million,CARDINAL,,,en,2
-70th,70th,ORDINAL,,,en,2
-"Sunday, September 14","Sunday, September 14",DATE,,,en,2
-this milestone,this milestone,DATE,,,en,2
-the New York Fashion Week,the New York Fashion Week,FAC,,,en,2
-Latter-day,Latter-day,DATE,,,en,2
-$24.5 million,$24.5 million,MONEY,,,en,2
-midnight,midnight,TIME,,,en,2
-more than 18 months,more than 18 months,DATE,,,en,2
-the evening,the evening,TIME,,,en,2
-Nine years ago,Nine years ago,DATE,,,en,2
-Sep 10,Sep 10,DATE,,,en,2
-four-day,four-day,DATE,,,en,2
-Sep 8,Sep 8,DATE,,,en,2
-the days,the days,DATE,,,en,2
-September 30,September 30,DATE,,,en,2
-the same day,the same day,DATE,,,en,2
-$62 million,$62 million,MONEY,,,en,2
-The Tonight Show,The Tonight Show,WORK_OF_ART,,,en,2
-Sep 9,Sep 9,DATE,,,en,2
-Meme War,Meme War,EVENT,,,en,2
-Western Nights,Western Nights,WORK_OF_ART,,,en,2
-Sept 9,Sept 9,DATE,,,en,2
-a 21st century,a 21st century,DATE,,,en,2
-its sixth week,its sixth week,DATE,,,en,2
-the tally a decade,the tally a decade,DATE,,,en,2
-two days,two days,DATE,,,en,2
-"nearly 4,000","nearly 4,000",CARDINAL,,,en,2
-just over 24 hours,just over 24 hours,TIME,,,en,2
-Bugonia,Bugonia,WORK_OF_ART,,,en,2
-238,238,CARDINAL,,,en,2
-the night,the night,TIME,,,en,2
-Together for Palestine,Together for Palestine,WORK_OF_ART,,,en,2
-Saturday Night Live,Saturday Night Live,WORK_OF_ART,,,en,2
-Luton Airport,Luton Airport,FAC,,,en,2
-1990s,1990s,DATE,,,en,2
-40s,40s,DATE,,,en,2
-"100,000","100,000",MONEY,,,en,2
-All-American Road Show,All-American Road Show,EVENT,,,en,2
-last year's,last year's,DATE,,,en,2
-Almost two dozen,Almost two dozen,CARDINAL,,,en,2
-$20 million,$20 million,MONEY,,,en,2
-Tens of thousands,Tens of thousands,CARDINAL,,,en,2
-a day,a day,DATE,,,en,2
-1956,1956,DATE,,,en,2
-the modern day,the modern day,DATE,,,en,2
-Late Night,Late Night,TIME,,,en,2
-the Kaseya Center,the Kaseya Center,FAC,,,en,2
-Ryder Cup,Ryder Cup,FAC,,,en,2
-Biden-era,Biden-era,DATE,,,en,2
-The Headache,The Headache,WORK_OF_ART,,,en,2
-One Battle After Another,One Battle After Another,WORK_OF_ART,,,en,2
-1996,1996,DATE,,,en,2
-hours,hours,TIME,,,en,2
-Sep 16,Sep 16,DATE,,,en,2
+October 13,October 13,DATE,,,en,3
+The Nobel prize,The Nobel prize,WORK_OF_ART,,,en,3
+early December,early December,DATE,,,en,3
+a few days,a few days,DATE,,,en,3
+27 years,27 years,DATE,,,en,3
+4,4,DATE,,,en,3
+Superman,Superman,WORK_OF_ART,,,en,3
 thousands,thousands,CARDINAL,,,en,2
-Sep 17,Sep 17,DATE,,,en,2
-Connect 3,Connect 3,PRODUCT,,,en,2
-the Venice Film Festival,the Venice Film Festival,EVENT,,,en,2
-nearly a decade,nearly a decade,DATE,,,en,2
-the Ryder Cup,the Ryder Cup,EVENT,,,en,2
+later in the evening,later in the evening,TIME,,,en,2
 15 years,15 years,DATE,,,en,2
-day one,day one,DATE,,,en,2
+May,May,DATE,,,en,2
 A month,A month,DATE,,,en,2
-February,February,DATE,,,en,2
-2016,2016,DATE,,,en,2
-More than a decade,More than a decade,DATE,,,en,2
+Connect 3,Connect 3,PRODUCT,,,en,2
+about 23%,about 23%,PERCENT,,,en,2
+Hosts For Swearing,Hosts For Swearing,WORK_OF_ART,,,en,2
+"nearly 4,000","nearly 4,000",CARDINAL,,,en,2
+71,71,DATE,,,en,2
+Nano Banana,Nano Banana,WORK_OF_ART,,,en,2
+"the ""Behind the Table"" podcast","the ""Behind the Table"" podcast",WORK_OF_ART,,,en,2
+Sep 16,Sep 16,DATE,,,en,2
+the Kaseya Center,the Kaseya Center,FAC,,,en,2
+Wood,Wood,WORK_OF_ART,,,en,2
+the last year,the last year,DATE,,,en,2
+I Will Follow You Into the Dark,I Will Follow You Into the Dark,WORK_OF_ART,,,en,2
+70th,70th,ORDINAL,,,en,2
+‘The Less I Know the Better’,‘The Less I Know the Better’,WORK_OF_ART,,,en,2
+this morning,this morning,TIME,,,en,2
+| Video,| Video,WORK_OF_ART,,,en,2
+this milestone,this milestone,DATE,,,en,2
+seventh,seventh,ORDINAL,,,en,2
+-0.02%,-0.02%,PERCENT,,,en,2
+Vatican,Vatican,FAC,0.05000000000000002,0.5,en,2
+Gemini,Gemini,PRODUCT,,,en,2
+the New York Fashion Week,the New York Fashion Week,FAC,,,en,2
+Caring for Women,Caring for Women,WORK_OF_ART,,,en,2
+the 2025/26 season,the 2025/26 season,DATE,,,en,2
+over 10 million,over 10 million,CARDINAL,,,en,2
+Radical Optimism Tour,Radical Optimism Tour,WORK_OF_ART,,,en,2
+Sep 17,Sep 17,DATE,,,en,2
+238,238,CARDINAL,,,en,2
+"Sunday, September 14","Sunday, September 14",DATE,,,en,2
+afternoon,afternoon,TIME,,,en,2
+30 pounds,30 pounds,QUANTITY,,,en,2
+next year,next year,DATE,,,en,2
+1996,1996,DATE,,,en,2
+"10,000","10,000",CARDINAL,,,en,2
+9/11,9/11,CARDINAL,,,en,2
+seasons,seasons,DATE,,,en,2
+Starship,Starship,PRODUCT,,,en,2
+tenth,tenth,ORDINAL,,,en,2
+1912,1912,DATE,,,en,2
+$200M,$200M,MONEY,,,en,2
+Aug. 30,Aug. 30,DATE,,,en,2
+100 Nights of Hero,100 Nights of Hero,WORK_OF_ART,,,en,2
+Giant,Giant,WORK_OF_ART,,,en,2
+Splitsville,Splitsville,WORK_OF_ART,,,en,2
+Top-15,Top-15,CARDINAL,,,en,2
+Masters of the Air,Masters of the Air,WORK_OF_ART,,,en,2
+81,81,DATE,,,en,2
+Iranian,Iranian,NORP,,,en,2
+99,99,CARDINAL,,,en,2
+Tyson Fury,Tyson Fury,PRODUCT,,,en,2
+season,season,DATE,,,en,2
+October 23,October 23,DATE,,,en,2
+more than two decades,more than two decades,DATE,,,en,2
+more than 18 months,more than 18 months,DATE,,,en,2
+2025-10-24,2025-10-24,DATE,,,en,2
+Turkiye,Turkiye,NORP,,,en,2
+second-half,second-half,DATE,,,en,2
 FCAS,FCAS,PRODUCT,0.0,0.10416666666666666,,2
+| August 27,| August 27,DATE,,,en,2
+West African,West African,NORP,,,en,2
 Brazilian,Brazilian,NORP,,,en,2
 the last 24 hours,the last 24 hours,TIME,,,en,2
 Scandinavian,Scandinavian,NORP,,,en,2
+40 years,40 years,DATE,,,en,2
 Aug 28,Aug 28,DATE,,,en,2
+the final day,the final day,DATE,,,en,2
 $4.9 billion,$4.9 billion,MONEY,,,en,2
 Good Morning America,Good Morning America,WORK_OF_ART,,,en,2
+decade-old,decade-old,DATE,,,en,2
+Late January 2026,Late January 2026,DATE,,,en,2
+Career Against a Dangerous Tune,Career Against a Dangerous Tune,WORK_OF_ART,,,en,2
+the summer,the summer,DATE,,,en,2
+the next four years,the next four years,DATE,,,en,2
+Posh Spice,Posh Spice,WORK_OF_ART,,,en,2
+Sep 8,Sep 8,DATE,,,en,2
+December 20,December 20,DATE,,,en,2
+next mo,next mo,DATE,,,en,2
+$62 million,$62 million,MONEY,,,en,2
+Sep 9,Sep 9,DATE,,,en,2
+seven years,seven years,DATE,,,en,2
+Sept 9,Sept 9,DATE,,,en,2
+its sixth week,its sixth week,DATE,,,en,2
+the tally a decade,the tally a decade,DATE,,,en,2
+2030,2030,DATE,,,en,2
+Millions,Millions,CARDINAL,,,en,2
+"More than 2,600","More than 2,600",CARDINAL,,,en,2
+Sep 10,Sep 10,DATE,,,en,2
+the evening,the evening,TIME,,,en,2
+Oct 18,Oct 18,DATE,,,en,2
+four-day,four-day,DATE,,,en,2
+February,February,DATE,,,en,2
+Oct. 21,Oct. 21,DATE,,,en,2
+the Toronto International Film Festival,the Toronto International Film Festival,EVENT,,,en,2
+Size Edge,Size Edge,WORK_OF_ART,,,en,2
+Celebrity Substitute,Celebrity Substitute,WORK_OF_ART,,,en,2
+Recess Therapy,Recess Therapy,WORK_OF_ART,,,en,2
+its second season,its second season,DATE,,,en,2
+Sept. 19,Sept. 19,DATE,,,en,2
+237,237,CARDINAL,,,en,2
+Times Square,Times Square,FAC,,,en,2
+Friday night,Friday night,TIME,,,en,2
+The Little Red Lighthouse,The Little Red Lighthouse,FAC,,,en,2
+late Tuesday,late Tuesday,DATE,,,en,2
+Oct 21,Oct 21,DATE,,,en,2
+spooky season,spooky season,DATE,,,en,2
+Sept. 5,Sept. 5,DATE,,,,2
+The Lead with Jake Tapper,The Lead with Jake Tapper,WORK_OF_ART,,,en,2
+the past few days,the past few days,DATE,,,en,2
+Yam Yam Arocho,Yam Yam Arocho,FAC,,,en,2
+Late Night,Late Night,TIME,,,en,2
+October 7,October 7,DATE,,,en,2
+Green Day,Green Day,DATE,,,en,2
+Conservatives,Conservatives,NORP,,,en,2
+this weekend,this weekend,DATE,,,en,2
+Green Day’s,Green Day’s,DATE,,,en,2
+the 2025 Nobel Prize in Physics for,the 2025 Nobel Prize in Physics for,WORK_OF_ART,,,en,2
+the Nobel Memorial Prize in Economic Sciences,the Nobel Memorial Prize in Economic Sciences,WORK_OF_ART,,,en,2
+Oct 7,Oct 7,DATE,,,en,2
+the Physics Nobel,the Physics Nobel,WORK_OF_ART,,,en,2
+Karwa Chauth 2025,Karwa Chauth 2025,WORK_OF_ART,,,en,2
+79,79,DATE,,,en,2
+The Nobel Prize for Physics,The Nobel Prize for Physics,WORK_OF_ART,,,en,2
+Dutch,Dutch,NORP,,,en,2
+Nobel Prize in Physics Is Awarded for Work in Quantum Mechanics,Nobel Prize in Physics Is Awarded for Work in Quantum Mechanics,WORK_OF_ART,,,en,2
+eight years,eight years,DATE,,,en,2
+the 2025 Nobel Prize in Economics,the 2025 Nobel Prize in Economics,WORK_OF_ART,,,en,2
+2025 Nobel Prize in Chemistry,2025 Nobel Prize in Chemistry,WORK_OF_ART,,,en,2
+Nobel Prize Goes to Economists,Nobel Prize Goes to Economists,WORK_OF_ART,,,en,2
+October 13th,October 13th,DATE,,,en,2
 Wave White Flag,Wave White Flag,LAW,,,en,2
 Fourteen Hours Old,Fourteen Hours Old,TIME,,,en,2
-decade-old,decade-old,DATE,,,en,2
-more than two decades,more than two decades,DATE,,,en,2
-seasons,seasons,DATE,,,en,2
-2025 Nobel Prize,2025 Nobel Prize,WORK_OF_ART,,,en,2
-Immigration and Customs Enforcement (ICE,Immigration and Customs Enforcement (ICE,LAW,,,en,2
-Starship,Starship,PRODUCT,,,en,2
-tenth,tenth,ORDINAL,,,en,2
-| August 27,| August 27,DATE,,,en,2
-second-half,second-half,DATE,,,en,2
-Week 6,Week 6,DATE,,,en,2
-the Physics Nobel,the Physics Nobel,WORK_OF_ART,,,en,2
-Fort Lee,Fort Lee,FAC,,,en,2
-Late-Night,Late-Night,TIME,,,en,2
-Sunday night,Sunday night,TIME,,,en,2
-97 percent,97 percent,PERCENT,,,en,2
-Aug 26,Aug 26,DATE,,,en,2
-Frenchman,Frenchman,NORP,,,en,2
-£100m,£100m,MONEY,,,en,2
-“News Central,“News Central,WORK_OF_ART,,,en,2
-March,March,DATE,,,en,2
-Nobel Prize in Physics Is Awarded for Work in Quantum Mechanics,Nobel Prize in Physics Is Awarded for Work in Quantum Mechanics,WORK_OF_ART,,,en,2
-10 percent,10 percent,PERCENT,,,en,2
-Nearly two decades,Nearly two decades,DATE,,,en,2
-Love Story,Love Story,WORK_OF_ART,,,en,2
-The Nobel Prize for Physics,The Nobel Prize for Physics,WORK_OF_ART,,,en,2
-Turkiye,Turkiye,NORP,,,en,2
-1912,1912,DATE,,,en,2
-$200M,$200M,MONEY,,,en,2
-Super Bowl Attendees To Darken Their Skin To Try And Confuse ICE,Super Bowl Attendees To Darken Their Skin To Try And Confuse ICE,EVENT,,,en,2
-Aug. 30,Aug. 30,DATE,,,en,2
-7th,7th,ORDINAL,,,en,2
-Sept. 19,Sept. 19,DATE,,,en,2
-this years,this years,DATE,,,en,2
+London Fashion Week,London Fashion Week,EVENT,,,en,2
+Venezuelan Nobel Winner Says Maduro Will Leave Power 'With Or Without' Talks,Venezuelan Nobel Winner Says Maduro Will Leave Power 'With Or Without' Talks,WORK_OF_ART,,,en,2
+Monday (Oct 13,Monday (Oct 13,DATE,,,en,2
 Nobel Prize in Medicine,Nobel Prize in Medicine,WORK_OF_ART,,,en,2
-237,237,CARDINAL,,,en,2
-the Toronto International Film Festival,the Toronto International Film Festival,EVENT,,,en,2
-Times Square,Times Square,FAC,,,en,2
+7th,7th,ORDINAL,,,en,2
+the Nobel Prize for Economics,the Nobel Prize for Economics,WORK_OF_ART,,,en,2
+A Nobel Prize Vindicates Brexit,A Nobel Prize Vindicates Brexit,WORK_OF_ART,,,en,2
+December 2024,December 2024,DATE,,,en,2
+laureates,laureates,PRODUCT,,,en,2
+just weeks,just weeks,DATE,,,en,2
+… This year,… This year,DATE,,,en,2
+Chapter 2,Chapter 2,LAW,,,en,2
+18 years,18 years,DATE,,,en,2
+Super Bowl Attendees To Darken Their Skin To Try And Confuse ICE,Super Bowl Attendees To Darken Their Skin To Try And Confuse ICE,EVENT,,,en,2
+Immigration and Customs Enforcement (ICE,Immigration and Customs Enforcement (ICE,LAW,,,en,2
+one half,one half,CARDINAL,,,en,2
+2025 Nobel,2025 Nobel,WORK_OF_ART,,,en,2
+These Are Adults,These Are Adults,WORK_OF_ART,,,en,2
+You Know What They Say About a Blind Squirrel,You Know What They Say About a Blind Squirrel,WORK_OF_ART,,,en,2
+a Nobel Prize,a Nobel Prize,WORK_OF_ART,,,en,2
+the 2025 Nobel Prize in Physiology and Medicine,the 2025 Nobel Prize in Physiology and Medicine,WORK_OF_ART,,,en,2
+"Oct. 10, 2025","Oct. 10, 2025",DATE,,,en,2
+1425,1425,CARDINAL,,,en,2
+Dozens,Dozens,CARDINAL,,,en,2
+Secret,Secret,PRODUCT,,,en,2
+Nobel Prize 2025 in Literature:,Nobel Prize 2025 in Literature:,WORK_OF_ART,,,en,2
+thirty-one,thirty-one,CARDINAL,,,en,2
+40th,40th,ORDINAL,,,en,2
+October 9,October 9,DATE,,,en,2
+$1.4 billion,$1.4 billion,MONEY,,,en,2
+later Friday,later Friday,DATE,,,en,2
+week,week,DATE,,,en,2
+the Nobel Prize in Literature,the Nobel Prize in Literature,WORK_OF_ART,,,en,2
+the 2026 Super Bowl,the 2026 Super Bowl,EVENT,,,en,2
+$70 million,$70 million,MONEY,,,en,2
+Eras,Eras,WORK_OF_ART,,,en,2
+Nobel Prize in Literature,Nobel Prize in Literature,WORK_OF_ART,,,en,2
+nine,nine,CARDINAL,,,en,2
+1987,1987,DATE,,,en,2
+Portuguese,Portuguese,NORP,,,en,2
+three day,three day,DATE,,,en,2
+weeks,weeks,DATE,,,en,2
+late Sunday,late Sunday,DATE,,,en,2
+nearly 700 million,nearly 700 million,CARDINAL,,,en,2
+the Nobel Prize in Medicine or Physiology,the Nobel Prize in Medicine or Physiology,WORK_OF_ART,,,en,2
+This years,This years,DATE,,,en,2
+Get Ur Freak,Get Ur Freak,EVENT,,,en,2
+48 Hours,48 Hours,TIME,,,en,2
+Knives Out,Knives Out,WORK_OF_ART,,,en,2
+Wake Up Dead Man,Wake Up Dead Man,WORK_OF_ART,,,en,2
+the Southbank Centre’s,the Southbank Centre’s,FAC,,,en,2
+Royal Festival Hall,Royal Festival Hall,FAC,,,en,2
+End France Crisis,End France Crisis,EVENT,,,en,2
+months-old,months-old,DATE,,,en,2
 just 26 days,just 26 days,DATE,,,en,2
 The Nobel Prize in Medicine or Physiology,The Nobel Prize in Medicine or Physiology,WORK_OF_ART,,,en,2
 Albanian,Albanian,NORP,,,en,2
-Sept. 5,Sept. 5,DATE,,,,2
-The Lead with Jake Tapper,The Lead with Jake Tapper,WORK_OF_ART,,,en,2
-October 5,October 5,DATE,,,en,2
-Friday night,Friday night,TIME,,,en,2
-Maison Valentino‘s 2026 Spring/Summer,Maison Valentino‘s 2026 Spring/Summer,EVENT,,,en,2
-its second season,its second season,DATE,,,en,2
-Recess Therapy,Recess Therapy,WORK_OF_ART,,,en,2
-Celebrity Substitute,Celebrity Substitute,WORK_OF_ART,,,en,2
-99,99,CARDINAL,,,en,2
-Top-15,Top-15,CARDINAL,,,en,2
-62,62,DATE,,,en,2
-81,81,DATE,,,en,2
-18 years,18 years,DATE,,,en,2
-Iranian,Iranian,NORP,,,en,2
-week,week,DATE,,,en,2
-Tyson Fury,Tyson Fury,PRODUCT,,,en,2
-Posh Spice,Posh Spice,WORK_OF_ART,,,en,2
-Career Against a Dangerous Tune,Career Against a Dangerous Tune,WORK_OF_ART,,,en,2
-… This year,… This year,DATE,,,en,2
-the summer,the summer,DATE,,,en,2
-the next four years,the next four years,DATE,,,en,2
-June,June,DATE,,,en,2
-laureates,laureates,PRODUCT,,,en,2
-this August,this August,DATE,,,en,2
-Eras,Eras,WORK_OF_ART,,,en,2
-1425,1425,CARDINAL,,,en,2
-November 11,November 11,DATE,,,en,2
-this afternoon,this afternoon,TIME,,,en,2
-The Studio,The Studio,WORK_OF_ART,,,en,2
-The Penguin,The Penguin,WORK_OF_ART,,,en,2
-Joke,Joke,WORK_OF_ART,,,en,2
-Dressing Room Before Combative,Dressing Room Before Combative,WORK_OF_ART,,,en,2
-late-night comedy,late-night comedy,TIME,,,en,2
-Just a few days,Just a few days,DATE,,,en,2
-Spot,Spot,WORK_OF_ART,,,en,2
-Make Her Feel a Little Better,Make Her Feel a Little Better,WORK_OF_ART,,,en,2
-Olympics,Olympics,EVENT,,,en,2
-2024 months-long,2024 months-long,DATE,,,en,2
-Survival,Survival,PRODUCT,,,en,2
-October 10,October 10,DATE,,,en,2
-Libertarian,Libertarian,NORP,,,en,2
-+3480,+3480,NORP,,,en,2
-April 2022,April 2022,DATE,,,en,2
-Survivor: The Island of Redemption,Survivor: The Island of Redemption,WORK_OF_ART,,,en,2
 Survivor,Survivor,WORK_OF_ART,,,en,2
-Season 47,Season 47,DATE,,,en,2
-Yam Yam Arocho,Yam Yam Arocho,FAC,,,en,2
 Season 44,Season 44,DATE,,,en,2
-28,28,CARDINAL,,,en,2
-Fox News Interview,Fox News Interview,WORK_OF_ART,,,en,2
-+1634 chars,+1634 chars,WORK_OF_ART,,,en,2
-South American,South American,NORP,,,en,2
-Grammy,Grammy,WORK_OF_ART,,,en,2
-50th,50th,ORDINAL,,,en,2
-May and June,May and June,DATE,,,en,2
-a minute,a minute,TIME,,,en,2
-Toughest Test,Toughest Test,LAW,,,en,2
-the fifth year,the fifth year,DATE,,,en,2
-79,79,DATE,,,en,2
-August 7,August 7,DATE,,,en,2
-"June 9, 1981","June 9, 1981",DATE,,,en,2
-Green Day’s,Green Day’s,DATE,,,en,2
-Green Day,Green Day,DATE,,,en,2
-Nobel Prize Goes to Economists,Nobel Prize Goes to Economists,WORK_OF_ART,,,en,2
-Two weekends ago,Two weekends ago,DATE,,,en,2
-25 metres,25 metres,QUANTITY,,,en,2
-the special day,the special day,DATE,,,en,2
-17,17,CARDINAL,,,en,2
-October 13th,October 13th,DATE,,,en,2
-MLS,MLS,FAC,,,en,2
-December 2024,December 2024,DATE,,,en,2
-A Nobel Prize Vindicates Brexit,A Nobel Prize Vindicates Brexit,WORK_OF_ART,,,en,2
-the Nobel Prize for Economics,the Nobel Prize for Economics,WORK_OF_ART,,,en,2
-Bargain Basement” Offer for Jaron Ennis,Bargain Basement” Offer for Jaron Ennis,WORK_OF_ART,,,en,2
-Earlier this month,Earlier this month,DATE,,,en,2
-"Friday, August 8","Friday, August 8",DATE,,,en,2
-Monday (Oct 13,Monday (Oct 13,DATE,,,en,2
-Venezuelan Nobel Winner Says Maduro Will Leave Power 'With Or Without' Talks,Venezuelan Nobel Winner Says Maduro Will Leave Power 'With Or Without' Talks,WORK_OF_ART,,,en,2
-27,27,CARDINAL,,,en,2
-Christmas Eve,Christmas Eve,DATE,,,en,2
-Habsburg,Habsburg,NORP,,,en,2
-Zionist,Zionist,NORP,,,en,2
-Austro-Hungarian,Austro-Hungarian,NORP,,,en,2
-Hungry,Hungry,WORK_OF_ART,,,en,2
-Buckingham Palace,Buckingham Palace,FAC,,,en,2
-Camp Refutes,Camp Refutes,WORK_OF_ART,,,en,2
-London Fashion Week,London Fashion Week,EVENT,,,en,2
-7,7,CARDINAL,,,en,2
-10th,10th,ORDINAL,,,en,2
+$30 million,$30 million,MONEY,,,en,2
+1956,1956,DATE,,,en,2
+Season 47,Season 47,DATE,,,en,2
+All-American Road Show,All-American Road Show,EVENT,,,en,2
 CBS Mornings,CBS Mornings,WORK_OF_ART,,,en,2
-Oct 15,Oct 15,DATE,,,en,2
-more than a million,more than a million,CARDINAL,,,en,2
-1 million,1 million,CARDINAL,,,en,2
-The Summer I Turned Pretty,The Summer I Turned Pretty,WORK_OF_ART,,,en,2
-Rafale,Rafale,PRODUCT,,,en,2
-August 15,August 15,DATE,,,en,2
-Asians,Asians,NORP,,,en,2
-The Devil Wears Prada 2”,The Devil Wears Prada 2”,WORK_OF_ART,,,en,2
-2030,2030,DATE,,,en,2
-seven years,seven years,DATE,,,en,2
-next mo,next mo,DATE,,,en,2
-Segment,Segment,WORK_OF_ART,,,en,2
-Jul 30,Jul 30,DATE,,,en,2
-the past few days,the past few days,DATE,,,en,2
-Oct. 21,Oct. 21,DATE,,,en,2
-1960s,1960s,DATE,,,en,2
-Creation of the CIA,Creation of the CIA,WORK_OF_ART,,,en,2
-Postwar Finance Merges with Covert Operations,Postwar Finance Merges with Covert Operations,WORK_OF_ART,,,en,2
-spooky season,spooky season,DATE,,,en,2
-Oct 21,Oct 21,DATE,,,en,2
-"July 17, 2026","July 17, 2026",DATE,,,en,2
-three-hour,three-hour,TIME,,,en,2
-Beyond Troubling,Beyond Troubling,WORK_OF_ART,,,en,2
-late Tuesday,late Tuesday,DATE,,,en,2
-The PBD Podcast,The PBD Podcast,WORK_OF_ART,,,en,2
-almost a decade,almost a decade,DATE,,,en,2
-Spice Girl,Spice Girl,PRODUCT,,,en,2
-June 2025,June 2025,DATE,,,en,2
-season,season,DATE,,,en,2
-Sahrawi,Sahrawi,NORP,,,en,2
-the 4th of July,the 4th of July,DATE,,,en,2
-a few weeks,a few weeks,DATE,,,en,2
-July 30,July 30,DATE,,,en,2
-Millions,Millions,CARDINAL,,,en,2
-This Time,This Time,LAW,,,en,2
-tonight,tonight,TIME,,,en,2
-8 million,8 million,CARDINAL,,,en,2
-more than a year,more than a year,DATE,,,en,2
+1990s,1990s,DATE,,,en,2
+Ryder Cup,Ryder Cup,FAC,,,en,2
+|,|,CARDINAL,,,en,2
+day one,day one,DATE,,,en,2
+the Ryder Cup,the Ryder Cup,EVENT,,,en,2
+nearly a decade,nearly a decade,DATE,,,en,2
+the Venice Film Festival,the Venice Film Festival,EVENT,,,en,2
+Biden-era,Biden-era,DATE,,,en,2
+Survival,Survival,PRODUCT,,,en,2
+2024 months-long,2024 months-long,DATE,,,en,2
+the modern day,the modern day,DATE,,,en,2
+Survivor: The Island of Redemption,Survivor: The Island of Redemption,WORK_OF_ART,,,en,2
+Fox News Interview,Fox News Interview,WORK_OF_ART,,,en,2
+a day,a day,DATE,,,en,2
+the night,the night,TIME,,,en,2
+54,54,DATE,,,en,2
+Last September,Last September,DATE,,,en,2
+Together for Palestine,Together for Palestine,WORK_OF_ART,,,en,2
 March 2024,March 2024,DATE,,,en,2
-Cloud23,Cloud23,NORP,,,en,2
-just over three years,just over three years,DATE,,,en,2
-the quarter,the quarter,DATE,,,en,2
-4%,4%,PERCENT,,,en,2
-quarterly,quarterly,DATE,,,en,2
-These Are Adults,These Are Adults,WORK_OF_ART,,,en,2
-Hundreds of thousands,Hundreds of thousands,CARDINAL,,,en,2
-Wood,Wood,WORK_OF_ART,,,en,2
-187,187,CARDINAL,,,en,2
-Young and Beautiful,Young and Beautiful,WORK_OF_ART,,,en,2
-Yacht,Yacht,WORK_OF_ART,,,en,2
-"More than 2,600","More than 2,600",CARDINAL,,,en,2
-Bitcoin,Bitcoin,FAC,0.0,0.0,en,2
-30 pounds,30 pounds,QUANTITY,,,en,2
-May,May,DATE,,,en,2
-‘The Less I Know the Better’,‘The Less I Know the Better’,WORK_OF_ART,,,en,2
-I Will Follow You Into the Dark,I Will Follow You Into the Dark,WORK_OF_ART,,,en,2
-Radical Optimism Tour,Radical Optimism Tour,WORK_OF_ART,,,en,2
-almost 6 million,almost 6 million,CARDINAL,,,en,2
-about 23%,about 23%,PERCENT,,,en,2
-Hosts For Swearing,Hosts For Swearing,WORK_OF_ART,,,en,2
-August 1,August 1,DATE,,,en,2
-the next 24 hours,the next 24 hours,TIME,,,en,2
-Farkers,Farkers,NORP,,,en,2
-Oct 18,Oct 18,DATE,,,en,2
-the Nobel Memorial Prize in Economic Sciences,the Nobel Memorial Prize in Economic Sciences,WORK_OF_ART,,,en,2
-Audience Gasps,Audience Gasps,WORK_OF_ART,,,en,2
-Next Fight,Next Fight,WORK_OF_ART,,,en,2
-Alaskan,Alaskan,NORP,,,en,2
-this Thursday,this Thursday,DATE,,,en,2
-14,14,CARDINAL,,,en,2
-Oct. 3,Oct. 3,DATE,,,en,2
-1987,1987,DATE,,,en,2
-"Oct. 10, 2025","Oct. 10, 2025",DATE,,,en,2
-Road House 2,Road House 2,WORK_OF_ART,,,en,2
-the 2025 Nobel Prize in Physiology and Medicine,the 2025 Nobel Prize in Physiology and Medicine,WORK_OF_ART,,,en,2
-a Nobel Prize,a Nobel Prize,WORK_OF_ART,,,en,2
-nine,nine,CARDINAL,,,en,2
-the Washington Monument,the Washington Monument,FAC,,,en,2
-8/12,8/12,CARDINAL,,,en,2
-one half,one half,CARDINAL,,,en,2
-only yesterday,only yesterday,DATE,,,en,2
-TMZ Live,TMZ Live,WORK_OF_ART,,,en,2
-LA Galaxy,LA Galaxy,FAC,,,en,2
+Saturday Night Live,Saturday Night Live,WORK_OF_ART,,,en,2
+Luton Airport,Luton Airport,FAC,,,en,2
+40s,40s,DATE,,,en,2
+more than a year,more than a year,DATE,,,en,2
+Oct 15,Oct 15,DATE,,,en,2
+"100,000","100,000",MONEY,,,en,2
+last year's,last year's,DATE,,,en,2
+$20 million,$20 million,MONEY,,,en,2
+South American,South American,NORP,,,en,2
+Tens of thousands,Tens of thousands,CARDINAL,,,en,2
+One Battle After Another,One Battle After Another,WORK_OF_ART,,,en,2
+The Headache,The Headache,WORK_OF_ART,,,en,2
+Make Her Feel a Little Better,Make Her Feel a Little Better,WORK_OF_ART,,,en,2
+‘The View,‘The View,WORK_OF_ART,,,en,2
+the same day,the same day,DATE,,,en,2
+a night,a night,TIME,,,en,2
+Dance The Night,Dance The Night,WORK_OF_ART,,,en,2
+October 2,October 2,DATE,,,en,2
+Mickey Mouse,Mickey Mouse,WORK_OF_ART,,,en,2
+the days,the days,DATE,,,en,2
+2027,2027,CARDINAL,,,en,2
+year end,year end,DATE,,,en,2
+September 30,September 30,DATE,,,en,2
+Nine years ago,Nine years ago,DATE,,,en,2
+2016,2016,DATE,,,en,2
+Navratri 2025:,Navratri 2025:,WORK_OF_ART,,,en,2
+Week 6,Week 6,DATE,,,en,2
+Maison Valentino‘s 2026 Spring/Summer,Maison Valentino‘s 2026 Spring/Summer,EVENT,,,en,2
+October 5,October 5,DATE,,,en,2
+Brain Worm,Brain Worm,WORK_OF_ART,,,en,2
+The Tonight Show,The Tonight Show,WORK_OF_ART,,,en,2
+just over 24 hours,just over 24 hours,TIME,,,en,2
+November 11,November 11,DATE,,,en,2
+midnight,midnight,TIME,,,en,2
+$24.5 million,$24.5 million,MONEY,,,en,2
+Capitol,Capitol,FAC,,,en,2
+Latter-day,Latter-day,DATE,,,en,2
+‘The View’,‘The View’,WORK_OF_ART,,,en,2
+Spot,Spot,WORK_OF_ART,,,en,2
+the M3M Hurun India Rich List 2025,the M3M Hurun India Rich List 2025,PRODUCT,,,en,2
+Dressing Room Before Combative,Dressing Room Before Combative,WORK_OF_ART,,,en,2
+October 14,October 14,DATE,,,en,2
+500,500,CARDINAL,,,en,2
+25-54,25-54,DATE,,,en,2
+a 21st century,a 21st century,DATE,,,en,2
+Western Nights,Western Nights,WORK_OF_ART,,,en,2
+Joke,Joke,WORK_OF_ART,,,en,2
+Meme War,Meme War,EVENT,,,en,2
+2025 Nobel Prize,2025 Nobel Prize,WORK_OF_ART,,,en,2
+Almost two dozen,Almost two dozen,CARDINAL,,,en,2
+anti-Russian,anti-Russian,NORP,,,en,2
+Flub,Flub,WORK_OF_ART,,,en,2
+"Friday, November 14","Friday, November 14",DATE,,,en,2
+August 24,August 24,DATE,,,en,2
+"Gervonta ""Tank"" Davis","Gervonta ""Tank"" Davis",FAC,,,en,2
+Toughest Test,Toughest Test,LAW,,,en,2
+Spare,Spare,WORK_OF_ART,,,en,2
 2004,2004,DATE,,,en,2
-the 2025 Nobel Prize in Economics,the 2025 Nobel Prize in Economics,WORK_OF_ART,,,en,2
-"With Love, Meghan’","With Love, Meghan’",WORK_OF_ART,,,en,2
-the early 2010s,the early 2010s,DATE,,,en,2
-Dutch,Dutch,NORP,,,en,2
-the Nobel Prize in Medicine or Physiology,the Nobel Prize in Medicine or Physiology,WORK_OF_ART,,,en,2
-2011,2011,DATE,,,en,2
-weeks,weeks,DATE,,,en,2
 more than three hours,more than three hours,TIME,,,en,2
+this August,this August,DATE,,,en,2
+this afternoon,this afternoon,TIME,,,en,2
+1997,1997,DATE,,,en,2
+Sunday Morning,Sunday Morning,DATE,,,en,2
+"June 9, 1981","June 9, 1981",DATE,,,en,2
+"With Love, Meghan’","With Love, Meghan’",WORK_OF_ART,,,en,2
+the next few days,the next few days,DATE,,,en,2
+World War II,World War II,EVENT,,,en,2
+more than a month,more than a month,DATE,,,en,2
+Trump Has the Cards,Trump Has the Cards,WORK_OF_ART,,,en,2
+"Friday, August 8","Friday, August 8",DATE,,,en,2
+the fifth year,the fifth year,DATE,,,en,2
+70%,70%,PERCENT,,,en,2
+2011,2011,DATE,,,en,2
+Honeymoon With Harry,Honeymoon With Harry,WORK_OF_ART,,,en,2
+Bargain Basement” Offer for Jaron Ennis,Bargain Basement” Offer for Jaron Ennis,WORK_OF_ART,,,en,2
+97 percent,97 percent,PERCENT,,,en,2
+Sunday night,Sunday night,TIME,,,en,2
+The Penguin,The Penguin,WORK_OF_ART,,,en,2
+Late-Night,Late-Night,TIME,,,en,2
+August 19th,August 19th,DATE,,,en,2
+Union Station,Union Station,FAC,,,en,2
+Fort Lee,Fort Lee,FAC,,,en,2
+August 5,August 5,DATE,,,en,2
+The Studio,The Studio,WORK_OF_ART,,,en,2
+More than a decade,More than a decade,DATE,,,en,2
+Alaskan,Alaskan,NORP,,,en,2
+A week,A week,DATE,,,en,2
+A Ridiculous Thing to Say,A Ridiculous Thing to Say,WORK_OF_ART,,,en,2
+8,8,CARDINAL,,,en,2
+FIRST,FIRST,ORDINAL,,,en,2
++69,+69,NORP,,,en,2
+Days,Days,DATE,,,en,2
+Draft Day,Draft Day,DATE,,,en,2
+State Farm Arena,State Farm Arena,FAC,,,en,2
+Zionist,Zionist,NORP,,,en,2
+Camo,Camo,FAC,,,en,2
+Austro-Hungarian,Austro-Hungarian,NORP,,,en,2
+Swag’ Album,Swag’ Album,WORK_OF_ART,,,en,2
+a week,a week,DATE,,,en,2
+Hungry,Hungry,WORK_OF_ART,,,en,2
+six decades,six decades,DATE,,,en,2
+only yesterday,only yesterday,DATE,,,en,2
+Path to Redemption,Path to Redemption,WORK_OF_ART,,,en,2
+Buckingham Palace,Buckingham Palace,FAC,,,en,2
+The Chosen,The Chosen,WORK_OF_ART,,,en,2
+December 2023,December 2023,DATE,,,en,2
+the Washington Monument,the Washington Monument,FAC,,,en,2
+Four,Four,CARDINAL,,,en,2
+Habsburg,Habsburg,NORP,,,en,2
+World War I,World War I,EVENT,,,en,2
+August 7,August 7,DATE,,,en,2
+14 November,14 November,DATE,,,en,2
+80th,80th,ORDINAL,,,en,2
+Christmas Eve,Christmas Eve,DATE,,,en,2
+Sunday Morning Talk Show Thread 17 August 2025,Sunday Morning Talk Show Thread 17 August 2025,DATE,,,en,2
+10th,10th,ORDINAL,,,en,2
+the next two weeks,the next two weeks,DATE,,,en,2
+2 Weeks,2 Weeks,DATE,,,en,2
 a very busy week,a very busy week,DATE,,,en,2
-I Will Follow,I Will Follow,WORK_OF_ART,,,en,1
-23%,23%,PERCENT,,,en,1
+7,7,CARDINAL,,,en,2
+Gervonta 'Tank' Davis,Gervonta 'Tank' Davis,FAC,,,en,2
+8/12,8/12,CARDINAL,,,en,2
+this Thursday,this Thursday,DATE,,,en,2
+22,22,CARDINAL,,,en,2
+next spring,next spring,DATE,,,en,2
+State of the Union,State of the Union,WORK_OF_ART,,,en,2
+African,African,NORP,,,en,2
+The Lion King,The Lion King,FAC,,,en,2
+the early 2010s,the early 2010s,DATE,,,en,2
+Camp Refutes,Camp Refutes,WORK_OF_ART,,,en,2
+$1M,$1M,MONEY,,,en,2
++1543 chars,+1543 chars,WORK_OF_ART,,,en,2
+10 percent,10 percent,PERCENT,,,en,2
+March,March,DATE,,,en,2
+Next Fight,Next Fight,WORK_OF_ART,,,en,2
+Audience Gasps,Audience Gasps,WORK_OF_ART,,,en,2
+October 10,October 10,DATE,,,en,2
+MLS,MLS,FAC,,,en,2
+£100m,£100m,MONEY,,,en,2
+late-night comedy,late-night comedy,TIME,,,en,2
+August 18,August 18,DATE,,,en,2
+August 22,August 22,DATE,,,en,2
+Just a few days,Just a few days,DATE,,,en,2
+14,14,CARDINAL,,,en,2
+Olympics,Olympics,EVENT,,,en,2
+43%,43%,PERCENT,,,en,2
+17,17,CARDINAL,,,en,2
+TMZ Live,TMZ Live,WORK_OF_ART,,,en,2
+Six,Six,CARDINAL,,,en,2
+“News Central,“News Central,WORK_OF_ART,,,en,2
+LA Galaxy,LA Galaxy,FAC,,,en,2
+Love Story,Love Story,WORK_OF_ART,,,en,2
+Road House 2,Road House 2,WORK_OF_ART,,,en,2
+Two-Minute,Two-Minute,TIME,,,en,2
+The Devil Wears Prada 2,The Devil Wears Prada 2,WORK_OF_ART,,,en,2
+Two weekends ago,Two weekends ago,DATE,,,en,2
+Nearly two decades,Nearly two decades,DATE,,,en,2
+Leagues Cup,Leagues Cup,EVENT,,,en,2
+25 metres,25 metres,QUANTITY,,,en,2
+16,16,CARDINAL,,,en,2
+age 87,age 87,DATE,,,en,2
+Aug 26,Aug 26,DATE,,,en,2
+the special day,the special day,DATE,,,en,2
+Oct. 3,Oct. 3,DATE,,,en,2
+over $55,over $55,MONEY,,,en,1
+13 years,13 years,DATE,,,en,1
+First German,First German,NORP,,,en,1
+significantl,significantl,NORP,,,en,1
+2025-10-13,2025-10-13,DATE,,,en,1
+On the Floor,On the Floor,WORK_OF_ART,,,en,1
+Argentine,Argentine,NORP,,,en,1
+0.04%,0.04%,PERCENT,,,en,1
+7:10,7:10,TIME,,,en,1
+Coolie,Coolie,WORK_OF_ART,,,en,1
+Dressing For The ‘Joe Dirt Gaze,Dressing For The ‘Joe Dirt Gaze,WORK_OF_ART,,,en,1
+this weeks,this weeks,DATE,,,en,1
+0.3%,0.3%,PERCENT,,,en,1
+110%,110%,PERCENT,,,en,1
+the Nobel Memorial Prize,the Nobel Memorial Prize,WORK_OF_ART,,,en,1
+The Nobel Prize in Economics 2025,The Nobel Prize in Economics 2025,WORK_OF_ART,,,en,1
+$70,$70,MONEY,,,en,1
+His GQ Cover Shoot,His GQ Cover Shoot,WORK_OF_ART,,,en,1
+Late-Night Meltdown,Late-Night Meltdown,TIME,,,en,1
++2661,+2661,NORP,,,en,1
+over $550 million USD,over $550 million USD,MONEY,,,en,1
+New Zealands,New Zealands,NORP,,,en,1
+1985,1985,DATE,,,en,1
+The Chain,The Chain,WORK_OF_ART,,,en,1
+the Industrial Revolution,the Industrial Revolution,EVENT,,,en,1
 October 2025,October 2025,DATE,,,en,1
-Rs 9.55 lakh crore,Rs 9.55 lakh crore,MONEY,,,en,1
-late-nights,late-nights,DATE,,,en,1
-Hate America,Hate America,WORK_OF_ART,,,en,1
-the Valention Spring/Summer 2026,the Valention Spring/Summer 2026,EVENT,,,en,1
-‘Life of a Showgirl,‘Life of a Showgirl,WORK_OF_ART,,,en,1
-"this Friday, Oct. 3","this Friday, Oct. 3",DATE,,,en,1
-some 50,some 50,CARDINAL,,,en,1
-| Video,| Video,WORK_OF_ART,,,en,1
-four years,four years,DATE,,,en,1
 10/09/2025 3:44:39 PM PDT,10/09/2025 3:44:39 PM PDT,TIME,,,en,1
-Climate Pledge Arena,Climate Pledge Arena,PRODUCT,,,en,1
-500,500,CARDINAL,,,en,1
-late Wednesday,late Wednesday,TIME,,,en,1
-Humbling,Humbling,WORK_OF_ART,,,en,1
-THIRD QUARTER,THIRD QUARTER,DATE,,,en,1
+indic,indic,WORK_OF_ART,,,en,1
+"February 14, 2025","February 14, 2025",DATE,,,en,1
+Economics Nobel,Economics Nobel,EVENT,,,en,1
+Industrial Revolution to,Industrial Revolution to,EVENT,,,en,1
+12 mi,12 mi,QUANTITY,,,en,1
+the Year Hugh Jackson’s,the Year Hugh Jackson’s,DATE,,,en,1
+9:30 AM,9:30 AM,TIME,,,en,1
+a year,a year,DATE,,,en,1
+The second season,The second season,DATE,,,en,1
+12 million barrels,12 million barrels,QUANTITY,,,en,1
+the Nobel memorial prize in economics for work on ‘creative destruction’,the Nobel memorial prize in economics for work on ‘creative destruction’,WORK_OF_ART,,,en,1
+this years Nobel Memorial Prize,this years Nobel Memorial Prize,TIME,,,en,1
+Concerned With Getting Hit” After Ryan Garcia,Concerned With Getting Hit” After Ryan Garcia,WORK_OF_ART,,,en,1
+Concerned With Getting Hit” After Ryan Garcia Knockdowns @,Concerned With Getting Hit” After Ryan Garcia Knockdowns @,WORK_OF_ART,,,en,1
+Dream of a lifetime,Dream of a lifetime,WORK_OF_ART,,,en,1
+Share Nobel in Economics for Work on How Technology Drives Growth,Share Nobel in Economics for Work on How Technology Drives Growth,WORK_OF_ART,,,en,1
+season two,season two,DATE,,,en,1
+the AI revolution,the AI revolution,EVENT,,,en,1
+more than two weeks,more than two weeks,DATE,,,en,1
+endin,endin,DATE,,,en,1
+3 to 5 December,3 to 5 December,DATE,,,en,1
+Oct. 10,Oct. 10,DATE,,,en,1
+Adolescence,Adolescence,WORK_OF_ART,,,en,1
+Last night,Last night,TIME,,,en,1
+3.14159,3.14159,CARDINAL,,,en,1
++1441,+1441,NORP,,,en,1
+two days later,two days later,DATE,,,en,1
+between her four years,between her four years,DATE,,,en,1
+Celeb Guests Revealed,Celeb Guests Revealed,WORK_OF_ART,,,en,1
+Aug. 2,Aug. 2,DATE,,,en,1
+one week,one week,DATE,,,en,1
+The Emptiness of Kamala Harris,The Emptiness of Kamala Harris,WORK_OF_ART,,,en,1
+a mere 27 day,a mere 27 day,DATE,,,en,1
+Sunday season,Sunday season,DATE,,,en,1
+45,45,DATE,,,en,1
+Ear,Ear,PRODUCT,,,en,1
+quitCBS News,quitCBS News,WORK_OF_ART,,,en,1
+season three,season three,DATE,,,en,1
+October 11,October 11,DATE,,,en,1
+Two months,Two months,DATE,,,en,1
 +16302 chars,+16302 chars,WORK_OF_ART,,,en,1
-Jesse Watters Primetime,Jesse Watters Primetime,WORK_OF_ART,,,en,1
+August 2,August 2,DATE,,,en,1
+first season,first season,DATE,,,en,1
+Chapel Hill,Chapel Hill,FAC,,,en,1
+1988,1988,DATE,,,en,1
+100 percent,100 percent,PERCENT,,,en,1
++5749 chars,+5749 chars,WORK_OF_ART,,,en,1
+The Life of a Showgirlwas,The Life of a Showgirlwas,WORK_OF_ART,,,en,1
+The Life Of A Showgirl,The Life Of A Showgirl,WORK_OF_ART,,,en,1
+Princess Diana's,Princess Diana's,FAC,,,en,1
+19,19,CARDINAL,,,en,1
+Nobel sur-Prize,Nobel sur-Prize,WORK_OF_ART,,,en,1
+Fever,Fever,PRODUCT,,,en,1
+26 days,26 days,DATE,,,en,1
+Just days,Just days,DATE,,,en,1
+Four days,Four days,DATE,,,en,1
++2443 chars,+2443 chars,WORK_OF_ART,,,en,1
+The Abbey,The Abbey,FAC,,,en,1
+Blue Carpet Countdown,Blue Carpet Countdown,PRODUCT,,,en,1
+more than 7 million square meters,more than 7 million square meters,QUANTITY,,,en,1
+Yacht,Yacht,WORK_OF_ART,,,en,1
+New Series Adaptation,New Series Adaptation,EVENT,,,en,1
+Krasznahorkai,Krasznahorkai,NORP,,,en,1
+“The Melancholy of Resistance”,“The Melancholy of Resistance”,WORK_OF_ART,,,en,1
+Brooklyn Beckham,Brooklyn Beckham,FAC,,,en,1
+Satantango,Satantango,WORK_OF_ART,,,en,1
+This day,This day,DATE,,,en,1
+Nobel Prize in Economic Sciences 2025,Nobel Prize in Economic Sciences 2025,WORK_OF_ART,,,en,1
+March 2023,March 2023,DATE,,,en,1
++6883 chars,+6883 chars,WORK_OF_ART,,,en,1
+The Melancholy of Resistance and Satantango,The Melancholy of Resistance and Satantango,WORK_OF_ART,,,en,1
+more than 13 years,more than 13 years,DATE,,,en,1
+August 11,August 11,DATE,,,en,1
+13 Years,13 Years,DATE,,,en,1
+Polish,Polish,NORP,,,en,1
+"January 15th, 2025","January 15th, 2025",DATE,,,en,1
+just three years,just three years,DATE,,,en,1
+twelfth,twelfth,ORDINAL,,,en,1
+24 2020,24 2020,DATE,,,en,1
+a tough few months,a tough few months,DATE,,,en,1
+10/10/2025 1,10/10/2025 1,DATE,,,en,1
+Childhood Dream Come True,Childhood Dream Come True,WORK_OF_ART,,,en,1
+24 hours,24 hours,TIME,,,en,1
+at least 206,at least 206,CARDINAL,,,en,1
+US Open,US Open,EVENT,,,en,1
+two years and two days,two years and two days,DATE,,,en,1
+National Mall,National Mall,FAC,,,en,1
+Bengali,Bengali,NORP,,,en,1
+The 2025 Nobel Prize in Chemistry,The 2025 Nobel Prize in Chemistry,WORK_OF_ART,,,en,1
+The Nobel Prize in Chemistry 2025,The Nobel Prize in Chemistry 2025,WORK_OF_ART,,,en,1
+Nobel Prize in Chemistry 2025,Nobel Prize in Chemistry 2025,WORK_OF_ART,,,en,1
+years end,years end,DATE,,,en,1
+Friend Blasts,Friend Blasts,WORK_OF_ART,,,en,1
+the second year,the second year,DATE,,,en,1
+Nobel Prize:,Nobel Prize:,WORK_OF_ART,,,en,1
+Physics Nobel,Physics Nobel,WORK_OF_ART,,,en,1
+30 days,30 days,DATE,,,en,1
+Oct. 6,Oct. 6,DATE,,,en,1
+Physics,Physics,WORK_OF_ART,,,en,1
+Nobel Physics Prizes,Nobel Physics Prizes,WORK_OF_ART,,,en,1
+Briton,Briton,NORP,,,en,1
+The Nobel Prize in Physics,The Nobel Prize in Physics,WORK_OF_ART,,,en,1
+Road House,Road House,WORK_OF_ART,,,en,1
+Hispanic,Hispanic,NORP,,,en,1
+Case You’re Not an Expert on Taylor,Case You’re Not an Expert on Taylor,WORK_OF_ART,,,en,1
+Dems,Dems,NORP,,,en,1
+Lago,Lago,PRODUCT,,,en,1
+1.4bn,1.4bn,MONEY,,,en,1
++2596 chars,+2596 chars,WORK_OF_ART,,,en,1
+Pirates of the Carib,Pirates of the Carib,WORK_OF_ART,,,en,1
+at least a month,at least a month,DATE,,,en,1
+Clean Up the Environment,Clean Up the Environment,LAW,,,en,1
+June 2025,June 2025,DATE,,,en,1
+£177m,£177m,MONEY,,,en,1
+1.04bn,1.04bn,MONEY,,,en,1
++1946 chars,+1946 chars,WORK_OF_ART,,,en,1
+Japanese Nobel,Japanese Nobel,EVENT,,,en,1
+"over $4,000","over $4,000",MONEY,,,en,1
+The more than a century-old,The more than a century-old,DATE,,,en,1
+the 2025 Nobel Prize in Chemistry &quot;for,the 2025 Nobel Prize in Chemistry &quot;for,WORK_OF_ART,,,en,1
+Nobel Chemistry prize,Nobel Chemistry prize,WORK_OF_ART,,,en,1
+"46,000","46,000",CARDINAL,,,en,1
+Oct 8).The,Oct 8).The,DATE,,,en,1
+Japans second Nobel,Japans second Nobel,EVENT,,,en,1
+'The View' Co-Host Slammed For 'Encouraging' Super Bowl Attendees,'The View' Co-Host Slammed For 'Encouraging' Super Bowl Attendees,WORK_OF_ART,,,en,1
+Mar,Mar,WORK_OF_ART,0.0,0.0,en,1
+Wednesday evening,Wednesday evening,TIME,,,en,1
+Nobel Prize in Physics Goes to Researchers Who Brought Quantum Mechanics,Nobel Prize in Physics Goes to Researchers Who Brought Quantum Mechanics,WORK_OF_ART,,,en,1
+action&quot,action&quot,DATE,,,en,1
+the 2025 Nobel Prize in Physics for &quot;experiments,the 2025 Nobel Prize in Physics for &quot;experiments,WORK_OF_ART,,,en,1
+"… Oct 07, 2025","… Oct 07, 2025",DATE,,,en,1
+Wembley Stadium,Wembley Stadium,FAC,,,en,1
+Nobel Prize in Physics 2025,Nobel Prize in Physics 2025,WORK_OF_ART,,,en,1
+the 100th anniversary year,the 100th anniversary year,DATE,,,en,1
+2025 Nobel Prize in Physics,2025 Nobel Prize in Physics,WORK_OF_ART,,,en,1
+rese,rese,LANGUAGE,,,en,1
+October 11th,October 11th,DATE,,,en,1
+2025-10-07,2025-10-07,DATE,,,en,1
++1838,+1838,NORP,,,en,1
+251,251,CARDINAL,,,en,1
+"over 1,200","over 1,200",CARDINAL,,,en,1
+two years to the day,two years to the day,DATE,,,en,1
+"October 7, 2025","October 7, 2025",DATE,,,en,1
+"October 7, 2023","October 7, 2023",DATE,,,en,1
++3398 chars,+3398 chars,WORK_OF_ART,,,en,1
+154,154,CARDINAL,,,en,1
+MAGAttes,MAGAttes,NORP,,,en,1
+Grammy,Grammy,WORK_OF_ART,,,en,1
+less than two years,less than two years,DATE,,,en,1
+Win Nobel Prize for Showing ‘Bizarre’ Workings of Quantum World,Win Nobel Prize for Showing ‘Bizarre’ Workings of Quantum World,WORK_OF_ART,,,en,1
++2780,+2780,NORP,,,en,1
+40 year,40 year,DATE,,,en,1
+40 years ago,40 years ago,DATE,,,en,1
+Nobel Prize in Physics Is Awarded for Work in Quantum Mechanics (New York Times,Nobel Prize in Physics Is Awarded for Work in Quantum Mechanics (New York Times,WORK_OF_ART,,,en,1
+the Nobel in Physics for quantum computing,the Nobel in Physics for quantum computing,WORK_OF_ART,,,en,1
+39%,39%,PERCENT,,,en,1
+"IT'S A MESS""
+","IT'S A MESS""
+",WORK_OF_ART,,,en,1
+October 07th,October 07th,DATE,,,en,1
+Is An Emergency,Is An Emergency,WORK_OF_ART,,,en,1
+these days,these days,DATE,,,en,1
+Girls Day,Girls Day,DATE,,,en,1
+Ex-French,Ex-French,NORP,,,en,1
+the 2025 Nobel Prize in Medicine,the 2025 Nobel Prize in Medicine,WORK_OF_ART,,,en,1
+Nobel Winner Hiking ‘Off the Grid,Nobel Winner Hiking ‘Off the Grid,WORK_OF_ART,,,en,1
+Nobel Chemistry Prize,Nobel Chemistry Prize,WORK_OF_ART,,,en,1
+the Rock Hall,the Rock Hall,FAC,,,en,1
+MOFs)versatile,MOFs)versatile,FAC,,,en,1
+a chaotic week,a chaotic week,DATE,,,en,1
+more than 500,more than 500,CARDINAL,,,en,1
+October 1947,October 1947,DATE,,,en,1
+McCarthy-era,McCarthy-era,DATE,,,en,1
+Jordanian,Jordanian,NORP,,,en,1
+Chemistry,Chemistry,WORK_OF_ART,,,en,1
+the next few hours,the next few hours,TIME,,,en,1
+The Life,The Life,WORK_OF_ART,,,en,1
++5534,+5534,NORP,,,en,1
+one year,one year,DATE,,,en,1
+Decades later,Decades later,DATE,,,en,1
+1989,1989,DATE,,,en,1
+The Read Optional,The Read Optional,WORK_OF_ART,,,en,1
+2-3,2-3,CARDINAL,,,en,1
+more than 3-1/2,more than 3-1/2,CARDINAL,,,en,1
+Botched Presents: Plastic Surgery Rewind,Botched Presents: Plastic Surgery Rewind,WORK_OF_ART,,,en,1
+Real Housewives of Orange County,Real Housewives of Orange County,WORK_OF_ART,,,en,1
+1856-1940,1856-1940,DATE,,,en,1
+Stan,Stan,FAC,,,en,1
+seven-year,seven-year,DATE,,,en,1
+"Wednesday, Sept. 24","Wednesday, Sept. 24",DATE,,,en,1
+Victoria,Victoria,FAC,-0.09999999999999999,0.15,en,1
+next week's,next week's,DATE,,,en,1
++3038 chars,+3038 chars,WORK_OF_ART,,,en,1
+Secret Runway Model,Secret Runway Model,FAC,,,en,1
+"October 9, 2025","October 9, 2025",DATE,,,en,1
+$468 million,$468 million,MONEY,,,en,1
++3241 chars,+3241 chars,WORK_OF_ART,,,en,1
+48,48,DATE,,,en,1
+Nobel Prize in Literature 2025,Nobel Prize in Literature 2025,WORK_OF_ART,,,en,1
+the Kia Forum,the Kia Forum,FAC,,,en,1
+every night,every night,TIME,,,en,1
+You Lucky F-ckers,You Lucky F-ckers,WORK_OF_ART,,,en,1
+Paltro,Paltro,WORK_OF_ART,,,en,1
++1280,+1280,NORP,,,en,1
+Nobel Prize in Literature to Hungarian,Nobel Prize in Literature to Hungarian,WORK_OF_ART,,,en,1
+Life of a Showgirl,Life of a Showgirl,WORK_OF_ART,,,en,1
+$7.7 Billion,$7.7 Billion,MONEY,,,en,1
+London Film Festival Opening Night,London Film Festival Opening Night,EVENT,,,en,1
+the Rock Hall of Fame,the Rock Hall of Fame,FAC,,,en,1
+years later,years later,DATE,,,en,1
+Saudi Arabian,Saudi Arabian,NORP,,,en,1
++1241,+1241,CARDINAL,,,en,1
+November 8,November 8,DATE,,,en,1
+tons,tons,QUANTITY,,,en,1
+Wednesday morning,Wednesday morning,TIME,,,en,1
++1200 chars,+1200 chars,WORK_OF_ART,,,en,1
+"150,000","150,000",MONEY,,,en,1
+2008s,2008s,CARDINAL,,,en,1
+"Saturday, Oct. 4, 2025","Saturday, Oct. 4, 2025",DATE,,,en,1
+two-year,two-year,DATE,,,en,1
+November 8th,November 8th,DATE,,,en,1
+"Nobel Prize in Chemistry
+","Nobel Prize in Chemistry
+",WORK_OF_ART,,,en,1
+Jan. 5,Jan. 5,DATE,,,en,1
+The Girlfriend’ Tops 25 Million Viewers Worldwide On Prime Video,The Girlfriend’ Tops 25 Million Viewers Worldwide On Prime Video,WORK_OF_ART,,,en,1
+OutKast,OutKast,PRODUCT,,,en,1
+the White Stripes,the White Stripes,WORK_OF_ART,,,en,1
+125 million,125 million,CARDINAL,,,en,1
+The Nobel Prizes,The Nobel Prizes,WORK_OF_ART,,,en,1
++4266 chars,+4266 chars,WORK_OF_ART,,,en,1
+the 21st century,the 21st century,DATE,,,en,1
+the Elysee Palace,the Elysee Palace,FAC,,,en,1
+the end of the year,the end of the year,DATE,,,en,1
+FRENCH,FRENCH,NORP,,,en,1
+early Monday,early Monday,DATE,,,en,1
+Putin,Putin,NORP,0.0,0.0,en,1
+50 years,50 years,DATE,,,en,1
+Amazon Animated Series,Amazon Animated Series,EVENT,,,en,1
+its fourth year,its fourth year,DATE,,,en,1
+"Friday, Aug. 15","Friday, Aug. 15",DATE,,,en,1
+the 21st Century,the 21st Century,DATE,,,en,1
+Nobel Prize in Chemistry Awarded To Architects of Metal-Organic Frameworks,Nobel Prize in Chemistry Awarded To Architects of Metal-Organic Frameworks,WORK_OF_ART,,,en,1
+3minutesThe,3minutesThe,CARDINAL,,,en,1
+The View’ Co-Host is Pregnant With Baby,The View’ Co-Host is Pregnant With Baby,WORK_OF_ART,,,en,1
+NewsNight,NewsNight,PRODUCT,,,en,1
+2:1,2:1,CARDINAL,,,en,1
+'Running a Dictatorship' During Live Show After Interrupting,'Running a Dictatorship' During Live Show After Interrupting,WORK_OF_ART,,,en,1
+the Nobel Prize for Physics,the Nobel Prize for Physics,WORK_OF_ART,,,en,1
+A Simple Mistake',A Simple Mistake',WORK_OF_ART,,,en,1
+1906,1906,DATE,,,en,1
++3480,+3480,NORP,,,en,1
+earlier this year,earlier this year,DATE,,,en,1
+3 months,3 months,DATE,,,en,1
+2500,2500,CARDINAL,,,en,1
+Mar-a-Lago,Mar-a-Lago,DATE,,,en,1
+2600,2600,CARDINAL,,,en,1
+"More than 2,500","More than 2,500",CARDINAL,,,en,1
+"more than 2,500","more than 2,500",CARDINAL,,,en,1
+the newest season,the newest season,DATE,,,en,1
+Every two weeks,Every two weeks,DATE,,,en,1
+Special Forces: World's Toughest Test,Special Forces: World's Toughest Test,WORK_OF_ART,,,en,1
+Special Forces: World's Toughes,Special Forces: World's Toughes,WORK_OF_ART,,,en,1
+Wednesdays,Wednesdays,DATE,,,en,1
+'Getaway Car,'Getaway Car,WORK_OF_ART,,,en,1
+85,85,DATE,,,en,1
+the Order of Culture,the Order of Culture,WORK_OF_ART,,,en,1
+74,74,DATE,,,en,1
+"Saturday, October 18","Saturday, October 18",DATE,,,en,1
+900,900,MONEY,,,en,1
+"Africa
+","Africa
+",PRODUCT,,,en,1
+Japans,Japans,NORP,,,en,1
+the Intuit Dome,the Intuit Dome,FAC,,,en,1
+their thirties,their thirties,DATE,,,en,1
+twenty years,twenty years,DATE,,,en,1
++2134,+2134,NORP,,,en,1
+the Eiffel Tower,the Eiffel Tower,FAC,,,en,1
+12:29 p.m.,12:29 p.m.,TIME,,,en,1
+Oct 19,Oct 19,DATE,,,en,1
+Evening,Evening,TIME,,,en,1
++8352 chars,+8352 chars,WORK_OF_ART,,,en,1
+Annual,Annual,DATE,,,en,1
+19th,19th,ORDINAL,,,en,1
+One Night Only”,One Night Only”,WORK_OF_ART,,,en,1
+October 17,October 17,DATE,,,en,1
+Oscar,Oscar,WORK_OF_ART,,,en,1
+Severance,Severance,WORK_OF_ART,,,en,1
+25%,25%,PERCENT,,,en,1
+And He Shared Why That 'Actual Magic Moment' Went So Viral,And He Shared Why That 'Actual Magic Moment' Went So Viral,WORK_OF_ART,,,en,1
+six or months,six or months,DATE,,,en,1
+Ennis @,Ennis @,PRODUCT,,,en,1
+37,37,DATE,,,en,1
+Got A Nut,Got A Nut,WORK_OF_ART,,,en,1
+Another Civil War,Another Civil War,EVENT,,,en,1
+quot;The Life of a Showgirl&quot,quot;The Life of a Showgirl&quot,WORK_OF_ART,,,en,1
+250th,250th,ORDINAL,,,en,1
+Hollywood Friendships Amid Her Marriage,Hollywood Friendships Amid Her Marriage,WORK_OF_ART,,,en,1
+The Life of a Showgirl.</li><li>Travis,The Life of a Showgirl.</li><li>Travis,WORK_OF_ART,,,en,1
+Book and Gave Jason Kelce’s Manhood a Shoutout,Book and Gave Jason Kelce’s Manhood a Shoutout,WORK_OF_ART,,,en,1
+What a Queen,What a Queen,WORK_OF_ART,,,en,1
+Six to Nine Months,Six to Nine Months,DATE,,,en,1
+Up All Night,Up All Night,WORK_OF_ART,,,en,1
+This past April,This past April,DATE,,,en,1
+Friendship,Friendship,EVENT,,,en,1
+We're Pregnant,We're Pregnant,WORK_OF_ART,,,en,1
+2025-10-16,2025-10-16,DATE,,,en,1
+Kelly-o,Kelly-o,WORK_OF_ART,,,en,1
+Kelly-oke,Kelly-oke,WORK_OF_ART,,,en,1
+season 27,season 27,DATE,,,en,1
+Tame Impala,Tame Impala,PRODUCT,,,en,1
+One Night Only',One Night Only',WORK_OF_ART,,,en,1
+Latest Assault On The Trump Administration Is One Of The Show's Most Shocking Episodes,Latest Assault On The Trump Administration Is One Of The Show's Most Shocking Episodes,EVENT,,,en,1
+Follow You Into the Dark’ With Death Cab for Cutie Cover,Follow You Into the Dark’ With Death Cab for Cutie Cover,WORK_OF_ART,,,en,1
+Scary,Scary,WORK_OF_ART,,,en,1
+diaristic,diaristic,NORP,,,en,1
+23%,23%,PERCENT,,,en,1
+Hate America,Hate America,WORK_OF_ART,,,en,1
++1609 chars,+1609 chars,WORK_OF_ART,,,en,1
+touchdown</li></ul,touchdown</li></ul,PRODUCT,,,en,1
+I Will Follow,I Will Follow,WORK_OF_ART,,,en,1
+Climate Pledge Arena,Climate Pledge Arena,PRODUCT,,,en,1
+5th straight year,5th straight year,DATE,,,en,1
 nearly 40,nearly 40,CARDINAL,,,en,1
 Out of Sight,Out of Sight,WORK_OF_ART,,,en,1
 a few dozen,a few dozen,CARDINAL,,,en,1
-Primetime,Primetime,WORK_OF_ART,,,en,1
-Indias,Indias,NORP,,,en,1
-"12,490 crore","12,490 crore",MONEY,,,en,1
-20 minutes,20 minutes,TIME,,,en,1
-Sunday afternoon,Sunday afternoon,TIME,,,en,1
-Sep 29,Sep 29,DATE,,,en,1
-endin,endin,DATE,,,en,1
-Nobel Prize in Literature to Hungarian,Nobel Prize in Literature to Hungarian,WORK_OF_ART,,,en,1
-Middle Eastern,Middle Eastern,NORP,,,en,1
-Actress,Actress,WORK_OF_ART,,,en,1
-Niger,Niger,NORP,,,en,1
-The Life Of A Showgirl,The Life Of A Showgirl,WORK_OF_ART,,,en,1
-New Zealands,New Zealands,NORP,,,en,1
-85,85,DATE,,,en,1
-the Order of Culture,the Order of Culture,WORK_OF_ART,,,en,1
-‘The View’,‘The View’,WORK_OF_ART,,,en,1
-only Tuesday,only Tuesday,DATE,,,en,1
-Sept. 29,Sept. 29,DATE,,,en,1
-Terrifying’ Film Festival Reveal,Terrifying’ Film Festival Reveal,WORK_OF_ART,,,en,1
-indians,indians,NORP,,,en,1
-the Year Hugh Jackson’s,the Year Hugh Jackson’s,DATE,,,en,1
-74,74,DATE,,,en,1
-"February 14, 2025","February 14, 2025",DATE,,,en,1
-indic,indic,WORK_OF_ART,,,en,1
-October 11,October 11,DATE,,,en,1
-Rs 3.4 lakh crore,Rs 3.4 lakh crore,MONEY,,,en,1
-Follow You Into the Dark’ With Death Cab for Cutie Cover,Follow You Into the Dark’ With Death Cab for Cutie Cover,WORK_OF_ART,,,en,1
-Scary,Scary,WORK_OF_ART,,,en,1
-Tame Impala,Tame Impala,PRODUCT,,,en,1
-Sunday Morning Futures,Sunday Morning Futures,WORK_OF_ART,,,en,1
-Gutfeld,Gutfeld,WORK_OF_ART,,,en,1
-+3241 chars,+3241 chars,WORK_OF_ART,,,en,1
-2025-10-16,2025-10-16,DATE,,,en,1
-Heeere’s Johnny,Heeere’s Johnny,WORK_OF_ART,,,en,1
-Kelly-o,Kelly-o,WORK_OF_ART,,,en,1
-a quarter century ago,a quarter century ago,DATE,,,en,1
-Charli xcx,Charli xcx,FAC,,,en,1
-Cherry Valley,Cherry Valley,WORK_OF_ART,0.3,0.5,en,1
-Kelly-oke,Kelly-oke,WORK_OF_ART,,,en,1
-his 40s,his 40s,DATE,,,en,1
-the Dallas Cowboys,the Dallas Cowboys,FAC,,,en,1
-the Albie Awards,the Albie Awards,EVENT,,,en,1
-2025-10-04,2025-10-04,DATE,,,en,1
-They Would Just Say I Was Crazy,They Would Just Say I Was Crazy,WORK_OF_ART,,,en,1
-You Lucky F-ckers,You Lucky F-ckers,WORK_OF_ART,,,en,1
-Always Dumped,Always Dumped,WORK_OF_ART,,,en,1
-The View Blasts JD Vance,The View Blasts JD Vance,WORK_OF_ART,,,en,1
-Nobel sur-Prize,Nobel sur-Prize,WORK_OF_ART,,,en,1
-10/04/2025 5:28:59 AM PDT,10/04/2025 5:28:59 AM PDT,TIME,,,en,1
-Work Is an Ongoing Portrait,Work Is an Ongoing Portrait,WORK_OF_ART,,,en,1
-September 22nd,September 22nd,DATE,,,en,1
-+2593 chars,+2593 chars,WORK_OF_ART,,,en,1
-2027,2027,DATE,,,en,1
-the Kia Forum,the Kia Forum,FAC,,,en,1
-every night,every night,TIME,,,en,1
-We're Pregnant,We're Pregnant,WORK_OF_ART,,,en,1
-Over Tonight Show,Over Tonight Show,TIME,,,en,1
-Ring for a Historic Trilogy Showdown on Most Valuable Promotions,Ring for a Historic Trilogy Showdown on Most Valuable Promotions,WORK_OF_ART,,,en,1
-Paris Fashion Week 2025,Paris Fashion Week 2025,EVENT,,,en,1
-+10065 chars,+10065 chars,WORK_OF_ART,,,en,1
-The Chain,The Chain,WORK_OF_ART,,,en,1
-quot;The Life of a Showgirl&quot,quot;The Life of a Showgirl&quot,WORK_OF_ART,,,en,1
-The Life of a Showgirl.</li><li>Travis,The Life of a Showgirl.</li><li>Travis,WORK_OF_ART,,,en,1
-Book and Gave Jason Kelce’s Manhood a Shoutout,Book and Gave Jason Kelce’s Manhood a Shoutout,WORK_OF_ART,,,en,1
-Princess Diana's,Princess Diana's,FAC,,,en,1
-first season,first season,DATE,,,en,1
-1947,1947,DATE,,,en,1
-37,37,DATE,,,en,1
-the Cold War,the Cold War,EVENT,,,en,1
-September 29,September 29,DATE,,,en,1
-At least three,At least three,CARDINAL,,,en,1
-+1280,+1280,NORP,,,en,1
-Chapel Hill,Chapel Hill,FAC,,,en,1
-1988,1988,DATE,,,en,1
-"October 9, 2025","October 9, 2025",DATE,,,en,1
-$468 million,$468 million,MONEY,,,en,1
-100 percent,100 percent,PERCENT,,,en,1
-Late-Night Meltdown,Late-Night Meltdown,TIME,,,en,1
-Song,Song,WORK_OF_ART,,,en,1
-The Right” For Government Shutdown,The Right” For Government Shutdown,WORK_OF_ART,,,en,1
-They’re Not Helping,They’re Not Helping,WORK_OF_ART,,,en,1
-This Week,This Week,DATE,,,en,1
-At least six,At least six,CARDINAL,,,en,1
-The Nobel Prizes,The Nobel Prizes,WORK_OF_ART,,,en,1
-"more than 2,500","more than 2,500",CARDINAL,,,en,1
-Sep,Sep,DATE,,,en,1
+the fifth consecutive year,the fifth consecutive year,DATE,,,en,1
+October 16,October 16,DATE,,,en,1
+December 20th,December 20th,DATE,,,en,1
+Iconic,Iconic,WORK_OF_ART,,,en,1
+Spice Girl,Spice Girl,PRODUCT,,,en,1
+just 11%,just 11%,PERCENT,,,en,1
+the Asia-Pacific Economic Cooperation (APEC,the Asia-Pacific Economic Cooperation (APEC,FAC,,,en,1
+32nd,32nd,ORDINAL,,,en,1
+late January 2026,late January 2026,DATE,,,en,1
++2370 chars,+2370 chars,WORK_OF_ART,,,en,1
+a single day,a single day,DATE,,,en,1
+Years Ago,Years Ago,DATE,,,en,1
++1696,+1696,NORP,,,en,1
+Next month,Next month,DATE,,,en,1
+Cutthroat Island,Cutthroat Island,WORK_OF_ART,,,en,1
+202513:40The,202513:40The,CARDINAL,,,en,1
+October 24,October 24,DATE,,,en,1
+The Katie Miller Podcast,The Katie Miller Podcast,WORK_OF_ART,,,en,1
+A Lot',A Lot',WORK_OF_ART,,,en,1
+an exhausting year and a half,an exhausting year and a half,DATE,,,en,1
+Was A Lot,Was A Lot,WORK_OF_ART,,,en,1
++4702,+4702,NORP,,,en,1
+Sout,Sout,NORP,,,en,1
+Waterworld,Waterworld,WORK_OF_ART,,,en,1
+Academy Museum Gala,Academy Museum Gala,FAC,,,en,1
+Takedown of a Political Movement',Takedown of a Political Movement',WORK_OF_ART,,,en,1
+Late Show',Late Show',WORK_OF_ART,,,en,1
+Trump wro,Trump wro,PRODUCT,,,en,1
+Almost a year,Almost a year,DATE,,,en,1
+Antisemitism Problem,Antisemitism Problem,WORK_OF_ART,,,en,1
+"January 6, 2021","January 6, 2021",DATE,,,en,1
+Takedown of a Political Movement,Takedown of a Political Movement,WORK_OF_ART,,,en,1
+Arctic Frost,Arctic Frost,WORK_OF_ART,,,en,1
+Arctic Frost',Arctic Frost',WORK_OF_ART,,,en,1
+Heaven's Gate,Heaven's Gate,WORK_OF_ART,,,en,1
++3445 chars,+3445 chars,WORK_OF_ART,,,en,1
+Late Monday nig,Late Monday nig,DATE,,,en,1
+Halloween,Halloween,DATE,,,en,1
+11/01/2025 3:17:31 PM PDT,11/01/2025 3:17:31 PM PDT,TIME,,,en,1
+Earlier today,Earlier today,TIME,,,en,1
+2003,2003,DATE,,,en,1
+Cold War,Cold War,EVENT,,,en,1
+The Tucker Carlson Show,The Tucker Carlson Show,WORK_OF_ART,,,en,1
+Made Me Sad,Made Me Sad,WORK_OF_ART,,,en,1
+"the ""Curb Your Enthusiasm","the ""Curb Your Enthusiasm",WORK_OF_ART,,,en,1
+"Wednesday, Aug 6","Wednesday, Aug 6",DATE,,,en,1
+Tulsi Virani,Tulsi Virani,PRODUCT,,,en,1
+Kyunki Saas,Kyunki Saas,WORK_OF_ART,,,en,1
 last week,last week,DATE,,,en,1
-sunny days,sunny days,DATE,,,en,1
-Lead Peacock Series,Lead Peacock Series,EVENT,,,en,1
-Beef,Beef,WORK_OF_ART,,,en,1
+October 21,October 21,DATE,,,en,1
 Erin Harkless,Erin Harkless,PRODUCT,,,en,1
-"Friday, June 21, 2019","Friday, June 21, 2019",DATE,,,en,1
 more than a decade,more than a decade,DATE,,,en,1
-Battle After Another’ Begins,Battle After Another’ Begins,WORK_OF_ART,,,en,1
-"January 15th, 2025","January 15th, 2025",DATE,,,en,1
-Seven,Seven,CARDINAL,,,en,1
 August 2020,August 2020,DATE,,,en,1
-the Oval Office,the Oval Office,FAC,,,en,1
-Mystery Meeting,Mystery Meeting,WORK_OF_ART,,,en,1
-The Abbey,The Abbey,FAC,,,en,1
-Thurs,Thurs,DATE,,,en,1
 "2025
 
 
@@ -804,1026 +1111,829 @@ Thurs,Thurs,DATE,,,en,1
 
 
  ",PERCENT,,,en,1
-Last night,Last night,TIME,,,en,1
-the Gaza war,the Gaza war,EVENT,,,en,1
-FIFA World Cup,FIFA World Cup,EVENT,,,en,1
-Oct. 10,Oct. 10,DATE,,,en,1
-Dirty Cop,Dirty Cop,WORK_OF_ART,,,en,1
-2025-09-26,2025-09-26,DATE,,,en,1
-11:51:13,11:51:13,PRODUCT,,,en,1
-Many Years,Many Years,DATE,,,en,1
-Childhood Dream Come True,Childhood Dream Come True,WORK_OF_ART,,,en,1
-mid-20th-century,mid-20th-century,DATE,,,en,1
-+2443 chars,+2443 chars,WORK_OF_ART,,,en,1
-Blue Carpet Countdown,Blue Carpet Countdown,PRODUCT,,,en,1
-Cool Berlin Mini Dress Proves Brown Is In For Fall,Cool Berlin Mini Dress Proves Brown Is In For Fall,WORK_OF_ART,,,en,1
-Kyunki Saas,Kyunki Saas,WORK_OF_ART,,,en,1
-Good Luck Babe,Good Luck Babe,WORK_OF_ART,,,en,1
-+25141 chars,+25141 chars,WORK_OF_ART,,,en,1
-fourth-quarter,fourth-quarter,DATE,,,en,1
-The Melancholy of Resistance and Satantango,The Melancholy of Resistance and Satantango,WORK_OF_ART,,,en,1
-69 seasons since,69 seasons since,DATE,,,en,1
-69th,69th,ORDINAL,,,en,1
-the Theatre du Chatelet,the Theatre du Chatelet,FAC,,,en,1
-+7775 chars,+7775 chars,WORK_OF_ART,,,en,1
-Just last weekend,Just last weekend,DATE,,,en,1
-Star Plus,Star Plus,FAC,,,en,1
-Satantango,Satantango,WORK_OF_ART,,,en,1
-… Ready For It?,… Ready For It?,WORK_OF_ART,,,en,1
-+3169,+3169,NORP,,,en,1
-Sunset Blvd,Sunset Blvd,WORK_OF_ART,,,en,1
-Old John’s Luncheonette,Old John’s Luncheonette,FAC,,,en,1
-the end of next year,the end of next year,DATE,,,en,1
-'Mob Boss','Mob Boss',WORK_OF_ART,,,en,1
-“The Melancholy of Resistance”,“The Melancholy of Resistance”,WORK_OF_ART,,,en,1
-Mob Boss,Mob Boss,WORK_OF_ART,,,en,1
-'Drink a Beer,'Drink a Beer,WORK_OF_ART,,,en,1
-Sept. 10,Sept. 10,DATE,,,en,1
-Soundtrack Through The Seasons Including Originals From Selena Gomez,Soundtrack Through The Seasons Including Originals From Selena Gomez,WORK_OF_ART,,,en,1
-the Industrial Revolution Teaches,the Industrial Revolution Teaches,EVENT,,,en,1
-Krasznahorkai,Krasznahorkai,NORP,,,en,1
-Tulsi Virani,Tulsi Virani,PRODUCT,,,en,1
-episode last week,episode last week,DATE,,,en,1
-six-day,six-day,DATE,,,en,1
-$70,$70,MONEY,,,en,1
-more than half,more than half,CARDINAL,,,en,1
-Capitol,Capitol,FAC,,,en,1
-26 days,26 days,DATE,,,en,1
-3 months,3 months,DATE,,,en,1
-Battle After Another tops,Battle After Another tops,WORK_OF_ART,,,en,1
-$22 million,$22 million,MONEY,,,en,1
-quitCBS News,quitCBS News,WORK_OF_ART,,,en,1
-2500,2500,CARDINAL,,,en,1
-August 18th,August 18th,DATE,,,en,1
-Mar-a-Lago,Mar-a-Lago,DATE,,,en,1
-Little Kids' Are Out There Watching The Very R-Rated Wolf Of Wall Street,Little Kids' Are Out There Watching The Very R-Rated Wolf Of Wall Street,WORK_OF_ART,,,en,1
-over $55,over $55,MONEY,,,en,1
-Story Has Me Shook,Story Has Me Shook,WORK_OF_ART,,,en,1
-Titanic,Titanic,EVENT,,,en,1
-Revenant,Revenant,PRODUCT,,,en,1
-2600,2600,CARDINAL,,,en,1
-significantl,significantl,NORP,,,en,1
-over $550 million USD,over $550 million USD,MONEY,,,en,1
-September 28,September 28,DATE,,,en,1
-09/29/2025 7:22:21 AM PDT,09/29/2025 7:22:21 AM PDT,TIME,,,en,1
-"More than 2,500","More than 2,500",CARDINAL,,,en,1
-+1546 chars,+1546 chars,WORK_OF_ART,,,en,1
-Getaway Weekend,Getaway Weekend,DATE,,,en,1
-00:03:49'McIlroy,00:03:49'McIlroy,DATE,,,en,1
-Board of Peace,Board of Peace,EVENT,,,en,1
-3.14159,3.14159,CARDINAL,,,en,1
-+4731,+4731,NORP,,,en,1
-YouTube,YouTube,PRODUCT,,,en,1
-Facebook,Facebook,WORK_OF_ART,,,en,1
-January 6th,January 6th,DATE,,,en,1
-earlier this year,earlier this year,DATE,,,en,1
-65,65,CARDINAL,,,en,1
-"Saturday, October 18","Saturday, October 18",DATE,,,en,1
-just three days earlier,just three days earlier,DATE,,,en,1
+The Ka…,The Ka…,WORK_OF_ART,,,en,1
+the Leagues Cup 2025,the Leagues Cup 2025,EVENT,,,en,1
+2025 Leagues Cup,2025 Leagues Cup,EVENT,,,en,1
+84,84,DATE,,,en,1
+Tomb Raider,Tomb Raider,WORK_OF_ART,,,en,1
+1957,1957,DATE,,,en,1
+the Twenty-First Century,the Twenty-First Century,DATE,,,en,1
 How Can a Country That Blocks the Nobel Website Hope,How Can a Country That Blocks the Nobel Website Hope,WORK_OF_ART,,,en,1
-the Intuit Dome,the Intuit Dome,FAC,,,en,1
-this weeks,this weeks,DATE,,,en,1
-their thirties,their thirties,DATE,,,en,1
-twenty years,twenty years,DATE,,,en,1
-the Eiffel Tower,the Eiffel Tower,FAC,,,en,1
-decade,decade,DATE,,,en,1
-two days later,two days later,DATE,,,en,1
-“The Smashing Machine’s,“The Smashing Machine’s,WORK_OF_ART,,,en,1
-Japans,Japans,NORP,,,en,1
-Thursdays,Thursdays,DATE,,,en,1
-one week,one week,DATE,,,en,1
-The Emptiness of Kamala Harris,The Emptiness of Kamala Harris,WORK_OF_ART,,,en,1
-Real Time,Real Time,WORK_OF_ART,,,en,1
-25%,25%,PERCENT,,,en,1
-45,45,DATE,,,en,1
-September 26,September 26,DATE,,,en,1
-A day,A day,DATE,,,en,1
-+8352 chars,+8352 chars,WORK_OF_ART,,,en,1
-900,900,MONEY,,,en,1
-over $450 million,over $450 million,MONEY,,,en,1
-09/26/2025 6:24:52 PM PDT,09/26/2025 6:24:52 PM PDT,TIME,,,en,1
-25th,25th,ORDINAL,,,en,1
-Every two weeks,Every two weeks,DATE,,,en,1
-Ear,Ear,PRODUCT,,,en,1
-"Friday, September 26","Friday, September 26",DATE,,,en,1
-2021,2021,DATE,,,en,1
-This years Nobel Prize,This years Nobel Prize,TIME,,,en,1
-"The Gate… Diella, Albanias new AI","The Gate… Diella, Albanias new AI",FAC,,,en,1
-years end,years end,DATE,,,en,1
-Mar,Mar,WORK_OF_ART,,,en,1
-Nobel Prize Winners,Nobel Prize Winners,WORK_OF_ART,,,en,1
-Lago,Lago,PRODUCT,,,en,1
-12 million barrels,12 million barrels,QUANTITY,,,en,1
-'The View' Co-Host Slammed For 'Encouraging' Super Bowl Attendees,'The View' Co-Host Slammed For 'Encouraging' Super Bowl Attendees,WORK_OF_ART,,,en,1
-Hispanic,Hispanic,NORP,,,en,1
-a year,a year,DATE,,,en,1
-Nobel Prize in Economic SciencesNorthwestern,Nobel Prize in Economic SciencesNorthwestern,WORK_OF_ART,,,en,1
-Norwegian,Norwegian,NORP,,,en,1
-Oct. 6,Oct. 6,DATE,,,en,1
-last Friday,last Friday,DATE,,,en,1
-+3041 chars,+3041 chars,WORK_OF_ART,,,en,1
-Nobel Prize in Chemistry 2025,Nobel Prize in Chemistry 2025,WORK_OF_ART,,,en,1
+the Industrial Revolution Teaches,the Industrial Revolution Teaches,EVENT,,,en,1
+Climate Injustice:,Climate Injustice:,WORK_OF_ART,,,en,1
+South Africas,South Africas,NORP,,,en,1
+Soundtrack Through The Seasons Including Originals From Selena Gomez,Soundtrack Through The Seasons Including Originals From Selena Gomez,WORK_OF_ART,,,en,1
+"Tuesday, October 28","Tuesday, October 28",DATE,,,en,1
+1 Year,1 Year,DATE,,,en,1
+The Katie Miller…,The Katie Miller…,WORK_OF_ART,,,en,1
+fourth-quarter,fourth-quarter,DATE,,,en,1
+Just last weekend,Just last weekend,DATE,,,en,1
+2002,2002,DATE,,,en,1
+Winter Games,Winter Games,EVENT,,,en,1
+the 2028 Olympic Games,the 2028 Olympic Games,EVENT,,,en,1
+44th,44th,ORDINAL,,,en,1
+Blowing out the … [+2827 chars,Blowing out the … [+2827 chars,WORK_OF_ART,,,en,1
+Star Plus,Star Plus,FAC,,,en,1
+… Ready For It?,… Ready For It?,WORK_OF_ART,,,en,1
+Good Luck Babe,Good Luck Babe,WORK_OF_ART,,,en,1
+Sunset Blvd,Sunset Blvd,WORK_OF_ART,,,en,1
+South African,South African,NORP,,,en,1
+his 40s,his 40s,DATE,,,en,1
+Hailey Gate,Hailey Gate,FAC,,,en,1
+this December,this December,DATE,,,en,1
 Every year,Every year,DATE,,,en,1
-The Nobel Prize in Chemistry 2025,The Nobel Prize in Chemistry 2025,WORK_OF_ART,,,en,1
-The 2025 Nobel Prize in Chemistry,The 2025 Nobel Prize in Chemistry,WORK_OF_ART,,,en,1
-9:30 AM,9:30 AM,TIME,,,en,1
-nine months ago,nine months ago,DATE,,,en,1
-2025 Nobel Prize in Chemistry,2025 Nobel Prize in Chemistry,WORK_OF_ART,,,en,1
-12 mi,12 mi,QUANTITY,,,en,1
-Industrial Revolution to,Industrial Revolution to,EVENT,,,en,1
-Economics Nobel,Economics Nobel,EVENT,,,en,1
-48 Hours,48 Hours,TIME,,,en,1
-50 years,50 years,DATE,,,en,1
-Japanese Nobel,Japanese Nobel,EVENT,,,en,1
-Japans second Nobel,Japans second Nobel,EVENT,,,en,1
-MAGAttes,MAGAttes,NORP,,,en,1
-Win Nobel Prize for Showing ‘Bizarre’ Workings of Quantum World,Win Nobel Prize for Showing ‘Bizarre’ Workings of Quantum World,WORK_OF_ART,,,en,1
-A Simple Mistake',A Simple Mistake',WORK_OF_ART,,,en,1
-| RSS,| RSS,TIME,,,en,1
-as Peace Prize,as Peace Prize,WORK_OF_ART,,,en,1
-2025 Nobel Prize in Physics,2025 Nobel Prize in Physics,WORK_OF_ART,,,en,1
-the 100th anniversary year,the 100th anniversary year,DATE,,,en,1
-the season,the season,DATE,,,en,1
-FRENCH,FRENCH,NORP,,,en,1
-Nobel Prize in Physics 2025,Nobel Prize in Physics 2025,WORK_OF_ART,,,en,1
 $5 to $6 million,$5 to $6 million,MONEY,,,en,1
-"… Oct 07, 2025","… Oct 07, 2025",DATE,,,en,1
 three days,three days,DATE,,,en,1
 "19,532","19,532",CARDINAL,,,en,1
-the AI revolution,the AI revolution,EVENT,,,en,1
 the 2025 Nobel Peace Prize,the 2025 Nobel Peace Prize,WORK_OF_ART,,,en,1
-Dream of a lifetime,Dream of a lifetime,WORK_OF_ART,,,en,1
-+2780,+2780,NORP,,,en,1
-early Monday,early Monday,DATE,,,en,1
-this years Nobel Memorial Prize,this years Nobel Memorial Prize,TIME,,,en,1
-the Nobel memorial prize in economics for work on ‘creative destruction’,the Nobel memorial prize in economics for work on ‘creative destruction’,WORK_OF_ART,,,en,1
-Is An Emergency,Is An Emergency,WORK_OF_ART,,,en,1
-October 07th,October 07th,DATE,,,en,1
-48 hours,48 hours,TIME,,,en,1
+| RSS,| RSS,TIME,,,en,1
 1901,1901,DATE,,,en,1
-39%,39%,PERCENT,,,en,1
-Nobel Prize in Physics Is Awarded for Work in Quantum Mechanics (New York Times,Nobel Prize in Physics Is Awarded for Work in Quantum Mechanics (New York Times,WORK_OF_ART,,,en,1
 annually,annually,DATE,,,en,1
-40 years ago,40 years ago,DATE,,,en,1
-40 year,40 year,DATE,,,en,1
-the Pont de l'Alma bridge,the Pont de l'Alma bridge,FAC,,,en,1
-Rage and Anger',Rage and Anger',WORK_OF_ART,,,en,1
-rese,rese,LANGUAGE,,,en,1
-"150,000","150,000",MONEY,,,en,1
-Wednesday evening,Wednesday evening,TIME,,,en,1
+Nobel Prize Winners,Nobel Prize Winners,WORK_OF_ART,,,en,1
+as Peace Prize,as Peace Prize,WORK_OF_ART,,,en,1
+Nobel Prize in Economic SciencesNorthwestern,Nobel Prize in Economic SciencesNorthwestern,WORK_OF_ART,,,en,1
++3041 chars,+3041 chars,WORK_OF_ART,,,en,1
+Norwegian,Norwegian,NORP,,,en,1
+last Friday,last Friday,DATE,,,en,1
+"250,000","250,000",MONEY,,,en,1
+last night,last night,TIME,,,en,1
+En,En,WORK_OF_ART,,,en,1
+the season,the season,DATE,,,en,1
+Trumps Compact for Academic Excellence in Higher Education,Trumps Compact for Academic Excellence in Higher Education,LAW,,,en,1
+They Would Just Say I Was Crazy,They Would Just Say I Was Crazy,WORK_OF_ART,,,en,1
+more than a minute,more than a minute,TIME,,,en,1
+Har… Qatari,Har… Qatari,NORP,,,en,1
++3652,+3652,NORP,,,en,1
+Slamming Her Husband RFK Jr.,Slamming Her Husband RFK Jr.,WORK_OF_ART,,,en,1
+Radical Optimism’ Tour,Radical Optimism’ Tour,WORK_OF_ART,,,en,1
+64,64,CARDINAL,,,en,1
+Adani,Adani,NORP,,,en,1
+Victoria&apos;s,Victoria&apos;s,CARDINAL,,,en,1
+the Mad Cool Festival 2024,the Mad Cool Festival 2024,EVENT,,,en,1
+a couple of weeks,a couple of weeks,DATE,,,en,1
+April 2022,April 2022,DATE,,,en,1
+Fan of the Duolingo Owl,Fan of the Duolingo Owl,WORK_OF_ART,,,en,1
+JoBlo,JoBlo,PRODUCT,,,en,1
+November 5,November 5,DATE,,,en,1
+Nov. 5,Nov. 5,DATE,,,en,1
+A Nobel Prize,A Nobel Prize,WORK_OF_ART,,,en,1
+Mexican,Mexican,NORP,,,en,1
+every single day,every single day,DATE,,,en,1
+nine months ago,nine months ago,DATE,,,en,1
+The year is 2010,The year is 2010,DATE,,,en,1
+236,236,CARDINAL,,,en,1
+these Nobel Prize,these Nobel Prize,WORK_OF_ART,,,en,1
+Nobel Prize Winners Miss the Call of a Lifetime,Nobel Prize Winners Miss the Call of a Lifetime,WORK_OF_ART,,,en,1
+The Nobel Memorial Prize in Economic Sciences,The Nobel Memorial Prize in Economic Sciences,WORK_OF_ART,,,en,1
+Celebrating Innovation:,Celebrating Innovation:,WORK_OF_ART,,,en,1
 Howitt The Nobel Memorial Prize in Economic Sciences,Howitt The Nobel Memorial Prize in Economic Sciences,WORK_OF_ART,,,en,1
-3minutesThe,3minutesThe,CARDINAL,,,en,1
-The Girlfriend’ Tops 25 Million Viewers Worldwide On Prime Video,The Girlfriend’ Tops 25 Million Viewers Worldwide On Prime Video,WORK_OF_ART,,,en,1
 Celebrating Innovation: Nobel Prize in Economics Awarded,Celebrating Innovation: Nobel Prize in Economics Awarded,WORK_OF_ART,,,en,1
 Nobel Memorial Prize in Economic Sciences,Nobel Memorial Prize in Economic Sciences,WORK_OF_ART,,,en,1
-Jan. 5,Jan. 5,DATE,,,en,1
-"Nobel Prize in Chemistry
-","Nobel Prize in Chemistry
-",WORK_OF_ART,,,en,1
-The View’ Co-Host is Pregnant With Baby,The View’ Co-Host is Pregnant With Baby,WORK_OF_ART,,,en,1
-two-year,two-year,DATE,,,en,1
-2008s,2008s,CARDINAL,,,en,1
-years later,years later,DATE,,,en,1
 Peacekeepers of the Immune System,Peacekeepers of the Immune System,WORK_OF_ART,,,en,1
-Nobel Chemistry Prize,Nobel Chemistry Prize,WORK_OF_ART,,,en,1
-+1200 chars,+1200 chars,WORK_OF_ART,,,en,1
+"""Toy Story 3","""Toy Story 3",WORK_OF_ART,,,en,1
 Sa,Sa,FAC,,,en,1
-Wednesday morning,Wednesday morning,TIME,,,en,1
-+1241,+1241,CARDINAL,,,en,1
+2025-08,2025-08,DATE,,,en,1
 San Francisco Show - rollingstone.com,San Francisco Show - rollingstone.com,EVENT,,,en,1
-1856-1940,1856-1940,DATE,,,en,1
-Saudi Arabian,Saudi Arabian,NORP,,,en,1
+Yacht With Their Kids Sans Brooklyn,Yacht With Their Kids Sans Brooklyn,LAW,,,en,1
 the Earthshot Prize,the Earthshot Prize,WORK_OF_ART,,,en,1
-125 million,125 million,CARDINAL,,,en,1
-"Saturday, Oct. 4, 2025","Saturday, Oct. 4, 2025",DATE,,,en,1
 Nobel prize before his morning coffee or walking his dog,Nobel prize before his morning coffee or walking his dog,WORK_OF_ART,,,en,1
-1906,1906,DATE,,,en,1
-Celebrating Innovation:,Celebrating Innovation:,WORK_OF_ART,,,en,1
-The Nobel Memorial Prize in Economic Sciences,The Nobel Memorial Prize in Economic Sciences,WORK_OF_ART,,,en,1
-Oct 8).The,Oct 8).The,DATE,,,en,1
-1.04bn,1.04bn,MONEY,,,en,1
+abo… Victoria,abo… Victoria,NORP,,,en,1
+This past weekend,This past weekend,DATE,,,en,1
+The Inside Story of How the Beckham Family Has Been Ripped Apart Amid Accusations,The Inside Story of How the Beckham Family Has Been Ripped Apart Amid Accusations,WORK_OF_ART,,,en,1
+Nobel prizeThe Nobel,Nobel prizeThe Nobel,WORK_OF_ART,,,en,1
+Round 5,Round 5,WORK_OF_ART,,,en,1
+Inception,Inception,WORK_OF_ART,,,en,1
+the Pont de l'Alma bridge,the Pont de l'Alma bridge,FAC,,,en,1
+the 2025 Nobel Prize in Physics for the discovery,the 2025 Nobel Prize in Physics for the discovery,WORK_OF_ART,,,en,1
+Rage and Anger',Rage and Anger',WORK_OF_ART,,,en,1
 the Nobel Peace Prize Venezuela's,the Nobel Peace Prize Venezuela's,WORK_OF_ART,,,en,1
 the Nobel Memorial Prize in Economic Sciences to Northwestern University,the Nobel Memorial Prize in Economic Sciences to Northwestern University,WORK_OF_ART,,,en,1
 Nobel Winners for Economics Explained How Innovation Makes Us Rich,Nobel Winners for Economics Explained How Innovation Makes Us Rich,WORK_OF_ART,,,en,1
-Nobel Chemistry prize,Nobel Chemistry prize,WORK_OF_ART,,,en,1
-the 2025 Nobel Prize in Chemistry &quot;for,the 2025 Nobel Prize in Chemistry &quot;for,WORK_OF_ART,,,en,1
 Year,Year,DATE,,,en,1
-The more than a century-old,The more than a century-old,DATE,,,en,1
-"over $4,000","over $4,000",MONEY,,,en,1
-+1946 chars,+1946 chars,WORK_OF_ART,,,en,1
-the Industrial Revolution,the Industrial Revolution,EVENT,,,en,1
-1.4bn,1.4bn,MONEY,,,en,1
 early in the morning,early in the morning,TIME,,,en,1
-£177m,£177m,MONEY,,,en,1
-Nobel Prize Winners Miss the Call of a Lifetime,Nobel Prize Winners Miss the Call of a Lifetime,WORK_OF_ART,,,en,1
 ‘Dream of a lifetime,‘Dream of a lifetime,WORK_OF_ART,,,en,1
 "Megan Thee Stallion
 ","Megan Thee Stallion
 ",WORK_OF_ART,,,en,1
 Mental Health Champion of The Year,Mental Health Champion of The Year,WORK_OF_ART,,,en,1
 Prince Harry 'Hurt',Prince Harry 'Hurt',WORK_OF_ART,,,en,1
-Clean Up the Environment,Clean Up the Environment,LAW,,,en,1
-Nobel prizeThe Nobel,Nobel prizeThe Nobel,WORK_OF_ART,,,en,1
-the Nobel Prize for Physics,the Nobel Prize for Physics,WORK_OF_ART,,,en,1
-This past weekend,This past weekend,DATE,,,en,1
-October 7,October 7,DATE,,,en,1
-Amazon Animated Series,Amazon Animated Series,EVENT,,,en,1
-these Nobel Prize,these Nobel Prize,WORK_OF_ART,,,en,1
-+2596 chars,+2596 chars,WORK_OF_ART,,,en,1
-Nobel Prize in Physics Goes to Researchers Who Brought Quantum Mechanics,Nobel Prize in Physics Goes to Researchers Who Brought Quantum Mechanics,WORK_OF_ART,,,en,1
-Trumps Compact for Academic Excellence in Higher Education,Trumps Compact for Academic Excellence in Higher Education,LAW,,,en,1
-Constitution,Constitution,LAW,,,en,1
-At Least He Didn’t Call Me To Finish Too Soon,At Least He Didn’t Call Me To Finish Too Soon,WORK_OF_ART,,,en,1
-Decades later,Decades later,DATE,,,en,1
-Nobel Prize for Physiology or Medicine,Nobel Prize for Physiology or Medicine,WORK_OF_ART,,,en,1
-nobel prize,nobel prize,WORK_OF_ART,,,en,1
-Nobel Prize in Physiology or Medicine Awarded for Discoveries Key to Treating Autoimmune Disease,Nobel Prize in Physiology or Medicine Awarded for Discoveries Key to Treating Autoimmune Disease,WORK_OF_ART,,,en,1
-Dolphins,Dolphins,PRODUCT,,,en,1
-1989,1989,DATE,,,en,1
-Nobel prize in medicine,Nobel prize in medicine,WORK_OF_ART,,,en,1
-'The View,'The View,WORK_OF_ART,,,en,1
-Pentagon,Pentagon,FAC,,,en,1
-Gestapo,Gestapo,NORP,,,en,1
-‘The View’ Sunny Hostin,‘The View’ Sunny Hostin,WORK_OF_ART,,,en,1
-Hot Topics,Hot Topics,EVENT,,,en,1
-The Read Optional,The Read Optional,WORK_OF_ART,,,en,1
-October 01,October 01,DATE,,,en,1
-1999,1999,DATE,,,en,1
-+2414 chars,+2414 chars,WORK_OF_ART,,,en,1
-The Nobel Prize,The Nobel Prize,WORK_OF_ART,,,en,1
-Win Nobel Prize,Win Nobel Prize,WORK_OF_ART,,,en,1
-December,December,DATE,,,en,1
-Five,Five,CARDINAL,,,en,1
-the 2025 Nobel Prize in Physiology or Medicine for their discoveries,the 2025 Nobel Prize in Physiology or Medicine for their discoveries,WORK_OF_ART,,,en,1
-Modi,Modi,WORK_OF_ART,0.0,0.0,en,1
-2-3,2-3,CARDINAL,,,en,1
-Nobel Prize in Medicine:,Nobel Prize in Medicine:,WORK_OF_ART,,,en,1
-the Nobel Prize in Medicine,the Nobel Prize in Medicine,WORK_OF_ART,,,en,1
-Nobel Prize in Economic Sciences 2025,Nobel Prize in Economic Sciences 2025,WORK_OF_ART,,,en,1
-+5534,+5534,NORP,,,en,1
-Survivor’ Themed Spot,Survivor’ Themed Spot,WORK_OF_ART,,,en,1
-1995,1995,DATE,,,en,1
-two years and two days,two years and two days,DATE,,,en,1
-2026 runway,2026 runway,EVENT,,,en,1
-the Valentino spring 2026,the Valentino spring 2026,EVENT,,,en,1
++1634 chars,+1634 chars,WORK_OF_ART,,,en,1
++5268 chars,+5268 chars,WORK_OF_ART,,,en,1
+a quarter,a quarter,CARDINAL,,,en,1
+Answer For Her Husband,Answer For Her Husband,WORK_OF_ART,,,en,1
+He Has Spread A Lot Of Disinformation”,He Has Spread A Lot Of Disinformation”,WORK_OF_ART,,,en,1
+ten,ten,CARDINAL,,,en,1
+Song,Song,WORK_OF_ART,,,en,1
+billions of dollars,billions of dollars,MONEY,,,en,1
+Golden Dome,Golden Dome,WORK_OF_ART,,,en,1
+Humbling,Humbling,WORK_OF_ART,,,en,1
++4731,+4731,NORP,,,en,1
 this season,this season,DATE,,,en,1
 $945 million,$945 million,MONEY,,,en,1
-'Running a Dictatorship' During Live Show After Interrupting,'Running a Dictatorship' During Live Show After Interrupting,WORK_OF_ART,,,en,1
-ten,ten,CARDINAL,,,en,1
-Monday morning,Monday morning,TIME,,,en,1
-The Life of a Showgirlwas,The Life of a Showgirlwas,WORK_OF_ART,,,en,1
+Ennis Fight Announcement,Ennis Fight Announcement,WORK_OF_ART,,,en,1
+VS,VS,NORP,,,en,1
+less than an hour,less than an hour,TIME,,,en,1
 Puerto Rican,Puerto Rican,NORP,,,en,1
-Nobel Prize in Literature 2025,Nobel Prize in Literature 2025,WORK_OF_ART,,,en,1
-+5749 chars,+5749 chars,WORK_OF_ART,,,en,1
-only 26 days,only 26 days,DATE,,,en,1
-season three,season three,DATE,,,en,1
-130,130,CARDINAL,,,en,1
-more than 500,more than 500,CARDINAL,,,en,1
-+1574,+1574,NORP,,,en,1
-Nobel Prize in Physiology or Medicine 2025,Nobel Prize in Physiology or Medicine 2025,WORK_OF_ART,,,en,1
-The Nobel Prize in Physiology or Medicine 2025,The Nobel Prize in Physiology or Medicine 2025,WORK_OF_ART,,,en,1
-October 1947,October 1947,DATE,,,en,1
+| |,| |,DATE,,,en,1
+Secret Fashion Show Livestream,Secret Fashion Show Livestream,WORK_OF_ART,,,en,1
+Survivor’ Themed Spot,Survivor’ Themed Spot,WORK_OF_ART,,,en,1
 Season 45,Season 45,DATE,,,en,1
-McCarthy-era,McCarthy-era,DATE,,,en,1
-the next few hours,the next few hours,TIME,,,en,1
-"December 10, 2025","December 10, 2025",DATE,,,en,1
-Sunday season,Sunday season,DATE,,,en,1
-a chaotic week,a chaotic week,DATE,,,en,1
-the Nobel Prize in Physiology or Medicine,the Nobel Prize in Physiology or Medicine,WORK_OF_ART,,,en,1
-more than 3-1/2,more than 3-1/2,CARDINAL,,,en,1
-the Nobel Awards of 2025,the Nobel Awards of 2025,WORK_OF_ART,,,en,1
-2025-10-07,2025-10-07,DATE,,,en,1
-Saturday Night Liveto,Saturday Night Liveto,TIME,,,en,1
-Adani,Adani,NORP,,,en,1
-more than a minute,more than a minute,TIME,,,en,1
-the Mad Cool Festival 2024,the Mad Cool Festival 2024,EVENT,,,en,1
-7:10,7:10,TIME,,,en,1
-Fan of the Duolingo Owl,Fan of the Duolingo Owl,WORK_OF_ART,,,en,1
-the beginning of September,the beginning of September,DATE,,,en,1
-10/06/2025,10/06/2025,MONEY,,,en,1
-London Film Festival Opening Night,London Film Festival Opening Night,EVENT,,,en,1
-10/06/2025 6:40:45 PM PDT,10/06/2025 6:40:45 PM PDT,TIME,,,en,1
-Conservatives,Conservatives,NORP,,,en,1
-November 5,November 5,DATE,,,en,1
-It Is An Emergency”,It Is An Emergency”,WORK_OF_ART,,,en,1
-Nov. 5,Nov. 5,DATE,,,en,1
-Small Gesture Signals a New Level of Openness,Small Gesture Signals a New Level of Openness,WORK_OF_ART,,,en,1
-Nobel Prize in Physics Awarded,Nobel Prize in Physics Awarded,WORK_OF_ART,,,en,1
-A Nobel Prize,A Nobel Prize,WORK_OF_ART,,,en,1
-The Nobel Prize in Physics 2025,The Nobel Prize in Physics 2025,WORK_OF_ART,,,en,1
-sca,sca,PRODUCT,,,en,1
-Last year,Last year,DATE,,,en,1
-+4266 chars,+4266 chars,WORK_OF_ART,,,en,1
-+1069,+1069,NORP,,,en,1
-Mexican,Mexican,NORP,,,en,1
-the Nobel Prize in Physics 2025,the Nobel Prize in Physics 2025,WORK_OF_ART,,,en,1
-the 2025 Nobel Prize in Physics for the discovery,the 2025 Nobel Prize in Physics for the discovery,WORK_OF_ART,,,en,1
-a couple of weeks,a couple of weeks,DATE,,,en,1
-Oct 7,Oct 7,DATE,,,en,1
-Radical Optimism’ Tour,Radical Optimism’ Tour,WORK_OF_ART,,,en,1
-10/06/2025 2:46:56 PM PDT,10/06/2025 2:46:56 PM PDT,TIME,,,en,1
-Two months,Two months,DATE,,,en,1
-October 6,October 6,DATE,,,en,1
-almost a quarter,almost a quarter,CARDINAL,,,en,1
-Share Nobel in Economics for Work on How Technology Drives Growth,Share Nobel in Economics for Work on How Technology Drives Growth,WORK_OF_ART,,,en,1
-first-half,first-half,DATE,,,en,1
-"July 8, 2025","July 8, 2025",DATE,,,en,1
-Polish,Polish,NORP,,,en,1
-"1,000","1,000",CARDINAL,,,en,1
-Curb Your Enthusiasm,Curb Your Enthusiasm,WORK_OF_ART,,,en,1
-October 14,October 14,DATE,,,en,1
-"Thursday, October 2","Thursday, October 2",DATE,,,en,1
-+3340 chars,+3340 chars,WORK_OF_ART,,,en,1
-2025-10-13,2025-10-13,DATE,,,en,1
-Eleftherios Venizelos International Airport,Eleftherios Venizelos International Airport,FAC,,,en,1
+Arabs,Arabs,NORP,,,en,1
+Ring for a Historic Trilogy Showdown on Most Valuable Promotions,Ring for a Historic Trilogy Showdown on Most Valuable Promotions,WORK_OF_ART,,,en,1
+four years,four years,DATE,,,en,1
+Q2,Q2,CARDINAL,,,en,1
+second quarter,second quarter,DATE,,,en,1
+Always Dumped,Always Dumped,WORK_OF_ART,,,en,1
+The View Blasts JD Vance,The View Blasts JD Vance,WORK_OF_ART,,,en,1
+April,April,DATE,,,en,1
+Comedian,Comedian,PRODUCT,,,en,1
+Lesbian,Lesbian,NORP,,,en,1
+Victorias Secret Fashion Show,Victorias Secret Fashion Show,EVENT,,,en,1
++2002 chars,+2002 chars,WORK_OF_ART,,,en,1
+Oct. 15,Oct. 15,DATE,,,en,1
+Victoria's Secret Fashion Show,Victoria's Secret Fashion Show,EVENT,,,en,1
+the “Breaking Bread With Tom Papa” podc…,the “Breaking Bread With Tom Papa” podc…,WORK_OF_ART,,,en,1
+"Tuesday, October 14","Tuesday, October 14",DATE,,,en,1
+just five weeks,just five weeks,DATE,,,en,1
+'Step Away','Step Away',WORK_OF_ART,,,en,1
+the regular season,the regular season,DATE,,,en,1
+Work Is an Ongoing Portrait,Work Is an Ongoing Portrait,WORK_OF_ART,,,en,1
+October 01,October 01,DATE,,,en,1
+Secret runway,Secret runway,FAC,,,en,1
+Aug. 9,Aug. 9,DATE,,,en,1
+Pledge To Wear MAGA Hat,Pledge To Wear MAGA Hat,WORK_OF_ART,,,en,1
+Tylenol,Tylenol,PRODUCT,,,en,1
 22nd-minute,22nd-minute,TIME,,,en,1
-Oct. 6th,Oct. 6th,DATE,,,en,1
 World Cup Qualification,World Cup Qualification,EVENT,,,en,1
 Queen in Waiting',Queen in Waiting',WORK_OF_ART,,,en,1
 'Queen in Waiting','Queen in Waiting',WORK_OF_ART,,,en,1
-the Nobel Memorial Prize,the Nobel Memorial Prize,WORK_OF_ART,,,en,1
 Years,Years,DATE,,,en,1
 The View's Hot Topics,The View's Hot Topics,FAC,,,en,1
-161,161,CARDINAL,,,en,1
-The Nobel Prize in Economics 2025,The Nobel Prize in Economics 2025,WORK_OF_ART,,,en,1
-160,160,CARDINAL,,,en,1
-Pledge To Wear MAGA Hat,Pledge To Wear MAGA Hat,WORK_OF_ART,,,en,1
-NYC street corner co-,NYC street corner co-,FAC,,,en,1
-1984,1984,DATE,,,en,1
-"4,100","4,100",CARDINAL,,,en,1
-the Jacob K. Javitz Federal Building,the Jacob K. Javitz Federal Building,FAC,,,en,1
-A Used Empty Beer,A Used Empty Beer,WORK_OF_ART,,,en,1
-"Friday, Aug. 15","Friday, Aug. 15",DATE,,,en,1
-NewsNight,NewsNight,PRODUCT,,,en,1
-its fourth year,its fourth year,DATE,,,en,1
-Putin,Putin,NORP,0.0,0.0,en,1
-seven-year,seven-year,DATE,,,en,1
-$7.7 Billion,$7.7 Billion,MONEY,,,en,1
-Real Housewives of Orange County,Real Housewives of Orange County,WORK_OF_ART,,,en,1
-Botched Presents: Plastic Surgery Rewind,Botched Presents: Plastic Surgery Rewind,WORK_OF_ART,,,en,1
-The Life,The Life,WORK_OF_ART,,,en,1
-one year,one year,DATE,,,en,1
-Life of a Showgirl,Life of a Showgirl,WORK_OF_ART,,,en,1
-Paltro,Paltro,WORK_OF_ART,,,en,1
-48,48,DATE,,,en,1
-+3038 chars,+3038 chars,WORK_OF_ART,,,en,1
-National Mall,National Mall,FAC,,,en,1
-Aug. 2,Aug. 2,DATE,,,en,1
-1985,1985,DATE,,,en,1
-season two,season two,DATE,,,en,1
-2:1,2:1,CARDINAL,,,en,1
-tons,tons,QUANTITY,,,en,1
-His GQ Cover Shoot,His GQ Cover Shoot,WORK_OF_ART,,,en,1
-Pirates of the Carib,Pirates of the Carib,WORK_OF_ART,,,en,1
-"The Devil Wears Prada 2""","The Devil Wears Prada 2""",WORK_OF_ART,,,en,1
-The Devil Wears Prada 2’ Flat Shoe Club,The Devil Wears Prada 2’ Flat Shoe Club,WORK_OF_ART,,,en,1
-alpha male”,alpha male”,WORK_OF_ART,,,en,1
-Alpha Male’ Act Falls Apart Around Putin,Alpha Male’ Act Falls Apart Around Putin,WORK_OF_ART,,,en,1
-Friend Is Coming in Hot to the Great Beckham Beef,Friend Is Coming in Hot to the Great Beckham Beef,WORK_OF_ART,,,en,1
-16,16,CARDINAL,,,en,1
-Wembley Stadium,Wembley Stadium,FAC,,,en,1
-October 11th,October 11th,DATE,,,en,1
-154,154,CARDINAL,,,en,1
-Girls Day,Girls Day,DATE,,,en,1
-Road House,Road House,WORK_OF_ART,,,en,1
-Friend Blasts,Friend Blasts,WORK_OF_ART,,,en,1
-Case You’re Not an Expert on Taylor,Case You’re Not an Expert on Taylor,WORK_OF_ART,,,en,1
-30 days,30 days,DATE,,,en,1
-Dems,Dems,NORP,,,en,1
-"46,000","46,000",CARDINAL,,,en,1
-at least a month,at least a month,DATE,,,en,1
-The second season,The second season,DATE,,,en,1
-Dressing For The ‘Joe Dirt Gaze,Dressing For The ‘Joe Dirt Gaze,WORK_OF_ART,,,en,1
-Fox & Friends,Fox & Friends,WORK_OF_ART,,,en,1
-110%,110%,PERCENT,,,en,1
-0.04%,0.04%,PERCENT,,,en,1
-Coolie,Coolie,WORK_OF_ART,,,en,1
-more than two weeks,more than two weeks,DATE,,,en,1
-abo… Victoria,abo… Victoria,NORP,,,en,1
-Yacht With Their Kids Sans Brooklyn,Yacht With Their Kids Sans Brooklyn,LAW,,,en,1
-2025-08,2025-08,DATE,,,en,1
-The Inside Story of How the Beckham Family Has Been Ripped Apart Amid Accusations,The Inside Story of How the Beckham Family Has Been Ripped Apart Amid Accusations,WORK_OF_ART,,,en,1
-over a decade,over a decade,DATE,,,en,1
-"""Toy Story 3","""Toy Story 3",WORK_OF_ART,,,en,1
-The year is 2010,The year is 2010,DATE,,,en,1
-every single day,every single day,DATE,,,en,1
-En,En,WORK_OF_ART,,,en,1
-"250,000","250,000",MONEY,,,en,1
-Victoria&apos;s,Victoria&apos;s,CARDINAL,,,en,1
-+3652,+3652,NORP,,,en,1
-Har… Qatari,Har… Qatari,NORP,,,en,1
-a quarter,a quarter,CARDINAL,,,en,1
-0.3%,0.3%,PERCENT,,,en,1
-On the Floor,On the Floor,WORK_OF_ART,,,en,1
-13 years,13 years,DATE,,,en,1
-This day,This day,DATE,,,en,1
-more than 7 million square meters,more than 7 million square meters,QUANTITY,,,en,1
-more than 13 years,more than 13 years,DATE,,,en,1
-August 11,August 11,DATE,,,en,1
-13 Years,13 Years,DATE,,,en,1
-just three years,just three years,DATE,,,en,1
-24 2020,24 2020,DATE,,,en,1
-a tough few months,a tough few months,DATE,,,en,1
-at least 206,at least 206,CARDINAL,,,en,1
-between her four years,between her four years,DATE,,,en,1
-19,19,CARDINAL,,,en,1
-Fever,Fever,PRODUCT,,,en,1
-August 2,August 2,DATE,,,en,1
-Celeb Guests Revealed,Celeb Guests Revealed,WORK_OF_ART,,,en,1
-+1441,+1441,NORP,,,en,1
-24 hours,24 hours,TIME,,,en,1
-twelfth,twelfth,ORDINAL,,,en,1
-+6883 chars,+6883 chars,WORK_OF_ART,,,en,1
-52nd,52nd,ORDINAL,,,en,1
-August 2024,August 2024,DATE,,,en,1
-about six months,about six months,DATE,,,en,1
-over 20 years,over 20 years,DATE,,,en,1
-Oleksandr,Oleksandr,WORK_OF_ART,,,en,1
-The Royal Butler:,The Royal Butler:,WORK_OF_ART,,,en,1
-The Royal Butler: My Remarkable Life of Royal Service,The Royal Butler: My Remarkable Life of Royal Service,WORK_OF_ART,,,en,1
-8million,8million,MONEY,,,en,1
-Face in Family Rift',Face in Family Rift',WORK_OF_ART,,,en,1
-Next Day,Next Day,DATE,,,en,1
-"Thursday, Sept. 25","Thursday, Sept. 25",DATE,,,en,1
-Lesotho,Lesotho,NORP,,,en,1
-African,African,NORP,,,en,1
-Sentebale,Sentebale,NORP,,,en,1
-June 2024,June 2024,DATE,,,en,1
-early Sunday morning,early Sunday morning,TIME,,,en,1
-recent decades,recent decades,DATE,,,en,1
-Superman and The Adventures of Priscilla,Superman and The Adventures of Priscilla,WORK_OF_ART,,,en,1
-the 1960s,the 1960s,DATE,,,en,1
-the age of 87,the age of 87,DATE,,,en,1
-'The Collector','The Collector',WORK_OF_ART,,,en,1
-the Undisputed Heavyweight Champion Holds the Power to Choose His Next,the Undisputed Heavyweight Champion Holds the Power to Choose His Next,WORK_OF_ART,,,en,1
-20 years,20 years,DATE,,,en,1
-"August 20, 2024","August 20, 2024",DATE,,,en,1
-Honeymoon with Harry,Honeymoon with Harry,WORK_OF_ART,,,en,1
-"August 22, 2025","August 22, 2025",DATE,,,en,1
-"August 2, 2025","August 2, 2025",DATE,,,en,1
-My Mot,My Mot,WORK_OF_ART,,,en,1
-My Mother and I,My Mother and I,WORK_OF_ART,,,en,1
-201,201,CARDINAL,,,en,1
-53,53,DATE,,,en,1
-"a measly $25,000","a measly $25,000",MONEY,,,en,1
-Real Housewives of New Jersey,Real Housewives of New Jersey,WORK_OF_ART,,,en,1
-RHONJ,RHONJ,WORK_OF_ART,,,en,1
-76,76,DATE,,,en,1
-In Special Forces,In Special Forces,WORK_OF_ART,,,en,1
-Season 4 premieres Sept. 25,Season 4 premieres Sept. 25,DATE,,,en,1
-Special Forces: World’s Toughest Test,Special Forces: World’s Toughest Test,WORK_OF_ART,,,en,1
-1938,1938,DATE,,,en,1
-past two minutes,past two minutes,TIME,,,en,1
-Paid Off” Match @,Paid Off” Match @,WORK_OF_ART,,,en,1
-Paid Off” Match,Paid Off” Match,WORK_OF_ART,,,en,1
-Limey,Limey,NORP,,,en,1
-“State of the Union,“State of the Union,WORK_OF_ART,,,en,1
-Velvet Glove,Velvet Glove,WORK_OF_ART,,,en,1
-more than 30 years,more than 30 years,DATE,,,en,1
-TV+,TV+,PRODUCT,,,en,1
-Apple,Apple,PRODUCT,,,en,1
-Aug. 15,Aug. 15,DATE,,,en,1
-a mere three years ago,a mere three years ago,DATE,,,en,1
-€3.5m,€3.5m,MONEY,,,en,1
-The Gateway Pundi,The Gateway Pundi,FAC,,,en,1
-Putin summit,Putin summit,FAC,,,en,1
-just minutes,just minutes,TIME,,,en,1
-202,202,CARDINAL,,,en,1
-+2382 chars,+2382 chars,WORK_OF_ART,,,en,1
-Memorial Day,Memorial Day,DATE,,,en,1
-Superman Are the Perfect Odd Pair,Superman Are the Perfect Odd Pair,WORK_OF_ART,,,en,1
-Petty,Petty,WORK_OF_ART,,,en,1
-20%,20%,PERCENT,,,en,1
-'90s,'90s,DATE,,,en,1
-+422 chars,+422 chars,WORK_OF_ART,,,en,1
-a little over a month,a little over a month,DATE,,,en,1
-less than a day,less than a day,DATE,,,en,1
-Apple TV+,Apple TV+,PRODUCT,,,en,1
-8 hours,8 hours,TIME,,,en,1
-Just Give Me My Show Back,Just Give Me My Show Back,WORK_OF_ART,,,en,1
-Page Six,Page Six,WORK_OF_ART,,,en,1
-R,R,NORP,,,en,1
-Extraordinary,Extraordinary,WORK_OF_ART,,,en,1
-the ANB Arena,the ANB Arena,FAC,,,en,1
-Saturday night,Saturday night,TIME,,,en,1
-24-4,24-4,DATE,,,en,1
-“The Lead”,“The Lead”,WORK_OF_ART,,,en,1
-Hollywoods,Hollywoods,FAC,,,en,1
-0.8%,0.8%,PERCENT,,,en,1
-1997s,1997s,DATE,,,en,1
-Gone Baby Gone,Gone Baby Gone,WORK_OF_ART,,,en,1
-Good Will Hunting,Good Will Hunting,WORK_OF_ART,,,en,1
-96%,96%,PERCENT,,,en,1
-Iconic Thriller,Iconic Thriller,PRODUCT,,,en,1
-a More than two years,a More than two years,DATE,,,en,1
-More than two years,More than two years,DATE,,,en,1
-Aug. 9,Aug. 9,DATE,,,en,1
+Spreading Misinformation,Spreading Misinformation,WORK_OF_ART,,,en,1
+Live Show,Live Show,WORK_OF_ART,,,en,1
+Hosts for Slamming Husband RFK Jr.,Hosts for Slamming Husband RFK Jr.,WORK_OF_ART,,,en,1
 Something Stupid,Something Stupid,WORK_OF_ART,,,en,1
++2655,+2655,NORP,,,en,1
+DAngelo,DAngelo,PRODUCT,,,en,1
+Instagram,Instagram,WORK_OF_ART,,,en,1
+Small Gesture Signals a New Level of Openness,Small Gesture Signals a New Level of Openness,WORK_OF_ART,,,en,1
+"Thursday, Feb. 13","Thursday, Feb. 13",DATE,,,en,1
+Unscripted,Unscripted,WORK_OF_ART,,,en,1
 two decades,two decades,DATE,,,en,1
-+2739 chars,+2739 chars,WORK_OF_ART,,,en,1
-"""Sermon on the Mount…","""Sermon on the Mount…",WORK_OF_ART,,,en,1
-Sermon on the Mount,Sermon on the Mount,WORK_OF_ART,,,en,1
-Trojan,Trojan,PRODUCT,,,en,1
-$5 Dollar,$5 Dollar,MONEY,,,en,1
-only $0.10,only $0.10,MONEY,,,en,1
-3/month,3/month,DATE,,,en,1
-the Victoria Beckham,the Victoria Beckham,FAC,,,en,1
-24 Hours,24 Hours,TIME,,,en,1
-"“The Odyssey"" filmed in the Western Sahara, a disputed territory inhabited by the Indigenous Sahrawi people.","“The Odyssey"" filmed in the Western Sahara, a disputed territory inhabited by the Indigenous Sahrawi people.",WORK_OF_ART,,,en,1
-'The Odyssey','The Odyssey',WORK_OF_ART,,,en,1
-May 1,May 1,DATE,,,en,1
-five years,five years,DATE,,,en,1
-April 25,April 25,DATE,,,en,1
-This Time Oil Sanctions On Russia Will 'Bite',This Time Oil Sanctions On Russia Will 'Bite',LAW,,,en,1
-+2377 chars,+2377 chars,WORK_OF_ART,,,en,1
-Season 3,Season 3,DATE,,,en,1
-This past Sunday,This past Sunday,DATE,,,en,1
-Quest,Quest,PRODUCT,,,en,1
-I Love Thick Women’ During Segment on Controversial American Eagle Ad,I Love Thick Women’ During Segment on Controversial American Eagle Ad,WORK_OF_ART,,,en,1
-Mass,Mass,FAC,,,en,1
-I Love Thick Women’ During Segment,I Love Thick Women’ During Segment,WORK_OF_ART,,,en,1
-hundreds of thousands,hundreds of thousands,CARDINAL,,,en,1
-the summer of 2022,the summer of 2022,DATE,,,en,1
-Germans,Germans,NORP,,,en,1
-"July 9, 2027","July 9, 2027",DATE,,,en,1
-NOVEMBER 01,NOVEMBER 01,DATE,,,en,1
-Decade-Old,Decade-Old,DATE,,,en,1
-Windsors,Windsors,PRODUCT,,,en,1
-+2595 chars,+2595 chars,WORK_OF_ART,,,en,1
-last July,last July,DATE,,,en,1
-250th,250th,ORDINAL,,,en,1
-Summertime Sadness,Summertime Sadness,WORK_OF_ART,,,en,1
-Her Wedding,Her Wedding,WORK_OF_ART,,,en,1
-$1 Million,$1 Million,MONEY,,,en,1
-the past two months,the past two months,DATE,,,en,1
-last November,last November,DATE,,,en,1
-July 31st,July 31st,DATE,,,en,1
-The Odyssey Filming Controversy,The Odyssey Filming Controversy,EVENT,,,en,1
-A Nod To Her Viral Underpainting Technique,A Nod To Her Viral Underpainting Technique,WORK_OF_ART,,,en,1
-"Jul 30, 2025","Jul 30, 2025",DATE,,,en,1
-2005,2005,DATE,,,en,1
-20 Years Ago,20 Years Ago,DATE,,,en,1
-+9748 chars,+9748 chars,WORK_OF_ART,,,en,1
-Atlas,Atlas,PRODUCT,,,en,1
-The Daily Show,The Daily Show,WORK_OF_ART,,,en,1
-Odyssey,Odyssey,FAC,,,en,1
-The Airport,The Airport,WORK_OF_ART,,,en,1
-season 4,season 4,DATE,,,en,1
-all month long,all month long,DATE,,,en,1
-The Breakfast Club,The Breakfast Club,WORK_OF_ART,,,en,1
-early 2019,early 2019,DATE,,,en,1
-Whitewashing Colonialism,Whitewashing Colonialism,WORK_OF_ART,,,en,1
-The Odyssey Hit With Filming Controversy,The Odyssey Hit With Filming Controversy,WORK_OF_ART,,,en,1
-July 29,July 29,DATE,,,en,1
-‘The Odyssey’ in West… Christopher Nolan,‘The Odyssey’ in West… Christopher Nolan,WORK_OF_ART,,,en,1
-Filming,Filming,WORK_OF_ART,,,en,1
-‘The Odyssey’ in Western,‘The Odyssey’ in Western,WORK_OF_ART,,,en,1
-+2293 chars,+2293 chars,WORK_OF_ART,,,en,1
-‘The Odyssey’ In Occupied Western Sahara,‘The Odyssey’ In Occupied Western Sahara,WORK_OF_ART,,,en,1
-+6433,+6433,NORP,,,en,1
-Squash Family Beef,Squash Family Beef,WORK_OF_ART,,,en,1
-+4852,+4852,NORP,,,en,1
-Gentle P… Fox News,Gentle P… Fox News,WORK_OF_ART,,,en,1
-Runway,Runway,WORK_OF_ART,,,en,1
-Character Makes a Sneaker,Character Makes a Sneaker,WORK_OF_ART,,,en,1
-“The Odyssey” faces allegations of supporting,“The Odyssey” faces allegations of supporting,WORK_OF_ART,,,en,1
-Next Gen NYC,Next Gen NYC,WORK_OF_ART,,,en,1
-US Car No,US Car No,EVENT,,,en,1
-1954.Kristine,1954.Kristine,CARDINAL,,,en,1
-1943,1943,DATE,,,en,1
-Gentle Parenting,Gentle Parenting,WORK_OF_ART,,,en,1
-War,War,EVENT,,,en,1
-Twenty years later,Twenty years later,DATE,,,en,1
-Victor,Victor,WORK_OF_ART,,,en,1
-more than 300,more than 300,CARDINAL,,,en,1
-06:00 am,06:00 am,TIME,,,en,1
-1760,1760,DATE,,,en,1
-Chapter 13,Chapter 13,LAW,,,en,1
-Our Country,Our Country,WORK_OF_ART,,,en,1
-Holy Year youth festival,Holy Year youth festival,EVENT,,,en,1
-Romes,Romes,FAC,,,en,1
 Christmas,Christmas,DATE,,,en,1
-Latest Assault On The Trump Administration Is One Of The Show's Most Shocking Episodes,Latest Assault On The Trump Administration Is One Of The Show's Most Shocking Episodes,EVENT,,,en,1
-5th straight year,5th straight year,DATE,,,en,1
-+1609 chars,+1609 chars,WORK_OF_ART,,,en,1
-diaristic,diaristic,NORP,,,en,1
-And He Shared Why That 'Actual Magic Moment' Went So Viral,And He Shared Why That 'Actual Magic Moment' Went So Viral,WORK_OF_ART,,,en,1
-'Getaway Car,'Getaway Car,WORK_OF_ART,,,en,1
-Special Forces: World's Toughes,Special Forces: World's Toughes,WORK_OF_ART,,,en,1
-Special Forces: World's Toughest Test,Special Forces: World's Toughest Test,WORK_OF_ART,,,en,1
-the newest season,the newest season,DATE,,,en,1
-Severance,Severance,WORK_OF_ART,,,en,1
-Oscar,Oscar,WORK_OF_ART,,,en,1
-Tomb Raider,Tomb Raider,WORK_OF_ART,,,en,1
-84,84,DATE,,,en,1
-2025 Leagues Cup,2025 Leagues Cup,EVENT,,,en,1
-the Leagues Cup 2025,the Leagues Cup 2025,EVENT,,,en,1
-"Wednesday, Aug 6","Wednesday, Aug 6",DATE,,,en,1
-Climate Injustice:,Climate Injustice:,WORK_OF_ART,,,en,1
-South Africas,South Africas,NORP,,,en,1
-the fifth consecutive year,the fifth consecutive year,DATE,,,en,1
-season 27,season 27,DATE,,,en,1
-the Vaticans 2025 Holy Year,the Vaticans 2025 Holy Year,EVENT,,,en,1
-Got A Nut,Got A Nut,WORK_OF_ART,,,en,1
-11am,11am,TIME,,,en,1
-age 74,age 74,DATE,,,en,1
-2025 WNBA season,2025 WNBA season,DATE,,,en,1
+"1,000","1,000",CARDINAL,,,en,1
+Dolphins,Dolphins,PRODUCT,,,en,1
+'The View,'The View,WORK_OF_ART,,,en,1
+Affair',Affair',WORK_OF_ART,,,en,1
+Pentagon,Pentagon,FAC,,,en,1
+‘The View’ Sunny Hostin,‘The View’ Sunny Hostin,WORK_OF_ART,,,en,1
+Hot Topics,Hot Topics,EVENT,,,en,1
+At Least He Didn’t Call Me To Finish Too Soon,At Least He Didn’t Call Me To Finish Too Soon,WORK_OF_ART,,,en,1
 season-ending,season-ending,DATE,,,en,1
-Arabs,Arabs,NORP,,,en,1
-| |,| |,DATE,,,en,1
-less than an hour,less than an hour,TIME,,,en,1
-Ennis Fight Announcement,Ennis Fight Announcement,WORK_OF_ART,,,en,1
-Golden Dome,Golden Dome,WORK_OF_ART,,,en,1
-billions of dollars,billions of dollars,MONEY,,,en,1
-the regular season,the regular season,DATE,,,en,1
-just five weeks,just five weeks,DATE,,,en,1
-April,April,DATE,,,en,1
-This past April,This past April,DATE,,,en,1
-Up All Night,Up All Night,WORK_OF_ART,,,en,1
-What a Queen,What a Queen,WORK_OF_ART,,,en,1
-Another Civil War,Another Civil War,EVENT,,,en,1
-South African,South African,NORP,,,en,1
-Blowing out the … [+2827 chars,Blowing out the … [+2827 chars,WORK_OF_ART,,,en,1
-44th,44th,ORDINAL,,,en,1
-the 2028 Olympic Games,the 2028 Olympic Games,EVENT,,,en,1
-Scorpio,Scorpio,PRODUCT,,,en,1
-60th,60th,ORDINAL,,,en,1
-+7600 chars,+7600 chars,WORK_OF_ART,,,en,1
-mornings,mornings,TIME,,,en,1
-Three years,Three years,DATE,,,en,1
-this coming week,this coming week,DATE,,,en,1
-3 years,3 years,DATE,,,en,1
-Memory That Will Stay with Them,Memory That Will Stay with Them,WORK_OF_ART,,,en,1
-over 1 million,over 1 million,CARDINAL,,,en,1
-the 11th minute,the 11th minute,TIME,,,en,1
-minute,minute,TIME,,,en,1
-11th,11th,ORDINAL,,,en,1
-the past week,the past week,DATE,,,en,1
-the past year,the past year,DATE,,,en,1
-year-over-year,year-over-year,DATE,,,en,1
-Second Quarter 2025,Second Quarter 2025,DATE,,,en,1
-a few hours,a few hours,TIME,,,en,1
-2025-08-04,2025-08-04,DATE,,,en,1
-"Saturday, August 2","Saturday, August 2",DATE,,,en,1
-+3643 chars,+3643 chars,WORK_OF_ART,,,en,1
-Late Monday nig,Late Monday nig,DATE,,,en,1
-Winter Games,Winter Games,EVENT,,,en,1
-+2370 chars,+2370 chars,WORK_OF_ART,,,en,1
-Cutthroat Island,Cutthroat Island,WORK_OF_ART,,,en,1
-Waterworld,Waterworld,WORK_OF_ART,,,en,1
-Heaven's Gate,Heaven's Gate,WORK_OF_ART,,,en,1
-2003,2003,DATE,,,en,1
-Earlier today,Earlier today,TIME,,,en,1
-Late Show',Late Show',WORK_OF_ART,,,en,1
-Southern girl etiquette,Southern girl etiquette,WORK_OF_ART,,,en,1
-Breaking the Law: Exposing the Weaponization of America’s Legal System Against Donald Trump,Breaking the Law: Exposing the Weaponization of America’s Legal System Against Donald Trump,WORK_OF_ART,,,en,1
-The Devil Wears Prada,The Devil Wears Prada,WORK_OF_ART,,,en,1
-08/04/2025 8:46:21 AM PDT,08/04/2025 8:46:21 AM PDT,TIME,,,en,1
-August 04,August 04,DATE,,,en,1
-Swamp,Swamp,PRODUCT,,,en,1
-+1757 chars,+1757 chars,WORK_OF_ART,,,en,1
-Washington Square Park,Washington Square Park,FAC,,,en,1
-mon,mon,TIME,,,en,1
-Tuesday morning,Tuesday morning,TIME,,,en,1
-late night,late night,TIME,,,en,1
-Tragic Death: A Personal Insight,Tragic Death: A Personal Insight,WORK_OF_ART,,,en,1
-Chabad,Chabad,NORP,,,en,1
-71,71,DATE,,,en,1
-the hours,the hours,TIME,,,en,1
-the under 30s,the under 30s,DATE,,,en,1
-Wednesday afternoon,Wednesday afternoon,TIME,,,en,1
-Says Source,Says Source,WORK_OF_ART,,,en,1
-The Ball Is In Harry’s Court,The Ball Is In Harry’s Court,WORK_OF_ART,,,en,1
-earlier Tuesday,earlier Tuesday,DATE,,,en,1
-Aug. 17,Aug. 17,DATE,,,en,1
-the prior night,the prior night,TIME,,,en,1
-NOVEMBER 08,NOVEMBER 08,DATE,,,en,1
-Venice Film FestivalThe,Venice Film FestivalThe,FAC,,,en,1
-the next days,the next days,DATE,,,en,1
-Coração de Lutador - The Smashing Machine',Coração de Lutador - The Smashing Machine',WORK_OF_ART,,,en,1
-9,9,DATE,,,en,1
-the long hours,the long hours,TIME,,,en,1
-30 Pounds,30 Pounds,QUANTITY,,,en,1
-09/11/2025 7:39:53 PM PDT,09/11/2025 7:39:53 PM PDT,TIME,,,en,1
-The Culture Wars Come to West Point,The Culture Wars Come to West Point,WORK_OF_ART,,,en,1
-123 minutes,123 minutes,TIME,,,en,1
+2025 WNBA season,2025 WNBA season,DATE,,,en,1
+every morning,every morning,TIME,,,en,1
+May I Finish?”The Hollywood Reporter Actress,May I Finish?”The Hollywood Reporter Actress,WORK_OF_ART,,,en,1
+Five,Five,CARDINAL,,,en,1
+age 74,age 74,DATE,,,en,1
+11am,11am,TIME,,,en,1
+first-half,first-half,DATE,,,en,1
+28,28,CARDINAL,,,en,1
+'90s,'90s,DATE,,,en,1
+the Nobel Prize in Physics 2025,the Nobel Prize in Physics 2025,WORK_OF_ART,,,en,1
+early Friday,early Friday,TIME,,,en,1
+200 million,200 million,CARDINAL,,,en,1
+August 21st,August 21st,DATE,,,en,1
+"April 9, 2005","April 9, 2005",DATE,,,en,1
+3minutesAre,3minutesAre,CARDINAL,,,en,1
+2025 summer,2025 summer,DATE,,,en,1
++18406,+18406,CARDINAL,,,en,1
+Biebers,Biebers,PRODUCT,,,en,1
 The Herd,The Herd,WORK_OF_ART,,,en,1
+Last day,Last day,DATE,,,en,1
+Jesus Revolution,Jesus Revolution,WORK_OF_ART,,,en,1
+08/21/2025 9:59:28 AM PDT,08/21/2025 9:59:28 AM PDT,TIME,,,en,1
+The Culture Wars Come to West Point,The Culture Wars Come to West Point,WORK_OF_ART,,,en,1
+Tragic Death: A Personal Insight,Tragic Death: A Personal Insight,WORK_OF_ART,,,en,1
+09/11/2025 7:39:53 PM PDT,09/11/2025 7:39:53 PM PDT,TIME,,,en,1
+Chabad,Chabad,NORP,,,en,1
+election season,election season,DATE,,,en,1
+From A Salad Bar’ Of Extremism,From A Salad Bar’ Of Extremism,WORK_OF_ART,,,en,1
+the last day,the last day,DATE,,,en,1
+Emmys,Emmys,PRODUCT,,,en,1
+last week’s,last week’s,DATE,,,en,1
+$1 trillion,$1 trillion,MONEY,,,en,1
+five years ago,five years ago,DATE,,,en,1
+nearly 15 percent,nearly 15 percent,PERCENT,,,en,1
++5786,+5786,NORP,,,en,1
 110,110,CARDINAL,,,en,1
 November 2023,November 2023,DATE,,,en,1
 almost two years,almost two years,DATE,,,en,1
-Christian,Christian,NORP,,,en,1
-last week’s,last week’s,DATE,,,en,1
+Proof’ Revival,Proof’ Revival,WORK_OF_ART,,,en,1
+thirty,thirty,CARDINAL,,,en,1
 Friday (September 12,Friday (September 12,DATE,,,en,1
 Christian Siriano Fashion Show,Christian Siriano Fashion Show,EVENT,,,en,1
 HARRY POTTER Series,HARRY POTTER Series,EVENT,,,en,1
+'Proof','Proof',WORK_OF_ART,,,en,1
 132 days,132 days,DATE,,,en,1
-thirty,thirty,CARDINAL,,,en,1
-the last day,the last day,DATE,,,en,1
-Last day,Last day,DATE,,,en,1
-From A Salad Bar’ Of Extremism,From A Salad Bar’ Of Extremism,WORK_OF_ART,,,en,1
-200 million,200 million,CARDINAL,,,en,1
-2025 summer,2025 summer,DATE,,,en,1
-+18406,+18406,CARDINAL,,,en,1
-early Friday,early Friday,TIME,,,en,1
+"March 31, 2026","March 31, 2026",DATE,,,en,1
+April 16,April 16,DATE,,,en,1
+the hours,the hours,TIME,,,en,1
+Traditional Fashion Moments,Traditional Fashion Moments,EVENT,,,en,1
+Bible,Bible,WORK_OF_ART,,,en,1
+the next 18 months,the next 18 months,DATE,,,en,1
 +2902 chars,+2902 chars,WORK_OF_ART,,,en,1
+123 minutes,123 minutes,TIME,,,en,1
 The Rock Explains His Recent Weight Loss As New Trailer For THE SMASHING MACHINE Praises,The Rock Explains His Recent Weight Loss As New Trailer For THE SMASHING MACHINE Praises,LAW,,,en,1
-101,101,CARDINAL,,,en,1
-"Sunday, Sept. 7","Sunday, Sept. 7",DATE,,,en,1
-View Entire Post,View Entire Post,WORK_OF_ART,,,en,1
-Dem,Dem,NORP,,,en,1
-Arch Manning's,Arch Manning's,FAC,,,en,1
-September 5,September 5,DATE,,,en,1
-Swag II' Album Release,Swag II' Album Release,WORK_OF_ART,,,en,1
-September 13,September 13,DATE,,,en,1
-next Saturday,next Saturday,DATE,,,en,1
-Tennesseans,Tennesseans,NORP,,,en,1
-Stakes Is High:,Stakes Is High:,WORK_OF_ART,,,en,1
-"August 07, 2025","August 07, 2025",DATE,,,en,1
-Belgian,Belgian,NORP,,,en,1
-The Bear,The Bear,WORK_OF_ART,,,en,1
-Cracker Barrel,Cracker Barrel,FAC,,,en,1
-This Is Insane,This Is Insane,WORK_OF_ART,,,en,1
-"Screenshot
-","Screenshot
-",WORK_OF_ART,,,en,1
-earlier this summer,earlier this summer,DATE,,,en,1
-our good year 2025,our good year 2025,DATE,,,en,1
-Moon Person,Moon Person,WORK_OF_ART,,,en,1
-the UBS Arena,the UBS Arena,EVENT,,,en,1
 +3469 chars,+3469 chars,WORK_OF_ART,,,en,1
-+6889 chars,+6889 chars,WORK_OF_ART,,,en,1
 12 years,12 years,DATE,,,en,1
 10:30 am,10:30 am,TIME,,,en,1
 2025 / 10:30 am,2025 / 10:30 am,TIME,,,en,1
 18 miles,18 miles,QUANTITY,,,en,1
+the under 30s,the under 30s,DATE,,,en,1
 "the Sept. 5, 2025","the Sept. 5, 2025",DATE,,,en,1
 day,day,DATE,,,en,1
 $500M,$500M,MONEY,,,en,1
 More than 60 years,More than 60 years,DATE,,,en,1
 246,246,CARDINAL,,,en,1
+Aug. 2025,Aug. 2025,DATE,,,en,1
 Six-year-old,Six-year-old,DATE,,,en,1
-28 YEAR LATER,28 YEAR LATER,DATE,,,en,1
-the 82nd Venice Film Festival,the 82nd Venice Film Festival,DATE,,,en,1
-28 Years Later's,28 Years Later's,DATE,,,en,1
-28 YEARS LATER,28 YEARS LATER,DATE,,,en,1
-About One,About One,CARDINAL,,,en,1
-Monday marks,Monday marks,DATE,,,en,1
-3rd,3rd,ORDINAL,,,en,1
-+5786,+5786,NORP,,,en,1
-nearly 15 percent,nearly 15 percent,PERCENT,,,en,1
-five years ago,five years ago,DATE,,,en,1
-Camden Town Hall,Camden Town Hall,FAC,,,en,1
+30 Pounds,30 Pounds,QUANTITY,,,en,1
+the long hours,the long hours,TIME,,,en,1
+9,9,DATE,,,en,1
+Coração de Lutador - The Smashing Machine',Coração de Lutador - The Smashing Machine',WORK_OF_ART,,,en,1
+Wednesday afternoon,Wednesday afternoon,TIME,,,en,1
+neo-Nazism,neo-Nazism,NORP,,,en,1
+Says Source,Says Source,WORK_OF_ART,,,en,1
+The Ball Is In Harry’s Court,The Ball Is In Harry’s Court,WORK_OF_ART,,,en,1
+earlier Tuesday,earlier Tuesday,DATE,,,en,1
+Reformation,Reformation,NORP,,,en,1
+A Couple of Fights,A Couple of Fights,WORK_OF_ART,,,en,1
+Aug. 17,Aug. 17,DATE,,,en,1
+A Couple of Fights” @ Boxing N,A Couple of Fights” @ Boxing N,WORK_OF_ART,,,en,1
+the prior night,the prior night,TIME,,,en,1
+NOVEMBER 08,NOVEMBER 08,DATE,,,en,1
+"three-year war, days","three-year war, days",DATE,,,en,1
+Venice Film FestivalThe,Venice Film FestivalThe,FAC,,,en,1
+the next days,the next days,DATE,,,en,1
+quarterly,quarterly,DATE,,,en,1
+"1,298","1,298",CARDINAL,,,en,1
+September 15,September 15,DATE,,,en,1
+Friend Is Coming in Hot to the Great Beckham Beef,Friend Is Coming in Hot to the Great Beckham Beef,WORK_OF_ART,,,en,1
+Rutte,Rutte,NORP,,,en,1
++3214,+3214,NORP,,,en,1
+"Darling, I” music video","Darling, I” music video",WORK_OF_ART,,,en,1
+The Creators Darling,The Creators Darling,WORK_OF_ART,,,en,1
+the “Together For Palestine”,the “Together For Palestine”,WORK_OF_ART,,,en,1
+"the ""Together For Palestine""","the ""Together For Palestine""",WORK_OF_ART,,,en,1
+Festive Ethnic Wear Guide:,Festive Ethnic Wear Guide:,WORK_OF_ART,,,en,1
+$1.36M,$1.36M,MONEY,,,en,1
+Camp Rock 3 Is,Camp Rock 3 Is,EVENT,,,en,1
+09/18/2025 9:43:22,09/18/2025 9:43:22,DATE,,,en,1
+Russias,Russias,NORP,,,en,1
+Hurricane Erin,Hurricane Erin,EVENT,,,en,1
+Tank,Tank,WORK_OF_ART,,,en,1
+81 Billion Yen,81 Billion Yen,MONEY,,,en,1
+Tank' Davis,Tank' Davis,WORK_OF_ART,,,en,1
+Camp Rock 3 Is Officially Coming:,Camp Rock 3 Is Officially Coming:,EVENT,,,en,1
+Aug 20,Aug 20,DATE,,,en,1
+"September 18, 2025
+ ","September 18, 2025
+ ",DATE,,,en,1
+$1 million,$1 million,MONEY,,,en,1
+"LOUIS VUITTON
+","LOUIS VUITTON
+",PRODUCT,,,en,1
+Baby,Baby,PRODUCT,,,en,1
++4026,+4026,NORP,,,en,1
+Tuesday morning,Tuesday morning,TIME,,,en,1
+101,101,CARDINAL,,,en,1
 Is Proof,Is Proof,WORK_OF_ART,,,en,1
 Silence,Silence,WORK_OF_ART,,,en,1
 20006,20006,DATE,,,en,1
-Baby,Baby,PRODUCT,,,en,1
+99%,99%,PERCENT,,,en,1
 up to 140 pounds,up to 140 pounds,QUANTITY,,,en,1
+New Season,New Season,EVENT,,,en,1
 nearly two decades,nearly two decades,DATE,,,en,1
 The Wendy Williams Show,The Wendy Williams Show,WORK_OF_ART,,,en,1
 last weeks,last weeks,DATE,,,en,1
 First Amendment,First Amendment,LAW,,,en,1
 Stansted Airport,Stansted Airport,FAC,,,en,1
 October 4,October 4,DATE,,,en,1
-New Season,New Season,EVENT,,,en,1
-09/18/2025 9:43:22,09/18/2025 9:43:22,DATE,,,en,1
-"September 18, 2025
- ","September 18, 2025
- ",DATE,,,en,1
-+3214,+3214,NORP,,,en,1
-the “Together For Palestine”,the “Together For Palestine”,WORK_OF_ART,,,en,1
-"the ""Together For Palestine""","the ""Together For Palestine""",WORK_OF_ART,,,en,1
-+4026,+4026,NORP,,,en,1
-Friday morning,Friday morning,TIME,,,en,1
-$1 trillion,$1 trillion,MONEY,,,en,1
-+4711 chars],+4711 chars],WORK_OF_ART,,,en,1
-Jimmy will Say What Jimmy Wants To Say,Jimmy will Say What Jimmy Wants To Say,WORK_OF_ART,,,en,1
-Hosts Condemn Censorship – Report,Hosts Condemn Censorship – Report,WORK_OF_ART,,,en,1
-+4934,+4934,NORP,,,en,1
-Late-night,Late-night,TIME,,,en,1
-3minutesConsider,3minutesConsider,CARDINAL,,,en,1
-Reading Time,Reading Time,WORK_OF_ART,,,en,1
-+6188 chars,+6188 chars,WORK_OF_ART,,,en,1
-Over 400,Over 400,CARDINAL,,,en,1
-The View Break Silence,The View Break Silence,WORK_OF_ART,,,en,1
-Months,Months,DATE,,,en,1
-Nearly one week,Nearly one week,DATE,,,en,1
-Comments,Comments,WORK_OF_ART,,,en,1
-recent weeks,recent weeks,DATE,,,en,1
-The Sordid U.S. Plan for the Post-Genocide,The Sordid U.S. Plan for the Post-Genocide,WORK_OF_ART,,,en,1
-Real Estate Bonanza,Real Estate Bonanza,WORK_OF_ART,,,en,1
-Franc,Franc,WORK_OF_ART,,,en,1
-"100,000-a","100,000-a",MONEY,,,en,1
-Festive Ethnic Wear Guide:,Festive Ethnic Wear Guide:,WORK_OF_ART,,,en,1
-$1.36M,$1.36M,MONEY,,,en,1
-Camp Rock 3 Is,Camp Rock 3 Is,EVENT,,,en,1
-Tank,Tank,WORK_OF_ART,,,en,1
-Spice Girls,Spice Girls,PRODUCT,,,en,1
-30th,30th,ORDINAL,,,en,1
+The Giving Pledge,The Giving Pledge,WORK_OF_ART,,,en,1
+Is Officially Happening,Is Officially Happening,WORK_OF_ART,,,en,1
+Returning With the Jonas Brothers,Returning With the Jonas Brothers,WORK_OF_ART,,,en,1
+Once,Once,DATE,,,en,1
+A year later,A year later,DATE,,,en,1
 1 pound,1 pound,QUANTITY,,,en,1
 this era,this era,DATE,,,en,1
+a decade,a decade,DATE,,,en,1
 Californian,Californian,NORP,,,en,1
-next year,next year,DATE,,,en,1
-A year later,A year later,DATE,,,en,1
+The Problem Child,The Problem Child,WORK_OF_ART,,,en,1
+200 pounds,200 pounds,QUANTITY,,,en,1
+135 pounds,135 pounds,QUANTITY,,,en,1
+Gervonta …,Gervonta …,FAC,,,en,1
++1569 chars,+1569 chars,WORK_OF_ART,,,en,1
 +2133,+2133,NORP,,,en,1
 10:49:46 AM,10:49:46 AM,TIME,,,en,1
 Emmy Awards,Emmy Awards,WORK_OF_ART,,,en,1
 last night’s,last night’s,TIME,,,en,1
+August 15,August 15,DATE,,,en,1
 AfDs,AfDs,FAC,,,en,1
 the Autumn/Winter 2025,the Autumn/Winter 2025,EVENT,,,en,1
-"LOUIS VUITTON
-","LOUIS VUITTON
-",PRODUCT,,,en,1
-September 15,September 15,DATE,,,en,1
-Emmys,Emmys,PRODUCT,,,en,1
-"1,298","1,298",CARDINAL,,,en,1
+30th,30th,ORDINAL,,,en,1
+Spice Girls,Spice Girls,PRODUCT,,,en,1
+50th,50th,ORDINAL,,,en,1
 Scary Spice,Scary Spice,WORK_OF_ART,,,en,1
-Armenian,Armenian,NORP,,,en,1
-Villa Barberini,Villa Barberini,FAC,,,en,1
-the next few months,the next few months,DATE,,,en,1
-Tank' Davis,Tank' Davis,WORK_OF_ART,,,en,1
-Camp Rock 3 Is Officially Coming:,Camp Rock 3 Is Officially Coming:,EVENT,,,en,1
-Is Officially Happening,Is Officially Happening,WORK_OF_ART,,,en,1
-Returning With the Jonas Brothers,Returning With the Jonas Brothers,WORK_OF_ART,,,en,1
-+1569 chars,+1569 chars,WORK_OF_ART,,,en,1
 Spice Girl's,Spice Girl's,PRODUCT,,,en,1
 Documentary Trailer,Documentary Trailer,WORK_OF_ART,,,en,1
+the next few months,the next few months,DATE,,,en,1
 "December 6, 2024","December 6, 2024",DATE,,,en,1
-"Tuesday, Sept. 16, 2025","Tuesday, Sept. 16, 2025",DATE,,,en,1
 weekly,weekly,DATE,,,en,1
+two minutes,two minutes,TIME,,,en,1
 4—Her,4—Her,MONEY,,,en,1
 $11 billion,$11 billion,MONEY,,,en,1
 Aramco,Aramco,NORP,-0.002083333333333333,0.043750000000000004,en,1
 He Was Sick of Conservative Influencer's 'Hatred,He Was Sick of Conservative Influencer's 'Hatred,WORK_OF_ART,,,en,1
 'Motive','Motive',WORK_OF_ART,,,en,1
 Season,Season,DATE,,,en,1
-Swag II,Swag II,WORK_OF_ART,,,en,1
-+3170,+3170,NORP,,,en,1
-Paraguay Seal World Cup Spots,Paraguay Seal World Cup Spots,EVENT,,,en,1
-Aug. 25,Aug. 25,DATE,,,en,1
-This… There's only one story,This… There's only one story,WORK_OF_ART,,,en,1
-only one,only one,CARDINAL,,,en,1
-+3613,+3613,NORP,,,en,1
-just hours,just hours,TIME,,,en,1
-2013,2013,DATE,,,en,1
-the U.S. Open,the U.S. Open,FAC,,,en,1
-A Week,A Week,DATE,,,en,1
-20250823,20250823,CARDINAL,,,en,1
-2025Kyiv,2025Kyiv,CARDINAL,,,en,1
-"August 24, 2025","August 24, 2025",DATE,,,en,1
-Love & Other Drugs,Love & Other Drugs,WORK_OF_ART,,,en,1
-2010,2010,DATE,,,en,1
-32 years old,32 years old,DATE,,,en,1
-Love & Other Drugs' ',Love & Other Drugs' ',WORK_OF_ART,,,en,1
-democrat,democrat,NORP,,,en,1
-24 August 2025,24 August 2025,DATE,,,en,1
-nearly $22 million,nearly $22 million,MONEY,,,en,1
-This Year,This Year,DATE,,,en,1
-$150 Million,$150 Million,MONEY,,,en,1
-US Open,US Open,EVENT,,,en,1
-26 percent,26 percent,PERCENT,,,en,1
-"30,000 square metres","30,000 square metres",QUANTITY,,,en,1
-As Europe Rearms,As Europe Rearms,NORP,,,en,1
-Five months,Five months,DATE,,,en,1
-"nearly 1,000","nearly 1,000",CARDINAL,,,en,1
-Chine,Chine,PRODUCT,,,en,1
-One morning,One morning,TIME,,,en,1
-The Art of the D,The Art of the D,WORK_OF_ART,,,en,1
-The Art of the Deal,The Art of the Deal,WORK_OF_ART,,,en,1
-Zelensky Moment' During Trump Meeting,Zelensky Moment' During Trump Meeting,WORK_OF_ART,,,en,1
-08/26/2025 2:27:30 PM PDT,08/26/2025 2:27:30 PM PDT,TIME,,,en,1
-August 25,August 25,DATE,,,en,1
-+1128 chars,+1128 chars,WORK_OF_ART,,,en,1
-"""News Central","""News Central",WORK_OF_ART,,,en,1
-Spice Girl’s,Spice Girl’s,PRODUCT,,,en,1
-the month of Se…,the month of Se…,DATE,,,en,1
-Summer,Summer,DATE,,,en,1
-112.7 million pound,112.7 million pound,QUANTITY,,,en,1
-age 30,age 30,DATE,,,en,1
-Twenty-two-year-old,Twenty-two-year-old,CARDINAL,,,en,1
-Gen Z ',Gen Z ',PRODUCT,,,en,1
+"Tuesday, Sept. 16, 2025","Tuesday, Sept. 16, 2025",DATE,,,en,1
+Villa Barberini,Villa Barberini,FAC,,,en,1
+Armenian,Armenian,NORP,,,en,1
+28 YEAR LATER,28 YEAR LATER,DATE,,,en,1
+the 82nd Venice Film Festival,the 82nd Venice Film Festival,DATE,,,en,1
 August 23,August 23,DATE,,,en,1
-80th,80th,ORDINAL,,,en,1
-Gervonta …,Gervonta …,FAC,,,en,1
-135 pounds,135 pounds,QUANTITY,,,en,1
-200 pounds,200 pounds,QUANTITY,,,en,1
-The Problem Child,The Problem Child,WORK_OF_ART,,,en,1
-two minutes,two minutes,TIME,,,en,1
-Once,Once,DATE,,,en,1
-Aug 20,Aug 20,DATE,,,en,1
-81 Billion Yen,81 Billion Yen,MONEY,,,en,1
-Hurricane Erin,Hurricane Erin,EVENT,,,en,1
-Russias,Russias,NORP,,,en,1
-Rutte,Rutte,NORP,,,en,1
-The Creators Darling,The Creators Darling,WORK_OF_ART,,,en,1
-"Darling, I” music video","Darling, I” music video",WORK_OF_ART,,,en,1
-$1 million,$1 million,MONEY,,,en,1
-The Giving Pledge,The Giving Pledge,WORK_OF_ART,,,en,1
-99%,99%,PERCENT,,,en,1
-Proof’ Revival,Proof’ Revival,WORK_OF_ART,,,en,1
-'Proof','Proof',WORK_OF_ART,,,en,1
-"March 31, 2026","March 31, 2026",DATE,,,en,1
-Bible,Bible,WORK_OF_ART,,,en,1
-Aug. 2025,Aug. 2025,DATE,,,en,1
-the next 18 months,the next 18 months,DATE,,,en,1
-"three-year war, days","three-year war, days",DATE,,,en,1
-A Couple of Fights” @ Boxing N,A Couple of Fights” @ Boxing N,WORK_OF_ART,,,en,1
-A Couple of Fights,A Couple of Fights,WORK_OF_ART,,,en,1
-Reformation,Reformation,NORP,,,en,1
-neo-Nazism,neo-Nazism,NORP,,,en,1
-Traditional Fashion Moments,Traditional Fashion Moments,EVENT,,,en,1
-April 16,April 16,DATE,,,en,1
-election season,election season,DATE,,,en,1
-08/21/2025 9:59:28 AM PDT,08/21/2025 9:59:28 AM PDT,TIME,,,en,1
-Jesus Revolution,Jesus Revolution,WORK_OF_ART,,,en,1
-Biebers,Biebers,PRODUCT,,,en,1
-3minutesAre,3minutesAre,CARDINAL,,,en,1
-"April 9, 2005","April 9, 2005",DATE,,,en,1
-August 21st,August 21st,DATE,,,en,1
-58,58,DATE,,,en,1
-Steel Dome',Steel Dome',FAC,,,en,1
-First Take,First Take,WORK_OF_ART,,,en,1
-"Friday, August 29","Friday, August 29",DATE,,,en,1
-fall 2025,fall 2025,DATE,,,en,1
-Fall 2026,Fall 2026,EVENT,,,en,1
-Risky Plan,Risky Plan,WORK_OF_ART,,,en,1
-At Home,At Home,WORK_OF_ART,,,en,1
-a second season of,a second season of,DATE,,,en,1
-New Tyson Fury Documentary in Production,New Tyson Fury Documentary in Production,PRODUCT,,,en,1
-Ready to Hit Back',Ready to Hit Back',WORK_OF_ART,,,en,1
-last years,last years,DATE,,,en,1
-"With Love, Meghan"" Seaso","With Love, Meghan"" Seaso",WORK_OF_ART,,,en,1
+Flight 10,Flight 10,PRODUCT,,,en,1
+multi-day,multi-day,DATE,,,en,1
+the month of Se…,the month of Se…,DATE,,,en,1
+AI Revolution,AI Revolution,EVENT,,,en,1
+$200 million,$200 million,MONEY,,,en,1
+Spice Girl’s,Spice Girl’s,PRODUCT,,,en,1
+"""News Central","""News Central",WORK_OF_ART,,,en,1
+Flight 10s Star,Flight 10s Star,PRODUCT,,,en,1
++1128 chars,+1128 chars,WORK_OF_ART,,,en,1
+18th,18th,ORDINAL,,,en,1
+Starship Flight 10,Starship Flight 10,PRODUCT,,,en,1
+Meet rich people at Burning Man,Meet rich people at Burning Man,WORK_OF_ART,,,en,1
+The Magic of Burning Man,The Magic of Burning Man,WORK_OF_ART,,,en,1
+"the Venice Film Festival
+","the Venice Film Festival
+",EVENT,,,en,1
+Mans,Mans,NORP,,,en,1
+Man’s Best Friend,Man’s Best Friend,WORK_OF_ART,,,en,1
+Patriots quart,Patriots quart,WORK_OF_ART,,,en,1
+August 28,August 28,DATE,,,en,1
+Summer,Summer,DATE,,,en,1
+28 Years Later's,28 Years Later's,DATE,,,en,1
++1243,+1243,NORP,,,en,1
 "With Love, Meghan"" season 2","With Love, Meghan"" season 2",WORK_OF_ART,,,en,1
 Kids Are Her Little Helpers on the Set of Her Netflix Show,Kids Are Her Little Helpers on the Set of Her Netflix Show,WORK_OF_ART,,,en,1
+only one,only one,CARDINAL,,,en,1
+This… There's only one story,This… There's only one story,WORK_OF_ART,,,en,1
 LGBTQ+ Catholic,LGBTQ+ Catholic,NORP,,,en,1
 "89,451","89,451",CARDINAL,,,en,1
 August 31,August 31,DATE,,,en,1
-+1243,+1243,NORP,,,en,1
+This Year,This Year,DATE,,,en,1
+Locked In,Locked In,WORK_OF_ART,,,en,1
+Aug. 25,Aug. 25,DATE,,,en,1
 Early 2026 @,Early 2026 @,TIME,,,en,1
+$150 Million,$150 Million,MONEY,,,en,1
 Early 2026,Early 2026,DATE,,,en,1
-this Labor Day weekend,this Labor Day weekend,DATE,,,en,1
-Summer House,Summer House,WORK_OF_ART,,,en,1
+26 percent,26 percent,PERCENT,,,en,1
+112.7 million pound,112.7 million pound,QUANTITY,,,en,1
+Locked In” @,Locked In” @,WORK_OF_ART,,,en,1
+August 25,August 25,DATE,,,en,1
+08/26/2025 2:27:30 PM PDT,08/26/2025 2:27:30 PM PDT,TIME,,,en,1
+Zelensky Moment' During Trump Meeting,Zelensky Moment' During Trump Meeting,WORK_OF_ART,,,en,1
+"September 23, 2001","September 23, 2001",DATE,,,en,1
+Sycophancy,Sycophancy,NORP,,,en,1
+Two years,Two years,DATE,,,en,1
+At least 21,At least 21,CARDINAL,,,en,1
+$2 trillion,$2 trillion,MONEY,,,en,1
+Five months,Five months,DATE,,,en,1
+As Europe Rearms,As Europe Rearms,NORP,,,en,1
+the most defining days,the most defining days,DATE,,,en,1
+"30,000 square metres","30,000 square metres",QUANTITY,,,en,1
+The Art of the Deal,The Art of the Deal,WORK_OF_ART,,,en,1
+2025One morning,2025One morning,TIME,,,en,1
+"2025
+","2025
+",QUANTITY,,,en,1
+58,58,DATE,,,en,1
+Nearly a quarter-century ago,Nearly a quarter-century ago,DATE,,,en,1
+"Sept. 23, 2001","Sept. 23, 2001",DATE,,,en,1
+the second half,the second half,DATE,,,en,1
 Steel Dome,Steel Dome,FAC,,,en,1
+55,55,DATE,,,en,1
+the 2003 season,the 2003 season,DATE,,,en,1
+Aug. 29,Aug. 29,DATE,,,en,1
+Straight Line,Straight Line,EVENT,,,en,1
+September 6.</li><li,September 6.</li><li,DATE,,,en,1
+The Venice Film Festival,The Venice Film Festival,EVENT,,,en,1
+The Art of the D,The Art of the D,WORK_OF_ART,,,en,1
+Tears,Tears,WORK_OF_ART,,,en,1
+Not For The Pearl Clutchers,Not For The Pearl Clutchers,WORK_OF_ART,,,en,1
+One morning,One morning,TIME,,,en,1
+nearly 50 years ago,nearly 50 years ago,DATE,,,en,1
+4.9B,4.9B,MONEY,,,en,1
+Chine,Chine,PRODUCT,,,en,1
+at least 41,at least 41,CARDINAL,,,en,1
+A Dark Path,A Dark Path,WORK_OF_ART,,,en,1
+West Point,West Point,FAC,-0.22499999999999998,0.7,en,1
+Eurofight…,Eurofight…,NORP,,,en,1
+Rafale,Rafale,PRODUCT,,,en,1
+"nearly 1,000","nearly 1,000",CARDINAL,,,en,1
+"With Love, Meghan"" Seaso","With Love, Meghan"" Seaso",WORK_OF_ART,,,en,1
+last years,last years,DATE,,,en,1
+Ready to Hit Back',Ready to Hit Back',WORK_OF_ART,,,en,1
+democrat,democrat,NORP,,,en,1
+Tennesseans,Tennesseans,NORP,,,en,1
+Stakes Is High:,Stakes Is High:,WORK_OF_ART,,,en,1
+"August 07, 2025","August 07, 2025",DATE,,,en,1
+the Jacob K. Javitz Federal Building,the Jacob K. Javitz Federal Building,FAC,,,en,1
+24 August 2025,24 August 2025,DATE,,,en,1
+Belgian,Belgian,NORP,,,en,1
+The Bear,The Bear,WORK_OF_ART,,,en,1
+Cracker Barrel,Cracker Barrel,FAC,,,en,1
+2010,2010,DATE,,,en,1
+This Is Insane,This Is Insane,WORK_OF_ART,,,en,1
+"Screenshot
+","Screenshot
+",WORK_OF_ART,,,en,1
+earlier this summer,earlier this summer,DATE,,,en,1
+our good year 2025,our good year 2025,DATE,,,en,1
+Swag II,Swag II,WORK_OF_ART,,,en,1
+Love & Other Drugs' ',Love & Other Drugs' ',WORK_OF_ART,,,en,1
++3170,+3170,NORP,,,en,1
+next Saturday,next Saturday,DATE,,,en,1
+September 13,September 13,DATE,,,en,1
+Swag II' Album Release,Swag II' Album Release,WORK_OF_ART,,,en,1
+September 5,September 5,DATE,,,en,1
+28 YEARS LATER,28 YEARS LATER,DATE,,,en,1
+Gen Z ',Gen Z ',PRODUCT,,,en,1
+Twenty-two-year-old,Twenty-two-year-old,CARDINAL,,,en,1
+age 30,age 30,DATE,,,en,1
+About One,About One,CARDINAL,,,en,1
+Monday marks,Monday marks,DATE,,,en,1
+3rd,3rd,ORDINAL,,,en,1
+nearly $22 million,nearly $22 million,MONEY,,,en,1
++6889 chars,+6889 chars,WORK_OF_ART,,,en,1
+the UBS Arena,the UBS Arena,EVENT,,,en,1
+"Sunday, Sept. 7","Sunday, Sept. 7",DATE,,,en,1
+Moon Person,Moon Person,WORK_OF_ART,,,en,1
+View Entire Post,View Entire Post,WORK_OF_ART,,,en,1
+Dem,Dem,NORP,,,en,1
+Arch Manning's,Arch Manning's,FAC,,,en,1
+32 years old,32 years old,DATE,,,en,1
+Paraguay Seal World Cup Spots,Paraguay Seal World Cup Spots,EVENT,,,en,1
+New Tyson Fury Documentary in Production,New Tyson Fury Documentary in Production,PRODUCT,,,en,1
+this Labor Day weekend,this Labor Day weekend,DATE,,,en,1
+A Week,A Week,DATE,,,en,1
+the U.S. Open,the U.S. Open,FAC,,,en,1
+Celebrity Substitute’ Returns for Season 2,Celebrity Substitute’ Returns for Season 2,WORK_OF_ART,,,en,1
+"May 14, 2025","May 14, 2025",DATE,,,en,1
 May 8,May 8,DATE,,,en,1
+Summer House,Summer House,WORK_OF_ART,,,en,1
+"Friday, August 29","Friday, August 29",DATE,,,en,1
+fall 2025,fall 2025,DATE,,,en,1
+First Take,First Take,WORK_OF_ART,,,en,1
+Fall 2026,Fall 2026,EVENT,,,en,1
+2013,2013,DATE,,,en,1
+just hours,just hours,TIME,,,en,1
+Risky Plan,Risky Plan,WORK_OF_ART,,,en,1
++3613,+3613,NORP,,,en,1
+At Home,At Home,WORK_OF_ART,,,en,1
+a second season of,a second season of,DATE,,,en,1
++2065 chars,+2065 chars,WORK_OF_ART,,,en,1
+Out For Cold Energy,Out For Cold Energy,WORK_OF_ART,,,en,1
+The Atlantic Festival Announces Interview,The Atlantic Festival Announces Interview,EVENT,,,en,1
+Sept. 18,Sept. 18,DATE,,,en,1
 September 4,September 4,DATE,,,en,1
+Love & Other Drugs,Love & Other Drugs,WORK_OF_ART,,,en,1
 its 11 days,its 11 days,DATE,,,en,1
 Day 2,Day 2,DATE,,,en,1
 Mirans,Mirans,NORP,,,en,1
 PhD,PhD,PRODUCT,,,en,1
 09/04/2025 1:40:27 PM PDT,09/04/2025 1:40:27 PM PDT,TIME,,,en,1
+20250823,20250823,CARDINAL,,,en,1
 Mamdani,Mamdani,PRODUCT,,,en,1
 300-acre,300-acre,CARDINAL,,,en,1
+"August 24, 2025","August 24, 2025",DATE,,,en,1
 the same morning,the same morning,TIME,,,en,1
 Kill Her Netflix Show After Taylor Swift's,Kill Her Netflix Show After Taylor Swift's,WORK_OF_ART,,,en,1
 A House of Dynamite,A House of Dynamite,WORK_OF_ART,,,en,1
-Sept. 18,Sept. 18,DATE,,,en,1
-The Atlantic Festival Announces Interview,The Atlantic Festival Announces Interview,EVENT,,,en,1
-Out For Cold Energy,Out For Cold Energy,WORK_OF_ART,,,en,1
-+2065 chars,+2065 chars,WORK_OF_ART,,,en,1
-Celebrity Substitute’ Returns for Season 2,Celebrity Substitute’ Returns for Season 2,WORK_OF_ART,,,en,1
-"May 14, 2025","May 14, 2025",DATE,,,en,1
-Locked In” @,Locked In” @,WORK_OF_ART,,,en,1
-Locked In,Locked In,WORK_OF_ART,,,en,1
-18th,18th,ORDINAL,,,en,1
-August 28,August 28,DATE,,,en,1
-West Point,West Point,FAC,-0.22499999999999998,0.7,en,1
-Eurofight…,Eurofight…,NORP,,,en,1
-Straight Line,Straight Line,EVENT,,,en,1
-Aug. 29,Aug. 29,DATE,,,en,1
-the 2003 season,the 2003 season,DATE,,,en,1
-55,55,DATE,,,en,1
-Sycophancy,Sycophancy,NORP,,,en,1
-Two years,Two years,DATE,,,en,1
-At least 21,At least 21,CARDINAL,,,en,1
-$2 trillion,$2 trillion,MONEY,,,en,1
-the most defining days,the most defining days,DATE,,,en,1
-"September 23, 2001","September 23, 2001",DATE,,,en,1
-2025One morning,2025One morning,TIME,,,en,1
-"2025
-","2025
-",QUANTITY,,,en,1
-Nearly a quarter-century ago,Nearly a quarter-century ago,DATE,,,en,1
-"Sept. 23, 2001","Sept. 23, 2001",DATE,,,en,1
-the second half,the second half,DATE,,,en,1
-A Dark Path,A Dark Path,WORK_OF_ART,,,en,1
-at least 41,at least 41,CARDINAL,,,en,1
-4.9B,4.9B,MONEY,,,en,1
-The Magic of Burning Man,The Magic of Burning Man,WORK_OF_ART,,,en,1
-multi-day,multi-day,DATE,,,en,1
-AI Revolution,AI Revolution,EVENT,,,en,1
-$200 million,$200 million,MONEY,,,en,1
-Flight 10s Star,Flight 10s Star,PRODUCT,,,en,1
-Flight 10,Flight 10,PRODUCT,,,en,1
-Starship Flight 10,Starship Flight 10,PRODUCT,,,en,1
-Meet rich people at Burning Man,Meet rich people at Burning Man,WORK_OF_ART,,,en,1
-"the Venice Film Festival
-","the Venice Film Festival
-",EVENT,,,en,1
-nearly 50 years ago,nearly 50 years ago,DATE,,,en,1
-Mans,Mans,NORP,,,en,1
-Man’s Best Friend,Man’s Best Friend,WORK_OF_ART,,,en,1
-Patriots quart,Patriots quart,WORK_OF_ART,,,en,1
-September 6.</li><li,September 6.</li><li,DATE,,,en,1
-The Venice Film Festival,The Venice Film Festival,EVENT,,,en,1
-Tears,Tears,WORK_OF_ART,,,en,1
-Not For The Pearl Clutchers,Not For The Pearl Clutchers,WORK_OF_ART,,,en,1
-2025-10-24,2025-10-24,DATE,,,en,1
+2025Kyiv,2025Kyiv,CARDINAL,,,en,1
+Fox & Friends,Fox & Friends,WORK_OF_ART,,,en,1
+Camden Town Hall,Camden Town Hall,FAC,,,en,1
+mon,mon,TIME,,,en,1
+96%,96%,PERCENT,,,en,1
+the Valention Spring/Summer 2026,the Valention Spring/Summer 2026,EVENT,,,en,1
+20 minutes,20 minutes,TIME,,,en,1
+Sunday Morning Futures,Sunday Morning Futures,WORK_OF_ART,,,en,1
++10065 chars,+10065 chars,WORK_OF_ART,,,en,1
+More than two years,More than two years,DATE,,,en,1
+a More than two years,a More than two years,DATE,,,en,1
+Iconic Thriller,Iconic Thriller,PRODUCT,,,en,1
+Paris Fashion Week 2025,Paris Fashion Week 2025,EVENT,,,en,1
+0.8%,0.8%,PERCENT,,,en,1
+Farkers,Farkers,NORP,,,en,1
+a quarter century ago,a quarter century ago,DATE,,,en,1
+10/04/2025 5:28:59 AM PDT,10/04/2025 5:28:59 AM PDT,TIME,,,en,1
+Good Will Hunting,Good Will Hunting,WORK_OF_ART,,,en,1
++2593 chars,+2593 chars,WORK_OF_ART,,,en,1
+Gone Baby Gone,Gone Baby Gone,WORK_OF_ART,,,en,1
+1997s,1997s,DATE,,,en,1
+Sunday afternoon,Sunday afternoon,TIME,,,en,1
+"The Gate… Diella, Albanias new AI","The Gate… Diella, Albanias new AI",FAC,,,en,1
+Gutfeld,Gutfeld,WORK_OF_ART,,,en,1
+less than a day,less than a day,DATE,,,en,1
+The Nobel Prize in Physiology or Medicine 2025,The Nobel Prize in Physiology or Medicine 2025,WORK_OF_ART,,,en,1
+Nobel Prize in Physiology or Medicine 2025,Nobel Prize in Physiology or Medicine 2025,WORK_OF_ART,,,en,1
++1574,+1574,NORP,,,en,1
+Aug. 15,Aug. 15,DATE,,,en,1
+Apple,Apple,PRODUCT,,,en,1
+only 26 days,only 26 days,DATE,,,en,1
+TV+,TV+,PRODUCT,,,en,1
+less than 12 hours,less than 12 hours,TIME,,,en,1
+Constitution,Constitution,LAW,,,en,1
+27 days,27 days,DATE,,,en,1
+Monday morning,Monday morning,TIME,,,en,1
+This years Nobel Prize,This years Nobel Prize,TIME,,,en,1
+Apple TV+,Apple TV+,PRODUCT,,,en,1
+8 hours,8 hours,TIME,,,en,1
+the Valentino spring 2026,the Valentino spring 2026,EVENT,,,en,1
+2026 runway,2026 runway,EVENT,,,en,1
+Hollywoods,Hollywoods,FAC,,,en,1
+Just Give Me My Show Back,Just Give Me My Show Back,WORK_OF_ART,,,en,1
+“The Lead”,“The Lead”,WORK_OF_ART,,,en,1
+The Right” For Government Shutdown,The Right” For Government Shutdown,WORK_OF_ART,,,en,1
++1702,+1702,NORP,,,en,1
+Heeere’s Johnny,Heeere’s Johnny,WORK_OF_ART,,,en,1
+Velvet Glove,Velvet Glove,WORK_OF_ART,,,en,1
+“State of the Union,“State of the Union,WORK_OF_ART,,,en,1
+Over Tonight Show,Over Tonight Show,TIME,,,en,1
+This Week,This Week,DATE,,,en,1
+They’re Not Helping,They’re Not Helping,WORK_OF_ART,,,en,1
+Limey,Limey,NORP,,,en,1
+2025-10-04,2025-10-04,DATE,,,en,1
+'The Collector','The Collector',WORK_OF_ART,,,en,1
+the age of 87,the age of 87,DATE,,,en,1
+At least three,At least three,CARDINAL,,,en,1
+At least six,At least six,CARDINAL,,,en,1
+the Cold War,the Cold War,EVENT,,,en,1
+1947,1947,DATE,,,en,1
+the 1960s,the 1960s,DATE,,,en,1
+Charli xcx,Charli xcx,FAC,,,en,1
+more than 30 years,more than 30 years,DATE,,,en,1
+Page Six,Page Six,WORK_OF_ART,,,en,1
+Song Sung Blue,Song Sung Blue,WORK_OF_ART,,,en,1
+the Albie Awards,the Albie Awards,EVENT,,,en,1
+the Dallas Cowboys,the Dallas Cowboys,FAC,,,en,1
+24-4,24-4,DATE,,,en,1
+Navratri,Navratri,NORP,,,en,1
+Zuffa Boxing,Zuffa Boxing,WORK_OF_ART,,,en,1
+Saturday night,Saturday night,TIME,,,en,1
+the ANB Arena,the ANB Arena,FAC,,,en,1
+Extraordinary,Extraordinary,WORK_OF_ART,,,en,1
+Sparkling Silver Top,Sparkling Silver Top,WORK_OF_ART,,,en,1
+May 2024,May 2024,DATE,,,en,1
+R,R,NORP,,,en,1
+Cherry Valley,Cherry Valley,WORK_OF_ART,0.3,0.5,en,1
++17544,+17544,NORP,,,en,1
+Song Sung,Song Sung,WORK_OF_ART,,,en,1
+Wake Up Dead Man: A Knives Out Mystery,Wake Up Dead Man: A Knives Out Mystery,WORK_OF_ART,,,en,1
+Nobel Medicine Prize,Nobel Medicine Prize,WORK_OF_ART,,,en,1
+a mere three years ago,a mere three years ago,DATE,,,en,1
+€3.5m,€3.5m,MONEY,,,en,1
++422 chars,+422 chars,WORK_OF_ART,,,en,1
+about six months,about six months,DATE,,,en,1
+"August 20, 2024","August 20, 2024",DATE,,,en,1
+10/06/2025 2:46:56 PM PDT,10/06/2025 2:46:56 PM PDT,TIME,,,en,1
+Oct. 6th,Oct. 6th,DATE,,,en,1
+a little over a month,a little over a month,DATE,,,en,1
+1984,1984,DATE,,,en,1
+NYC street corner co-,NYC street corner co-,FAC,,,en,1
+160,160,CARDINAL,,,en,1
+Eleftherios Venizelos International Airport,Eleftherios Venizelos International Airport,FAC,,,en,1
+161,161,CARDINAL,,,en,1
++1255 chars,+1255 chars,WORK_OF_ART,,,en,1
+Fate of Ophelia,Fate of Ophelia,WORK_OF_ART,,,en,1
+Oct. 7,Oct. 7,DATE,,,en,1
+73,73,DATE,,,en,1
+Steel Dome',Steel Dome',FAC,,,en,1
+20%,20%,PERCENT,,,en,1
+just 14 hours,just 14 hours,TIME,,,en,1
+August 2024,August 2024,DATE,,,en,1
+52nd,52nd,ORDINAL,,,en,1
+the beginning of September,the beginning of September,DATE,,,en,1
++1069,+1069,NORP,,,en,1
+Alpha Male’ Act Falls Apart Around Putin,Alpha Male’ Act Falls Apart Around Putin,WORK_OF_ART,,,en,1
+Last year,Last year,DATE,,,en,1
+alpha male”,alpha male”,WORK_OF_ART,,,en,1
+Nobel Prize for Physics,Nobel Prize for Physics,WORK_OF_ART,,,en,1
+sca,sca,PRODUCT,,,en,1
+The Nobel Prize in Physics 2025,The Nobel Prize in Physics 2025,WORK_OF_ART,,,en,1
+Nobel Prize in Physics Awarded,Nobel Prize in Physics Awarded,WORK_OF_ART,,,en,1
+The Devil Wears Prada 2’ Flat Shoe Club,The Devil Wears Prada 2’ Flat Shoe Club,WORK_OF_ART,,,en,1
+Saturday Night Liveto,Saturday Night Liveto,TIME,,,en,1
+"The Devil Wears Prada 2""","The Devil Wears Prada 2""",WORK_OF_ART,,,en,1
+It Is An Emergency”,It Is An Emergency”,WORK_OF_ART,,,en,1
+The Devil Wears Prada 2”,The Devil Wears Prada 2”,WORK_OF_ART,,,en,1
+10/06/2025 6:40:45 PM PDT,10/06/2025 6:40:45 PM PDT,TIME,,,en,1
+10/06/2025,10/06/2025,MONEY,,,en,1
+October 6,October 6,DATE,,,en,1
++5050 chars,+5050 chars,WORK_OF_ART,,,en,1
+"December 10, 2025","December 10, 2025",DATE,,,en,1
+the 2025 Nobel Prize in Physiology or Medicine for &,the 2025 Nobel Prize in Physiology or Medicine for &,WORK_OF_ART,,,en,1
+Superman Are the Perfect Odd Pair,Superman Are the Perfect Odd Pair,WORK_OF_ART,,,en,1
+Gestapo,Gestapo,NORP,,,en,1
+Memorial Day,Memorial Day,DATE,,,en,1
+Oct 6).The,Oct 6).The,DATE,,,en,1
+Nobel prize in medicine,Nobel prize in medicine,WORK_OF_ART,,,en,1
++2382 chars,+2382 chars,WORK_OF_ART,,,en,1
+Nobel Prize in Physiology or Medicine Awarded for Discoveries Key to Treating Autoimmune Disease,Nobel Prize in Physiology or Medicine Awarded for Discoveries Key to Treating Autoimmune Disease,WORK_OF_ART,,,en,1
+nobel prize,nobel prize,WORK_OF_ART,,,en,1
+the past year and a half,the past year and a half,DATE,,,en,1
+Nobel Prize for Physiology or Medicine,Nobel Prize for Physiology or Medicine,WORK_OF_ART,,,en,1
+202,202,CARDINAL,,,en,1
+130,130,CARDINAL,,,en,1
+just minutes,just minutes,TIME,,,en,1
+the Nobel Prize in Physiology or Medicine,the Nobel Prize in Physiology or Medicine,WORK_OF_ART,,,en,1
+Putin summit,Putin summit,FAC,,,en,1
+The Gateway Pundi,The Gateway Pundi,FAC,,,en,1
+14 hours,14 hours,TIME,,,en,1
+April 2023,April 2023,DATE,,,en,1
+'The Life of a Showgirl,'The Life of a Showgirl,WORK_OF_ART,,,en,1
+The Life of a Showgirlfor,The Life of a Showgirlfor,WORK_OF_ART,,,en,1
+the summer of 2024,the summer of 2024,DATE,,,en,1
++3340 chars,+3340 chars,WORK_OF_ART,,,en,1
+"Thursday, October 2","Thursday, October 2",DATE,,,en,1
+"July 8, 2025","July 8, 2025",DATE,,,en,1
+almost a quarter,almost a quarter,CARDINAL,,,en,1
+Petty,Petty,WORK_OF_ART,,,en,1
+the Nobel Awards of 2025,the Nobel Awards of 2025,WORK_OF_ART,,,en,1
+1995,1995,DATE,,,en,1
+the Nobel Prize in Medicine,the Nobel Prize in Medicine,WORK_OF_ART,,,en,1
+Nobel Prize in Medicine:,Nobel Prize in Medicine:,WORK_OF_ART,,,en,1
+Modi,Modi,WORK_OF_ART,0.0,0.0,en,1
+the 2025 Nobel Prize in Physiology or Medicine for their discoveries,the 2025 Nobel Prize in Physiology or Medicine for their discoveries,WORK_OF_ART,,,en,1
+Win Nobel Prize,Win Nobel Prize,WORK_OF_ART,,,en,1
++2414 chars,+2414 chars,WORK_OF_ART,,,en,1
+1999,1999,DATE,,,en,1
+Superman and The Adventures of Priscilla,Superman and The Adventures of Priscilla,WORK_OF_ART,,,en,1
+Primetime,Primetime,WORK_OF_ART,,,en,1
+Friday morning,Friday morning,TIME,,,en,1
+episode last week,episode last week,DATE,,,en,1
+Beef,Beef,WORK_OF_ART,,,en,1
+Lead Peacock Series,Lead Peacock Series,EVENT,,,en,1
+sunny days,sunny days,DATE,,,en,1
+Cool Berlin Mini Dress Proves Brown Is In For Fall,Cool Berlin Mini Dress Proves Brown Is In For Fall,WORK_OF_ART,,,en,1
+Moroccan,Moroccan,NORP,,,en,1
+Old John’s Luncheonette,Old John’s Luncheonette,FAC,,,en,1
+six-day,six-day,DATE,,,en,1
+1938,1938,DATE,,,en,1
+past two minutes,past two minutes,TIME,,,en,1
+Sept. 10,Sept. 10,DATE,,,en,1
+'Drink a Beer,'Drink a Beer,WORK_OF_ART,,,en,1
+Mob Boss,Mob Boss,WORK_OF_ART,,,en,1
+'Mob Boss','Mob Boss',WORK_OF_ART,,,en,1
+Special Forces: World’s Toughest Test,Special Forces: World’s Toughest Test,WORK_OF_ART,,,en,1
+the end of next year,the end of next year,DATE,,,en,1
++3169,+3169,NORP,,,en,1
+"Friday, June 21, 2019","Friday, June 21, 2019",DATE,,,en,1
+Battle After Another’ Begins,Battle After Another’ Begins,WORK_OF_ART,,,en,1
+Jesse Watters Primetime,Jesse Watters Primetime,WORK_OF_ART,,,en,1
+2025-09-26,2025-09-26,DATE,,,en,1
+20 years,20 years,DATE,,,en,1
+Honeymoon with Harry,Honeymoon with Harry,WORK_OF_ART,,,en,1
+more than half,more than half,CARDINAL,,,en,1
+Sep,Sep,DATE,,,en,1
+mid-20th-century,mid-20th-century,DATE,,,en,1
+Many Years,Many Years,DATE,,,en,1
+11:51:13,11:51:13,PRODUCT,,,en,1
+Dirty Cop,Dirty Cop,WORK_OF_ART,,,en,1
+Paid Off” Match @,Paid Off” Match @,WORK_OF_ART,,,en,1
+FIFA World Cup,FIFA World Cup,EVENT,,,en,1
+the Gaza war,the Gaza war,EVENT,,,en,1
+Thurs,Thurs,DATE,,,en,1
+Mystery Meeting,Mystery Meeting,WORK_OF_ART,,,en,1
+the Oval Office,the Oval Office,FAC,,,en,1
+Paid Off” Match,Paid Off” Match,WORK_OF_ART,,,en,1
+Seven,Seven,CARDINAL,,,en,1
+Season 4 premieres Sept. 25,Season 4 premieres Sept. 25,DATE,,,en,1
+In Special Forces,In Special Forces,WORK_OF_ART,,,en,1
++7775 chars,+7775 chars,WORK_OF_ART,,,en,1
+My Mother and I,My Mother and I,WORK_OF_ART,,,en,1
+The View Break Silence,The View Break Silence,WORK_OF_ART,,,en,1
+Months,Months,DATE,,,en,1
+Nearly one week,Nearly one week,DATE,,,en,1
+53,53,DATE,,,en,1
+201,201,CARDINAL,,,en,1
+Comments,Comments,WORK_OF_ART,,,en,1
+recent weeks,recent weeks,DATE,,,en,1
+The Sordid U.S. Plan for the Post-Genocide,The Sordid U.S. Plan for the Post-Genocide,WORK_OF_ART,,,en,1
+the Theatre du Chatelet,the Theatre du Chatelet,FAC,,,en,1
+Real Estate Bonanza,Real Estate Bonanza,WORK_OF_ART,,,en,1
+Franc,Franc,WORK_OF_ART,,,en,1
+My Mot,My Mot,WORK_OF_ART,,,en,1
+"August 2, 2025","August 2, 2025",DATE,,,en,1
+"100,000-a","100,000-a",MONEY,,,en,1
+"August 22, 2025","August 22, 2025",DATE,,,en,1
++4711 chars],+4711 chars],WORK_OF_ART,,,en,1
+"a measly $25,000","a measly $25,000",MONEY,,,en,1
+Over 400,Over 400,CARDINAL,,,en,1
++6188 chars,+6188 chars,WORK_OF_ART,,,en,1
+Reading Time,Reading Time,WORK_OF_ART,,,en,1
+69th,69th,ORDINAL,,,en,1
+69 seasons since,69 seasons since,DATE,,,en,1
+76,76,DATE,,,en,1
+RHONJ,RHONJ,WORK_OF_ART,,,en,1
++25141 chars,+25141 chars,WORK_OF_ART,,,en,1
+"4,100","4,100",CARDINAL,,,en,1
+Real Housewives of New Jersey,Real Housewives of New Jersey,WORK_OF_ART,,,en,1
+September 22nd,September 22nd,DATE,,,en,1
+A Used Empty Beer,A Used Empty Beer,WORK_OF_ART,,,en,1
+late night,late night,TIME,,,en,1
+Jimmy will Say What Jimmy Wants To Say,Jimmy will Say What Jimmy Wants To Say,WORK_OF_ART,,,en,1
+Hosts Condemn Censorship – Report,Hosts Condemn Censorship – Report,WORK_OF_ART,,,en,1
++4934,+4934,NORP,,,en,1
+Late-night,Late-night,TIME,,,en,1
+3minutesConsider,3minutesConsider,CARDINAL,,,en,1
+Air Force One,Air Force One,PRODUCT,,,en,1
+decade,decade,DATE,,,en,1
+over 20 years,over 20 years,DATE,,,en,1
+only Tuesday,only Tuesday,DATE,,,en,1
+M3M Hurun India Rich List 2025,M3M Hurun India Rich List 2025,PRODUCT,,,en,1
+100,100,CARDINAL,,,en,1
+June 2024,June 2024,DATE,,,en,1
+14th,14th,ORDINAL,,,en,1
+Sentebale,Sentebale,NORP,,,en,1
+Terrifying’ Film Festival Reveal,Terrifying’ Film Festival Reveal,WORK_OF_ART,,,en,1
+Sept. 29,Sept. 29,DATE,,,en,1
+Lesotho,Lesotho,NORP,,,en,1
+Facebook,Facebook,WORK_OF_ART,,,en,1
+Niger,Niger,NORP,,,en,1
+Actress,Actress,WORK_OF_ART,,,en,1
+Middle Eastern,Middle Eastern,NORP,,,en,1
+Sep 29,Sep 29,DATE,,,en,1
+September 29,September 29,DATE,,,en,1
+"Thursday, Sept. 25","Thursday, Sept. 25",DATE,,,en,1
+Next Day,Next Day,DATE,,,en,1
+9.55 lakh crore,9.55 lakh crore,MONEY,,,en,1
+Ambani,Ambani,NORP,,,en,1
+Indians,Indians,NORP,,,en,1
+indians,indians,NORP,,,en,1
+1960s,1960s,DATE,,,en,1
+THIRD QUARTER,THIRD QUARTER,DATE,,,en,1
+late Wednesday,late Wednesday,TIME,,,en,1
+recent decades,recent decades,DATE,,,en,1
+some 50,some 50,CARDINAL,,,en,1
+"this Friday, Oct. 3","this Friday, Oct. 3",DATE,,,en,1
+‘Life of a Showgirl,‘Life of a Showgirl,WORK_OF_ART,,,en,1
+early Sunday morning,early Sunday morning,TIME,,,en,1
+late-nights,late-nights,DATE,,,en,1
+September 27,September 27,DATE,,,en,1
+Thirty-three-year-old,Thirty-three-year-old,DATE,,,en,1
+Her Wedding Reception,Her Wedding Reception,EVENT,,,en,1
+Modern Fairytale Princess,Modern Fairytale Princess,WORK_OF_ART,,,en,1
+"12,490 crore","12,490 crore",MONEY,,,en,1
+Rs 3.4 lakh crore,Rs 3.4 lakh crore,MONEY,,,en,1
+January 6th,January 6th,DATE,,,en,1
+YouTube,YouTube,PRODUCT,,,en,1
+“The Smashing Machine’s,“The Smashing Machine’s,WORK_OF_ART,,,en,1
+25th,25th,ORDINAL,,,en,1
+Snubbing Her At Her Star-Studded Wedding To Benny Blanco,Snubbing Her At Her Star-Studded Wedding To Benny Blanco,WORK_OF_ART,,,en,1
+Glimpse at Wedding,Glimpse at Wedding,WORK_OF_ART,,,en,1
++1203,+1203,NORP,,,en,1
+65,65,CARDINAL,,,en,1
+Real Time,Real Time,WORK_OF_ART,,,en,1
+"Friday, September 26","Friday, September 26",DATE,,,en,1
+The Royal Butler:,The Royal Butler:,WORK_OF_ART,,,en,1
+09/26/2025 6:24:52 PM PDT,09/26/2025 6:24:52 PM PDT,TIME,,,en,1
+2021,2021,DATE,,,en,1
+over $450 million,over $450 million,MONEY,,,en,1
+Oleksandr,Oleksandr,WORK_OF_ART,,,en,1
+A day,A day,DATE,,,en,1
+September 26,September 26,DATE,,,en,1
+just three days earlier,just three days earlier,DATE,,,en,1
+Thursdays,Thursdays,DATE,,,en,1
+the Undisputed Heavyweight Champion Holds the Power to Choose His Next,the Undisputed Heavyweight Champion Holds the Power to Choose His Next,WORK_OF_ART,,,en,1
+Mom Thrilled Her Grandfather,Mom Thrilled Her Grandfather,WORK_OF_ART,,,en,1
+The Royal Butler: My Remarkable Life of Royal Service,The Royal Butler: My Remarkable Life of Royal Service,WORK_OF_ART,,,en,1
+Battle After Another tops,Battle After Another tops,WORK_OF_ART,,,en,1
+$22 million,$22 million,MONEY,,,en,1
+Board of Peace,Board of Peace,EVENT,,,en,1
+00:03:49'McIlroy,00:03:49'McIlroy,DATE,,,en,1
+Getaway Weekend,Getaway Weekend,DATE,,,en,1
++1546 chars,+1546 chars,WORK_OF_ART,,,en,1
+Face in Family Rift',Face in Family Rift',WORK_OF_ART,,,en,1
+09/29/2025 7:22:21 AM PDT,09/29/2025 7:22:21 AM PDT,TIME,,,en,1
+September 28,September 28,DATE,,,en,1
+8million,8million,MONEY,,,en,1
+Revenant,Revenant,PRODUCT,,,en,1
+Titanic,Titanic,EVENT,,,en,1
+Story Has Me Shook,Story Has Me Shook,WORK_OF_ART,,,en,1
+Little Kids' Are Out There Watching The Very R-Rated Wolf Of Wall Street,Little Kids' Are Out There Watching The Very R-Rated Wolf Of Wall Street,WORK_OF_ART,,,en,1
+This Past Weekend,This Past Weekend,DATE,,,en,1
+53 yr old,53 yr old,DATE,,,en,1
+August 18th,August 18th,DATE,,,en,1
++2173 chars,+2173 chars,WORK_OF_ART,,,en,1
