@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dana White',en,USA,#18e8e8,#18e8e8,2,0.608571632321
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.607144371518
 'Karol G',en,Kolumbien,#55dd44,#55dd44,2,0.605488298354
 'Duke Henri',en,Luxemburg,#44dd55,#44dd55,2,0.603333155274
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.579366525607
 'Olivia Nuzzi',en,USA,#18e8e8,#18e8e8,2,0.570637909161
+'Dana White',en,USA,#18e8e8,#18e8e8,3,0.557848169025
 'Yves Bournazel',en,Frankreich,#e8e808,#e8e808,2,0.509112846296
 'Lecornu II',en,Frankreich,#e8e808,#e8e808,2,0.501692578263
 'Lecornu II ',en,Frankreich,#e8e808,#e8e808,2,0.501352981752
@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.477517282153
 'Sanae Takaichi',en,Japan,#aa9933,#aa9933,2,0.475644230460
 'Mary Brunkow',en,USA,#18e8e8,#18e8e8,3,0.475534104976
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.474074237312
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.474761965584
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.473873753988
 'Sandy Hook',en,USA,#18e8e8,#18e8e8,3,0.470008918994
 'Ayatollah Khomeini',en,Iran,#117733,#117733,3,0.469961100602
@@ -73,10 +73,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Comey',en,USA,#18e8e8,#18e8e8,3,0.454207400272
 'Jason Kelce',en,USA,#18e8e8,#18e8e8,3,0.453767774718
 'Rupert Murdoch',en,USA,#18e8e8,#18e8e8,3,0.453153332076
+'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.451448660612
 'Leo XIV',en,Vatikan,#58b8e8,#58b8e8,3,0.451333412446
 'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.451152503340
 'Andy Cohen',en,USA,#18e8e8,#18e8e8,3,0.450328556310
-'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.449979065403
 'Vinod Khosla',en,Indien,#cc3388,#cc3388,1,0.449934143386
 'Ryan Gosling',en,Kanada,#443388,#443388,3,0.449767458733
 'Fred Ramsdel',en,USA,#18e8e8,#18e8e8,1,0.449127879511
