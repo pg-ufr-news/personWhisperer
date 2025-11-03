@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'RFK Jr',en,unknown,#111111,#111111,2,0.609335955901
-'Olivia Nuzzi',en,unknown,#111111,#111111,2,0.608941479279
-'Dana White',en,unknown,#111111,#111111,2,0.608571632321
-'Tig Notaro',en,unknown,#111111,#111111,2,0.607144371518
-'Karol G',en,unknown,#111111,#111111,2,0.605488298354
-'Duke Henri',en,unknown,#111111,#111111,2,0.603333155274
-'Yves Bournazel',en,unknown,#111111,#111111,2,0.509112846296
-'Lecornu II',en,unknown,#111111,#111111,2,0.501692578263
-'Lecornu II ',en,unknown,#111111,#111111,2,0.501352981752
+'RFK Jr',en,USA,#18e8e8,#18e8e8,2,0.609335955901
+'Olivia Nuzzi',en,USA,#18e8e8,#18e8e8,2,0.608941479279
+'Dana White',en,USA,#18e8e8,#18e8e8,2,0.608571632321
+'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.607144371518
+'Karol G',en,Kolumbien,#55dd44,#55dd44,2,0.605488298354
+'Duke Henri',en,Luxemburg,#44dd55,#44dd55,2,0.603333155274
+'Yves Bournazel',en,Frankreich,#e8e808,#e8e808,2,0.509112846296
+'Lecornu II',en,Frankreich,#e8e808,#e8e808,2,0.501692578263
+'Lecornu II ',en,Frankreich,#e8e808,#e8e808,2,0.501352981752
 'Shimon Sakaguchi',en,Japan,#aa9933,#aa9933,2,0.484671092789
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,3,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
