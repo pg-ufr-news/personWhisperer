@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Karol G',en,Kolumbien,#55dd44,#55dd44,2,0.605488298354
 'Duke Henri',en,Luxemburg,#44dd55,#44dd55,2,0.603333155274
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.579845587600
+'Karol G',en,Kolumbien,#55dd44,#55dd44,3,0.575716508601
 'Olivia Nuzzi',en,USA,#18e8e8,#18e8e8,2,0.570637909161
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.557848169025
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.552841572608
@@ -44,8 +44,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gervonta Davis',en,USA,#18e8e8,#18e8e8,3,0.462055296786
 'Angelina Jolie',en,USA,#18e8e8,#18e8e8,3,0.462026401800
 'Bret Baier',en,USA,#18e8e8,#18e8e8,3,0.461924151362
+'Justin Bieber',en,Kanada,#443388,#443388,3,0.461598068308
 'Eddie Hearn',en,UK,#e838e8,#e838e8,3,0.461122072315
-'Justin Bieber',en,Kanada,#443388,#443388,3,0.460884122390
 'Bronny James',en,USA,#18e8e8,#18e8e8,3,0.460857754997
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.460506658098
 'Dua Lipa',en,UK,#e838e8,#e838e8,3,0.460483511412
@@ -61,8 +61,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Margaret Qualley',en,USA,#18e8e8,#18e8e8,3,0.458040667690
 'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.457363383991
 'Jonathan Turley',en,USA,#18e8e8,#18e8e8,3,0.457309917243
+'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.457293472616
 'Susumu Kitagawa',en,Japan,#aa9933,#aa9933,3,0.456987835605
-'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.456570980117
 'Barry Keoghan',en,Irland,#3377bb,#3377bb,3,0.456275960037
 'Julia Roberts',en,USA,#18e8e8,#18e8e8,2,0.456099291141
 'Emily Blunt',en,UK,#e838e8,#e838e8,3,0.455865816274
@@ -183,6 +183,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hubert Aiwanger',en,unknown,#111111,#111111,2,0.419657048815
 'Missy Elliott',en,unknown,#111111,#111111,3,0.419531939644
 'Pedro Sánchez',en,Spanien,#9933aa,#9933aa,3,0.419341153747
+'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.419013170011
 'Charles Barkley',en,unknown,#111111,#111111,3,0.418708067440
 'António Guterres',en,unknown,#111111,#111111,3,0.418049004607
 'Zach Bryan',en,unknown,#111111,#111111,3,0.418025916489
@@ -193,16 +194,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince George',en,UK,#e838e8,#e838e8,3,0.416868143439
 'Matt Damon',en,USA,#18e8e8,#18e8e8,3,0.416754940017
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.416662112209
-'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.416615665659
 'Kim Kardashian',en,USA,#18e8e8,#18e8e8,3,0.416510826153
 'Emma Stone',en,unknown,#111111,#111111,3,0.416480825672
 'Jeff Ross',en,unknown,#111111,#111111,3,0.416120812153
 'Steve Wozniak',en,USA,#18e8e8,#18e8e8,2,0.415638761227
 'Milo Yiannopoulos',en,UK,#e838e8,#e838e8,2,0.415508421710
+'Gigi Hadid',en,unknown,#111111,#111111,3,0.415034072696
 'Reed Richards',en,unknown,#111111,#111111,3,0.414813802932
 'Ron Howard',en,unknown,#111111,#111111,3,0.414758369603
 'Laurent Berger',en,Frankreich,#e8e808,#e8e808,1,0.414454553945
-'Gigi Hadid',en,unknown,#111111,#111111,3,0.414228755485
 'Chuck Schumer',en,unknown,#111111,#111111,3,0.414209873304
 'Bill Belichick',en,unknown,#111111,#111111,3,0.414068102830
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.414062952533
@@ -278,6 +278,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jennifer Lopez',en,unknown,#111111,#111111,3,0.402736132108
 'Robert de Niro',en,USA,#18e8e8,#18e8e8,3,0.402531292008
 'Itamar Ben-Gvir',en,Israel,#22bb33,#22bb33,2,0.402333515500
+'Irina Shayk',en,unknown,#111111,#111111,2,0.402196993047
 'Mohammad Mustafa',en,Palestina,#cc2255,#cc2255,2,0.402074649681
 'Camille Etienne',en,Frankreich,#e8e808,#e8e808,2,0.401821122864
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.401415140630
@@ -289,7 +290,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tony Bennett',en,USA,#18e8e8,#18e8e8,3,0.401032850524
 'Hazel Monét',en,unknown,#111111,#111111,1,0.400920330148
 'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,1,0.400775127500
-'Irina Shayk',en,unknown,#111111,#111111,2,0.400535504422
 'Gayle King',en,unknown,#111111,#111111,3,0.400349976764
 'Sergio Mattarella',en,Italien,#773344,#773344,2,0.400192529602
 'Wang Wentao',en,China,#e88818,#e88818,3,0.399977764649
