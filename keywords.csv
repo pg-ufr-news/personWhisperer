@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Lecornu II',en,Frankreich,#e8e808,#e8e808,2,0.501692578263
 'Lecornu II ',en,Frankreich,#e8e808,#e8e808,2,0.501352981752
 'Olivia Nuzzi',en,USA,#18e8e8,#18e8e8,2,0.494531487464
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.488350998671
@@ -151,6 +150,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lewis Kaplan',en,USA,#18e8e8,#18e8e8,3,0.426689493116
 'Mark Cuban',en,USA,#18e8e8,#18e8e8,3,0.426541766659
 'Selena Gomez',en,USA,#18e8e8,#18e8e8,3,0.426535308877
+'Lecornu II',en,Frankreich,#e8e808,#e8e808,1,0.426438781524
 'James Comer',en,USA,#18e8e8,#18e8e8,3,0.425379648356
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.425273026891
 'Yorgos Lanthimos',en,Griechenland,#1858e8,#1858e8,3,0.425240472727
