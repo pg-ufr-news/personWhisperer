@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Karol G',en,Kolumbien,#55dd44,#55dd44,3,0.513860487311
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.511131530055
 'Yves Bournazel',en,Frankreich,#e8e808,#e8e808,2,0.509112846296
 'Lecornu II',en,Frankreich,#e8e808,#e8e808,2,0.501692578263
@@ -62,6 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jonathan Turley',en,USA,#18e8e8,#18e8e8,3,0.457309917243
 'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.457293472616
 'Susumu Kitagawa',en,Japan,#aa9933,#aa9933,3,0.456987835605
+'Karol G',en,Kolumbien,#55dd44,#55dd44,3,0.456650125594
 'Barry Keoghan',en,Irland,#3377bb,#3377bb,3,0.456275960037
 'Julia Roberts',en,USA,#18e8e8,#18e8e8,2,0.456099291141
 'Emily Blunt',en,UK,#e838e8,#e838e8,3,0.455865816274
@@ -165,24 +165,24 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sophie Turner',en,UK,#e838e8,#e838e8,3,0.423425345006
 'Robert Francis Prevost',en,Vatikan,#58b8e8,#58b8e8,2,0.423198726136
 'Billie Eilish',en,USA,#18e8e8,#18e8e8,3,0.423111061497
+'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.422978189424
 'Eva Green',en,Frankreich,#e8e808,#e8e808,3,0.422780644481
 'Lara Trump',en,USA,#18e8e8,#18e8e8,3,0.422640538046
 'Margot Robbie',en,Australien,#99aa33,#99aa33,3,0.422554254826
 'George Simion',en,Rumänien,#339922,#339922,1,0.422448298464
 'Joe Jonas',en,USA,#18e8e8,#18e8e8,3,0.422198423922
 'Curtis Yarvin',en,unknown,#111111,#111111,2,0.421648410108
-'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.421396792861
 'Jonathan Roumie',en,unknown,#111111,#111111,2,0.421390919455
 'Ehud Olmert',en,Israel,#22bb33,#22bb33,2,0.420906001870
 'Kylie Kelce',en,unknown,#111111,#111111,3,0.420843154715
 'Chuck Todd',en,USA,#18e8e8,#18e8e8,3,0.420678382977
 'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.420663919591
+'Missy Elliott',en,unknown,#111111,#111111,3,0.420327016635
 'Drake Maye',en,unknown,#111111,#111111,3,0.420042753686
 'Jennifer Morgan',en,unknown,#111111,#111111,3,0.419862032798
 'Pete Davidson',en,USA,#18e8e8,#18e8e8,3,0.419758405529
 'Cameron Brink',en,unknown,#111111,#111111,3,0.419719128376
 'Hubert Aiwanger',en,unknown,#111111,#111111,2,0.419657048815
-'Missy Elliott',en,unknown,#111111,#111111,3,0.419531939644
 'Pedro Sánchez',en,Spanien,#9933aa,#9933aa,3,0.419341153747
 'Charles Barkley',en,unknown,#111111,#111111,3,0.418708067440
 'António Guterres',en,unknown,#111111,#111111,3,0.418049004607
