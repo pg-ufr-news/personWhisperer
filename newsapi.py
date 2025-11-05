@@ -331,9 +331,6 @@ def removeDuplicates(df1):
 
 
 def archiveUrl(data):
-    #timetravelDate = datetime.datetime.strptime(data['published'], '%Y-%m-%d %H:%M:%S').strftime('%Y%m%d')
-    #pubDate = datetime.datetime.fromisoformat(data['published'])
-    #pubDate = parser.isoparse(data['published'])
     timetravelDate = '19700101'
     pubDate = None
     try:
@@ -347,51 +344,33 @@ def archiveUrl(data):
         print('date parse error 2')   
     if(pubDate):
         timetravelDate = pubDate.strftime('%Y%m%d')
-    timetravelUrl = 'http://timetravel.mementoweb.org/api/json/'+timetravelDate+'/'+data['url']
-    try:
-        page = requests.get(timetravelUrl, timeout=30)
+    #timetravelUrl = 'http://timetravel.mementoweb.org/api/json/'+timetravelDate+'/'+data['url']  #NO LONGER WORKING
+    timetravelUrl = 'http://archive.org/wayback/available?url='+data['url']+'&timestamp='+timetravelDate
+    #try:
+    if(1==1):
+        print(["try request", timetravelUrl])
+        page = requests.get(timetravelUrl, timeout=60)
         if page.status_code == 200:
             content = page.content
-            #print(content)
+            print(content)
             if(content):
                 #print(content)
                 jsonData = json.loads(content)
-                if(jsonData and jsonData['mementos']):
-                    data['archive'] = jsonData['mementos']['closest']['uri'][0]
-                    if('1970-01-01T00:00:00' == data['published']):
-                        data['published'] = jsonData['mementos']['closest']['datetime']
+                if(jsonData and ('archived_snapshots' in jsonData)):
+                  snapshots = jsonData['archived_snapshots']
+                  if('closest' in snapshots):
+                    closest = snapshots['closest']
+                    if('200'==closest['status']):
+                      data['archive'] = closest['url']
+                      if('1970-01-01T00:00:00' == data['published']):
+                        ts = closest['timestamp']
+                        tsNew = ts[0:4]+'-'+ts[4:6]+'-'+ts[6:8]+'T'+ts[8:10]+':'+ts[10:12]+':'+ts[12:14]
+                        print(['new ts',ts,tsNew])
+                        data['published'] = tsNew
                 #'closest'
-    except:
-#    except Exception as e:    
-#    except json.decoder.JSONDecodeError as e:    
-#    except requests.exceptions.RequestException as e:  
-        e = sys.exc_info()[0]
-        print("not archived yet")
-        saveUrl = 'https://web.archive.org/save/' + data['url'] # archive.org
-        #saveUrl = 'https://archive.is/submit/'
-        #saveUrl = 'https://archive.ph/submit/'
-
-        ##  pip3 install aiohttp
-        try:
-           loop = asyncio.get_event_loop()
-           loop.run_until_complete(saveArchive(saveUrl))
-        except:
-           e2 = sys.exc_info()[0]
-           print("something more went wrong (timeout/redirect/...)")            
-
-        #async with aiohttp.ClientSession() as session:
-        #    async with session.get(saveUrl) as response:
-        #        print(await response.status())        
-        '''
-        try:
-            page = requests.get(saveUrl, timeout=240)  # archive.org
-            #page = requests.post(saveUrl, data = {'url':data['url']}, timeout=240)
-            if page.status_code == 200:
-                print('archived!')
-        except requests.exceptions.RequestException as e2:
-            print("not archivable: " + data['url'])
-        '''    
-    return data 
+    #except:
+    #    print("not archived yet")
+    return data
 
 def extractData(article, language, keyWord):
     title = article['title']
