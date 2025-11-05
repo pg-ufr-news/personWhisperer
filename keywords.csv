@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Lecornu II ',en,Frankreich,#e8e808,#e8e808,2,0.501352981752
 'Olivia Nuzzi',en,USA,#18e8e8,#18e8e8,2,0.494531487464
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.488350998671
 'Shimon Sakaguchi',en,Japan,#aa9933,#aa9933,2,0.484671092789
@@ -9,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.478661953811
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.478222372598
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.477517282153
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.476816941778
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.477499205970
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.475785021910
 'Sanae Takaichi',en,Japan,#aa9933,#aa9933,2,0.475644230460
 'Mary Brunkow',en,USA,#18e8e8,#18e8e8,3,0.475534104976
@@ -71,6 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jason Kelce',en,USA,#18e8e8,#18e8e8,3,0.453767774718
 'Mike Johnson',en,USA,#18e8e8,#18e8e8,3,0.453642186849
 'Rupert Murdoch',en,USA,#18e8e8,#18e8e8,3,0.453153332076
+'Lecornu II ',en,Frankreich,#e8e808,#e8e808,2,0.452050124489
 'Leo XIV',en,Vatikan,#58b8e8,#58b8e8,3,0.451333412446
 'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.451152503340
 'Andy Cohen',en,USA,#18e8e8,#18e8e8,3,0.450328556310
@@ -759,10 +759,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Subrahmanyam Jaishankar',en,Indien,#cc3388,#cc3388,2,0.182126549545
 'Richard David Precht',en,Deutschland,#1818e8,#1818e8,1,0.180689997180
 'Antonio Guterres',en,UN,#e888e8,#e888e8,3,0.180472746171
+'Roberta Metsola',en,EU,#4488cc,#4488cc,2,0.180297661847
 'Kyrill',en,Ukraine,#e818e8,#e818e8,2,0.179284182497
 'Volker Wissing',en,Deutschland,#1818e8,#1818e8,2,0.179003926395
 'Tamim bin Hamad Al Thani',en,Katar,#44cc88,#44cc88,2,0.178905848415
-'Roberta Metsola',en,EU,#4488cc,#4488cc,2,0.177947517463
 'Björn Höcke',en,Deutschland,#1818e8,#1818e8,1,0.177058112031
 'Elizabeth Mpofu',en,unknown,#111111,#111111,1,0.176517912354
 'Christian Drosten',en,Deutschland,#1818e8,#1818e8,2,0.176437667473
