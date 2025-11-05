@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Duke Henri',en,Luxemburg,#44dd55,#44dd55,2,0.514930221114
 'Karol G',en,Kolumbien,#55dd44,#55dd44,3,0.513860487311
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.511131530055
 'Yves Bournazel',en,Frankreich,#e8e808,#e8e808,2,0.509112846296
@@ -109,6 +108,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Omar M. Yaghi',en,USA,#18e8e8,#18e8e8,2,0.439300675000
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.438328557807
 'Phoebe Bridgers',en,USA,#18e8e8,#18e8e8,3,0.438194559072
+'Duke Henri',en,Luxemburg,#44dd55,#44dd55,1,0.437691032947
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.437522067405
 'Kamilla Cardoso',en,Brasilien,#58e838,#58e838,2,0.436438180436
 'Aaron Rodgers',en,USA,#18e8e8,#18e8e8,3,0.436363589982
