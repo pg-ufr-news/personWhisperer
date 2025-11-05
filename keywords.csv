@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Yves Bournazel',en,Frankreich,#e8e808,#e8e808,2,0.509112846296
 'Lecornu II',en,Frankreich,#e8e808,#e8e808,2,0.501692578263
 'Lecornu II ',en,Frankreich,#e8e808,#e8e808,2,0.501352981752
 'Olivia Nuzzi',en,USA,#18e8e8,#18e8e8,2,0.494531487464
@@ -126,6 +125,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.433421907241
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.433421518069
 'Gérald Darmanin',en,Frankreich,#e8e808,#e8e808,2,0.433389376321
+'Yves Bournazel',en,Frankreich,#e8e808,#e8e808,1,0.432745919352
 'Callum Turner',en,UK,#e838e8,#e838e8,2,0.432624901188
 'Meryl Streep',en,USA,#18e8e8,#18e8e8,3,0.432493571316
 'Chris Wright',en,USA,#18e8e8,#18e8e8,3,0.432250407848
