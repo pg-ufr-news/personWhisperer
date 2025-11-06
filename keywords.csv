@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Olivia Nuzzi',en,USA,#18e8e8,#18e8e8,2,0.494531487464
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.488350998671
 'Shimon Sakaguchi',en,Japan,#aa9933,#aa9933,2,0.484671092789
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,3,0.484501395000
@@ -155,6 +154,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.425273026891
 'Yorgos Lanthimos',en,Griechenland,#1858e8,#1858e8,3,0.425240472727
 'Teresa Giudice',en,USA,#18e8e8,#18e8e8,2,0.425146729654
+'Olivia Nuzzi',en,USA,#18e8e8,#18e8e8,2,0.425002319344
 'Veronika Grimm',en,Deutschland,#111111,#111111,1,0.425000030000
 'Philipp Aghion',en,Frankreich,#e8e808,#e8e808,1,0.425000000000
 'Guy Ritchie',en,UK,#e838e8,#e838e8,2,0.424917899550
