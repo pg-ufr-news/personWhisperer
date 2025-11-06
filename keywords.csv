@@ -799,7 +799,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.159604891255
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.159544082868
-'König Charles III',en,UK,#e838e8,#e838e8,1,0.159413142111
 'Miguel Díaz-Canel',en,Kuba,#dd33aa,#dd33aa,1,0.158143494816
 'Roland Busch',en,Deutschland,#1818e8,#1818e8,1,0.157814453375
 'Nicola Beer',en,EU,#4488cc,#4488cc,1,0.157774150060
@@ -826,6 +825,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.136245262520
 'Ayatollah Chamenei',en,Iran,#117733,#117733,1,0.136245262520
 'John Roberts',en,USA,#18e8e8,#18e8e8,1,0.136003416636
+'König Charles III',en,UK,#e838e8,#e838e8,1,0.135501170794
 'Julia Koch',en,USA,#18e8e8,#18e8e8,1,0.134303028570
 'Andrea Lindholz',en,Deutschland,#1818e8,#1818e8,1,0.131653086100
 'Alexei Nawalny',en,Russland,#e81818,#e81818,1,0.129347072945
