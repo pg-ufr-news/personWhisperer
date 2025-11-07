@@ -322,6 +322,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Millie Mackintosh',en,UK,#e838e8,#e838e8,1,0.395864945182
 'Paris Hilton',en,unknown,#111111,#111111,3,0.395638105473
 'Ahmed Al Jaber',en,unknown,#111111,#111111,2,0.395592236884
+'Cristiano Ronaldo',en,Portugal,#4411ee,#4411ee,2,0.395577806017
 'Tony Bobulinski',en,unknown,#111111,#111111,2,0.395340914463
 'Tim Cook',en,USA,#18e8e8,#18e8e8,3,0.395133455350
 'Leandro De Niro-Rodriguez',en,unknown,#111111,#111111,1,0.394951982260
@@ -329,12 +330,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cruz Beckham',en,unknown,#111111,#111111,3,0.394839426047
 'Jessica Biel',en,unknown,#111111,#111111,2,0.394797502731
 'Laura Ingraham',en,USA,#18e8e8,#18e8e8,3,0.394738751458
-'Cristiano Ronaldo',en,Portugal,#4411ee,#4411ee,2,0.394735270545
 'Volodymyr Zelenskiy',en,Ukraine,#e818e8,#e818e8,3,0.394657649648
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.394637604664
 'Matt Winkelmeyer',en,unknown,#111111,#111111,2,0.394601458644
 'nan nan',en,unknown,#dddddd,#dddddd,2,0.394260385638
 'Pope Benedict',en,Vatikan,#58b8e8,#58b8e8,3,0.394226217909
+'Lionel Messi',en,Argentinien,#bb11cc,#bb11cc,3,0.394207297078
 'Geoffrey Hinton',en,UK,#e838e8,#e838e8,3,0.394180394930
 'James Biden',en,unknown,#111111,#111111,3,0.394084618023
 'Ana Navarro',en,unknown,#111111,#111111,3,0.393950611021
@@ -367,7 +368,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hugh Grant',en,unknown,#111111,#111111,3,0.388733145116
 'Pedro Sánchez Pérez-Castejón',en,Spanien,#9933aa,#9933aa,1,0.388630637750
 'Mark Rutte',en,Niederlande,#6622bb,#6622bb,3,0.388534569213
-'Lionel Messi',en,Argentinien,#bb11cc,#bb11cc,3,0.388417227044
 'Gérard Larcher',en,unknown,#111111,#111111,2,0.388331725401
 'Billionaire Bunker',en,unknown,#111111,#111111,3,0.388197501217
 'Lady Gaga',en,USA,#18e8e8,#18e8e8,3,0.388124171128
