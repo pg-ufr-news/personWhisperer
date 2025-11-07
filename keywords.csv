@@ -783,7 +783,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergey Brin',en,USA,#18e8e8,#18e8e8,2,0.168273997618
 'Karl Nehammer',en,Oesterreich,#bbff33,#bbff33,2,0.166898476781
 'Justin Trudeau',en,Kanada,#443388,#443388,3,0.166648875107
-'Thomas Bayes',en,UK,#e838e8,#e838e8,1,0.163837862039
 'Andreas Jung',en,Deutschland,#1818e8,#1818e8,1,0.162656080435
 'Amin Nasser',en,SaudiArabien,#1144ee,#1144ee,2,0.162574303778
 'Markus Söder',en,Deutschland,#1818e8,#1818e8,1,0.162508839523
@@ -818,6 +817,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klaus-Michael Kühne',en,Deutschland,#1818e8,#1818e8,1,0.143665233328
 'Macky Sall',en,Senegal,#5577bb,#5577bb,1,0.143012775400
 'Markus Krebber',en,Deutschland,#1818e8,#1818e8,1,0.140475681526
+'Thomas Bayes',en,UK,#e838e8,#e838e8,1,0.139712227733
 'Dmitri Medwedew',en,Russland,#e81818,#e81818,1,0.138970167770
 'Wolfgang Kubicki',en,Deutschland,#1818e8,#1818e8,1,0.138310119877
 'John Roberts',en,USA,#18e8e8,#18e8e8,1,0.137218919868
