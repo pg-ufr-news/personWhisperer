@@ -106,7 +106,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Omar M. Yaghi',en,USA,#18e8e8,#18e8e8,2,0.439300675000
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.438328557807
 'Phoebe Bridgers',en,USA,#18e8e8,#18e8e8,3,0.438194559072
-'Duke Henri',en,Luxemburg,#44dd55,#44dd55,1,0.437691032947
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.437522067405
 'Kamilla Cardoso',en,Brasilien,#58e838,#58e838,2,0.436438180436
 'Aaron Rodgers',en,USA,#18e8e8,#18e8e8,3,0.436363589982
@@ -404,6 +403,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Linda Yaccarino',en,USA,#18e8e8,#18e8e8,1,0.382405008543
 'Roger Corman',en,unknown,#111111,#111111,2,0.382356647791
 'Raphael Warnock',en,USA,#18e8e8,#18e8e8,2,0.381909676543
+'Duke Henri',en,Luxemburg,#44dd55,#44dd55,2,0.381887738005
 'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.381472006686
 'Derek Chauvin',en,unknown,#111111,#111111,2,0.381098931904
 'Lachlan Murdoch',en,UK,#e838e8,#e838e8,3,0.381046494178
