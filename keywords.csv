@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.490206739766
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.506444263801
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.489010252198
 'Shimon Sakaguchi',en,Japan,#aa9933,#aa9933,2,0.484671092789
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,3,0.484501395000
@@ -62,9 +62,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karol G',en,Kolumbien,#55dd44,#55dd44,3,0.456650125594
 'Barry Keoghan',en,Irland,#3377bb,#3377bb,3,0.456275960037
 'Julia Roberts',en,USA,#18e8e8,#18e8e8,2,0.456099291141
+'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.456079585836
 'Emily Blunt',en,UK,#e838e8,#e838e8,3,0.455865816274
 'Aubrey Plaza',en,USA,#18e8e8,#18e8e8,3,0.455434468411
-'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.455354685999
 'Mo Lewis',en,USA,#18e8e8,#18e8e8,3,0.454334374922
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.454275043845
 'James Comey',en,USA,#18e8e8,#18e8e8,3,0.454207400272
@@ -73,6 +73,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecornu II ',en,Frankreich,#e8e808,#e8e808,2,0.452050124489
 'Leo XIV',en,Vatikan,#58b8e8,#58b8e8,3,0.451333412446
 'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.451152503340
+'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.450886497434
 'Andy Cohen',en,USA,#18e8e8,#18e8e8,3,0.450328556310
 'Vinod Khosla',en,Indien,#cc3388,#cc3388,1,0.449934143386
 'Ryan Gosling',en,Kanada,#443388,#443388,3,0.449767458733
@@ -80,7 +81,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Beckham',en,UK,#e838e8,#e838e8,2,0.448682487402
 'Ivanka Trump',en,USA,#18e8e8,#18e8e8,3,0.448410385735
 'Joaquim Valente',en,USA,#18e8e8,#18e8e8,2,0.447606283145
-'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.447196017906
 'Keith Kellogg',en,USA,#18e8e8,#18e8e8,3,0.447077006330
 'Nicola Peltz',en,USA,#18e8e8,#18e8e8,3,0.446126918982
 'Henry Samuel',en,USA,#18e8e8,#18e8e8,2,0.446124367798
@@ -170,13 +170,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lara Trump',en,USA,#18e8e8,#18e8e8,3,0.422640538046
 'Margot Robbie',en,Australien,#99aa33,#99aa33,3,0.422554254826
 'George Simion',en,Rumänien,#339922,#339922,1,0.422448298464
+'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.422248154163
 'Joe Jonas',en,USA,#18e8e8,#18e8e8,3,0.422198423922
 'Curtis Yarvin',en,USA,#18e8e8,#18e8e8,2,0.421648410108
 'Jonathan Roumie',en,USA,#18e8e8,#18e8e8,2,0.421390919455
 'Ehud Olmert',en,Israel,#22bb33,#22bb33,2,0.420906001870
 'Kylie Kelce',en,USA,#18e8e8,#18e8e8,3,0.420843154715
 'Chuck Todd',en,USA,#18e8e8,#18e8e8,3,0.420678382977
-'Vladimir Putin',en,Russland,#e81818,#e81818,3,0.420663919591
 'Missy Elliott',en,USA,#18e8e8,#18e8e8,3,0.420327016635
 'Drake Maye',en,USA,#18e8e8,#18e8e8,3,0.420042753686
 'Jennifer Morgan',en,Deutschland,#1818e8,#1818e8,3,0.419862032798
@@ -293,6 +293,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Santos',en,USA,#18e8e8,#18e8e8,3,0.400386046846
 'Gayle King',en,unknown,#111111,#111111,3,0.400349976764
 'Sergio Mattarella',en,Italien,#773344,#773344,2,0.400192529602
+'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.399985216810
 'Wang Wentao',en,China,#e88818,#e88818,3,0.399977764649
 'Kim Mulkey',en,unknown,#111111,#111111,2,0.399961151285
 'David Weiss',en,unknown,#111111,#111111,3,0.399861338220
@@ -301,7 +302,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.399533154608
 'Willie Nelson',en,unknown,#111111,#111111,3,0.399482843420
 'James Cameron',en,USA,#18e8e8,#18e8e8,3,0.399306278774
-'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.399151049739
 'Chris Kirkpatrick',en,unknown,#111111,#111111,1,0.399079205200
 'Jacoby Brissett',en,unknown,#111111,#111111,2,0.398985177314
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.398684223159
@@ -615,8 +615,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.270660240625
 'Hilda Nakabuye',en,Uganda,#ffbb33,#ffbb33,1,0.270660240625
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.270660240625
+'Xi Jinping',en,China,#e88818,#e88818,3,0.270641591139
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.270626545570
-'Xi Jinping',en,China,#e88818,#e88818,3,0.269584136897
 'François Bayrou',en,unknown,#111111,#111111,2,0.269280196009
 'Georg Gänswein',en,Deutschland,#1818e8,#1818e8,1,0.268547120299
 'Sergei Surovikin',en,Russland,#e81818,#e81818,1,0.267816028118
@@ -882,7 +882,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Faisal Kawusi',en,Deutschland,#1818e8,#1818e8,1,0.085177711038
 'Ali Chamenei',en,Iran,#117733,#117733,1,0.084982887032
 'Martin Sonneborn',en,Deutschland,#1818e8,#1818e8,1,0.084902856049
-'Valery Gerasimov',en,Russland,#e81818,#e81818,1,0.082376978479
+'Valery Gerasimov',en,Russland,#e81818,#e81818,1,0.083628696053
 'Igor Setschin',en,Russland,#e81818,#e81818,1,0.081331914281
 'Sergej Schoigu',en,Russland,#e81818,#e81818,1,0.080212714606
 'Luisa Neubauer',en,Deutschland,#1818e8,#1818e8,1,0.079354964719
