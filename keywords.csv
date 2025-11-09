@@ -34,6 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yorgos Lanthimos',en,Griechenland,#1858e8,#1858e8,3,0.462882345366
 'Angelina Jolie',en,USA,#18e8e8,#18e8e8,3,0.462738081833
 'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.462661739660
+'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.462453648393
 'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,3,0.462447909845
 'Rupert Murdoch',en,USA,#18e8e8,#18e8e8,3,0.462412432426
 'David Cameron',en,UK,#e838e8,#e838e8,2,0.462214878100
@@ -54,7 +55,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martha MacCallum',en,USA,#18e8e8,#18e8e8,3,0.458935193436
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.458928540852
 'König Felipe VI',en,Spanien,#9933aa,#9933aa,2,0.458547113187
-'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.458158892902
 'Margaret Qualley',en,USA,#18e8e8,#18e8e8,3,0.458040667690
 'Jake Paul',en,USA,#18e8e8,#18e8e8,3,0.457363383991
 'Jonathan Turley',en,USA,#18e8e8,#18e8e8,3,0.457309917243
@@ -89,6 +89,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michel Devoret',en,Frankreich,#e8e808,#e8e808,2,0.445699203144
 'Castel Gandolfo',en,Vatikan,#58b8e8,#58b8e8,2,0.445549925097
 'Eliot Wolf',en,USA,#18e8e8,#18e8e8,3,0.445300433423
+'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.444019815010
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.443689555832
 'Richard Robson',en,Australien,#99aa33,#99aa33,2,0.443289652670
 'Maria Corina Machado',en,Venezuela,#aa3399,#aa3399,3,0.443144285280
@@ -117,6 +118,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charlie Munger',en,USA,#18e8e8,#18e8e8,3,0.434992072809
 'Melania Trump',en,USA,#18e8e8,#18e8e8,3,0.434834419934
 'Michel H. Devoret',en,USA,#18e8e8,#18e8e8,2,0.434523373793
+'Andrew Cuomo',en,USA,#18e8e8,#18e8e8,3,0.434452468504
 'Robert Kennedy',en,USA,#18e8e8,#18e8e8,3,0.434150101056
 'Mark Hertsgaard',en,USA,#18e8e8,#18e8e8,2,0.434068756267
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.433421907241
@@ -129,10 +131,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chelsea Handler',en,USA,#18e8e8,#18e8e8,3,0.432229123809
 'Leon Botstein',en,USA,#18e8e8,#18e8e8,2,0.432196996598
 'Theodor Herzl',en,Ungarn,#33aa99,#33aa99,1,0.432162231302
-'Andrew Cuomo',en,USA,#18e8e8,#18e8e8,3,0.432145332519
 'Ainsley Earhardt',en,USA,#18e8e8,#18e8e8,2,0.431918237958
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.431656941518
-'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.430975890921
 'Al Nassr',en,SaudiArabien,#1144ee,#1144ee,3,0.430758340355
 'Mark Carney',en,Kanada,#443388,#443388,3,0.430293040531
 'Jennifer Lopez',en,unknown,#111111,#111111,3,0.429991734623
@@ -252,11 +252,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alvin Bragg',en,USA,#18e8e8,#18e8e8,3,0.405971916839
 'George Miller',en,unknown,#111111,#111111,3,0.405902060736
 'JD Vance',en,unknown,#111111,#111111,3,0.405797145224
+'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.405753074207
 'Ayo Edebiri',en,unknown,#111111,#111111,3,0.405616425738
 'Nancy Mace',en,unknown,#111111,#111111,3,0.405338990478
 'Jerry Seinfeld',en,unknown,#111111,#111111,3,0.405310728748
 'Antonio Brown',en,unknown,#111111,#111111,3,0.405079179672
-'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.404929915757
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.404711863260
 'Camilla',en,UK,#e838e8,#e838e8,3,0.404627432357
 'Martin Scorsese',en,USA,#18e8e8,#18e8e8,2,0.404593211161
