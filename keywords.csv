@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Zack Snyder',en,USA,#18e8e8,#18e8e8,2,0.515325230103
 'Pierre Farandou',en,Frankreich,#e8e808,#e8e808,2,0.506403190894
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.489010252198
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.488406467975
@@ -8,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
 'Justin Bieber',en,Kanada,#443388,#443388,3,0.482989316639
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
+'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.479341341951
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.478661953811
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.478222372598
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.477517282153
@@ -67,9 +67,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barry Keoghan',en,Irland,#3377bb,#3377bb,3,0.456275960037
 'Julia Roberts',en,USA,#18e8e8,#18e8e8,2,0.456099291141
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.456079585836
+'Ben Affleck',en,USA,#18e8e8,#18e8e8,3,0.455963390001
 'Emily Blunt',en,UK,#e838e8,#e838e8,3,0.455865816274
 'Aubrey Plaza',en,USA,#18e8e8,#18e8e8,3,0.455434468411
-'Ben Affleck',en,USA,#18e8e8,#18e8e8,3,0.455238259795
 'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.455002079477
 'Mo Lewis',en,USA,#18e8e8,#18e8e8,3,0.454334374922
 'James Comey',en,USA,#18e8e8,#18e8e8,3,0.454207400272
