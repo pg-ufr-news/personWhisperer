@@ -22,6 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sébastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.469262022304
 'Francesca Albanese',en,Italien,#773344,#773344,3,0.469237662011
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.468600990377
+'Bezalel Smotrich',en,Israel,#22bb33,#22bb33,3,0.468564704256
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.467859220115
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.467515801300
@@ -50,7 +51,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.460506658098
 'Dua Lipa',en,UK,#e838e8,#e838e8,3,0.460483511412
 'Nicusor Dan',en,Rumänien,#339922,#339922,1,0.460465730697
-'Bezalel Smotrich',en,Israel,#22bb33,#22bb33,3,0.460389657759
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,2,0.460389207759
 'Chris Luxon',en,Neuseeland,#1818e8,#1818e8,3,0.459307916941
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.459302343725
@@ -138,6 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ainsley Earhardt',en,USA,#18e8e8,#18e8e8,2,0.431918237958
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.431656941518
 'Al Nassr',en,SaudiArabien,#1144ee,#1144ee,3,0.430758340355
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.430608531305
 'Pierre Farandou',en,Frankreich,#e8e808,#e8e808,1,0.430442757260
 'Mark Carney',en,Kanada,#443388,#443388,3,0.430293040531
 'Jennifer Lopez',en,USA,#18e8e8,#18e8e8,3,0.429991734623
@@ -145,7 +146,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katherina Reiche',en,Deutschland,#1818e8,#1818e8,1,0.429489103597
 'John Martinis',en,USA,#18e8e8,#18e8e8,3,0.429441828985
 'Benny Blanco',en,USA,#18e8e8,#18e8e8,2,0.429093404017
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.429056892406
 'Mary Brunkow',en,USA,#18e8e8,#18e8e8,3,0.427755429230
 'Emma Stone',en,USA,#18e8e8,#18e8e8,3,0.427554442130
 'Mark Meadows',en,USA,#18e8e8,#18e8e8,3,0.427390315352
@@ -673,9 +673,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chelsea Manning',en,USA,#18e8e8,#18e8e8,3,0.236493260750
 'Friedrich Merz',en,Deutschland,#1818e8,#1818e8,3,0.236457511759
 'Joana Cotar',en,Deutschland,#1818e8,#1818e8,2,0.235135573887
+'Benjamin Nethanaju',en,Israel,#22bb33,#22bb33,1,0.233362291038
 'Dalai Lama',en,Tibet,#cc8844,#cc8844,3,0.232549346049
 'Matthias Müller',en,Deutschland,#1818e8,#1818e8,1,0.232372229839
-'Benjamin Nethanaju',en,Israel,#22bb33,#22bb33,1,0.232251867363
 'Schellnhuber',en,Deutschland,#1818e8,#1818e8,2,0.231894365087
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,3,0.231622815357
 'Joschka Fischer',en,Deutschland,#1818e8,#1818e8,1,0.231280022490
@@ -702,13 +702,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.221852656250
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.221852656250
 'Pierre-Yves Dermagne',en,Belgien,#33bbff,#33bbff,1,0.221852656250
+'Benjamin Netanyahu',en,Israel,#22bb33,#22bb33,3,0.221701530607
 'Yoon Suk-yeol',en,SüdKorea,#22bb66,#22bb66,3,0.221256348491
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,1,0.218523187306
 'Michael Kahle',en,Deutschland,#1818e8,#1818e8,1,0.218192888971
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,2,0.217505800445
 'Viktor Orbán',en,Ungarn,#33aa99,#33aa99,3,0.216781029857
 'Larry Ellison',en,USA,#18e8e8,#18e8e8,3,0.215152479907
-'Benjamin Netanyahu',en,Israel,#22bb33,#22bb33,3,0.214925899420
 'Ursula von der Leyen',en,EU,#4488cc,#4488cc,3,0.214591461012
 'Warren Buffett',en,USA,#18e8e8,#18e8e8,2,0.214282176632
 'Jochen Thewes',en,Deutschland,#1818e8,#1818e8,2,0.213431958674
