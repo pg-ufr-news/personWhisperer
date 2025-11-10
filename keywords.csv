@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Zack Snyder',en,unknown,#111111,#111111,2,0.607778469976
+'Zack Snyder',en,USA,#18e8e8,#18e8e8,2,0.607778469976
 'Justin Bieber',en,Kanada,#443388,#443388,3,0.589040935241
-'Pierre Farandou',en,unknown,#111111,#111111,2,0.506403190894
+'Pierre Farandou',en,Frankreich,#e8e808,#e8e808,2,0.506403190894
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.489010252198
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.488406467975
 'Shimon Sakaguchi',en,Japan,#aa9933,#aa9933,2,0.486002961669
@@ -140,7 +140,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.431656941518
 'Al Nassr',en,SaudiArabien,#1144ee,#1144ee,3,0.430758340355
 'Mark Carney',en,Kanada,#443388,#443388,3,0.430293040531
-'Jennifer Lopez',en,unknown,#111111,#111111,3,0.429991734623
+'Jennifer Lopez',en,USA,#18e8e8,#18e8e8,3,0.429991734623
 'Brittany Mahomes',en,USA,#18e8e8,#18e8e8,3,0.429801319034
 'Katherina Reiche',en,Deutschland,#1818e8,#1818e8,1,0.429489103597
 'John Martinis',en,USA,#18e8e8,#18e8e8,3,0.429441828985
@@ -213,11 +213,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.413880588854
 'Indiana Jones',en,USA,#18e8e8,#18e8e8,3,0.413875531889
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.412883990483
-'Charlize Theron',en,unknown,#111111,#111111,2,0.412189044523
-'Michelle Williams',en,unknown,#111111,#111111,3,0.411989303413
+'Charlize Theron',en,Südafrika,#cc4488,#cc4488,2,0.412189044523
+'Michelle Williams',en,USA,#111111,#111111,3,0.411989303413
 'Vivek Ramaswamy',en,USA,#18e8e8,#18e8e8,3,0.411778157460
 'Lady Di',en,UK,#e838e8,#e838e8,2,0.411773791364
-'Lily Gladstone',en,unknown,#111111,#111111,3,0.411768921892
+'Lily Gladstone',en,USA,#18e8e8,#18e8e8,3,0.411768921892
 'Harry Belafonte',en,USA,#18e8e8,#18e8e8,2,0.411744230017
 'Arno Antlitz',en,Deutschland,#1818e8,#1818e8,1,0.411740141525
 'Justin Timberlake',en,unknown,#111111,#111111,3,0.411626420588
