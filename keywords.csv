@@ -40,18 +40,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Angelina Jolie',en,USA,#18e8e8,#18e8e8,3,0.462738081833
 'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.462661739660
 'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,3,0.462447909845
-'Rupert Murdoch',en,USA,#18e8e8,#18e8e8,3,0.462412432426
 'David Cameron',en,UK,#e838e8,#e838e8,2,0.462214878100
 'Gervonta Davis',en,USA,#18e8e8,#18e8e8,3,0.462055296786
 'Bret Baier',en,USA,#18e8e8,#18e8e8,3,0.461924151362
 'Hunter Biden',en,USA,#18e8e8,#18e8e8,3,0.461413203663
 'Eddie Hearn',en,UK,#e838e8,#e838e8,3,0.461122072315
+'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.461077743508
 'Bronny James',en,USA,#18e8e8,#18e8e8,3,0.460857754997
 'Hailey Bieber',en,USA,#18e8e8,#18e8e8,3,0.460673773087
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.460506658098
 'Dua Lipa',en,UK,#e838e8,#e838e8,3,0.460483511412
 'Nicusor Dan',en,Rumänien,#339922,#339922,1,0.460465730697
-'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.459646363644
 'Chris Luxon',en,Neuseeland,#1818e8,#1818e8,3,0.459307916941
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.459302343725
 'Sean Hannity',en,USA,#18e8e8,#18e8e8,3,0.458936015629
@@ -67,8 +66,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.456079585836
 'Ben Affleck',en,USA,#18e8e8,#18e8e8,3,0.455963390001
 'Emily Blunt',en,UK,#e838e8,#e838e8,3,0.455865816274
+'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.455727676968
 'Aubrey Plaza',en,USA,#18e8e8,#18e8e8,3,0.455434468411
-'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.455002079477
 'Mo Lewis',en,USA,#18e8e8,#18e8e8,3,0.454334374922
 'James Comey',en,USA,#18e8e8,#18e8e8,3,0.454207400272
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.453845024032
@@ -116,9 +115,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.436076069581
 'John M. Martinis',en,USA,#18e8e8,#18e8e8,3,0.436055757503
 'Britney Spears',en,USA,#18e8e8,#18e8e8,3,0.436049402156
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.435991753908
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.435968781211
 'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,2,0.435612901389
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.435227229902
 'Selena Gomez',en,USA,#18e8e8,#18e8e8,3,0.435048365698
 'Charlie Munger',en,USA,#18e8e8,#18e8e8,3,0.434992072809
 'Melania Trump',en,USA,#18e8e8,#18e8e8,3,0.434834419934
@@ -138,6 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Theodor Herzl',en,Ungarn,#33aa99,#33aa99,1,0.432162231302
 'Ainsley Earhardt',en,USA,#18e8e8,#18e8e8,2,0.431918237958
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.431656941518
+'Rupert Murdoch',en,USA,#18e8e8,#18e8e8,3,0.431567332177
 'Al Nassr',en,SaudiArabien,#1144ee,#1144ee,3,0.430758340355
 'Pierre Farandou',en,Frankreich,#e8e808,#e8e808,1,0.430442757260
 'Mark Carney',en,Kanada,#443388,#443388,3,0.430293040531
@@ -215,6 +215,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.412883990483
 'Charlize Theron',en,Südafrika,#cc4488,#cc4488,2,0.412189044523
 'Michelle Williams',en,USA,#111111,#111111,3,0.411989303413
+'Prince Harry',en,UK,#e838e8,#e838e8,3,0.411888810865
 'Vivek Ramaswamy',en,USA,#18e8e8,#18e8e8,3,0.411778157460
 'Lady Di',en,UK,#e838e8,#e838e8,2,0.411773791364
 'Lily Gladstone',en,USA,#18e8e8,#18e8e8,3,0.411768921892
@@ -223,7 +224,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justin Timberlake',en,USA,#18e8e8,#18e8e8,3,0.411626420588
 'Mindy Kaling',en,USA,#18e8e8,#18e8e8,3,0.411473910045
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.411393341105
-'Prince Harry',en,UK,#e838e8,#e838e8,3,0.411077430516
 'Mukesh Ambani',en,Indien,#cc3388,#cc3388,3,0.411015363153
 'Kim Jong Un',en,NordKorea,#e85858,#e85858,3,0.410793217041
 'Axel Springer',en,Deutschland,#1818e8,#1818e8,3,0.410543768460
@@ -248,12 +248,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mira Murati',en,unknown,#111111,#111111,2,0.407179288034
 'Greg Abbott',en,USA,#18e8e8,#18e8e8,3,0.407117904761
 'Sergio Massa',en,unknown,#111111,#111111,1,0.407026720786
+'Princess Diana',en,UK,#e838e8,#e838e8,3,0.406844651610
 'Geert Wilders',en,Niederlande,#6622bb,#6622bb,2,0.406772973114
 'JD Vance',en,unknown,#111111,#111111,3,0.406618646240
 'William Shakespeare',en,UK,#e838e8,#e838e8,2,0.406575647130
 'Greg Brockman',en,unknown,#111111,#111111,1,0.406212830739
 'Nancy Mace',en,unknown,#111111,#111111,3,0.406161367283
-'Princess Diana',en,UK,#e838e8,#e838e8,3,0.406023583584
 'Alvin Bragg',en,USA,#18e8e8,#18e8e8,3,0.405971916839
 'George Miller',en,unknown,#111111,#111111,3,0.405902060736
 'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.405753074207
@@ -275,12 +275,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Kerr',en,unknown,#111111,#111111,3,0.403865583056
 'Tom Hanks',en,unknown,#111111,#111111,3,0.403594682986
 'Kim Yo Jong',en,NordKorea,#e85858,#e85858,2,0.403272320838
+'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.403073283190
 'Colin Farrell',en,unknown,#111111,#111111,3,0.403023839922
 'Al Pacino',en,USA,#18e8e8,#18e8e8,3,0.402951881179
 'Kate Hudson',en,unknown,#111111,#111111,3,0.402945991628
 'Robert de Niro',en,USA,#18e8e8,#18e8e8,3,0.402531292008
 'Itamar Ben-Gvir',en,Israel,#22bb33,#22bb33,2,0.402333515500
-'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.402245002190
 'Irina Shayk',en,unknown,#111111,#111111,2,0.402196993047
 'Steve Scalise',en,unknown,#111111,#111111,3,0.402185199962
 'Katy Perry',en,USA,#18e8e8,#18e8e8,3,0.402075003437
@@ -707,8 +707,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,1,0.218523187306
 'Michael Kahle',en,Deutschland,#1818e8,#1818e8,1,0.218192888971
 'Werner von Braun',en,Deutschland,#1818e8,#1818e8,2,0.217505800445
+'Larry Ellison',en,USA,#18e8e8,#18e8e8,3,0.217416170889
 'Viktor Orbán',en,Ungarn,#33aa99,#33aa99,3,0.216781029857
-'Larry Ellison',en,USA,#18e8e8,#18e8e8,3,0.215152479907
 'Ursula von der Leyen',en,EU,#4488cc,#4488cc,3,0.214591461012
 'Warren Buffett',en,USA,#18e8e8,#18e8e8,2,0.214282176632
 'Jochen Thewes',en,Deutschland,#1818e8,#1818e8,2,0.213431958674
