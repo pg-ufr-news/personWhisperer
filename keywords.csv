@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sherri Shepherd',en,USA,#18e8e8,#18e8e8,3,0.492929841668
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.488406467975
 'Shimon Sakaguchi',en,Japan,#aa9933,#aa9933,2,0.486002961669
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,3,0.484501395000
@@ -190,6 +189,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cameron Brink',en,USA,#18e8e8,#18e8e8,3,0.419719128376
 'Hubert Aiwanger',en,USA,#1818e8,#1818e8,2,0.419657048815
 'Pedro Sánchez',en,Spanien,#9933aa,#9933aa,3,0.419341153747
+'Sherri Shepherd',en,USA,#18e8e8,#18e8e8,2,0.418990860418
 'Charles Barkley',en,USA,#1818e8,#1818e8,3,0.418708067440
 'António Guterres',en,Portugal,#4411ee,#4411ee,3,0.418049004607
 'Zach Bryan',en,USA,#18e8e8,#18e8e8,3,0.418025916489
