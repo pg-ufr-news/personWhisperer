@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.488406467975
 'Shimon Sakaguchi',en,Japan,#aa9933,#aa9933,2,0.486002961669
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,3,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
@@ -10,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.478222372598
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.477517282153
 'Sanae Takaichi',en,Japan,#aa9933,#aa9933,2,0.476328831392
+'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.475896562779
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.475834366595
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.475785021910
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.474866011717
@@ -394,6 +394,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Prevost',en,unknown,#111111,#111111,2,0.384823984602
 'Robert De Niro',en,USA,#18e8e8,#18e8e8,3,0.384787963701
 'Sam Asghari',en,unknown,#111111,#111111,1,0.384568479521
+'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.384309070119
 'Prince Louis',en,UK,#e838e8,#e838e8,3,0.384201885729
 'Robert Downey Jr',en,unknown,#111111,#111111,3,0.384172665267
 'Recep Tayyip Erdoan',en,Türkei,#66bb22,#66bb22,3,0.384134953708
@@ -406,7 +407,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Roger Corman',en,unknown,#111111,#111111,2,0.382356647791
 'Raphael Warnock',en,USA,#18e8e8,#18e8e8,2,0.381909676543
 'Duke Henri',en,Luxemburg,#44dd55,#44dd55,2,0.381887738005
-'Joe Biden',en,USA,#18e8e8,#18e8e8,3,0.381712982072
 'Emmanuel Macron',en,Frankreich,#e8e808,#e8e808,3,0.381472006686
 'Derek Chauvin',en,unknown,#111111,#111111,2,0.381098931904
 'Lachlan Murdoch',en,UK,#e838e8,#e838e8,3,0.381046494178
