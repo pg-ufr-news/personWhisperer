@@ -116,7 +116,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Britney Spears',en,USA,#18e8e8,#18e8e8,3,0.436049402156
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.435991753908
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.435968781211
-'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,2,0.435612901389
 'Selena Gomez',en,USA,#18e8e8,#18e8e8,3,0.435048365698
 'Charlie Munger',en,USA,#18e8e8,#18e8e8,3,0.434992072809
 'Melania Trump',en,USA,#18e8e8,#18e8e8,3,0.434834419934
@@ -459,6 +458,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steven Spielberg',en,USA,#18e8e8,#18e8e8,3,0.370964179466
 'Cassidy Hutchinson',en,unknown,#111111,#111111,2,0.370863575928
 'Meg Bellamy',en,UK,#e838e8,#e838e8,1,0.370510210486
+'Georg Bätzing',en,Deutschland,#1818e8,#1818e8,1,0.370270966181
 'Julian Edelman',en,unknown,#111111,#111111,2,0.369911336388
 'Akshata Murty',en,Indien,#cc3388,#cc3388,2,0.369823830377
 'Jerod Mayo',en,unknown,#111111,#111111,2,0.369565016031
@@ -660,8 +660,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.244272848178
 'Gorbatschow',en,unknown,#111111,#111111,1,0.244238435674
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.244037921875
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.244037921875
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.244037921875
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.244037921875
 'François Braun',en,unknown,#111111,#111111,1,0.242364503526
 'Fumio Kishida',en,Japan,#aa9933,#aa9933,3,0.241218987042
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.239600868750
