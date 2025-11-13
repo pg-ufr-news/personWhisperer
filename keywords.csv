@@ -137,7 +137,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'King Charles III',en,UK,#e838e8,#e838e8,3,0.431656941518
 'Rupert Murdoch',en,USA,#18e8e8,#18e8e8,3,0.431567332177
 'Al Nassr',en,SaudiArabien,#1144ee,#1144ee,3,0.430758340355
-'Pierre Farandou',en,Frankreich,#e8e808,#e8e808,1,0.430442757260
 'Mark Carney',en,Kanada,#443388,#443388,3,0.430293040531
 'Jennifer Lopez',en,USA,#18e8e8,#18e8e8,3,0.429991734623
 'Brittany Mahomes',en,USA,#18e8e8,#18e8e8,3,0.429801319034
@@ -199,6 +198,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Merrick Garland',en,USA,#18e8e8,#18e8e8,3,0.417416045257
 'Pedro Pascal',en,Chile,#67349a,#67349a,3,0.417044981755
 'Hillary Clinton',en,USA,#18e8e8,#18e8e8,2,0.416662112209
+'Pierre Farandou',en,Frankreich,#e8e808,#e8e808,1,0.416326388671
 'Jeff Ross',en,USA,#18e8e8,#18e8e8,3,0.416120812153
 'Steve Wozniak',en,USA,#18e8e8,#18e8e8,2,0.415638761227
 'Milo Yiannopoulos',en,UK,#e838e8,#e838e8,2,0.415508421710
