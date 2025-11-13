@@ -127,7 +127,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Don Lemon',en,USA,#18e8e8,#18e8e8,3,0.433421907241
 'Kate Middleton',en,UK,#e838e8,#e838e8,3,0.433421518069
 'Gérald Darmanin',en,Frankreich,#e8e808,#e8e808,2,0.433389376321
-'Yves Bournazel',en,Frankreich,#e8e808,#e8e808,1,0.432745919352
 'Callum Turner',en,UK,#e838e8,#e838e8,2,0.432624901188
 'Meryl Streep',en,USA,#18e8e8,#18e8e8,3,0.432493571316
 'Chris Wright',en,USA,#18e8e8,#18e8e8,3,0.432250407848
@@ -468,6 +467,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Greta Gerwig',en,unknown,#111111,#111111,2,0.369215709073
 'Afida Turner',en,Frankreich,#e8e808,#e8e808,1,0.368802606863
 'Petro Poroshenko',en,unknown,#111111,#111111,1,0.368538402555
+'Yves Bournazel',en,Frankreich,#e8e808,#e8e808,1,0.367834031449
 'Paul Gosar',en,USA,#18e8e8,#18e8e8,2,0.366424234782
 'Rachida Dati',en,unknown,#111111,#111111,1,0.366243590116
 'Robert Sesselmann',en,Deutschland,#1818e8,#1818e8,2,0.365608216250
@@ -659,9 +659,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sandra Maischberger',en,Deutschland,#1818e8,#1818e8,2,0.244423763741
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.244272848178
 'Gorbatschow',en,unknown,#111111,#111111,1,0.244238435674
-'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.244037921875
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.244037921875
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.244037921875
+'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.244037921875
 'François Braun',en,unknown,#111111,#111111,1,0.242364503526
 'Fumio Kishida',en,Japan,#aa9933,#aa9933,3,0.241218987042
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.239600868750
