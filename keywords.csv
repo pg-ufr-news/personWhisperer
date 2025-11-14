@@ -659,9 +659,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sandra Maischberger',en,Deutschland,#1818e8,#1818e8,2,0.244423763741
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.244272848178
 'Gorbatschow',en,unknown,#111111,#111111,1,0.244238435674
+'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.244037921875
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.244037921875
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.244037921875
-'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.244037921875
 'François Braun',en,unknown,#111111,#111111,1,0.242364503526
 'Fumio Kishida',en,Japan,#aa9933,#aa9933,3,0.241218987042
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.239600868750
@@ -827,7 +827,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marco Buschmann',en,Deutschland,#1818e8,#1818e8,1,0.136309140892
 'Ayatollah Chamenei',en,Iran,#117733,#117733,1,0.136245262520
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.136245262520
-'König Charles III',en,UK,#e838e8,#e838e8,1,0.135501170794
 'Julia Koch',en,USA,#18e8e8,#18e8e8,1,0.134303028570
 'Andrea Lindholz',en,Deutschland,#1818e8,#1818e8,1,0.131653086100
 'Alexei Nawalny',en,Russland,#e81818,#e81818,1,0.129347072945
@@ -843,6 +842,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patrick Pouyanné',en,Frankreich,#e8e808,#e8e808,2,0.116702899512
 'Wladimir Putin',en,Russland,#e81818,#e81818,1,0.115947335803
 'Prinz Heinrich XIII',en,Deutschland,#1818e8,#1818e8,1,0.115808473142
+'König Charles III',en,UK,#e838e8,#e838e8,1,0.115175995175
 'Ebrahim Raisi',en,Iran,#117733,#117733,2,0.114473053686
 'Frank Bainimarama',en,Fidschi,#7755bb,#7755bb,1,0.113346782585
 'Andreas Jödecke',en,Deutschland,#1818e8,#1818e8,1,0.112010352882
