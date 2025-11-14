@@ -659,9 +659,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sandra Maischberger',en,Deutschland,#1818e8,#1818e8,2,0.244423763741
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.244272848178
 'Gorbatschow',en,unknown,#111111,#111111,1,0.244238435674
+'Claudia Kempfert',en,unknown,#111111,#111111,1,0.244037921875
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.244037921875
 'Marjan Minnesma',en,unknown,#111111,#111111,1,0.244037921875
-'Claudia Kempfert',en,unknown,#111111,#111111,1,0.244037921875
 'François Braun',en,unknown,#111111,#111111,1,0.242364503526
 'Fumio Kishida',en,Japan,#aa9933,#aa9933,3,0.241218987042
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.239600868750
@@ -868,7 +868,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erik Marquardt',en,EU,#4488cc,#4488cc,1,0.098272494599
 'Maria Kolesnikowa',en,Belarus,#e81858,#e81858,1,0.097493695291
 'Alice Schwarzer',en,Deutschland,#1818e8,#1818e8,1,0.096926899019
-'Alexander Lukaschenko',en,Belarus,#e81858,#e81858,1,0.095513916976
 'Mojib Latif',en,Deutschland,#1818e8,#1818e8,1,0.094706203730
 'Susanne Klatten',en,Deutschland,#1818e8,#1818e8,1,0.093850775543
 'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.092421330334
@@ -886,6 +885,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martin Sonneborn',en,Deutschland,#1818e8,#1818e8,1,0.084902856049
 'Valery Gerasimov',en,Russland,#e81818,#e81818,1,0.083628696053
 'Igor Setschin',en,Russland,#e81818,#e81818,1,0.081331914281
+'Alexander Lukaschenko',en,Belarus,#e81858,#e81858,1,0.081186829430
 'Sergej Schoigu',en,Russland,#e81818,#e81818,1,0.080212714606
 'Luisa Neubauer',en,Deutschland,#1818e8,#1818e8,1,0.079354964719
 'Jürgen Grässlin',en,Deutschland,#1818e8,#1818e8,1,0.078502552550
