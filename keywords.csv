@@ -659,9 +659,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sandra Maischberger',en,Deutschland,#1818e8,#1818e8,2,0.244423763741
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.244272848178
 'Gorbatschow',en,unknown,#111111,#111111,1,0.244238435674
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.244037921875
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.244037921875
 'Claudia Kempfert',en,unknown,#111111,#111111,1,0.244037921875
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.244037921875
 'François Braun',en,unknown,#111111,#111111,1,0.242364503526
 'Fumio Kishida',en,Japan,#aa9933,#aa9933,3,0.241218987042
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.239600868750
@@ -871,7 +871,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mojib Latif',en,Deutschland,#1818e8,#1818e8,1,0.094706203730
 'Susanne Klatten',en,Deutschland,#1818e8,#1818e8,1,0.093850775543
 'Olli Schulz',en,Deutschland,#1818e8,#1818e8,1,0.092421330334
-'Benjamin Netanjahu',en,Israel,#22bb33,#22bb33,1,0.092169512326
 'Gérard Biard',en,Frankreich,#e8e808,#e8e808,1,0.092166296779
 'Dmitry Peskov',en,Russland,#e81818,#e81818,3,0.090919417872
 'Muhammad bin Zayid Al Nahyan',en,VAE,#2266bb,#2266bb,1,0.090597505553
@@ -889,6 +888,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergej Schoigu',en,Russland,#e81818,#e81818,1,0.080212714606
 'Luisa Neubauer',en,Deutschland,#1818e8,#1818e8,1,0.079354964719
 'Jürgen Grässlin',en,Deutschland,#1818e8,#1818e8,1,0.078502552550
+'Benjamin Netanjahu',en,Israel,#22bb33,#22bb33,1,0.078344085477
 'Sergej Lavrov',en,Russland,#e81818,#e81818,1,0.078205829649
 'Edmund Stoiber',en,Deutschland,#1818e8,#1818e8,1,0.077945163495
 'Helge Schneider',en,Deutschland,#1818e8,#1818e8,1,0.076810548854
