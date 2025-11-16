@@ -884,7 +884,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martin Sonneborn',en,Deutschland,#1818e8,#1818e8,1,0.084902856049
 'Valery Gerasimov',en,Russland,#e81818,#e81818,1,0.083628696053
 'Igor Setschin',en,Russland,#e81818,#e81818,1,0.081331914281
-'Alexander Lukaschenko',en,Belarus,#e81858,#e81858,1,0.081186829430
 'Sergej Schoigu',en,Russland,#e81818,#e81818,1,0.080212714606
 'Luisa Neubauer',en,Deutschland,#1818e8,#1818e8,1,0.079354964719
 'Jürgen Grässlin',en,Deutschland,#1818e8,#1818e8,1,0.078502552550
@@ -899,3 +898,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Dillmann',en,Deutschland,#1818e8,#1818e8,1,0.072339639469
 'Horst Seehofer',en,Deutschland,#1818e8,#1818e8,1,0.072170900177
 'Jewgenij Roisman',en,Russland,#e81818,#e81818,1,0.071964588776
+'Alexander Lukaschenko',en,Belarus,#e81858,#e81858,1,0.069008805015
