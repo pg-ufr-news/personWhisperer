@@ -1,5 +1,14 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,3,0.484501395000
+'Bad Bunny',en,unknown,#111111,#111111,2,0.607178011882
+'Jon Jones',en,unknown,#111111,#111111,2,0.605686007106
+'Kendrick Lamar',en,unknown,#111111,#111111,2,0.603943075171
+'James Gunn',en,unknown,#111111,#111111,2,0.603631844028
+'Dick Cheney',en,unknown,#111111,#111111,2,0.509454235243
+'Jean Castex',en,unknown,#111111,#111111,2,0.504187576651
+'Boris Vallaud',en,unknown,#111111,#111111,2,0.504102009867
+'reine Mathilde',en,unknown,#111111,#111111,2,0.502942646144
+'Laurent Nuñez',en,unknown,#111111,#111111,2,0.500072376809
+'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.479341341951
@@ -488,9 +497,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Camille Cottin',en,unknown,#111111,#111111,1,0.361804956672
 'Bradley Cooper',en,unknown,#111111,#111111,3,0.361800681558
 'Robert Badinter',en,unknown,#111111,#111111,1,0.361792365437
-'Stefan Kolev',en,Deutschland,#111111,#111111,1,0.361250000000
-'Iyad al-Rantisi',en,Palestina,#cc2255,#cc2255,1,0.361250000000
 'Volker Wieland',en,Deutschland,#111111,#111111,1,0.361250000000
+'Iyad al-Rantisi',en,Palestina,#cc2255,#cc2255,1,0.361250000000
+'Stefan Kolev',en,Deutschland,#111111,#111111,1,0.361250000000
 'Cillian Murphy',en,Irland,#3377bb,#3377bb,3,0.361069031202
 'Noam Chomsky',en,USA,#18e8e8,#18e8e8,2,0.360771648476
 'Putin',en,Russland,#e81818,#e81818,3,0.360629354509
@@ -613,8 +622,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Xi Jinping',en,China,#e88818,#e88818,3,0.271697457345
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.271346270029
 'Shahzada Dawood',en,Pakistan,#ff33bb,#ff33bb,1,0.270866658674
-'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.270660240625
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.270660240625
+'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.270660240625
 'Hilda Nakabuye',en,Uganda,#ffbb33,#ffbb33,1,0.270660240625
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.270626545570
 'François Bayrou',en,unknown,#111111,#111111,2,0.269280196009
@@ -624,8 +633,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.266573716299
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.266373202500
 'Melanie Guttmann',en,unknown,#111111,#111111,1,0.266223187500
-'Maria Sacharowa',en,unknown,#111111,#111111,1,0.266223187500
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.266223187500
+'Maria Sacharowa',en,unknown,#111111,#111111,1,0.266223187500
 'Christian Dürr',en,unknown,#111111,#111111,1,0.266204804302
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.266051339885
 'Rishi Sunak',en,UK,#e838e8,#e838e8,3,0.265694943046
@@ -680,8 +689,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,3,0.231622815357
 'Joschka Fischer',en,Deutschland,#1818e8,#1818e8,1,0.231280022490
 'Hun Sen',en,Kambodscha,#33aadd,#33aadd,3,0.230240850330
-'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.230061204531
 'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.230061204531
+'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.230061204531
 'Charles Michel',en,EU,#4488cc,#4488cc,3,0.229412074790
 'Jens Spahn',en,Deutschland,#1818e8,#1818e8,1,0.228837209255
 'Michael Sandel',en,USA,#18e8e8,#18e8e8,1,0.227415724484
@@ -698,10 +707,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marlène Schiappa',en,unknown,#111111,#111111,1,0.222606979048
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.222598635234
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.222002671250
-'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.221852656250
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.221852656250
-'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.221852656250
 'Pierre-Yves Dermagne',en,Belgien,#33bbff,#33bbff,1,0.221852656250
+'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.221852656250
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.221852656250
+'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.221852656250
 'Benjamin Netanyahu',en,Israel,#22bb33,#22bb33,3,0.221701530607
 'Yoon Suk-yeol',en,SüdKorea,#22bb66,#22bb66,3,0.221256348491
 'Larry Ellison',en,USA,#18e8e8,#18e8e8,3,0.218545878220
@@ -792,11 +801,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lee Hsien Loong',en,Singapur,#ddaa33,#ddaa33,3,0.162165638081
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.160707326935
 'Jean-Denis Combrexelle',en,unknown,#111111,#111111,1,0.160592961874
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
+'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
+'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.160288544141
-'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
-'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.159604891255
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.159544082868
 'Miguel Díaz-Canel',en,Kuba,#dd33aa,#dd33aa,1,0.158143494816
@@ -825,8 +834,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yannick Morez',en,Frankreich,#e8e808,#e8e808,1,0.137069128458
 'Edir Macedo',en,Brasilien,#58e838,#58e848,1,0.136849624859
 'Marco Buschmann',en,Deutschland,#1818e8,#1818e8,1,0.136309140892
-'Ayatollah Chamenei',en,Iran,#117733,#117733,1,0.136245262520
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.136245262520
+'Ayatollah Chamenei',en,Iran,#117733,#117733,1,0.136245262520
 'Julia Koch',en,USA,#18e8e8,#18e8e8,1,0.134303028570
 'Andrea Lindholz',en,Deutschland,#1818e8,#1818e8,1,0.131653086100
 'Alexei Nawalny',en,Russland,#e81818,#e81818,1,0.129347072945
