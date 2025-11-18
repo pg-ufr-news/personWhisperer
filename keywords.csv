@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.613498482878
+'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.603703502719
 'Jon Jones',en,USA,#18e8e8,#18e8e8,2,0.574334830586
 'Kendrick Lamar',en,USA,#18e8e8,#18e8e8,2,0.562655277051
 'Bad Bunny',en,PuertoRico,#a46734,#a46734,3,0.542505227263
@@ -7,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean Castex',en,Frankreich,#e8e808,#e8e808,2,0.504187576651
 'Boris Vallaud',en,Frankreich,#e8e808,#e8e808,2,0.504102009867
 'reine Mathilde',en,unknown,#111111,#111111,2,0.502942646144
+'JULIEN MUGUET',en,unknown,#111111,#111111,2,0.502463038000
 'Laurent Nuñez',en,Frankreich,#e8e808,#e8e808,2,0.500072376809
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
@@ -622,9 +623,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Xi Jinping',en,China,#e88818,#e88818,3,0.271697457345
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.271346270029
 'Shahzada Dawood',en,Pakistan,#ff33bb,#ff33bb,1,0.270866658674
-'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.270660240625
 'Hilda Nakabuye',en,Uganda,#ffbb33,#ffbb33,1,0.270660240625
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.270660240625
+'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.270660240625
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.270626545570
 'François Bayrou',en,unknown,#111111,#111111,2,0.269280196009
 'Georg Gänswein',en,Deutschland,#1818e8,#1818e8,1,0.268547120299
@@ -632,8 +633,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike hermann',en,unknown,#111111,#111111,1,0.266652025067
 'Ralf Dieter',en,Deutschland,#1818e8,#1818e8,1,0.266573716299
 'Brian Kozlowski',en,USA,#18e8e8,#18e8e8,1,0.266373202500
-'Melanie Guttmann',en,unknown,#111111,#111111,1,0.266223187500
 'Henning Jeschke',en,unknown,#111111,#111111,1,0.266223187500
+'Melanie Guttmann',en,unknown,#111111,#111111,1,0.266223187500
 'Maria Sacharowa',en,unknown,#111111,#111111,1,0.266223187500
 'Christian Dürr',en,unknown,#111111,#111111,1,0.266204804302
 'Christian Kroll',en,Deutschland,#1818e8,#1818e8,1,0.266051339885
@@ -668,9 +669,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sandra Maischberger',en,Deutschland,#1818e8,#1818e8,2,0.244423763741
 'Autumn Peltier',en,unknown,#111111,#111111,1,0.244272848178
 'Gorbatschow',en,unknown,#111111,#111111,1,0.244238435674
-'Marjan Minnesma',en,unknown,#111111,#111111,1,0.244037921875
-'Claudia Kempfert',en,unknown,#111111,#111111,1,0.244037921875
 'Eriberto Gualinga',en,unknown,#111111,#111111,1,0.244037921875
+'Claudia Kempfert',en,unknown,#111111,#111111,1,0.244037921875
+'Marjan Minnesma',en,unknown,#111111,#111111,1,0.244037921875
 'François Braun',en,unknown,#111111,#111111,1,0.242364503526
 'Fumio Kishida',en,Japan,#aa9933,#aa9933,3,0.241218987042
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.239600868750
@@ -689,8 +690,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bernard Arnault',en,Frankreich,#e8e808,#e8e808,3,0.231622815357
 'Joschka Fischer',en,Deutschland,#1818e8,#1818e8,1,0.231280022490
 'Hun Sen',en,Kambodscha,#33aadd,#33aadd,3,0.230240850330
-'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.230061204531
 'Maja Göpel',en,Deutschland,#1818e8,#1818e8,1,0.230061204531
+'Lea Bonasera',en,Deutschland,#1818e8,#1818e8,1,0.230061204531
 'Charles Michel',en,EU,#4488cc,#4488cc,3,0.229412074790
 'Jens Spahn',en,Deutschland,#1818e8,#1818e8,1,0.228837209255
 'Michael Sandel',en,USA,#18e8e8,#18e8e8,1,0.227415724484
@@ -707,10 +708,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marlène Schiappa',en,unknown,#111111,#111111,1,0.222606979048
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.222598635234
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.222002671250
-'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.221852656250
-'Pierre-Yves Dermagne',en,Belgien,#33bbff,#33bbff,1,0.221852656250
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.221852656250
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.221852656250
+'Pierre-Yves Dermagne',en,Belgien,#33bbff,#33bbff,1,0.221852656250
+'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.221852656250
 'Benjamin Netanyahu',en,Israel,#22bb33,#22bb33,3,0.221701530607
 'Yoon Suk-yeol',en,SüdKorea,#22bb66,#22bb66,3,0.221256348491
 'Larry Ellison',en,USA,#18e8e8,#18e8e8,3,0.218545878220
@@ -759,9 +760,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean Jouzel',en,unknown,#111111,#111111,1,0.189341680837
 'Stefan Aust',en,Deutschland,#1818e8,#1818e8,1,0.188724772812
 'Gilbert Plass',en,Kanada,#443388,#443388,1,0.188653066580
-'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.188574757812
 'Evgueni Prigojine',en,Russland,#e81818,#e81818,1,0.188574757812
 'Megyn Kell',en,USA,#18e8e8,#18e8e8,1,0.188574757812
+'Detlef Garbe',en,Deutschland,#1818e8,#1818e8,1,0.188574757812
 'Richard Ferrand',en,Frankreich,#e8e808,#e8e808,1,0.187345317464
 'Robert Habeck',en,Deutschland,#1818e8,#1818e8,3,0.187004273469
 'Gerhard Schröder',en,Deutschland,#1818e8,#1818e8,1,0.185328026095
@@ -801,11 +802,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lee Hsien Loong',en,Singapur,#ddaa33,#ddaa33,3,0.162165638081
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.160707326935
 'Jean-Denis Combrexelle',en,unknown,#111111,#111111,1,0.160592961874
-'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
-'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
-'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
 'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.160288544141
+'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
+'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
+'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
 'Bruno Kahl',en,Deutschland,#1818e8,#1818e8,1,0.159604891255
 'Oliver Blume',en,Deutschland,#1818e8,#1818e8,3,0.159544082868
 'Miguel Díaz-Canel',en,Kuba,#dd33aa,#dd33aa,1,0.158143494816
