@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'James Gunn',en,unknown,#111111,#111111,2,0.603631844028
-'Jon Jones',en,unknown,#111111,#111111,2,0.574334830586
-'Kendrick Lamar',en,unknown,#111111,#111111,2,0.562655277051
-'Bad Bunny',en,unknown,#111111,#111111,3,0.542505227263
-'Dick Cheney',en,unknown,#111111,#111111,2,0.509454235243
-'Jean Castex',en,unknown,#111111,#111111,2,0.504187576651
-'Boris Vallaud',en,unknown,#111111,#111111,2,0.504102009867
+'James Gunn',en,USA,#18e8e8,#18e8e8,2,0.603631844028
+'Jon Jones',en,USA,#18e8e8,#18e8e8,2,0.574334830586
+'Kendrick Lamar',en,USA,#18e8e8,#18e8e8,2,0.562655277051
+'Bad Bunny',en,PuertoRico,#a46734,#a46734,3,0.542505227263
+'Dick Cheney',en,USA,#18e8e8,#18e8e8,2,0.509454235243
+'Jean Castex',en,Frankreich,#e8e808,#e8e808,2,0.504187576651
+'Boris Vallaud',en,Frankreich,#e8e808,#e8e808,2,0.504102009867
 'reine Mathilde',en,unknown,#111111,#111111,2,0.502942646144
-'Laurent Nuñez',en,unknown,#111111,#111111,2,0.500072376809
+'Laurent Nuñez',en,Frankreich,#e8e808,#e8e808,2,0.500072376809
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
