@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kendrick Lamar',en,unknown,#111111,#111111,2,0.605236623475
 'James Gunn',en,unknown,#111111,#111111,2,0.603631844028
 'Jon Jones',en,unknown,#111111,#111111,2,0.574334830586
-'Bad Bunny',en,unknown,#111111,#111111,3,0.541952818176
+'Kendrick Lamar',en,unknown,#111111,#111111,2,0.562655277051
+'Bad Bunny',en,unknown,#111111,#111111,3,0.542505227263
 'Dick Cheney',en,unknown,#111111,#111111,2,0.509454235243
 'Jean Castex',en,unknown,#111111,#111111,2,0.504187576651
 'Boris Vallaud',en,unknown,#111111,#111111,2,0.504102009867
@@ -149,10 +149,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katherina Reiche',en,Deutschland,#1818e8,#1818e8,1,0.429489103597
 'John Martinis',en,USA,#18e8e8,#18e8e8,3,0.429441828985
 'Benny Blanco',en,USA,#18e8e8,#18e8e8,2,0.429093404017
+'LeBron James',en,USA,#18e8e8,#18e8e8,3,0.427913384300
 'Mary Brunkow',en,USA,#18e8e8,#18e8e8,3,0.427755429230
 'Emma Stone',en,USA,#18e8e8,#18e8e8,3,0.427554442130
 'Mark Meadows',en,USA,#18e8e8,#18e8e8,3,0.427390315352
-'LeBron James',en,USA,#18e8e8,#18e8e8,3,0.427133060505
 'Billie Eilish',en,USA,#18e8e8,#18e8e8,3,0.427036487015
 'Léon XIV',en,Vatikan,#58b8e8,#58b8e8,2,0.426846391983
 'Joel Mokyr',en,USA,#18e8e8,#18e8e8,3,0.426755218039
@@ -193,10 +193,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hubert Aiwanger',en,USA,#1818e8,#1818e8,2,0.419657048815
 'Pedro Sánchez',en,Spanien,#9933aa,#9933aa,3,0.419341153747
 'Sherri Shepherd',en,USA,#18e8e8,#18e8e8,2,0.418990860418
+'Patrick Mahomes',en,USA,#18e8e8,#18e8e8,3,0.418749075442
 'Charles Barkley',en,USA,#1818e8,#1818e8,3,0.418708067440
 'António Guterres',en,Portugal,#4411ee,#4411ee,3,0.418049004607
 'Zach Bryan',en,USA,#18e8e8,#18e8e8,3,0.418025916489
-'Patrick Mahomes',en,USA,#18e8e8,#18e8e8,3,0.417950940894
 'Kara Hurst',en,USA,#18e8e8,#18e8e8,2,0.417700594288
 'Prince George',en,UK,#e838e8,#e838e8,3,0.417668369765
 'Matt Damon',en,USA,#18e8e8,#18e8e8,3,0.417555384924
@@ -246,10 +246,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gavin Newsom',en,USA,#18e8e8,#18e8e8,3,0.408471253269
 'Finnegan Biden',en,USA,#18e8e8,#18e8e8,2,0.408326584216
 'Jane Fonda',en,USA,#18e8e8,#18e8e8,3,0.408208726170
+'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.408127754510
 'Mary Lou McDonald',en,Irland,#3377bb,#3377bb,3,0.407910047000
 'Jack Smith',en,USA,#18e8e8,#18e8e8,3,0.407742417610
 'Adolf Hitler',en,Deutschland,#1818e8,#1818e8,3,0.407361853271
-'Travis Kelce',en,USA,#18e8e8,#18e8e8,3,0.407309146469
 'Mira Murati',en,USA,#18e8e8,#18e8e8,2,0.407179288034
 'Greg Abbott',en,USA,#18e8e8,#18e8e8,3,0.407117904761
 'Sergio Massa',en,Albanien,#77ffcc,#77ffcc,1,0.407026720786
@@ -622,9 +622,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Xi Jinping',en,China,#e88818,#e88818,3,0.271697457345
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.271346270029
 'Shahzada Dawood',en,Pakistan,#ff33bb,#ff33bb,1,0.270866658674
+'Hilda Nakabuye',en,Uganda,#ffbb33,#ffbb33,1,0.270660240625
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.270660240625
 'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.270660240625
-'Hilda Nakabuye',en,Uganda,#ffbb33,#ffbb33,1,0.270660240625
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.270626545570
 'François Bayrou',en,unknown,#111111,#111111,2,0.269280196009
 'Georg Gänswein',en,Deutschland,#1818e8,#1818e8,1,0.268547120299
@@ -707,10 +707,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marlène Schiappa',en,unknown,#111111,#111111,1,0.222606979048
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.222598635234
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.222002671250
-'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.221852656250
 'Pierre-Yves Dermagne',en,Belgien,#33bbff,#33bbff,1,0.221852656250
-'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.221852656250
+'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.221852656250
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.221852656250
+'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.221852656250
 'Benjamin Netanyahu',en,Israel,#22bb33,#22bb33,3,0.221701530607
 'Yoon Suk-yeol',en,SüdKorea,#22bb66,#22bb66,3,0.221256348491
 'Larry Ellison',en,USA,#18e8e8,#18e8e8,3,0.218545878220
