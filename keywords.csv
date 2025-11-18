@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.603703502719
 'Jon Jones',en,USA,#18e8e8,#18e8e8,2,0.574334830586
+'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.568104907311
 'Kendrick Lamar',en,USA,#18e8e8,#18e8e8,2,0.562655277051
 'Bad Bunny',en,PuertoRico,#a46734,#a46734,3,0.542505227263
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,2,0.509454235243
@@ -31,10 +31,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Francesca Albanese',en,Italien,#773344,#773344,3,0.469237662011
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.468600990377
 'Bezalel Smotrich',en,Israel,#22bb33,#22bb33,3,0.468564704256
+'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.467960543403
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.467859220115
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.467515801300
-'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.467259255409
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.467033228881
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.466805844142
@@ -106,8 +106,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olivier Faure',en,Frankreich,#e8e808,#e8e808,3,0.442707234373
 'Jared Kushner',en,USA,#18e8e8,#18e8e8,3,0.442460437558
 'John Clarke',en,USA,#18e8e8,#18e8e8,3,0.442235454350
+'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.441951684518
 'Anant Ambani',en,Indien,#cc3388,#cc3388,1,0.441642677462
-'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.441198870564
 'Olivia Rodrigo',en,USA,#18e8e8,#18e8e8,3,0.440735156313
 'Radical Optimism',en,unknown,#111111,#111111,3,0.440633396016
 'Martin Scorsese',en,USA,#18e8e8,#18e8e8,3,0.440522381519
@@ -169,8 +169,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Guy Ritchie',en,UK,#e838e8,#e838e8,2,0.424917899550
 'Jon Hamm',en,USA,#18e8e8,#18e8e8,3,0.424629074176
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.424356482753
+'Adam Driver',en,USA,#18e8e8,#18e8e8,3,0.424274994180
 "'Dwayne ""The Rock"" Johnson'",en,USA,#18e8e8,#18e8e8,3,0.423910450040
-'Adam Driver',en,USA,#18e8e8,#18e8e8,3,0.423487584080
 'Sophie Turner',en,UK,#e838e8,#e838e8,3,0.423425345006
 'Robert Francis Prevost',en,Vatikan,#58b8e8,#58b8e8,2,0.423198726136
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.422978189424
@@ -208,12 +208,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pierre Farandou',en,Frankreich,#e8e808,#e8e808,1,0.416326388671
 'Jeff Ross',en,USA,#18e8e8,#18e8e8,3,0.416120812153
 'Steve Wozniak',en,USA,#18e8e8,#18e8e8,2,0.415638761227
+'Ron Howard',en,USA,#18e8e8,#18e8e8,3,0.415562666203
 'Milo Yiannopoulos',en,UK,#e838e8,#e838e8,2,0.415508421710
 'Gigi Hadid',en,USA,#18e8e8,#18e8e8,3,0.415034072696
 'Chuck Schumer',en,USA,#18e8e8,#18e8e8,3,0.415015226893
 'Bill Clinton',en,USA,#18e8e8,#18e8e8,3,0.414868589164
 'Reed Richards',en,USA,#18e8e8,#18e8e8,3,0.414813802932
-'Ron Howard',en,USA,#18e8e8,#18e8e8,3,0.414758369603
 'Laurent Berger',en,Frankreich,#e8e808,#e8e808,1,0.414454553945
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.413880588854
 'Indiana Jones',en,USA,#18e8e8,#18e8e8,3,0.413875531889
@@ -623,9 +623,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Xi Jinping',en,China,#e88818,#e88818,3,0.271697457345
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.271346270029
 'Shahzada Dawood',en,Pakistan,#ff33bb,#ff33bb,1,0.270866658674
+'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.270660240625
 'Hilda Nakabuye',en,Uganda,#ffbb33,#ffbb33,1,0.270660240625
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.270660240625
-'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.270660240625
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.270626545570
 'François Bayrou',en,unknown,#111111,#111111,2,0.269280196009
 'Georg Gänswein',en,Deutschland,#1818e8,#1818e8,1,0.268547120299
@@ -708,10 +708,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marlène Schiappa',en,unknown,#111111,#111111,1,0.222606979048
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.222598635234
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.222002671250
-'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.221852656250
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.221852656250
-'Pierre-Yves Dermagne',en,Belgien,#33bbff,#33bbff,1,0.221852656250
+'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.221852656250
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.221852656250
+'Pierre-Yves Dermagne',en,Belgien,#33bbff,#33bbff,1,0.221852656250
 'Benjamin Netanyahu',en,Israel,#22bb33,#22bb33,3,0.221701530607
 'Yoon Suk-yeol',en,SüdKorea,#22bb66,#22bb66,3,0.221256348491
 'Larry Ellison',en,USA,#18e8e8,#18e8e8,3,0.218545878220
