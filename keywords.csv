@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bad Bunny',en,PuertoRico,#a46734,#a46734,3,0.542505227263
 'Kendrick Lamar',en,USA,#18e8e8,#18e8e8,2,0.510485352766
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,2,0.510071332306
 'Jean Castex',en,Frankreich,#e8e808,#e8e808,2,0.504187576651
@@ -8,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'JULIEN MUGUET',en,Frankreich,#e8e808,#e8e808,2,0.502463038000
 'Laurent Nuñez',en,Frankreich,#e8e808,#e8e808,2,0.500072376809
 'Jon Jones',en,USA,#18e8e8,#18e8e8,2,0.497678405998
+'Bad Bunny',en,PuertoRico,#a46734,#a46734,3,0.488816540901
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.482942304873
@@ -31,9 +31,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Francesca Albanese',en,Italien,#773344,#773344,3,0.469237662011
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.468600990377
 'Bezalel Smotrich',en,Israel,#22bb33,#22bb33,3,0.468564704256
+'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.468435308489
 'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.467960543403
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.467859220115
-'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.467734966126
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.467515801300
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
@@ -623,9 +623,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Xi Jinping',en,China,#e88818,#e88818,3,0.271697457345
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.271346270029
 'Shahzada Dawood',en,Pakistan,#ff33bb,#ff33bb,1,0.270866658674
+'Hilda Nakabuye',en,Uganda,#ffbb33,#ffbb33,1,0.270660240625
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.270660240625
 'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.270660240625
-'Hilda Nakabuye',en,Uganda,#ffbb33,#ffbb33,1,0.270660240625
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.270626545570
 'François Bayrou',en,unknown,#111111,#111111,2,0.269280196009
 'Georg Gänswein',en,Deutschland,#1818e8,#1818e8,1,0.268547120299
@@ -708,10 +708,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marlène Schiappa',en,unknown,#111111,#111111,1,0.222606979048
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.222598635234
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.222002671250
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.221852656250
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.221852656250
-'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.221852656250
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.221852656250
 'Pierre-Yves Dermagne',en,Belgien,#33bbff,#33bbff,1,0.221852656250
+'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.221852656250
 'Benjamin Netanyahu',en,Israel,#22bb33,#22bb33,3,0.221701530607
 'Yoon Suk-yeol',en,SüdKorea,#22bb66,#22bb66,3,0.221256348491
 'Larry Ellison',en,USA,#18e8e8,#18e8e8,3,0.218545878220
