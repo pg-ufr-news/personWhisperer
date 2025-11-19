@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kendrick Lamar',en,USA,#18e8e8,#18e8e8,2,0.562655277051
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.551482599851
 'Bad Bunny',en,PuertoRico,#a46734,#a46734,3,0.542505227263
-'Dick Cheney',en,USA,#18e8e8,#18e8e8,2,0.509454235243
+'Kendrick Lamar',en,USA,#18e8e8,#18e8e8,2,0.510485352766
+'Dick Cheney',en,USA,#18e8e8,#18e8e8,2,0.510071332306
 'Jean Castex',en,Frankreich,#e8e808,#e8e808,2,0.504187576651
 'Boris Vallaud',en,Frankreich,#e8e808,#e8e808,2,0.504102009867
 'reine Mathilde',en,unknown,#111111,#111111,2,0.502942646144
@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.475834366595
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.475785021910
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.474866011717
-'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.471268882098
+'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.474033865789
 'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.471102100463
 'Jennifer Garner',en,USA,#18e8e8,#18e8e8,3,0.470733981681
 'Pat McAfee',en,USA,#18e8e8,#18e8e8,3,0.470188831508
@@ -623,9 +623,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Xi Jinping',en,China,#e88818,#e88818,3,0.271697457345
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.271346270029
 'Shahzada Dawood',en,Pakistan,#ff33bb,#ff33bb,1,0.270866658674
+'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.270660240625
 'Hilda Nakabuye',en,Uganda,#ffbb33,#ffbb33,1,0.270660240625
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.270660240625
-'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.270660240625
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.270626545570
 'François Bayrou',en,unknown,#111111,#111111,2,0.269280196009
 'Georg Gänswein',en,Deutschland,#1818e8,#1818e8,1,0.268547120299
@@ -708,10 +708,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marlène Schiappa',en,unknown,#111111,#111111,1,0.222606979048
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.222598635234
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.222002671250
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.221852656250
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.221852656250
-'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.221852656250
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.221852656250
 'Pierre-Yves Dermagne',en,Belgien,#33bbff,#33bbff,1,0.221852656250
+'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.221852656250
 'Benjamin Netanyahu',en,Israel,#22bb33,#22bb33,3,0.221701530607
 'Yoon Suk-yeol',en,SüdKorea,#22bb66,#22bb66,3,0.221256348491
 'Larry Ellison',en,USA,#18e8e8,#18e8e8,3,0.218545878220
