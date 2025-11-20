@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jon Jones',en,USA,#18e8e8,#18e8e8,2,0.497678405998
 'Bad Bunny',en,PuertoRico,#a46734,#a46734,3,0.489474864838
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
@@ -81,6 +80,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andy Cohen',en,USA,#18e8e8,#18e8e8,3,0.451796772890
 'Leo XIV',en,Vatikan,#58b8e8,#58b8e8,3,0.451333412446
 'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.451152503340
+'Jon Jones',en,USA,#18e8e8,#18e8e8,2,0.450710577826
 'Vinod Khosla',en,Indien,#cc3388,#cc3388,1,0.449934143386
 'Ryan Gosling',en,Kanada,#443388,#443388,3,0.449767458733
 'David Beckham',en,UK,#e838e8,#e838e8,2,0.449420569329
@@ -159,6 +159,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joel Mokyr',en,USA,#18e8e8,#18e8e8,3,0.426755218039
 'Lewis Kaplan',en,USA,#18e8e8,#18e8e8,3,0.426689493116
 'Mark Cuban',en,USA,#18e8e8,#18e8e8,3,0.426541766659
+'Jon Hamm',en,USA,#18e8e8,#18e8e8,3,0.426197934744
 'Berkshire Hathaway',en,USA,#18e8e8,#18e8e8,3,0.425385044508
 'James Comer',en,USA,#18e8e8,#18e8e8,3,0.425379648356
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.425273026891
@@ -167,7 +168,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Veronika Grimm',en,Deutschland,#111111,#111111,1,0.425000030000
 'Philipp Aghion',en,Frankreich,#e8e808,#e8e808,1,0.425000000000
 'Guy Ritchie',en,UK,#e838e8,#e838e8,2,0.424917899550
-'Jon Hamm',en,USA,#18e8e8,#18e8e8,3,0.424629074176
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.424356482753
 'Adam Driver',en,USA,#18e8e8,#18e8e8,3,0.424274994180
 "'Dwayne ""The Rock"" Johnson'",en,USA,#18e8e8,#18e8e8,3,0.423910450040
@@ -304,12 +304,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Santos',en,USA,#18e8e8,#18e8e8,3,0.400386046846
 'Gayle King',en,USA,#18e8e8,#18e8e8,3,0.400349976764
 'Sergio Mattarella',en,Italien,#773344,#773344,2,0.400192529602
+'James Cameron',en,USA,#18e8e8,#18e8e8,3,0.400140150969
 'Wang Wentao',en,China,#e88818,#e88818,3,0.399977764649
 'Kim Mulkey',en,USA,#18e8e8,#18e8e8,2,0.399961151285
 'David Weiss',en,Deutschland,#1818e8,#1818e8,3,0.399861338220
 'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.399533154608
 'Willie Nelson',en,unknown,#111111,#111111,3,0.399482843420
-'James Cameron',en,USA,#18e8e8,#18e8e8,3,0.399306278774
 'Chris Kirkpatrick',en,unknown,#111111,#111111,1,0.399079205200
 'Jacoby Brissett',en,unknown,#111111,#111111,2,0.398985177314
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.398684223159
@@ -709,10 +709,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marlène Schiappa',en,unknown,#111111,#111111,1,0.222606979048
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.222598635234
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.222002671250
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.221852656250
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.221852656250
-'Pierre-Yves Dermagne',en,Belgien,#33bbff,#33bbff,1,0.221852656250
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.221852656250
 'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.221852656250
+'Pierre-Yves Dermagne',en,Belgien,#33bbff,#33bbff,1,0.221852656250
 'Yoon Suk-yeol',en,SüdKorea,#22bb66,#22bb66,3,0.221256348491
 'Larry Ellison',en,USA,#18e8e8,#18e8e8,3,0.218545878220
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,1,0.218523187306
