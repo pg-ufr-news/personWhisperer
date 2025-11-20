@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jean Castex',en,Frankreich,#e8e808,#e8e808,2,0.503859470153
 'reine Mathilde',en,unknown,#111111,#111111,2,0.502942646144
 'JULIEN MUGUET',en,Frankreich,#e8e808,#e8e808,2,0.502463038000
 'Laurent Nuñez',en,Frankreich,#e8e808,#e8e808,2,0.500072376809
@@ -150,6 +149,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Martinis',en,USA,#18e8e8,#18e8e8,3,0.429441828985
 'Benny Blanco',en,USA,#18e8e8,#18e8e8,2,0.429093404017
 'Boris Vallaud',en,Frankreich,#e8e808,#e8e808,1,0.428486708387
+'Jean Castex',en,Frankreich,#e8e808,#e8e808,1,0.428280579630
 'Mark Meadows',en,USA,#18e8e8,#18e8e8,3,0.428170138358
 'LeBron James',en,USA,#18e8e8,#18e8e8,3,0.427913384300
 'Billie Eilish',en,USA,#18e8e8,#18e8e8,3,0.427816998782
@@ -623,9 +623,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Xi Jinping',en,China,#e88818,#e88818,3,0.271697457345
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.271346270029
 'Shahzada Dawood',en,Pakistan,#ff33bb,#ff33bb,1,0.270866658674
+'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.270660240625
 'Hilda Nakabuye',en,Uganda,#ffbb33,#ffbb33,1,0.270660240625
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.270660240625
-'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.270660240625
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.270626545570
 'François Bayrou',en,unknown,#111111,#111111,2,0.269280196009
 'Georg Gänswein',en,Deutschland,#1818e8,#1818e8,1,0.268547120299
