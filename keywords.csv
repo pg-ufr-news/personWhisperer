@@ -302,11 +302,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,1,0.400775127500
 'Sam Altman',en,USA,#18e8e8,#18e8e8,3,0.400546880394
 'George Santos',en,USA,#18e8e8,#18e8e8,3,0.400386046846
-'Gayle King',en,unknown,#111111,#111111,3,0.400349976764
+'Gayle King',en,USA,#18e8e8,#18e8e8,3,0.400349976764
 'Sergio Mattarella',en,Italien,#773344,#773344,2,0.400192529602
 'Wang Wentao',en,China,#e88818,#e88818,3,0.399977764649
-'Kim Mulkey',en,unknown,#111111,#111111,2,0.399961151285
-'David Weiss',en,unknown,#111111,#111111,3,0.399861338220
+'Kim Mulkey',en,USA,#18e8e8,#18e8e8,2,0.399961151285
+'David Weiss',en,Deutschland,#1818e8,#1818e8,3,0.399861338220
 'Pippa Middleton',en,UK,#e838e8,#e838e8,3,0.399533154608
 'Willie Nelson',en,unknown,#111111,#111111,3,0.399482843420
 'James Cameron',en,USA,#18e8e8,#18e8e8,3,0.399306278774
