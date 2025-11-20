@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Laurent Nuñez',en,Frankreich,#e8e808,#e8e808,2,0.500072376809
 'Jon Jones',en,USA,#18e8e8,#18e8e8,2,0.497678405998
 'Bad Bunny',en,PuertoRico,#a46734,#a46734,3,0.489474864838
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
@@ -89,6 +88,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joaquim Valente',en,USA,#18e8e8,#18e8e8,2,0.447606283145
 'Howard Stern',en,USA,#18e8e8,#18e8e8,3,0.447301771274
 'Keith Kellogg',en,USA,#18e8e8,#18e8e8,3,0.447077006330
+'Laurent Nuñez',en,Frankreich,#e8e808,#e8e808,2,0.446271192595
 'Nicola Peltz',en,USA,#18e8e8,#18e8e8,3,0.446126918982
 'Henry Samuel',en,USA,#18e8e8,#18e8e8,2,0.446124367798
 'Michel Devoret',en,Frankreich,#e8e808,#e8e808,2,0.445699203144
@@ -559,7 +559,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bruno Le Maire',en,Frankreich,#e8e808,#e8e808,2,0.334451035711
 'Oleksandr Usyk',en,unknown,#111111,#111111,2,0.333997144971
 'Sarah Stier',en,unknown,#111111,#111111,3,0.331755407251
-'Jordan Bardella',en,Frankreich,#e8e808,#e8e808,3,0.329644578196
+'Jordan Bardella',en,Frankreich,#e8e808,#e8e808,3,0.330605048549
 'Billy Graham',en,USA,#18e8e8,#18e8e8,3,0.329456966609
 'Pap Ndiaye',en,unknown,#111111,#111111,1,0.329363204293
 'Bob Menendez',en,unknown,#111111,#111111,2,0.329163217199
@@ -709,10 +709,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marlène Schiappa',en,unknown,#111111,#111111,1,0.222606979048
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.222598635234
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.222002671250
-'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.221852656250
 'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.221852656250
-'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.221852656250
+'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.221852656250
 'Pierre-Yves Dermagne',en,Belgien,#33bbff,#33bbff,1,0.221852656250
+'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.221852656250
 'Yoon Suk-yeol',en,SüdKorea,#22bb66,#22bb66,3,0.221256348491
 'Larry Ellison',en,USA,#18e8e8,#18e8e8,3,0.218545878220
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,1,0.218523187306
