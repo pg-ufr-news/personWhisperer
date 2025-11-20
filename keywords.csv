@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.585326747236
+'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.570666753332
 'Jean Castex',en,Frankreich,#e8e808,#e8e808,2,0.504187576651
 'Boris Vallaud',en,Frankreich,#e8e808,#e8e808,2,0.504102009867
 'reine Mathilde',en,unknown,#111111,#111111,2,0.502942646144
@@ -38,8 +38,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.467515801300
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.466805844142
+'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.466697529582
 'Omar Yaghi',en,Jordanien,#335599,#335599,3,0.466002667561
-'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.465993726643
 'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.465911654925
 'Javier Milei',en,Argentinien,#bb11cc,#bb11cc,3,0.464571106516
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.463633146772
@@ -114,9 +114,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.440164372058
 'Lil Yachty',en,USA,#18e8e8,#18e8e8,2,0.440164089099
 'Omar M. Yaghi',en,USA,#18e8e8,#18e8e8,2,0.439300675000
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.439034904335
 'Shimon Sakaguchi',en,Japan,#aa9933,#aa9933,2,0.439002607419
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.438328557807
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.438276354140
 'Phoebe Bridgers',en,USA,#18e8e8,#18e8e8,3,0.438194559072
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.437522067405
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.436838931702
@@ -623,9 +623,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Xi Jinping',en,China,#e88818,#e88818,3,0.271697457345
 'Willy Brandt',en,Deutschland,#1818e8,#1818e8,1,0.271346270029
 'Shahzada Dawood',en,Pakistan,#ff33bb,#ff33bb,1,0.270866658674
+'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.270660240625
 'Hilda Nakabuye',en,Uganda,#ffbb33,#ffbb33,1,0.270660240625
 'Chad Frischmann',en,USA,#18e8e8,#18e8e8,1,0.270660240625
-'Andrei Sacharow',en,Russland,#e81818,#e81818,1,0.270660240625
 'Boris Pistorius',en,Deutschland,#1818e8,#1818e8,3,0.270626545570
 'François Bayrou',en,unknown,#111111,#111111,2,0.269280196009
 'Georg Gänswein',en,Deutschland,#1818e8,#1818e8,1,0.268547120299
@@ -675,9 +675,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'François Braun',en,unknown,#111111,#111111,1,0.242364503526
 'Fumio Kishida',en,Japan,#aa9933,#aa9933,3,0.241218987042
 'Margeret Thatcher',en,UK,#e838e8,#e838e8,1,0.239600868750
+'Michelle Obama',en,USA,#18e8e8,#18e8e8,3,0.239342144952
 'Aleksandar Vučić',en,Serbien,#88cc44,#88cc44,1,0.239310118648
 'Barack Obama',en,USA,#18e8e8,#18e8e8,3,0.238271418378
-'Michelle Obama',en,USA,#18e8e8,#18e8e8,3,0.238239797819
 'Angela Merkel',en,Deutschland,#1818e8,#1818e8,3,0.237179702499
 'Cyril Ramaphosa',en,Südafrika,#cc4488,#cc4488,3,0.236762703671
 'Chelsea Manning',en,USA,#18e8e8,#18e8e8,3,0.236493260750
@@ -705,14 +705,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Norbert Röttgen',en,Deutschland,#1818e8,#1818e8,2,0.223889878969
 'Sophia Chikirou',en,unknown,#111111,#111111,1,0.223770278675
 'Luc Terlinden',en,unknown,#111111,#111111,1,0.223435060446
+'Benjamin Netanyahu',en,Israel,#22bb33,#22bb33,3,0.222825775743
 'Marlène Schiappa',en,unknown,#111111,#111111,1,0.222606979048
 'Wolfgang Benz',en,Deutschland,#1818e8,#1818e8,1,0.222598635234
 'Caren Miosga',en,Deutschland,#1818e8,#1818e8,1,0.222002671250
-'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.221852656250
 'Sergej Surowikin',en,Russland,#e81818,#e81818,1,0.221852656250
-'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.221852656250
+'Franca Lehfeldt',en,Deutschland,#1818e8,#1818e8,1,0.221852656250
 'Pierre-Yves Dermagne',en,Belgien,#33bbff,#33bbff,1,0.221852656250
-'Benjamin Netanyahu',en,Israel,#22bb33,#22bb33,3,0.221701530607
+'Aurélien Pradié',en,Frankreich,#e8e808,#e8e808,1,0.221852656250
 'Yoon Suk-yeol',en,SüdKorea,#22bb66,#22bb66,3,0.221256348491
 'Larry Ellison',en,USA,#18e8e8,#18e8e8,3,0.218545878220
 'Jewgeni Prigoschin',en,Russland,#e81818,#e81818,1,0.218523187306
