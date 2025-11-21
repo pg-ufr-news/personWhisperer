@@ -803,7 +803,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marie Trintignant',en,unknown,#111111,#111111,1,0.160707326935
 'Jean-Denis Combrexelle',en,unknown,#111111,#111111,1,0.160592961874
 'Barbara Schöneberger',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
-'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.160288544141
 'Bettina Jarasch',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
 'Uwe Neumärker',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
 'Markus Wipperfürth',en,Deutschland,#1818e8,#1818e8,1,0.160288544141
@@ -837,6 +836,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marco Buschmann',en,Deutschland,#1818e8,#1818e8,1,0.136309140892
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.136245262520
 'Ayatollah Chamenei',en,Iran,#117733,#117733,1,0.136245262520
+'Dorothée Pacaud',en,Frankreich,#e8e808,#e8e808,1,0.136245262520
 'Julia Koch',en,USA,#18e8e8,#18e8e8,1,0.134303028570
 'Andrea Lindholz',en,Deutschland,#1818e8,#1818e8,1,0.131653086100
 'Alexei Nawalny',en,Russland,#e81818,#e81818,1,0.129347072945
