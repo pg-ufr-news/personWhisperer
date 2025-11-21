@@ -813,7 +813,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicola Beer',en,EU,#4488cc,#4488cc,1,0.157774150060
 'Robin Li',en,China,#e88818,#e88818,3,0.156039691507
 'Karl Lauterbach',en,Deutschland,#1818e8,#1818e8,1,0.153532129165
-'Pietro Lombardi',en,Deutschland,#1818e8,#1818e8,2,0.152826436160
 'Thomas Haldenwang',en,Deutschland,#1818e8,#1818e8,1,0.152314466903
 'Anthony Fauci',en,USA,#18e8e8,#18e8e8,1,0.151941997911
 'Andrew Forrest',en,Australien,#99aa33,#99aa33,1,0.151354501817
@@ -839,6 +838,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrei Nikolajewitsch Kolmogorow',en,Russland,#e81818,#e81818,1,0.136245262520
 'Julia Koch',en,USA,#18e8e8,#18e8e8,1,0.134303028570
 'Andrea Lindholz',en,Deutschland,#1818e8,#1818e8,1,0.131653086100
+'Pietro Lombardi',en,Deutschland,#1818e8,#1818e8,1,0.129902470736
 'Alexei Nawalny',en,Russland,#e81818,#e81818,1,0.129347072945
 'Otmar Issing',en,EU,#4488cc,#4488cc,1,0.127785606515
 'Ola Källenius',en,Deutschland,#1818e8,#1818e8,1,0.127753861432
