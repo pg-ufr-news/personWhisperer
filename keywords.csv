@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.530677360840
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.482942304873
@@ -15,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.475785021910
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.474866011717
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.474721674463
+'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.471348505285
 'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.471102100463
 'Jennifer Garner',en,USA,#18e8e8,#18e8e8,3,0.470733981681
 'Pat McAfee',en,USA,#18e8e8,#18e8e8,3,0.470188831508
@@ -36,6 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Javier Milei',en,Argentinien,#bb11cc,#bb11cc,3,0.464571106516
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.463633146772
 'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.463372158984
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.463246081092
 'Yorgos Lanthimos',en,Griechenland,#1858e8,#1858e8,3,0.462882345366
 'Angelina Jolie',en,USA,#18e8e8,#18e8e8,3,0.462738081833
 'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,3,0.462447909845
@@ -48,7 +49,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hunter Biden',en,USA,#18e8e8,#18e8e8,3,0.461413203663
 'Hailey Bieber',en,USA,#18e8e8,#18e8e8,3,0.461388136158
 'Eddie Hearn',en,UK,#e838e8,#e838e8,3,0.461122072315
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.461109829866
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.461059391485
 'Bronny James',en,USA,#18e8e8,#18e8e8,3,0.460857754997
 'Dua Lipa',en,UK,#e838e8,#e838e8,3,0.460483511412
@@ -254,11 +254,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mira Murati',en,USA,#18e8e8,#18e8e8,2,0.407179288034
 'Greg Abbott',en,USA,#18e8e8,#18e8e8,3,0.407117904761
 'Sergio Massa',en,Albanien,#77ffcc,#77ffcc,1,0.407026720786
+'Nancy Mace',en,USA,#18e8e8,#18e8e8,3,0.406982171796
 'Princess Diana',en,UK,#e838e8,#e838e8,3,0.406844651610
 'Geert Wilders',en,Niederlande,#6622bb,#6622bb,2,0.406772973114
 'William Shakespeare',en,UK,#e838e8,#e838e8,2,0.406575647130
 'Greg Brockman',en,USA,#18e8e8,#18e8e8,1,0.406212830739
-'Nancy Mace',en,USA,#18e8e8,#18e8e8,3,0.406161367283
 'Alvin Bragg',en,USA,#18e8e8,#18e8e8,3,0.405971916839
 'George Miller',en,Australien,#99aa33,#99aa33,3,0.405902060736
 'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.405753074207
