@@ -17,11 +17,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.471348505285
 'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.471102100463
 'Jennifer Garner',en,USA,#18e8e8,#18e8e8,3,0.470733981681
+'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.470195615762
 'Pat McAfee',en,USA,#18e8e8,#18e8e8,3,0.470188831508
 'Sandy Hook',en,USA,#18e8e8,#18e8e8,3,0.470008918994
 'Sébastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.469262022304
 'Francesca Albanese',en,Italien,#773344,#773344,3,0.469237662011
-'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.468800557137
 'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.468660437308
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.468600990377
 'Bezalel Smotrich',en,Israel,#22bb33,#22bb33,3,0.468564704256
@@ -33,10 +33,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.466805844142
 'Omar Yaghi',en,Jordanien,#335599,#335599,3,0.466002667561
 'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.465911654925
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.464663192157
 'Javier Milei',en,Argentinien,#bb11cc,#bb11cc,3,0.464571106516
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.463633146772
 'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.463372158984
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.463246081092
 'Yorgos Lanthimos',en,Griechenland,#1858e8,#1858e8,3,0.462882345366
 'Angelina Jolie',en,USA,#18e8e8,#18e8e8,3,0.462738081833
 'Benedict XVI',en,Vatikan,#58b8e8,#58b8e8,3,0.462447909845
@@ -48,10 +48,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.461791305418
 'Hunter Biden',en,USA,#18e8e8,#18e8e8,3,0.461413203663
 'Hailey Bieber',en,USA,#18e8e8,#18e8e8,3,0.461388136158
+'Dua Lipa',en,UK,#e838e8,#e838e8,3,0.461198251769
 'Eddie Hearn',en,UK,#e838e8,#e838e8,3,0.461122072315
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.461059391485
 'Bronny James',en,USA,#18e8e8,#18e8e8,3,0.460857754997
-'Dua Lipa',en,UK,#e838e8,#e838e8,3,0.460483511412
 'Nicusor Dan',en,Rumänien,#339922,#339922,1,0.460465730697
 'Chris Luxon',en,Neuseeland,#1818e8,#1818e8,3,0.459307916941
 'Stormy Daniels',en,USA,#18e8e8,#18e8e8,3,0.459302343725
@@ -104,7 +104,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.441951684518
 'Anant Ambani',en,Indien,#cc3388,#cc3388,1,0.441642677462
 'Olivia Rodrigo',en,USA,#18e8e8,#18e8e8,3,0.440735156313
-'Radical Optimism',en,unknown,#111111,#111111,3,0.440633396016
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.440630871924
 'Martin Scorsese',en,USA,#18e8e8,#18e8e8,3,0.440522381519
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.440164372058
@@ -118,7 +117,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John M. Martinis',en,USA,#18e8e8,#18e8e8,3,0.436055757503
 'Britney Spears',en,USA,#18e8e8,#18e8e8,3,0.436049402156
 'Queen Elizabeth II',en,UK,#e838e8,#e838e8,3,0.435968781211
-'Selena Gomez',en,USA,#18e8e8,#18e8e8,3,0.435048365698
+'Selena Gomez',en,USA,#18e8e8,#18e8e8,3,0.435813239775
 'Charlie Munger',en,USA,#18e8e8,#18e8e8,3,0.434992072809
 'Melania Trump',en,USA,#18e8e8,#18e8e8,3,0.434834419934
 'Michel H. Devoret',en,USA,#18e8e8,#18e8e8,2,0.434523373793
@@ -140,10 +139,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Al Nassr',en,SaudiArabien,#1144ee,#1144ee,3,0.430758340355
 'Mark Carney',en,Kanada,#443388,#443388,3,0.430293040531
 'Jennifer Lopez',en,USA,#18e8e8,#18e8e8,3,0.429991734623
+'Benny Blanco',en,USA,#18e8e8,#18e8e8,2,0.429869909344
 'Brittany Mahomes',en,USA,#18e8e8,#18e8e8,3,0.429801319034
 'Katherina Reiche',en,Deutschland,#1818e8,#1818e8,1,0.429489103597
 'John Martinis',en,USA,#18e8e8,#18e8e8,3,0.429441828985
-'Benny Blanco',en,USA,#18e8e8,#18e8e8,2,0.429093404017
 'Boris Vallaud',en,Frankreich,#e8e808,#e8e808,1,0.428486708387
 'Jean Castex',en,Frankreich,#e8e808,#e8e808,1,0.428280579630
 'Mark Meadows',en,USA,#18e8e8,#18e8e8,3,0.428170138358
@@ -180,6 +179,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Jonas',en,USA,#18e8e8,#18e8e8,3,0.422198423922
 'Kim Kardashian',en,USA,#18e8e8,#18e8e8,3,0.422084830122
 'Curtis Yarvin',en,USA,#18e8e8,#18e8e8,2,0.421648410108
+'Radical Optimism',en,unknown,#111111,#111111,3,0.421527206614
 'Jonathan Roumie',en,USA,#18e8e8,#18e8e8,2,0.421390919455
 'Bad Bunny',en,PuertoRico,#a46734,#a46734,3,0.421013340112
 'Ehud Olmert',en,Israel,#22bb33,#22bb33,2,0.420906001870
