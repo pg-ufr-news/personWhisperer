@@ -737,7 +737,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aleksandar Vucic',en,Serbien,#88cc44,#88cc44,3,0.200076424780
 'Salvador Dali',en,Spanien,#9933aa,#9933aa,1,0.199405090395
 'Mohammed bin Salman',en,SaudiArabien,#1144ee,#1144ee,2,0.199302301330
-'Antony Blinken',en,USA,#18e8e8,#18e8e8,3,0.199068191883
 'Kim Jong-un',en,NordKorea,#e85858,#e85858,3,0.198951196753
 'Joko Widodo',en,Indonesien,#aa33dd,#aa33dd,3,0.197364917723
 'Paul Kagame',en,Ruanda,#33ddaa,#33ddaa,2,0.195934635817
@@ -791,6 +790,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Kerry',en,USA,#18e8e8,#18e8e8,2,0.169474690278
 'Bodo Ramelow',en,Deutschland,#1818e8,#1818e8,2,0.169396922294
 'Lael Brainard',en,USA,#18e8e8,#18e8e8,1,0.169344050433
+'Antony Blinken',en,USA,#18e8e8,#18e8e8,2,0.169208668101
 'Sahra Wagenknecht',en,Deutschland,#1818e8,#1818e8,1,0.169002693578
 'Sergey Brin',en,USA,#18e8e8,#18e8e8,2,0.168273997618
 'Justin Trudeau',en,Kanada,#443388,#443388,3,0.167836246560
