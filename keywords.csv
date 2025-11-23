@@ -80,7 +80,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andy Cohen',en,USA,#18e8e8,#18e8e8,3,0.451796772890
 'Leo XIV',en,Vatikan,#58b8e8,#58b8e8,3,0.451333412446
 'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.451152503340
-'Jon Jones',en,USA,#18e8e8,#18e8e8,2,0.450710577826
 'Vinod Khosla',en,Indien,#cc3388,#cc3388,1,0.449934143386
 'Ryan Gosling',en,Kanada,#443388,#443388,3,0.449767458733
 'David Beckham',en,UK,#e838e8,#e838e8,2,0.449420569329
@@ -351,6 +350,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jake Tapper',en,unknown,#111111,#111111,3,0.392950004714
 'Chip Somodevilla',en,USA,#18e8e8,#18e8e8,3,0.392873004398
 'Lionel Richie',en,USA,#18e8e8,#18e8e8,3,0.392770573556
+'Jon Jones',en,USA,#18e8e8,#18e8e8,2,0.392667674009
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,2,0.392525208185
 'Harrison Ford',en,unknown,#111111,#111111,3,0.392426947368
 'Bruce Springsteen',en,USA,#18e8e8,#18e8e8,3,0.392420555178
