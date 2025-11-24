@@ -1,4 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Tom Aspinall',en,unknown,#111111,#111111,2,0.607988191463
+'Erika Kirk',en,unknown,#111111,#111111,2,0.603646870371
+'Boualem Sansal',en,unknown,#111111,#111111,2,0.507038646778
+'Virginia Giuffre',en,unknown,#111111,#111111,2,0.505107240107
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.482942304873
@@ -872,7 +876,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yanis Varoufakis',en,Griechenland,#1858e8,#1858e8,1,0.102105240474
 'Stephan Harbarth',en,Deutschland,#1818e8,#1818e8,1,0.100210385991
 'Chez Krömer',en,Deutschland,#1818e8,#1818e8,1,0.100012197405
-'Sergej Lawrow',en,Russland,#e81818,#e81818,1,0.099241858362
 'Wladimir Putin',en,Russland,#e81818,#e81818,1,0.098555235433
 'Ramsan Kadyrow',en,Russland,#e81818,#e81818,1,0.098437202170
 'Erik Marquardt',en,EU,#4488cc,#4488cc,1,0.098272494599
@@ -892,6 +895,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Faisal Kawusi',en,Deutschland,#1818e8,#1818e8,1,0.085177711038
 'Ali Chamenei',en,Iran,#117733,#117733,1,0.084982887032
 'Martin Sonneborn',en,Deutschland,#1818e8,#1818e8,1,0.084902856049
+'Sergej Lawrow',en,Russland,#e81818,#e81818,1,0.084355579608
 'Valery Gerasimov',en,Russland,#e81818,#e81818,1,0.083628696053
 'Igor Setschin',en,Russland,#e81818,#e81818,1,0.081331914281
 'Sergej Schoigu',en,Russland,#e81818,#e81818,1,0.080212714606
