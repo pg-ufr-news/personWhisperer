@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Tom Aspinall',en,UK,#e838e8,#e838e8,2,0.607988191463
+'Tom Aspinall',en,UK,#e838e8,#e838e8,3,0.619418899813
 'Erika Kirk',en,USA,#18e8e8,#18e8e8,2,0.603646870371
 'Boualem Sansal',en,Algerien,#f43a7f,#f43a7f,2,0.507038646778
 'Virginia Giuffre',en,USA,#18e8e8,#18e8e8,2,0.505107240107
@@ -319,6 +319,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sam H',en,unknown,#111111,#111111,2,0.398158194809
 'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.398146399558
 'Pope Leo',en,Vatikan,#58b8e8,#58b8e8,3,0.397771268677
+'Jon Jones',en,USA,#18e8e8,#18e8e8,2,0.397722384347
 'David Koch',en,USA,#18e8e8,#18e8e8,3,0.397427143047
 'Viktor Shokin',en,Ukraine,#e818e8,#e818e8,1,0.397008288922
 'Sultan al-Jaber',en,VAE,#2266bb,#2266bb,3,0.397003494841
@@ -354,7 +355,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jake Tapper',en,unknown,#111111,#111111,3,0.392950004714
 'Chip Somodevilla',en,USA,#18e8e8,#18e8e8,3,0.392873004398
 'Lionel Richie',en,USA,#18e8e8,#18e8e8,3,0.392770573556
-'Jon Jones',en,USA,#18e8e8,#18e8e8,2,0.392667674009
 'Nikki Haley',en,USA,#18e8e8,#18e8e8,2,0.392525208185
 'Harrison Ford',en,unknown,#111111,#111111,3,0.392426947368
 'Bruce Springsteen',en,USA,#18e8e8,#18e8e8,3,0.392420555178
