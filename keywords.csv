@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.586318541417
+'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.545434863062
 'Tom Aspinall',en,UK,#e838e8,#e838e8,3,0.542356780712
 'Boualem Sansal',en,Algerien,#f43a7f,#f43a7f,2,0.507038646778
 'Virginia Giuffre',en,USA,#18e8e8,#18e8e8,2,0.505107240107
-'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.500460322442
+'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.504879212672
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.482942304873
@@ -33,16 +33,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.468600990377
 'Bezalel Smotrich',en,Israel,#22bb33,#22bb33,3,0.468564704256
 'Kendrick Lamar',en,USA,#18e8e8,#18e8e8,2,0.468418219851
+'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.467867411234
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.467859220115
 'Greta Thunberg',en,Schweden,#77ff55,#77ff55,2,0.467593976544
 'Peter Howitt',en,USA,#18e8e8,#18e8e8,3,0.466940499337
 'Lauren Sanchez',en,USA,#18e8e8,#18e8e8,3,0.466805844142
-'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.466463067403
+'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.466615620926
 'Omar Yaghi',en,Jordanien,#335599,#335599,3,0.466002667561
-'Whoopi Goldberg',en,USA,#18e8e8,#18e8e8,3,0.465911654925
 'John Fetterman',en,USA,#18e8e8,#18e8e8,3,0.465754402667
 'Javier Milei',en,Argentinien,#bb11cc,#bb11cc,3,0.464571106516
 'Tom Brady',en,USA,#18e8e8,#18e8e8,3,0.463372158984
+'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.463250077567
 'Yorgos Lanthimos',en,Griechenland,#1858e8,#1858e8,3,0.462882345366
 'Angelina Jolie',en,USA,#18e8e8,#18e8e8,3,0.462738081833
 'Tucker Carlson',en,USA,#18e8e8,#18e8e8,3,0.462503451880
@@ -52,7 +53,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gervonta Davis',en,USA,#18e8e8,#18e8e8,3,0.462055296786
 'Meghan Markle',en,UK,#e838e8,#e838e8,3,0.461934629630
 'Bret Baier',en,USA,#18e8e8,#18e8e8,3,0.461924151362
-'Jimmy Kimmel',en,USA,#18e8e8,#18e8e8,3,0.461827340519
 'Hunter Biden',en,USA,#18e8e8,#18e8e8,3,0.461413203663
 'Hailey Bieber',en,USA,#18e8e8,#18e8e8,3,0.461388136158
 'Dua Lipa',en,UK,#e838e8,#e838e8,3,0.461198251769
@@ -190,6 +190,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ehud Olmert',en,Israel,#22bb33,#22bb33,2,0.420906001870
 'Kylie Kelce',en,USA,#18e8e8,#18e8e8,3,0.420843154715
 'Chuck Todd',en,USA,#18e8e8,#18e8e8,3,0.420678382977
+'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.420345257572
 'Missy Elliott',en,USA,#18e8e8,#18e8e8,3,0.420327016635
 'Jennifer Morgan',en,Deutschland,#1818e8,#1818e8,3,0.419862032798
 'Pete Davidson',en,USA,#18e8e8,#18e8e8,3,0.419758405529
@@ -197,7 +198,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hubert Aiwanger',en,USA,#1818e8,#1818e8,2,0.419657048815
 'Pedro Sánchez',en,Spanien,#9933aa,#9933aa,3,0.419341153747
 'Sherri Shepherd',en,USA,#18e8e8,#18e8e8,2,0.418990860418
-'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.418753633269
 'Patrick Mahomes',en,USA,#18e8e8,#18e8e8,3,0.418749075442
 'Charles Barkley',en,USA,#1818e8,#1818e8,3,0.418708067440
 'António Guterres',en,Portugal,#4411ee,#4411ee,3,0.418049004607
