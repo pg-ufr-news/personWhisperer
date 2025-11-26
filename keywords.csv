@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Boualem Sansal',en,Algerien,#f43a7f,#f43a7f,2,0.507038646778
 'Virginia Giuffre',en,USA,#18e8e8,#18e8e8,2,0.505107240107
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.490284062800
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.487540099132
@@ -141,6 +140,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leon Botstein',en,USA,#18e8e8,#18e8e8,2,0.432196996598
 'Theodor Herzl',en,Ungarn,#33aa99,#33aa99,1,0.432162231302
 'Ainsley Earhardt',en,USA,#18e8e8,#18e8e8,2,0.431918237958
+'Boualem Sansal',en,Algerien,#f43a7f,#f43a7f,1,0.430982984761
 'Al Nassr',en,SaudiArabien,#1144ee,#1144ee,3,0.430758340355
 'Mark Carney',en,Kanada,#443388,#443388,3,0.430293040531
 'Jennifer Lopez',en,USA,#18e8e8,#18e8e8,3,0.429991734623
