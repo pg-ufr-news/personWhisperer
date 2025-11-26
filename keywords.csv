@@ -1,16 +1,16 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Virginia Giuffre',en,USA,#18e8e8,#18e8e8,3,0.613975413874
+'Virginia Giuffre',en,USA,#18e8e8,#18e8e8,3,0.572294882247
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.490284062800
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.488570154634
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.487540099132
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.487248565953
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
+'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.482943596211
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.482942304873
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.481524828768
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.481368989205
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.480480334663
-'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.478895096782
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.478661953811
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.478222372598
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.477517282153
@@ -20,10 +20,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.475896562779
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.475834366595
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.474866011717
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.474502564011
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.471585129654
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.471348505285
 'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.471102100463
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.471047577584
 'Jennifer Garner',en,USA,#18e8e8,#18e8e8,3,0.470733981681
 'Pat McAfee',en,USA,#18e8e8,#18e8e8,3,0.470188831508
 'Sandy Hook',en,USA,#18e8e8,#18e8e8,3,0.470008918994
@@ -61,7 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bronny James',en,USA,#18e8e8,#18e8e8,3,0.460857754997
 'Nicusor Dan',en,Rumänien,#339922,#339922,1,0.460465730697
 'Sean Hannity',en,USA,#18e8e8,#18e8e8,3,0.460370208900
-'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.459334175910
+'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.460051194790
 'Chris Luxon',en,Neuseeland,#1818e8,#1818e8,3,0.459307916941
 'Martha MacCallum',en,USA,#18e8e8,#18e8e8,3,0.458935193436
 'Karol G',en,Kolumbien,#55dd44,#55dd44,3,0.458812844463
@@ -98,7 +98,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michel Devoret',en,Frankreich,#e8e808,#e8e808,2,0.445699203144
 'Castel Gandolfo',en,Vatikan,#58b8e8,#58b8e8,2,0.445549925097
 'Eliot Wolf',en,USA,#18e8e8,#18e8e8,3,0.445300433423
-'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.444437473406
+'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.445183919327
 'Jamie Dimon',en,USA,#18e8e8,#18e8e8,3,0.444019815010
 'Jared Kushner',en,USA,#18e8e8,#18e8e8,3,0.443959631635
 'Richard Robson',en,Australien,#99aa33,#99aa33,2,0.443289652670
@@ -112,13 +112,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martin Scorsese',en,USA,#18e8e8,#18e8e8,3,0.440522381519
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.440164372058
 'Lil Yachty',en,USA,#18e8e8,#18e8e8,2,0.440164089099
+'King Charles III',en,UK,#e838e8,#e838e8,3,0.440060965848
 'Omar M. Yaghi',en,USA,#18e8e8,#18e8e8,2,0.439300675000
 'Shimon Sakaguchi',en,Japan,#aa9933,#aa9933,2,0.439002607419
 'Prince Archie',en,UK,#e838e8,#e838e8,3,0.438328557807
 'Phoebe Bridgers',en,USA,#18e8e8,#18e8e8,3,0.438194559072
 'Philippe Aghion',en,Frankreich,#e8e808,#e8e808,2,0.437522067405
 'Melania Trump',en,USA,#18e8e8,#18e8e8,3,0.437125806710
-'King Charles III',en,UK,#e838e8,#e838e8,3,0.437025900501
 'Kamilla Cardoso',en,Brasilien,#58e838,#58e838,2,0.436438180436
 'John M. Martinis',en,USA,#18e8e8,#18e8e8,3,0.436055757503
 'Britney Spears',en,USA,#18e8e8,#18e8e8,3,0.436049402156
@@ -327,10 +327,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Christie',en,USA,#18e8e8,#18e8e8,3,0.396664143648
 'Henry Kissinger',en,USA,#18e8e8,#18e8e8,2,0.396635537565
 'Yoon Suk Yeol',en,SüdKorea,#22bb66,#22bb66,3,0.396587234843
+'Paris Hilton',en,USA,#18e8e8,#18e8e8,3,0.396478933132
 'Cristiano Ronaldo',en,Portugal,#4411ee,#4411ee,2,0.396418747790
 'Robert Kraft',en,USA,#18e8e8,#18e8e8,3,0.396124868547
 'Millie Mackintosh',en,UK,#e838e8,#e838e8,1,0.395864945182
-'Paris Hilton',en,USA,#18e8e8,#18e8e8,3,0.395638105473
 'Ahmed Al Jaber',en,VAE,#2266bb,#2266bb,2,0.395592236884
 'Jack Antonoff',en,USA,#18e8e8,#18e8e8,2,0.395558806840
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.395480324783
