@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.530974570540
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.515962115059
 'Boualem Sansal',en,Algerien,#f43a7f,#f43a7f,2,0.507038646778
 'Virginia Giuffre',en,USA,#18e8e8,#18e8e8,2,0.505107240107
@@ -59,6 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eddie Hearn',en,UK,#e838e8,#e838e8,3,0.461122072315
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.461059391485
 'Bronny James',en,USA,#18e8e8,#18e8e8,3,0.460857754997
+'Erika Kirk',en,USA,#18e8e8,#18e8e8,3,0.460823294959
 'Nicusor Dan',en,Rumänien,#339922,#339922,1,0.460465730697
 'Sean Hannity',en,USA,#18e8e8,#18e8e8,3,0.460370208900
 'Chris Luxon',en,Neuseeland,#1818e8,#1818e8,3,0.459307916941
@@ -156,10 +156,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mary Brunkow',en,USA,#18e8e8,#18e8e8,3,0.427755429230
 'Emma Stone',en,USA,#18e8e8,#18e8e8,3,0.427554442130
 'reine Mathilde',en,unknown,#111111,#111111,1,0.427501249222
+'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.427431617419
 'Léon XIV',en,Vatikan,#58b8e8,#58b8e8,2,0.426846391983
 'Joel Mokyr',en,USA,#18e8e8,#18e8e8,3,0.426755218039
 'Lewis Kaplan',en,USA,#18e8e8,#18e8e8,3,0.426689493116
-'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.426650354210
 'Olivia Nuzzi',en,USA,#18e8e8,#18e8e8,2,0.426569730351
 'Mark Cuban',en,USA,#18e8e8,#18e8e8,3,0.426541766659
 'Jon Hamm',en,USA,#18e8e8,#18e8e8,3,0.426197934744
