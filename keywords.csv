@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Virginia Giuffre',en,USA,#18e8e8,#18e8e8,3,0.523257883518
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.495816410768
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.492503367529
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.491550645253
@@ -86,6 +85,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.451152503340
 'Vinod Khosla',en,Indien,#cc3388,#cc3388,1,0.449934143386
 'Ryan Gosling',en,Kanada,#443388,#443388,3,0.449767458733
+'Virginia Giuffre',en,USA,#18e8e8,#18e8e8,3,0.449580315990
 'David Beckham',en,UK,#e838e8,#e838e8,2,0.449420569329
 'Ivanka Trump',en,USA,#18e8e8,#18e8e8,3,0.448410385735
 'Matty Healy',en,UK,#e838e8,#e838e8,3,0.447767584010
