@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Virginia Giuffre',en,USA,#18e8e8,#18e8e8,3,0.574694388606
+'Virginia Giuffre',en,USA,#18e8e8,#18e8e8,3,0.582363845315
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.492575300932
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.491851104023
+'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.491550645253
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.490284062800
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.489886470921
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.487540099132
-'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.485615772124
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.483995221321
 'James Gunn',en,USA,#18e8e8,#18e8e8,3,0.482942304873
 'Sebastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.482789090698
 'Taylor Swift',en,USA,#18e8e8,#18e8e8,3,0.481524828768
@@ -59,9 +59,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eddie Hearn',en,UK,#e838e8,#e838e8,3,0.461122072315
 'Dana White',en,USA,#18e8e8,#18e8e8,3,0.461059391485
 'Bronny James',en,USA,#18e8e8,#18e8e8,3,0.460857754997
+'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.460766792323
 'Nicusor Dan',en,Rumänien,#339922,#339922,1,0.460465730697
 'Sean Hannity',en,USA,#18e8e8,#18e8e8,3,0.460370208900
-'George Clooney',en,USA,#18e8e8,#18e8e8,3,0.460051194790
 'Chris Luxon',en,Neuseeland,#1818e8,#1818e8,3,0.459307916941
 'Martha MacCallum',en,USA,#18e8e8,#18e8e8,3,0.458935193436
 'Karol G',en,Kolumbien,#55dd44,#55dd44,3,0.458812844463
@@ -108,7 +108,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Clarke',en,USA,#18e8e8,#18e8e8,3,0.442235454350
 'Anne Hathaway',en,USA,#18e8e8,#18e8e8,2,0.441951684518
 'Anant Ambani',en,Indien,#cc3388,#cc3388,1,0.441642677462
-'King Charles III',en,UK,#e838e8,#e838e8,3,0.440816014440
+'King Charles III',en,UK,#e838e8,#e838e8,3,0.441569580421
 'Olivia Rodrigo',en,USA,#18e8e8,#18e8e8,3,0.440735156313
 'Martin Scorsese',en,USA,#18e8e8,#18e8e8,3,0.440522381519
 'Marco Rubio',en,USA,#18e8e8,#18e8e8,3,0.440164372058
@@ -539,8 +539,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patti LaBelle',en,USA,#18e8e8,#18e8e8,1,0.350870077476
 'Johan Rockström',en,unknown,#111111,#111111,1,0.349991015470
 'Queen Camilla',en,UK,#e838e8,#e838e8,3,0.349403845820
+'King Charles',en,UK,#e838e8,#e838e8,3,0.349001149547
 'Volodymyr Zelenskyy',en,Ukraine,#e818e8,#e818e8,3,0.348899661458
-'King Charles',en,UK,#e838e8,#e838e8,3,0.348072906821
 'Christian Günther',en,unknown,#111111,#111111,1,0.347624138038
 'Kemal Klçdarolu',en,Türkei,#66bb22,#66bb22,2,0.347302883355
 'Margaret Thatcher',en,UK,#e838e8,#e838e8,3,0.346833544367
