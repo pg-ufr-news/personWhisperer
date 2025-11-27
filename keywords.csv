@@ -167,7 +167,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Comer',en,USA,#18e8e8,#18e8e8,3,0.425379648356
 'Paul Whelan',en,USA,#18e8e8,#18e8e8,3,0.425273026891
 'Teresa Giudice',en,USA,#18e8e8,#18e8e8,2,0.425146729654
-'Veronika Grimm',en,Deutschland,#111111,#111111,1,0.425000030000
+'Veronika Grimm',en,Deutschland,#1818e8,#1818e8,1,0.425000030000
 'Philipp Aghion',en,Frankreich,#e8e808,#e8e808,1,0.425000000000
 'Guy Ritchie',en,UK,#e838e8,#e838e8,2,0.424917899550
 'Caitlin Clark',en,USA,#18e8e8,#18e8e8,3,0.424356482753
@@ -224,7 +224,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.412883990483
 'Prince Harry',en,UK,#e838e8,#e838e8,3,0.412698631730
 'Charlize Theron',en,Südafrika,#cc4488,#cc4488,2,0.412189044523
-'Michelle Williams',en,USA,#111111,#111111,3,0.411989303413
+'Michelle Williams',en,USA,#18e8e8,#18e8e8,3,0.411989303413
 'Vivek Ramaswamy',en,USA,#18e8e8,#18e8e8,3,0.411778157460
 'Lady Di',en,UK,#e838e8,#e838e8,2,0.411773791364
 'Lily Gladstone',en,USA,#18e8e8,#18e8e8,3,0.411768921892
@@ -265,7 +265,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Miller',en,Australien,#99aa33,#99aa33,3,0.405902060736
 'Elon Musk',en,USA,#18e8e8,#18e8e8,3,0.405753074207
 'Ayo Edebiri',en,USA,#18e8e8,#18e8e8,3,0.405616425738
-'Jerry Seinfeld',en,USA,#18e8e8,#111111,3,0.405310728748
+'Jerry Seinfeld',en,USA,#18e8e8,#18e8e8,3,0.405310728748
 'Antonio Brown',en,USA,#18e8e8,#18e8e8,3,0.405079179672
 'Nick Fuentes',en,USA,#18e8e8,#18e8e8,3,0.404725110385
 'Marine Le Pen',en,Frankreich,#e8e808,#e8e808,3,0.404711863260
