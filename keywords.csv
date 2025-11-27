@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.501499413709
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.492203508888
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.490284062800
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.487540099132
@@ -18,6 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'RFK Jr',en,USA,#18e8e8,#18e8e8,3,0.476469342335
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.475896562779
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.475834366595
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.475007413749
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.474866011717
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.473970111105
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.471585129654
@@ -294,11 +294,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mohammad Mustafa',en,Palestina,#cc2255,#cc2255,2,0.402074649681
 'George Bush',en,USA,#18e8e8,#18e8e8,3,0.401864577768
 'Camille Etienne',en,Frankreich,#e8e808,#e8e808,2,0.401821122864
+'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.401648797186
 'Brian Kilmeade',en,USA,#18e8e8,#18e8e8,2,0.401370943837
 'America Ferrera',en,USA,#18e8e8,#18e8e8,2,0.401127208852
 'Tony Bennett',en,USA,#18e8e8,#18e8e8,3,0.401032850524
 'Hazel Monét',en,USA,#18e8e8,#18e8e8,1,0.400920330148
-'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.400817798734
 'Eric Ciotti',en,Frankreich,#e8e808,#e8e808,1,0.400775127500
 'George Santos',en,USA,#18e8e8,#18e8e8,3,0.400386046846
 'Gayle King',en,USA,#18e8e8,#18e8e8,3,0.400349976764
@@ -331,6 +331,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cristiano Ronaldo',en,Portugal,#4411ee,#4411ee,2,0.396418747790
 'Robert Kraft',en,USA,#18e8e8,#18e8e8,3,0.396124868547
 'Millie Mackintosh',en,UK,#e838e8,#e838e8,1,0.395864945182
+'Ana Navarro',en,Nicaragua,#3467de,#3467de,3,0.395637052661
 'Ahmed Al Jaber',en,VAE,#2266bb,#2266bb,2,0.395592236884
 'Jack Antonoff',en,USA,#18e8e8,#18e8e8,2,0.395558806840
 'Rudy Giuliani',en,USA,#18e8e8,#18e8e8,3,0.395480324783
@@ -349,7 +350,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lionel Messi',en,Argentinien,#bb11cc,#bb11cc,3,0.394207297078
 'Geoffrey Hinton',en,UK,#e838e8,#e838e8,3,0.394180394930
 'James Biden',en,USA,#18e8e8,#18e8e8,3,0.394084618023
-'Ana Navarro',en,Nicaragua,#3467de,#3467de,3,0.393950611021
 'Tyson Fury',en,UK,#e838e8,#e838e8,3,0.393540235922
 'Alex Jones',en,USA,#18e8e8,#18e8e8,3,0.392996174189
 'Jake Tapper',en,USA,#18e8e8,#18e8e8,3,0.392950004714
@@ -390,6 +390,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cara Delevingne',en,unknown,#111111,#111111,2,0.386544027344
 'Hailey Van Lith',en,unknown,#111111,#111111,2,0.386505347677
 'Johnny Depp',en,USA,#18e8e8,#18e8e8,3,0.386347199924
+'Fani Willis',en,unknown,#111111,#111111,3,0.385693278173
 'Brooklyn Beckham',en,UK,#e838e8,#e838e8,3,0.385680741526
 'Andrea Arnold',en,unknown,#111111,#111111,2,0.385671814280
 'Lance Bass',en,unknown,#111111,#111111,1,0.385648705276
@@ -399,10 +400,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Élisabeth Borne',en,Frankreich,#e8e808,#e8e808,2,0.385005155955
 'Kim Reynolds',en,unknown,#111111,#111111,3,0.384941470179
 'Valérie Hayer',en,unknown,#111111,#111111,2,0.384905078928
-'Fani Willis',en,unknown,#111111,#111111,3,0.384832121204
 'Robert Prevost',en,unknown,#111111,#111111,2,0.384823984602
 'Robert De Niro',en,USA,#18e8e8,#18e8e8,3,0.384787963701
 'Sam Asghari',en,unknown,#111111,#111111,1,0.384568479521
+'Rand Paul',en,unknown,#111111,#111111,3,0.384422410683
 'Prince Louis',en,UK,#e838e8,#e838e8,3,0.384201885729
 'Robert Downey Jr',en,unknown,#111111,#111111,3,0.384172665267
 'Recep Tayyip Erdoan',en,Türkei,#66bb22,#66bb22,3,0.384134953708
@@ -411,7 +412,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lachlan Murdoch',en,UK,#e838e8,#e838e8,3,0.383646302165
 'Oisin Fanning',en,Irland,#3377bb,#3377bb,1,0.383500416250
 'Willem Dafoe',en,unknown,#111111,#111111,3,0.383141456266
-'Rand Paul',en,unknown,#111111,#111111,3,0.382693724807
 'Linda Yaccarino',en,USA,#18e8e8,#18e8e8,1,0.382405008543
 'Roger Corman',en,unknown,#111111,#111111,2,0.382356647791
 'Raphael Warnock',en,USA,#18e8e8,#18e8e8,2,0.381909676543
