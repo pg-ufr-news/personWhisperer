@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.540855130712
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.500865158715
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.501499413709
 'Prince Andrew',en,UK,#e838e8,#e838e8,3,0.492203508888
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.490284062800
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.487540099132
@@ -20,6 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jill Biden',en,USA,#18e8e8,#18e8e8,3,0.475896562779
 'Laura Loomer',en,USA,#18e8e8,#18e8e8,3,0.475834366595
 'Tig Notaro',en,USA,#18e8e8,#18e8e8,2,0.474866011717
+'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.473970111105
 'Zohran Mamdani',en,USA,#18e8e8,#18e8e8,3,0.471585129654
 'Jean Carroll',en,USA,#18e8e8,#18e8e8,3,0.471348505285
 'Stephen Colbert',en,USA,#18e8e8,#18e8e8,3,0.471102100463
