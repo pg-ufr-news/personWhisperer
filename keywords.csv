@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Leo XIV',en,Vatikan,#58b8e8,#58b8e8,3,0.518493930579
+'Leo XIV',en,Vatikan,#58b8e8,#58b8e8,3,0.585685964150
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.487540099132
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
@@ -148,10 +148,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brittany Mahomes',en,USA,#18e8e8,#18e8e8,3,0.429801319034
 'Katherina Reiche',en,Deutschland,#1818e8,#1818e8,1,0.429489103597
 'John Martinis',en,USA,#18e8e8,#18e8e8,3,0.429441828985
+'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.428989584101
 'LeBron James',en,USA,#18e8e8,#18e8e8,3,0.428692188779
 'Boris Vallaud',en,Frankreich,#e8e808,#e8e808,1,0.428486708387
 'Jean Castex',en,Frankreich,#e8e808,#e8e808,1,0.428280579630
-'JD Vance',en,USA,#18e8e8,#18e8e8,3,0.428211360015
 'Mark Meadows',en,USA,#18e8e8,#18e8e8,3,0.428170138358
 'Billie Eilish',en,USA,#18e8e8,#18e8e8,3,0.427816998782
 'Mary Brunkow',en,USA,#18e8e8,#18e8e8,3,0.427755429230
@@ -220,6 +220,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Reed Richards',en,USA,#18e8e8,#18e8e8,3,0.414813802932
 'Peter Thiel',en,USA,#18e8e8,#18e8e8,3,0.414686576757
 'Laurent Berger',en,Frankreich,#e8e808,#e8e808,1,0.414454553945
+'Pope Leo',en,Vatikan,#58b8e8,#58b8e8,3,0.414207245499
 'Indiana Jones',en,USA,#18e8e8,#18e8e8,3,0.413875531889
 'Prince Harry',en,UK,#e838e8,#e838e8,3,0.413506894989
 'Ron DeSantis',en,USA,#18e8e8,#18e8e8,3,0.412883990483
@@ -257,7 +258,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mira Murati',en,USA,#18e8e8,#18e8e8,2,0.407179288034
 'Greg Abbott',en,USA,#18e8e8,#18e8e8,3,0.407117904761
 'Sergio Massa',en,Albanien,#77ffcc,#77ffcc,1,0.407026720786
-'Pope Leo',en,Vatikan,#58b8e8,#58b8e8,3,0.406888859258
 'Princess Diana',en,UK,#e838e8,#e838e8,3,0.406844651610
 'Alvin Bragg',en,USA,#18e8e8,#18e8e8,3,0.406793083669
 'Geert Wilders',en,Niederlande,#6622bb,#6622bb,2,0.406772973114
