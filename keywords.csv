@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Leo XIV',en,Vatikan,#58b8e8,#58b8e8,3,0.518493930579
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.487540099132
 'Mary E. Brunkow',en,USA,#18e8e8,#18e8e8,2,0.484501395000
 'László Krasznahorkai',en,Ungarn,#33aa99,#33aa99,3,0.484496714545
@@ -9,8 +10,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zack Snyder',en,USA,#18e8e8,#18e8e8,3,0.481368989205
 'Charlie Kirk',en,USA,#18e8e8,#18e8e8,3,0.480824407471
 'Dick Cheney',en,USA,#18e8e8,#18e8e8,3,0.480480334663
+'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.479102185616
 'Cheryl Hines',en,USA,#18e8e8,#18e8e8,3,0.478661953811
-'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.478423122891
 'Alyssa Farah Griffin',en,USA,#18e8e8,#18e8e8,3,0.478222372598
 'Jeffrey Epstein',en,USA,#18e8e8,#18e8e8,3,0.478077222746
 'Sara Haines',en,USA,#18e8e8,#18e8e8,3,0.477517282153
@@ -82,7 +83,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fred Ramsdel',en,USA,#18e8e8,#18e8e8,1,0.452067973768
 'Lecornu II ',en,Frankreich,#e8e808,#e8e808,2,0.452050124489
 'Andy Cohen',en,USA,#18e8e8,#18e8e8,3,0.451796772890
-'Leo XIV',en,Vatikan,#58b8e8,#58b8e8,3,0.451333412446
 'Bernie Sanders',en,USA,#18e8e8,#18e8e8,3,0.451152503340
 'Vinod Khosla',en,Indien,#cc3388,#cc3388,1,0.449934143386
 'Ryan Gosling',en,Kanada,#443388,#443388,3,0.449767458733
@@ -257,6 +257,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mira Murati',en,USA,#18e8e8,#18e8e8,2,0.407179288034
 'Greg Abbott',en,USA,#18e8e8,#18e8e8,3,0.407117904761
 'Sergio Massa',en,Albanien,#77ffcc,#77ffcc,1,0.407026720786
+'Pope Leo',en,Vatikan,#58b8e8,#58b8e8,3,0.406888859258
 'Princess Diana',en,UK,#e838e8,#e838e8,3,0.406844651610
 'Alvin Bragg',en,USA,#18e8e8,#18e8e8,3,0.406793083669
 'Geert Wilders',en,Niederlande,#6622bb,#6622bb,2,0.406772973114
@@ -295,6 +296,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Bush',en,USA,#18e8e8,#18e8e8,3,0.401864577768
 'Camille Etienne',en,Frankreich,#e8e808,#e8e808,2,0.401821122864
 'Pete Hegseth',en,USA,#18e8e8,#18e8e8,3,0.401648797186
+'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.401481180909
 'Brian Kilmeade',en,USA,#18e8e8,#18e8e8,2,0.401370943837
 'America Ferrera',en,USA,#18e8e8,#18e8e8,2,0.401127208852
 'Tony Bennett',en,USA,#18e8e8,#18e8e8,3,0.401032850524
@@ -317,8 +319,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yevgeny Prigozhin',en,Russland,#e81818,#e81818,3,0.398684223159
 'Jeffrey Donaldson',en,Irland,#3377bb,#3377bb,2,0.398430401226
 'Sam H',en,unknown,#111111,#111111,2,0.398158194809
-'Pope Francis',en,Vatikan,#58b8e8,#58b8e8,3,0.398146399558
-'Pope Leo',en,Vatikan,#58b8e8,#58b8e8,3,0.397771268677
 'Jon Jones',en,USA,#18e8e8,#18e8e8,2,0.397722384347
 'David Koch',en,USA,#18e8e8,#18e8e8,3,0.397427143047
 'Viktor Shokin',en,Ukraine,#e818e8,#e818e8,1,0.397008288922
@@ -350,6 +350,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lionel Messi',en,Argentinien,#bb11cc,#bb11cc,3,0.394207297078
 'Geoffrey Hinton',en,UK,#e838e8,#e838e8,3,0.394180394930
 'James Biden',en,USA,#18e8e8,#18e8e8,3,0.394084618023
+'Recep Tayyip Erdogan',en,Türkei,#66bb22,#66bb22,3,0.393959958007
 'Tyson Fury',en,UK,#e838e8,#e838e8,3,0.393540235922
 'Alex Jones',en,USA,#18e8e8,#18e8e8,3,0.392996174189
 'Jake Tapper',en,USA,#18e8e8,#18e8e8,3,0.392950004714
@@ -359,7 +360,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harrison Ford',en,USA,#18e8e8,#18e8e8,3,0.392426947368
 'Bruce Springsteen',en,USA,#18e8e8,#18e8e8,3,0.392420555178
 'Christopher Nolan',en,USA,#18e8e8,#18e8e8,3,0.392398657295
-'Recep Tayyip Erdogan',en,Türkei,#66bb22,#66bb22,3,0.391418369386
 'Miley Cyrus',en,USA,#18e8e8,#18e8e8,3,0.391185659475
 'Silvio Berlusconi',en,Italien,#773344,#773344,2,0.391052558717
 'Francis Ford Coppola',en,USA,#18e8e8,#18e8e8,3,0.390419987433
@@ -602,8 +602,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jassir Arafat',en,Palestina,#cc2255,#cc2255,1,0.301719612500
 'Bill Geddie',en,unknown,#111111,#111111,1,0.299312102452
 'Helmut Kohl',en,Deutschland,#1818e8,#1818e8,1,0.299222355087
+'Recep Tayyip Erdoğan',en,Türkei,#66bb22,#66bb22,3,0.297396045024
 'Holger Friedrich',en,Deutschland,#1818e8,#1818e8,2,0.296895232705
-'Recep Tayyip Erdoğan',en,Türkei,#66bb22,#66bb22,3,0.296380212766
 'Bettina Stark-Watzinger',en,Deutschland,#1818e8,#1818e8,1,0.295419941258
 'Suleika Jaouad',en,unknown,#111111,#111111,1,0.294509363688
 'Rudolf Steiner',en,Oesterreich,#bbff33,#bbff33,1,0.292311623142
