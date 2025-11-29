@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Boualem Sansal',en,Algerien,#f43a7f,#f43a7f,2,0.495957100618
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.487540099132
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.485736648056
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.485153129033
@@ -28,7 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pat McAfee',en,USA,#18e8e8,#18e8e8,3,0.470188831508
 'Sandy Hook',en,USA,#18e8e8,#18e8e8,3,0.470008918994
 'Jesse Watters',en,USA,#18e8e8,#18e8e8,3,0.469963475031
-'Sébastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.469262022304
+'Sébastien Lecornu',en,Frankreich,#e8e808,#e8e808,2,0.469959328196
 'Francesca Albanese',en,Italien,#773344,#773344,3,0.469237662011
 'Sabrina Carpenter',en,USA,#18e8e8,#18e8e8,3,0.468660437308
 'Prince Charles',en,UK,#e838e8,#e838e8,3,0.468600990377
@@ -140,7 +141,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leon Botstein',en,USA,#18e8e8,#18e8e8,2,0.432196996598
 'Theodor Herzl',en,Ungarn,#33aa99,#33aa99,1,0.432162231302
 'Ainsley Earhardt',en,USA,#18e8e8,#18e8e8,2,0.431918237958
-'Boualem Sansal',en,Algerien,#f43a7f,#f43a7f,1,0.430982984761
 'Al Nassr',en,SaudiArabien,#1144ee,#1144ee,3,0.430758340355
 'Mark Carney',en,Kanada,#443388,#443388,3,0.430293040531
 'Jennifer Lopez',en,USA,#18e8e8,#18e8e8,3,0.429991734623
@@ -610,12 +610,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ferdinand Dudenhöffer',en,Deutschland,#1818e8,#1818e8,1,0.292175960279
 'Friederike Otto',en,Deutschland,#1818e8,#1818e8,1,0.291481919003
 'Olivier Marleix',en,Frankreich,#e8e808,#e8e808,1,0.290206786813
+'Frank-Walter Steinmeier',en,Deutschland,#1818e8,#1818e8,3,0.289210481334
 'Liz Truss',en,UK,#e838e8,#e838e8,3,0.288453085811
 'Paul-Henry Nargeolet',en,Frankreich,#e8e808,#e8e808,1,0.288279035778
 'Tim Müller',en,Deutschland,#1818e8,#1818e8,1,0.286808126123
 'Hamish Harding',en,UK,#e838e8,#e838e8,2,0.286685895977
 'Lars Klingbeil',en,Deutschland,#1818e8,#1818e8,2,0.286647458042
-'Frank-Walter Steinmeier',en,Deutschland,#1818e8,#1818e8,3,0.286119026501
 'Jens Stoltenberg',en,Norwegen,#e818e8,#e818e8,3,0.284832077785
 'Vassily Nebenzia',en,Russland,#e81818,#e81818,1,0.281827205898
 'Katalin Novák',en,Ungarn,#33aa99,#33aa99,2,0.280633382133
