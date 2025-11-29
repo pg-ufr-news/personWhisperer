@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Boualem Sansal',en,Algerien,#f43a7f,#f43a7f,2,0.495957100618
 'Tom Aspinall',en,UK,#e838e8,#e838e8,1,0.487540099132
 'Marjorie Taylor Greene',en,USA,#18e8e8,#18e8e8,3,0.485736648056
 'Donald Trump',en,USA,#18e8e8,#18e8e8,3,0.485153129033
@@ -179,6 +178,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Angel Reese',en,USA,#18e8e8,#18e8e8,3,0.422978189424
 'Eva Green',en,Frankreich,#e8e808,#e8e808,3,0.422780644481
 'Lara Trump',en,USA,#18e8e8,#18e8e8,3,0.422640538046
+'Boualem Sansal',en,Algerien,#f43a7f,#f43a7f,2,0.422613670525
 'Bad Bunny',en,PuertoRico,#a46734,#a46734,3,0.422596221777
 'Margot Robbie',en,Australien,#99aa33,#99aa33,3,0.422554254826
 'George Simion',en,Rumänien,#339922,#339922,1,0.422448298464
